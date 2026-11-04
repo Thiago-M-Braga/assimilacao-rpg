@@ -326,11 +326,9 @@ O vento e o ruído mecânico do gerador dominam o ambiente. Fios, ferramentas e 
 
 ### Pessoas encontradas
 
-- Hugo Becker.
+- Ithan Voos.
     
-- Marta Becker.
-    
-- Jonas Becker.
+- Clark Becker, seu antigo auxiliar, atualmente afastado por doença.
     
 
 ### Possibilidades narrativas
