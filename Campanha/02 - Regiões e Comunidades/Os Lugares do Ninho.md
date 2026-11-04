@@ -67,7 +67,8 @@ O interior é simples, mas um pouco mais preservado que o restante das casas. H�
 ## 2. Cozinha Comunitária
 
 **Localização:** Próxima ao centro da vila  
-**Responsáveis:** Helena Noctua e Maria Evans  
+**Responsável:** Helena Noctua
+**Equipe:** Maria Evans, Fernando Evans e Iara Salles  
 **Uso:** Preparação e distribuição de alimentos
 
 A Cozinha Comunitária é um dos lugares mais movimentados do Ninho. Todos dependem dela, e seu funcionamento organiza boa parte da rotina diária.
@@ -147,7 +148,9 @@ O som do martelo contra o metal é constante. O ar é pesado, e o chão está co
 ## 4. Casa Médica
 
 **Localização:** Próxima às residências  
-**Responsáveis:** Dona Clara Fagundes e Lívia Fagundes  
+**Responsável:** Dona Clara Fagundes
+**Equipe:** Lívia Fagundes e Freya Naevus
+**Apoio:** Marina Vilar e Marcio Fagundes, quando possível  
 **Uso:** Atendimento, tratamento e armazenamento de medicamentos
 
 A Casa Médica é pequena e organizada de maneira rigorosa. Prateleiras guardam frascos, panos limpos, instrumentos, ervas secas e os poucos medicamentos que ainda podem ser utilizados.
@@ -173,10 +176,6 @@ Os moradores respeitam a Casa Médica porque sabem que, sem ela, um ferimento si
 - Marina Vilar, quando está ajudando com tecidos e materiais médicos.
     
 - Marcio Fagundes, em tarefas simples e supervisionadas.
-    
-- Lívia Fagundes.
-    
-- Marcio Fagundes.
     
 
 ### Possibilidades narrativas
@@ -205,7 +204,7 @@ O Curral abriga os animais domesticados que conseguiram sobreviver e se adaptar 
 
 As instalações são simples, feitas de madeira reforçada, cercas metálicas e materiais reaproveitados. A manutenção é constante, pois qualquer falha pode permitir que um animal escape ou que algo de fora consiga entrar.
 
-Breno e Cecília cuidam da alimentação, limpeza, reprodução e saúde dos animais. Thomas ajuda em tarefas menores e acompanha os pais sempre que pode.
+Breno e Cecília cuidam da alimentação, limpeza, reprodução e saúde dos animais. Thomas, por ter 10 anos, não possui função formal. Pode acompanhar os pais e observar as atividades ou participar voluntariamente de pequenas tarefas seguras, sempre supervisionado.
 
 ### Atmosfera
 
@@ -240,7 +239,8 @@ Há cheiro de feno, esterco e ração. Sons de animais fazem parte da paisagem c
 ## 6. Plantações e Estufa
 
 **Localização:** Área aberta e ensolarada dentro do assentamento  
-**Responsável:** Gael Noctua  
+**Responsável:** Gael Noctua
+**Apoio:** Mabel Noctua  
 **Uso:** Cultivo de alimentos e preservação de sementes
 
 As plantações ocupam uma parte importante do terreno da antiga fazenda. O espaço foi adaptado para aproveitar ao máximo o solo disponível e proteger os cultivos das condições ambientais.
@@ -337,7 +337,7 @@ O vento e o ruído mecânico do gerador dominam o ambiente. Fios, ferramentas e 
     
 - Uma peça essencial precisa ser recuperada.
     
-- Hugo identifica uma alteração no consumo de energia.
+- Ithan identifica uma alteração no consumo de energia.
     
 - O fornecimento precisa ser interrompido para manutenção.
     
