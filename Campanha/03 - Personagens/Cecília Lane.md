@@ -208,7 +208,7 @@ Também procura ensinar Thomas a participar das tarefas, sempre respeitando os l
 
 Acredita que o filho precisa aprender a ser responsável, mas não deseja que cresça rápido demais apenas para provar que é capaz.
 
-## Ocupação: cuidadora dos animais
+## Ocupação no Ninho
 
 O curral é um dos setores fundamentais para a sobrevivência do Ninho.
 
@@ -409,7 +409,7 @@ Cecília deseja preparar Thomas para o mundo, mas sabe que não pode protegê-lo
 
 Precisa aprender a permitir que o menino desenvolva autonomia sem confundir independência com imprudência.
 
-## Conflitos internos
+## Conflitos e motivações
 
 ### A necessidade de controlar tudo
 
@@ -433,7 +433,7 @@ Depois, costuma perceber que está sendo impaciente e procura explicar novamente
 
 Não deseja que Breno dependa dela para tudo, mas reconhece que suas habilidades diferentes são justamente o que torna o trabalho dos dois eficiente.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -519,7 +519,7 @@ Ela não possui conhecimento para explicar alterações biológicas extraordiná
 - Uma atividade do curral é prejudicada pela falta de algum material que precisa ser solicitado a Hugo ou ao Armazém.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     
