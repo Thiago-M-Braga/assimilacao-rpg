@@ -288,9 +288,9 @@ Em 2074, Raul começou a apresentar sintomas que inicialmente foram interpretado
 
 Durante os meses seguintes, sua condição piorou.
 
-Ele recebeu preparações medicinais que continham compostos associados à [[Língua-de-Vidro]] contaminada pelo [[Micélio de Cobalto]].
+Durante anos, Raul consumiu refeições e preparações feitas com alimentos da estufa, cujo sistema de cultivo estava contaminado pelo [[Micélio de Cobalto]]. Sua condição física debilitada e a atividade elevada de Assimilação o tornaram especialmente vulnerável.
 
-A verdadeira causa não foi identificada.
+A verdadeira causa não foi identificada. Na época, ninguém suspeitava que a origem estivesse no solo, no composto e na água compartilhados pelos canteiros da estufa.
 
 Raul foi uma das primeiras vítimas conhecidas do [[A Doença Azul]] no Ninho.
 
@@ -359,7 +359,7 @@ Atualmente apresenta um quadro compatível com o estágio II inicial da [[A Doen
 - Veias discretamente azuladas durante períodos de febre.
     
 
-Seu caso ainda apresenta boa possibilidade de recuperação com o tratamento correto.
+Seu caso ainda apresenta boa possibilidade de recuperação com o tratamento correto. A exposição alimentar prolongada e sua vulnerabilidade individual contribuíram para o desenvolvimento da doença.
 
 ### O que Luna sabe
 
