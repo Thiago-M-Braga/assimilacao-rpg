@@ -107,7 +107,7 @@ Cheiros de comida, fumaça, panelas batendo e conversas se misturam durante boa 
 ## 3. Ferro-Velho e Forja
 
 **Localização:** Setor de oficinas  
-**Responsáveis:** Samuel Clay e Iara Clay  
+**Responsáveis:** Hugo Becker, Marta Becker e Jonas Becker  
 **Uso:** Recuperação de sucata, fabricação e reparo de ferramentas
 
 A Forja é um espaço quente, barulhento e coberto por fuligem. Pilhas de sucata são separadas por tipo de metal, enquanto ferramentas antigas aguardam reparo em prateleiras improvisadas.
@@ -289,7 +289,7 @@ Os estoques são fundamentais para atravessar períodos de baixa produção, doe
 
 ### Pessoas encontradas
 
-O responsável pelo controle pode variar conforme a tarefa. Elias supervisiona decisões importantes sobre distribuição e reservas.
+O Armazém é administrado exclusivamente por [[Elias Ninho]], [[Davi Ninho]] e [[Elisa Ninho]]. Davi cuida da organização física; Elisa mantém os registros e acompanha os pedidos; Elias autoriza prioridades e retiradas excepcionais. Nenhum outro morador trabalha no local.
 
 ### Possibilidades narrativas
 
@@ -324,11 +324,9 @@ O vento e o ruído mecânico do gerador dominam o ambiente. Fios, ferramentas e 
 
 ### Pessoas encontradas
 
-- Hugo Becker.
+- Ithan Voos.
     
-- Marta Becker.
-    
-- Jonas Becker.
+- Clark Becker, seu antigo auxiliar, atualmente afastado por doença.
     
 
 ### Possibilidades narrativas
