@@ -17,6 +17,15 @@ tags:
 
 # Davi Ninho
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Idade | Conforme indicado nos metadados desta ficha |
+| Residência | O Ninho |
+| Ocupação | Consultar a seção **Ocupação no Ninho** |
+
+
 > "Meu pai passou a vida inteira mantendo este lugar de pé. Não vou ser eu quem vai deixar tudo desmoronar."
 
 ## Visão geral
@@ -177,7 +186,7 @@ Embora não tenha autoridade formal sobre todos os setores, muitos moradores o p
 
 Davi começa a perceber que sua função poderá crescer ainda mais no futuro.
 
-## Função na comunidade
+## Ocupação no Ninho
 
 Davi divide sua rotina entre a segurança pessoal de Elias e a administração física do Armazém, que é de acesso exclusivo da família Ninho. Ele acompanha a entrada, a organização, a conservação e a separação dos suprimentos.
 
@@ -330,7 +339,7 @@ Tem receio de que Elisa tente mudar muitas coisas ao mesmo tempo e acabe enfraqu
 
 Apesar disso, sabe que uma futura liderança pode precisar das qualidades dos dois.
 
-## Conflitos internos
+## Conflitos e motivações
 
 ### A obrigação de ser o sucessor
 
@@ -360,7 +369,7 @@ Boa parte da vida de Davi foi construída em torno de seu sobrenome, da lideran�
 
 Ele ainda precisa descobrir quem é quando não está cumprindo uma obrigação familiar.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -440,7 +449,7 @@ Davi não está investigando o assunto e não possui evidências. Entretanto, se
 - Os moradores começam a procurá-lo diretamente para resolver problemas, criando uma autoridade informal que Elias pode não gostar.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     
