@@ -21,10 +21,13 @@ tags:
 
 | Campo | Informação |
 |---|---|
-| Idade | Conforme indicado nos metadados desta ficha |
+| Nome | Davi Ninho |
+| Idade | 30 anos |
+| Nascimento | 2050 |
+| Família | [[Família Ninho]] |
 | Residência | O Ninho |
-| Ocupação | Consultar a seção **Ocupação no Ninho** |
-
+| Ocupação | Guarda pessoal de Elias e responsável pelo recebimento, conferência e organização física dos estoques do Armazém |
+| Status | Vivo |
 
 > "Meu pai passou a vida inteira mantendo este lugar de pé. Não vou ser eu quem vai deixar tudo desmoronar."
 
