@@ -3,7 +3,7 @@ tipo: personagem
 nome: Davi Ninho
 idade: 30
 nascimento: 2050
-ocupacao: Guarda pessoal de Elias e responsável pela segurança interna
+ocupacao: Controle físico do Armazém, guarda pessoal de Elias e segurança interna
 local: O Ninho
 status: vivo
 tags:
@@ -179,7 +179,7 @@ Davi começa a perceber que sua função poderá crescer ainda mais no futuro.
 
 ## Função na comunidade
 
-Davi trabalha diretamente com a proteção do líder e com a segurança interna do Ninho.
+Davi divide sua rotina entre a segurança pessoal de Elias e a administração física do Armazém, que é de acesso exclusivo da família Ninho. Ele acompanha a entrada, a organização, a conservação e a separação dos suprimentos.
 
 ### Responsabilidades
 
@@ -192,6 +192,12 @@ Davi trabalha diretamente com a proteção do líder e com a segurança interna 
 - Observar comportamentos suspeitos ou situações que possam representar riscos.
     
 - Participar da vigilância das estruturas defensivas.
+    
+- Receber e conferir materiais que chegam ao Armazém.
+    
+- Organizar fisicamente caixas, ferramentas, alimentos e suprimentos.
+    
+- Separar os pedidos autorizados por Elias e registrar as entregas em conjunto com Elisa.
     
 - Ajudar a orientar moradores sobre procedimentos de segurança.
     
