@@ -275,7 +275,7 @@ A investigação da doença será uma das principais jornadas pessoais da person
 
 A nota [[A Cura do Mal Azul]] reúne a solução que poderá ser desenvolvida por Freya, Mabel e Clara.
 
-## Relação com os outros personagens jogadores
+## Relações
 
 ### Mabel Noctua
 
@@ -338,6 +338,12 @@ Em algum momento, Freya pode encontrar uma marca, registro ou objeto que reconhe
 Isso pode revelar que o pai esteve envolvido em acontecimentos sobre os quais a mãe nunca falou.
 
 A descoberta pode conduzir a uma investigação diferente daquela relacionada à doença.
+
+## Conflitos e motivações
+
+Freya tenta transformar o medo de perder a irmã em conhecimento e ação. Seu conflito central é conciliar o aprendizado médico, a urgência de salvar Luna e a descoberta de que a Doença Azul atingiu outras pessoas do Ninho.
+
+Ela também precisa lidar com perguntas sobre a morte do padrasto e sobre o passado do pai biológico, sem permitir que essas descobertas desviem sua atenção da irmã.
 
 ## Segredos do mestre
 
