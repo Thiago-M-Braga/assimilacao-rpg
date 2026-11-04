@@ -403,7 +403,7 @@ Quando uma crise ameaça a comunidade inteira, Elias precisa estabelecer priorid
 
 ### As divergências no inventário
 
-[[Iara Salles]] e [[Lívia Fagundes]] começaram a perceber diferenças entre os registros e os materiais encontrados no Armazém.
+[[Davi Ninho]] e [[Elisa Ninho]] começaram a perceber diferenças entre os registros e os materiais encontrados no Armazém. A família Ninho ainda não sabe se as divergências resultam de erros antigos, perdas ou retiradas não comunicadas.
 
 Alguns itens parecem desaparecer sem uma retirada correspondente. Outros aparecem em registros antigos com classificações que não são mais utilizadas.
 
@@ -478,7 +478,7 @@ O importante é que os recursos tenham valor porque representam trabalho, tempo 
     
 - [[Helena Noctua]]
     
-- [[Samuel Clay]]
+- [[Família Becker]]
     
 - [[Dona Clara Fagundes]]
     
