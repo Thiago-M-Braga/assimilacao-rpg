@@ -18,6 +18,19 @@ tags:
 
 # Gael Noctua
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Gael Noctua |
+| Idade | 50 anos |
+| Nascimento | 2030 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Agricultor e responsável pela estufa |
+| Família | [[Família Noctua]] |
+| Status | vivo |
+
+
 > "Uma semente parece pouca coisa. Mas, quando tudo desaparece, é ela que pode fazer o mundo começar de novo."
 
 ## Visão geral
