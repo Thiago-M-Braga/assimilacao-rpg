@@ -24,6 +24,17 @@ A sobrevivência do Ninho depende da participação de seus moradores adultos em
 
 O Armazém é uma exceção de acesso restrito: apenas Elias, Davi e Elisa Ninho trabalham no local.
 
+## Organização das fichas
+
+Esta página é a referência geral da composição familiar, das relações entre os núcleos e da distribuição de funções no Ninho.
+
+As fichas detalhadas estão organizadas separadamente:
+
+- **Famílias:** `Campanha/03 - Ninho/Famílias/` — histórico, dinâmica e responsabilidades específicas de cada núcleo.
+- **Personagens:** `Campanha/03 - Ninho/Personagens/` — perfis individuais de NPCs e personagens jogadores.
+
+A referência geral não substitui as fichas específicas. Quando houver mudanças em um núcleo ou em uma ocupação, esta página, a ficha familiar e as fichas individuais afetadas devem permanecer coerentes entre si.
+
 ## Família Ninho
 
 **Integrantes:** Elias Ninho, Davi Ninho, Elisa Ninho e Dalva Ninho (falecida)  
