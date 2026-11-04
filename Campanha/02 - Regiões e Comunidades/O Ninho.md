@@ -204,8 +204,6 @@ As casas numeradas são:
     
 - Casa 5 — Família Noctua.
     
-- Casa 6 — Família Becker.
-    
 - Casa 7 — Família Becker.
     
 
@@ -412,11 +410,9 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
     
 - [[Dalva Ninho]] — Falecida em 2079.
     
-- [[Davi Ninho]] — Filho mais velho e guarda.
+- [[Davi Ninho]] — Filho mais velho, guarda e responsável pelo controle físico do Armazém.
     
-- [[Elisa Ninho]] — Filha mais nova e guarda.
-    
-- [[Elisa Ninho]] — Filha mais nova e guarda.
+- [[Elisa Ninho]] — Filha mais nova, guarda e responsável pelos registros e pela distribuição do Armazém.
     
 
 ### 7.2. Família Evans
@@ -472,7 +468,6 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
 - [[Iara Salles]] — Auxiliar da cozinha comunitária, responsável pela organização de ingredientes e pelo registro do consumo diário.
     
 - [[Marina Vilar]] — Auxilia a Casa Médica na preparação e conservação de tecidos médicos.
-- [[Marina Vilar]] — Apoia a Casa Médica com tecidos, curativos e materiais limpos.
 - [[Vicente Murphy]] — Sentinela, veterano e apaziguador de conflitos.
     
 
