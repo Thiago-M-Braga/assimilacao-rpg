@@ -3,7 +3,7 @@ tipo: personagem
 nome: Elisa Ninho
 idade: 26
 nascimento: 2054
-ocupacao: Guarda pessoal de Elias e auxiliar da liderança
+ocupacao: Registros e distribuição do Armazém, guarda pessoal de Elias e apoio à liderança
 local: O Ninho
 status: viva
 tags:
@@ -177,7 +177,7 @@ Embora não possua autoridade formal para tomar decisões em nome de Elias, freq
 
 ## Função na comunidade
 
-Elisa trabalha diretamente com a segurança e com o apoio à liderança.
+Elisa trabalha com o pai e o irmão na administração do Armazém, setor exclusivo da família Ninho. É responsável pelos registros de entrada e retirada, organização dos pedidos e comunicação com os demais setores. Também acompanha Elias em atividades que exigem segurança e atua como intermediária com os moradores.
 
 ### Responsabilidades
 
@@ -194,6 +194,12 @@ Elisa trabalha diretamente com a segurança e com o apoio à liderança.
 - Acompanhar atividades de vigilância quando necessário.
     
 - Ajudar a organizar informações recebidas de diferentes moradores.
+    
+- Registrar a entrada e a retirada dos suprimentos do Armazém.
+    
+- Organizar os pedidos dos setores e acompanhar as entregas autorizadas.
+    
+- Informar Elias sobre divergências, perdas ou necessidade de reposição.
     
 
 ### Estilo de trabalho
