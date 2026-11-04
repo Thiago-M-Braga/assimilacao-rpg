@@ -217,7 +217,7 @@ Quando escuta histórias de exploração, costuma fazer muitas perguntas. Entret
 
 Mas, quando está sozinho, imagina o que faria se realmente encontrasse uma delas.
 
-## Infância e participação voluntária
+## Ocupação no Ninho
 
 Thomas gosta de observar os pais no curral e aprender sobre os animais. Quando deseja participar, pode realizar pequenas atividades seguras, como observar um animal, conversar com os pais sobre seu comportamento ou ajudar a guardar um objeto leve. Essas ações são voluntárias, supervisionadas e não constituem trabalho ou obrigação.
 
@@ -327,7 +327,7 @@ Costuma passar pela cozinha comunitária quando está acompanhando os pais em al
 
 Helena percebe seu entusiasmo em relação ao mundo exterior e procura explicar que nem tudo o que existe além dos muros é aventura.
 
-## Conflitos internos
+## Conflitos e motivações
 
 ### Ser tratado como criança
 
@@ -359,7 +359,7 @@ Thomas acredita que pessoas corajosas não sentem medo.
 
 Ainda precisa aprender que coragem não significa ausência de medo e que reconhecer um perigo pode ser uma demonstração de inteligência.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -457,7 +457,7 @@ Não sabe se existia realmente alguma criatura próxima ao muro ou se tudo foi r
 - O menino tenta provar sua coragem e acaba se colocando em uma situação perigosa.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     
