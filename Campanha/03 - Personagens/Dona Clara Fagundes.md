@@ -198,7 +198,7 @@ Desde pequena, observava a mãe cuidando dos moradores e o pai organizando ferra
 
 Clara sempre incentivou a filha a encontrar seu próprio caminho. Nunca exigiu que ela seguisse a medicina.
 
-### A Casa Médica — 2060 a 2072
+### Ocupação no Ninho — 2060 a 2072
 
 Com o passar dos anos, Clara se tornou a principal responsável pela saúde dos moradores.
 
@@ -446,7 +446,7 @@ Entretanto, sabe que esconder uma informação médica também representa uma qu
 
 Se uma situação semelhante acontecer novamente, talvez não consiga manter o mesmo silêncio.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **SEGREDO — NÃO REVELAR AOS JOGADORES**
 
@@ -552,7 +552,7 @@ Tem medo de que o mesmo fenômeno possa acontecer com outra pessoa.
 - Clara precisa escolher entre manter seu segredo ou arriscar provocar pânico para proteger os moradores.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     
