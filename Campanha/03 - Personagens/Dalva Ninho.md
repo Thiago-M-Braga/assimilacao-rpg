@@ -17,6 +17,18 @@ tags:
 
 # Dalva Ninho
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Dalva Ninho |
+| Idade | 53 anos |
+| Nascimento | 2026 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Mediadora comunitária |
+| Status | falecida |
+
+
 > "Uma comunidade não sobrevive apenas porque seus muros são fortes. Ela sobrevive porque as pessoas lá dentro ainda se importam umas com as outras."
 
 ## Visão geral
