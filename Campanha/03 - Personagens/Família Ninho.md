@@ -1,5 +1,6 @@
 ---
-tipo: núcleo-familiar
+tipo: familia
+categoria: nucleo-familiar
 nome: Família Ninho
 local: "[[O Ninho]]"
 integrantes:
@@ -7,13 +8,15 @@ integrantes:
   - "[[Dalva Ninho]]"
   - "[[Davi Ninho]]"
   - "[[Elisa Ninho]]"
+status: definido
 tags:
+  - campanha
   - familia
   - npc
   - ninho
   - lideranca
+  - armazem
 ---
-
 # Família Ninho
 
 > “O Ninho não pertence à nossa família. Mas, enquanto estivermos aqui, é nossa responsabilidade mantê-lo vivo.”
@@ -123,6 +126,19 @@ Há aproximadamente um ano, Dalva adoeceu e morreu. Sua doença não foi identif
 A perda afetou profundamente Elias, que se tornou mais ríspido e distante. Davi passou a acompanhar o pai com maior frequência, enquanto Elisa tenta impedir que a família se desfaça emocionalmente.
 
 O episódio do sangue azul permanece restrito a Elias e Clara.
+
+## Responsabilidades no Ninho
+
+A família Ninho é responsável pela liderança e pela administração exclusiva do Armazém.
+
+| Integrante | Atuação |
+|---|---|
+| [[Elias Ninho]] | Líder do Ninho; supervisiona o Armazém, define prioridades e autoriza retiradas extraordinárias |
+| [[Davi Ninho]] | Guarda pessoal de Elias; recebe, confere e organiza fisicamente os estoques |
+| [[Elisa Ninho]] | Guarda pessoal e auxiliar da liderança; registra entradas e retiradas e organiza a distribuição |
+| [[Dalva Ninho]] | Falecida em 2079; em vida, atuava como mediadora comunitária |
+
+Nenhum morador de outro núcleo trabalha no Armazém. Os demais setores fazem solicitações à família Ninho.
 
 ## Dinâmica Familiar
 
