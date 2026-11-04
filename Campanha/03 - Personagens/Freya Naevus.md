@@ -43,6 +43,10 @@ tags:
 - **Condição familiar:** A irmã mais nova está doente; o padrasto faleceu há seis anos
     
 
+## Visão geral
+
+Freya é uma personagem jogadora que atua como aprendiz da Casa Médica, sob orientação de Dona Clara. Sua motivação pessoal mais urgente é encontrar uma cura para a irmã mais nova, Luna, que sofre da Doença Azul. A formação médica e a busca por respostas caminham juntas em sua história.
+
 ## Aparência
 
 Freya é uma mulher de 24 anos, morena e com vitiligo. As manchas claras em sua pele formam padrões próprios, tornando sua aparência facilmente reconhecível para quem convive com ela.
