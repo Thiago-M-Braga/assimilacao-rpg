@@ -348,7 +348,7 @@ Cecília costuma ser organizada ao comunicar a disponibilidade de produtos, enqu
 
 Helena gosta de conversar com os dois e procura manter uma relação de colaboração.
 
-### Iara Salles — responsável pelos registros
+### Iara Salles — auxiliar da cozinha comunitária
 
 Iara é uma das pessoas com quem Helena conversa frequentemente sobre a disponibilidade de alimentos.
 
@@ -362,11 +362,9 @@ As duas mantêm uma relação de respeito e colaboração.
 
 ### Lívia Fagundes — auxiliar da Casa Médica
 
-Helena depende do trabalho de Lívia para organizar a retirada dos ingredientes armazenados.
+Lívia trabalha na Casa Médica e não atua no Armazém. Quando a cozinha precisa de ingredientes, Helena encaminha as solicitações à família Ninho, responsável pelo controle e pela distribuição dos estoques.
 
 As duas mantêm uma relação cordial e possuem uma comunicação bastante prática.
-
-Helena costuma informar antecipadamente quais materiais precisará, procurando evitar solicitações de última hora.
 
 Também percebe que Lívia carrega preocupações pessoais relacionadas aos pais e, sempre que pode, procura oferecer algum apoio.
 
