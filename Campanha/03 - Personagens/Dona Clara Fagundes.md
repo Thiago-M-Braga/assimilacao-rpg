@@ -42,6 +42,18 @@ tags:
 
 # Dona Clara Fagundes
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Dona Clara Fagundes |
+| Idade | 58 anos |
+| Nascimento | 2022 |
+| Residência ou vínculo principal | Casa Médica do Ninho |
+| Ocupação atual | Médica e curandeira |
+| Status | viva |
+
+
 > "Eu não preciso saber explicar todas as coisas. Só preciso saber o que fazer para impedir que alguém morra."
 
 ## Visão geral
