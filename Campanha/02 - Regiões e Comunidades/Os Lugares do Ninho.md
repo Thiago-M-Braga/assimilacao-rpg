@@ -122,9 +122,11 @@ O som do martelo contra o metal é constante. O ar é pesado, e o chão está co
 
 ### Pessoas encontradas
 
-- Ithan Voos.
+- Hugo Becker.
     
-- Clark Becker, atualmente afastado por doença.
+- Marta Becker.
+    
+- Jonas Becker.
     
 
 ### Possibilidades narrativas
@@ -309,7 +311,7 @@ O Armazém é administrado exclusivamente por [[Elias Ninho]], [[Davi Ninho]] e 
 ## 8. Estação de Energia
 
 **Localização:** Área elevada e exposta ao vento  
-**Responsável:** Hugo Becker  
+**Responsável técnico:** Ithan Voos  
 **Uso:** Geração e distribuição limitada de eletricidade
 
 A Estação de Energia abriga o gerador eólico rústico herdado da antiga fazenda e adaptado ao longo dos anos.
