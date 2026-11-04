@@ -1,36 +1,27 @@
 ---
-
-tipo: personagem  
-categoria: jogador  
-local: "[[O Ninho]]"  
-familia: "[[Família Voos]]"  
-status: vivo  
-idade: 22  
-ocupacao: engenheiro  
+tipo: personagem
+categoria: jogador
+nome: Ithan Voos
+idade: 22
+nascimento: 2058
+ocupacao: Engenheiro e responsável técnico pela Estação de Energia
+local: "[[O Ninho]]"
+familia: "[[Família Voos]]"
+status: vivo
 tags:
-
-- campanha
-    
-- personagem-jogador
-    
-- ithan
-    
-- voos
-    
-- engenharia
-    
-- exploracao
-    
-- ninho
-    
-
+  - campanha
+  - personagem-jogador
+  - ithan
+  - voos
+  - engenharia
+  - exploracao
+  - ninho
 ---
-
 # Ithan Voos
 
 > "Meu pai dizia que o mundo era muito maior do que aquilo que conseguíamos enxergar daqui de cima. Eu quero descobrir se ele estava certo."
 
-## 1. Identificação
+## Identificação
 
 - **Nome:** Ithan Voos
     
@@ -57,7 +48,7 @@ tags:
 - **Conflito pessoal:** Deseja partir, mas sente responsabilidade pela sobrevivência do Ninho.
     
 
-## 2. Conceito do personagem
+## Conceito do personagem
 
 Ithan é um jovem engenheiro que cresceu ouvindo histórias sobre o mundo anterior ao Colapso.
 
@@ -75,7 +66,7 @@ Ele possui uma responsabilidade importante: ajudar a manter a proteção da comu
 
 Mesmo assim, uma parte dele continua desejando partir.
 
-## 3. Aparência e presença
+## Aparência e presença
 
 A aparência física de Ithan ainda pode receber os detalhes definidos pelo jogador. Sua apresentação visual deve refletir principalmente a rotina de alguém que trabalha com manutenção e equipamentos.
 
@@ -87,7 +78,7 @@ Sua rotina exige roupas práticas, que permitam trabalhar em espaços apertados 
 
 A [[A Pulseira de Ithan]] é seu objeto pessoal mais característico e costuma acompanhá-lo.
 
-## 4. Personalidade
+## Personalidade
 
 A curiosidade é uma das características mais importantes de Ithan.
 
@@ -120,7 +111,7 @@ Permanecer no Ninho não significa necessariamente desistir de explorar. Partir 
 
 O conflito está justamente em descobrir qual responsabilidade deve falar mais alto quando as duas entrarem em choque.
 
-## 5. História
+## História
 
 Ithan nasceu e cresceu no Ninho.
 
@@ -160,7 +151,7 @@ Seu conhecimento foi crescendo até que passou a trabalhar diretamente nos siste
 
 Atualmente, ajuda a manter funcionando uma das estruturas mais importantes do Ninho: a eletrificação do Muro de Sucata.
 
-## 6. Trabalho: engenharia e eletricidade
+## Trabalho: engenharia e eletricidade
 
 Ithan trabalha na [[Estação de Energia]], principalmente com a parte elétrica responsável por alimentar o sistema de proteção do Muro de Sucata.
 
@@ -221,7 +212,7 @@ Por isso, partir sem garantir que alguém consiga assumir suas tarefas seria uma
 
 Essa responsabilidade é uma das razões pelas quais Ithan ainda permanece na comunidade.
 
-## 7. Artur Voos: o pai desaparecido
+## Artur Voos: o pai desaparecido
 
 O pai de Ithan se chama [[Artur Voos]].
 
@@ -258,7 +249,7 @@ A ausência do pai permanece como uma pergunta sem resposta.
 
 Para conhecer a história familiar e os segredos relacionados ao desaparecimento, consulte [[Família Voos]].
 
-## 8. A pulseira de Ithan
+## A pulseira de Ithan
 
 **Objeto:** Pulseira artesanal de corda com bússola  
 **Origem:** Presente de Artur Voos  
@@ -289,7 +280,7 @@ Ela também pode se tornar uma pista narrativa caso os personagens encontrem alg
 
 Para conhecer sua história e características, consulte [[A Pulseira de Ithan]].
 
-## 9. Relações com os outros personagens jogadores
+## Relações com os outros personagens jogadores
 
 ### Mabel Noctua
 
@@ -307,7 +298,7 @@ Ithan pode ajudá-la com conhecimentos de engenharia durante investigações em 
 
 A busca pelas sementes preservadas nos [[Paióis Subterrâneos da Fazenda]] é uma oportunidade para que suas habilidades contribuam diretamente para a missão.
 
-## 10. Relação com a comunidade
+## Relação com a comunidade
 
 Ithan é uma pessoa importante para a manutenção do funcionamento do Ninho.
 
@@ -327,7 +318,7 @@ Era seu colaborador na organização e recuperação de componentes. Sua doença
 
 Vicente é experiente em deslocamentos, segurança e avaliação de ameaças. Pode oferecer conhecimentos práticos que complementam a curiosidade técnica de Ithan.
 
-## 11. Ganchos narrativos
+## Ganchos narrativos
 
 ### 1. A falha elétrica
 
@@ -385,7 +376,7 @@ A decisão deve ter consequências para a comunidade e para o próprio personage
 
 **Conexões:** [[O Ninho]], [[O Mundo Exterior]] e [[Vicente Murphy]].
 
-## 12. Segredos do mestre
+## Segredos do mestre
 
 > [!danger] Não revelar ao jogador antes do momento adequado.
 
@@ -410,7 +401,7 @@ A decisão deve ter consequências para a comunidade e para o próprio personage
 - A descoberta de Artur poderá conduzir Ithan a uma aventura maior pelo mundo exterior.
     
 
-## 13. Possível evolução do personagem
+## Possível evolução do personagem
 
 A jornada de Ithan pode começar com a responsabilidade de manter o Ninho protegido e evoluir para uma decisão sobre o que deseja fazer com a própria vida.
 
@@ -426,7 +417,7 @@ Sua evolução não precisa significar abandonar o Ninho. Ele também pode encon
 
 O conflito principal será decidir se sua responsabilidade está em proteger o lugar onde cresceu ou em descobrir o que pode existir além dele.
 
-## 14. Notas relacionadas
+## Notas relacionadas
 
 ### Personagens
 
@@ -490,7 +481,7 @@ O conflito principal será decidir se sua responsabilidade está em proteger o l
 - [[Paióis Subterrâneos da Fazenda]]
     
 
-## 15. Função narrativa
+## Função narrativa
 
 Ithan representa a curiosidade pelo mundo que existia antes do Colapso e a vontade de descobrir o que ainda pode existir depois dele.
 
