@@ -3,7 +3,7 @@ tipo: personagem
 nome: Davi Ninho
 idade: 30
 nascimento: 2050
-ocupacao: Guarda pessoal de Elias e responsável pela segurança interna
+ocupacao: Controle físico do Armazém, guarda pessoal de Elias e segurança interna
 local: O Ninho
 status: vivo
 tags:
@@ -16,6 +16,18 @@ tags:
 ---
 
 # Davi Ninho
+
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Davi Ninho |
+| Idade | 30 anos |
+| Nascimento | 2050 |
+| Família | [[Família Ninho]] |
+| Residência | O Ninho |
+| Ocupação | Guarda pessoal de Elias e responsável pelo recebimento, conferência e organização física dos estoques do Armazém |
+| Status | Vivo |
 
 > "Meu pai passou a vida inteira mantendo este lugar de pé. Não vou ser eu quem vai deixar tudo desmoronar."
 
@@ -177,9 +189,9 @@ Embora não tenha autoridade formal sobre todos os setores, muitos moradores o p
 
 Davi começa a perceber que sua função poderá crescer ainda mais no futuro.
 
-## Função na comunidade
+## Ocupação no Ninho
 
-Davi trabalha diretamente com a proteção do líder e com a segurança interna do Ninho.
+Davi divide sua rotina entre a segurança pessoal de Elias e a administração física do Armazém, que é de acesso exclusivo da família Ninho. Ele acompanha a entrada, a organização, a conservação e a separação dos suprimentos.
 
 ### Responsabilidades
 
@@ -192,6 +204,12 @@ Davi trabalha diretamente com a proteção do líder e com a segurança interna 
 - Observar comportamentos suspeitos ou situações que possam representar riscos.
     
 - Participar da vigilância das estruturas defensivas.
+    
+- Receber e conferir materiais que chegam ao Armazém.
+    
+- Organizar fisicamente caixas, ferramentas, alimentos e suprimentos.
+    
+- Separar os pedidos autorizados por Elias e registrar as entregas em conjunto com Elisa.
     
 - Ajudar a orientar moradores sobre procedimentos de segurança.
     
@@ -324,7 +342,7 @@ Tem receio de que Elisa tente mudar muitas coisas ao mesmo tempo e acabe enfraqu
 
 Apesar disso, sabe que uma futura liderança pode precisar das qualidades dos dois.
 
-## Conflitos internos
+## Conflitos e motivações
 
 ### A obrigação de ser o sucessor
 
@@ -354,7 +372,7 @@ Boa parte da vida de Davi foi construída em torno de seu sobrenome, da lideran�
 
 Ele ainda precisa descobrir quem é quando não está cumprindo uma obrigação familiar.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -434,7 +452,7 @@ Davi não está investigando o assunto e não possui evidências. Entretanto, se
 - Os moradores começam a procurá-lo diretamente para resolver problemas, criando uma autoridade informal que Elias pode não gostar.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     

@@ -3,7 +3,7 @@ tipo: personagem
 nome: Marcio Fagundes
 idade: 69
 nascimento: 2011
-ocupacao: Antigo trabalhador de manutenção
+ocupacao: Apoio eventual à organização e aos pequenos reparos da Casa Médica
 local: Casa Médica do Ninho
 status: vivo
 tags:
@@ -15,6 +15,19 @@ tags:
 ---
 
 # Marcio Fagundes
+
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Marcio Fagundes |
+| Idade | 69 anos |
+| Nascimento | 2011 |
+| Residência ou vínculo principal | Casa Médica do Ninho |
+| Ocupação atual | Apoio eventual à organização e aos pequenos reparos da Casa Médica |
+| Família | [[Família Fagundes]] |
+| Status | vivo |
+
 
 > "Eu sei que esqueci alguma coisa importante. Só não sei o que era."
 
@@ -28,7 +41,7 @@ Ajudou durante muitos anos na manutenção de estruturas do Ninho e também part
 
 Em 2073, sofreu uma queda enquanto movimentava materiais armazenados. Bateu a cabeça e, depois do acidente, começou a apresentar problemas de memória que se agravaram com o passar do tempo.
 
-Atualmente, passa a maior parte dos dias na Casa Médica, sob os cuidados de Clara.
+Atualmente, passa a maior parte dos dias na Casa Médica, sob os cuidados de Clara. Quando está em um período de lucidez e se sente disposto, ajuda em pequenas tarefas de organização, conservação de prateleiras e reparos simples, sempre supervisionado. Não possui jornada regular nem realiza atendimentos médicos.
 
 Sua condição não apagou completamente quem ele foi. Algumas habilidades, hábitos e lembranças permanecem, mas sua capacidade de reconhecer pessoas e compreender acontecimentos varia bastante.
 
@@ -330,9 +343,9 @@ Elias costuma cumprimentá-lo quando visita a Casa Médica, mas não espera mant
 
 Em alguns momentos, Marcio reconhece o líder. Em outros, precisa ser lembrado de quem ele é.
 
-## Relação com a Casa Médica
+## Ocupação no Ninho
 
-Marcio não é responsável por nenhum atendimento médico, mas sua presença faz parte da rotina da Casa Médica.
+Marcio não é responsável por nenhum atendimento médico. Quando sua condição permite, ajuda de maneira informal e supervisionada na organização do espaço, na conservação de móveis e em pequenos reparos que não ofereçam risco.
 
 Clara procura mantê-lo ocupado com atividades simples, especialmente aquelas que não representam riscos.
 
@@ -344,7 +357,13 @@ Embora não possua uma função formal, Marcio ainda contribui de pequenas manei
 
 Clara evita que ele realize trabalhos que exijam esforço físico, altura ou uso de ferramentas perigosas.
 
-## Segredo do Mestre
+## Conflitos e motivações
+
+Marcio tenta preservar a sensação de autonomia apesar das falhas de memória. Em seus períodos de lucidez, percebe que depende cada vez mais de Clara e Lívia, mas nem sempre compreende por que precisa de ajuda ou por que certas tarefas lhe são restringidas.
+
+Sua maior dificuldade é lidar com a distância entre as habilidades que ainda conserva e as lembranças que não consegue recuperar.
+
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -434,7 +453,7 @@ Entretanto, suas anotações não devem ser tratadas como um registro perfeitame
 - Alguém tenta utilizar as habilidades de Marcio para recuperar um equipamento antigo, mas Clara teme que o esforço seja prejudicial.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     

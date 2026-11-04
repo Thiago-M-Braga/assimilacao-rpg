@@ -1,5 +1,6 @@
 ---
-tipo: núcleo-familiar
+tipo: familia
+categoria: nucleo-familiar
 nome: Família Ninho
 local: "[[O Ninho]]"
 integrantes:
@@ -7,13 +8,15 @@ integrantes:
   - "[[Dalva Ninho]]"
   - "[[Davi Ninho]]"
   - "[[Elisa Ninho]]"
+status: definido
 tags:
+  - campanha
   - familia
   - npc
   - ninho
   - lideranca
+  - armazem
 ---
-
 # Família Ninho
 
 > “O Ninho não pertence à nossa família. Mas, enquanto estivermos aqui, é nossa responsabilidade mantê-lo vivo.”
@@ -24,7 +27,7 @@ A Família Ninho é a linhagem dos antigos proprietários da fazenda onde a comu
 
 A liderança passou de geração em geração por uma hierarquia familiar. Essa tradição não significa que todos os moradores sejam obrigados a aceitar cada decisão dos Ninho, mas confere à família uma autoridade histórica que se mistura à responsabilidade pela sobrevivência coletiva.
 
-Em 2080, a família é composta por Elias e seus dois filhos, Davi e Elisa. Dalva, esposa de Elias e mãe dos jovens, morreu há aproximadamente um ano.
+Em 2080, a família é composta por Elias e seus dois filhos adultos, Davi e Elisa. Dalva, esposa de Elias e mãe dos jovens, morreu em 2079.
 
 A perda de Dalva abalou a estrutura familiar e alterou a maneira como Elias exerce sua liderança. Davi passou a assumir mais responsabilidades ao lado do pai, enquanto Elisa tenta preservar os vínculos entre a família e os demais moradores.
 
@@ -64,9 +67,9 @@ A causa de sua doença nunca foi esclarecida publicamente.
 
 ### [[Davi Ninho]] — O protetor
 
-- **Idade:** 29 anos.
+- **Idade:** 30 anos.
     
-- **Função:** Guarda pessoal e auxiliar de Elias.
+- **Função:** Guarda pessoal de Elias e responsável pelo recebimento, conferência e organização física do Armazém.
     
 - **Perfil:** Disciplinado, protetor, reservado e questionador.
     
@@ -79,9 +82,9 @@ Tem dificuldade em demonstrar fragilidade e frequentemente assume responsabilida
 
 ### [[Elisa Ninho]] — A voz da comunidade
 
-- **Idade:** 25 anos.
+- **Idade:** 26 anos.
     
-- **Função:** Auxiliar na organização comunitária.
+- **Função:** Guarda pessoal de Elias, responsável pelos registros e pela organização das retiradas do Armazém.
     
 - **Perfil:** Empática, comunicativa, independente e questionadora.
     
@@ -114,7 +117,7 @@ Com o passar dos anos, as estradas se tornaram perigosas e o contato com outras 
 
 A geração de Davi e Elisa cresceu dentro dos muros, conhecendo o mundo exterior principalmente por histórias e relatos.
 
-A família Ninho permaneceu na liderança, mas a natureza dessa responsabilidade mudou: já não se tratava apenas de administrar uma propriedade, e sim de preservar uma comunidade inteira.
+A família Ninho permaneceu na liderança, mas a natureza dessa responsabilidade mudou: já não se tratava apenas de administrar uma propriedade, e sim de preservar uma comunidade inteira. Em 2080, Elias, Davi e Elisa também administram exclusivamente o Armazém: Elias autoriza e define prioridades, Davi cuida dos materiais e Elisa mantém os registros e a distribuição.
 
 ### A morte de Dalva
 
@@ -123,6 +126,19 @@ Há aproximadamente um ano, Dalva adoeceu e morreu. Sua doença não foi identif
 A perda afetou profundamente Elias, que se tornou mais ríspido e distante. Davi passou a acompanhar o pai com maior frequência, enquanto Elisa tenta impedir que a família se desfaça emocionalmente.
 
 O episódio do sangue azul permanece restrito a Elias e Clara.
+
+## Responsabilidades no Ninho
+
+A família Ninho é responsável pela liderança e pela administração exclusiva do Armazém.
+
+| Integrante | Atuação |
+|---|---|
+| [[Elias Ninho]] | Líder do Ninho; supervisiona o Armazém, define prioridades e autoriza retiradas extraordinárias |
+| [[Davi Ninho]] | Guarda pessoal de Elias; recebe, confere e organiza fisicamente os estoques |
+| [[Elisa Ninho]] | Guarda pessoal e auxiliar da liderança; registra entradas e retiradas e organiza a distribuição |
+| [[Dalva Ninho]] | Falecida em 2079; em vida, atuava como mediadora comunitária |
+
+Nenhum morador de outro núcleo trabalha no Armazém. Os demais setores fazem solicitações à família Ninho.
 
 ## Dinâmica Familiar
 

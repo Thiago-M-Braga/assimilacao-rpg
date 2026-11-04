@@ -18,6 +18,19 @@ tags:
 
 # Gael Noctua
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Gael Noctua |
+| Idade | 50 anos |
+| Nascimento | 2030 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Agricultor e responsável pela estufa |
+| Família | [[Família Noctua]] |
+| Status | vivo |
+
+
 > "Uma semente parece pouca coisa. Mas, quando tudo desaparece, é ela que pode fazer o mundo começar de novo."
 
 ## Visão geral
@@ -218,7 +231,7 @@ Acredita que o Ninho precisa preservar sua capacidade de produzir alimentos inde
 
 Sua maior preocupação é que a comunidade se torne dependente de poucos cultivos e perca a diversidade necessária para enfrentar mudanças futuras.
 
-## Ocupação: agricultura e estufa
+## Ocupação no Ninho
 
 A plantação é um dos setores essenciais para a sobrevivência do Ninho.
 
@@ -258,6 +271,12 @@ Sabe reconhecer características do solo, observar sinais de deficiência nas pl
 Também conhece diferentes métodos de conservação de sementes e compreende a importância de evitar o armazenamento em ambientes úmidos.
 
 Não é um cientista nem possui equipamentos avançados. Seu conhecimento é resultado de observação, experimentação e registros.
+
+### O sistema de cultivo e seus riscos
+
+Gael administra os canteiros, a estufa, a compostagem e a distribuição de água para as plantações. Como diferentes cultivos compartilham parte dessa infraestrutura, uma alteração no solo, no composto ou na irrigação pode afetar alimentos e ervas de espécies muito diferentes.
+
+Gael não conhece a contaminação pelo Micélio de Cobalto. Ele percebe ocasionalmente diferenças de crescimento entre canteiros, mas atribui essas variações à qualidade do solo, ao clima e à escassez de nutrientes. Não sabe que a ameaça pode estar presente em toda a produção, nem que a aparência saudável de uma planta não garante que ela esteja livre dos compostos do fungo.
 
 ### Relação com a nova ecologia
 
@@ -342,7 +361,7 @@ Gosta de compartilhar conhecimentos sobre agricultura e natureza, mas sabe que M
 
 Às vezes se preocupa com a distância que pode existir entre aquilo que deseja para a filha e aquilo que ela realmente deseja para si.
 
-Não pretende obrigá-la a trabalhar na plantação ou assumir sua coleção de sementes.
+Não pretende obrigá-la a seguir o mesmo caminho profissional que ele ou assumir sua coleção de sementes, embora respeite sua participação voluntária no cultivo.
 
 Sua maior esperança é que Mabel encontre algo pelo qual valha a pena dedicar sua vida.
 
@@ -404,15 +423,15 @@ Entretanto, acredita que a comunidade precisa pensar no futuro com a mesma serie
 
 Não costuma discutir diretamente com o líder, mas defende a importância de manter recursos destinados à agricultura.
 
-### Samuel Clay — ferreiro
+### Hugo Becker — responsável pela Forja
 
-Gael procura Samuel quando precisa de ferramentas, suportes metálicos ou reparos em estruturas utilizadas na plantação.
+Gael procura Hugo quando precisa de ferramentas, suportes metálicos ou reparos em estruturas utilizadas na plantação.
 
-Samuel considera Gael excessivamente cuidadoso com alguns equipamentos, mas reconhece que ele cuida bem das ferramentas que recebe.
+Hugo considera Gael excessivamente cuidadoso com alguns equipamentos, mas reconhece que ele cuida bem das ferramentas que recebe.
 
 Os dois mantêm uma relação de respeito profissional.
 
-## Conflitos internos
+## Conflitos e motivações
 
 ### A obsessão por preservar sementes
 
@@ -446,7 +465,7 @@ Em situações de escassez, pode ser necessário utilizar sementes reservadas pa
 
 Essa possibilidade representa um dos maiores dilemas para Gael.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -550,7 +569,7 @@ Sua cautela não vem de uma explicação científica, mas da experiência de ter
 - Mabel demonstra interesse por algo que não está relacionado à agricultura, provocando uma conversa sobre o futuro da filha.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     
@@ -570,7 +589,7 @@ Sua cautela não vem de uma explicação científica, mas da experiência de ter
     
 - [[Iara Salles]]
     
-- [[Samuel Clay]]
+- [[Hugo Becker]]
     
 - [[A Nova Ecologia]]
     

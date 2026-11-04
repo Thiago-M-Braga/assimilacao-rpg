@@ -204,8 +204,6 @@ As casas numeradas são:
     
 - Casa 5 — Família Noctua.
     
-- Casa 6 — Família Clay.
-    
 - Casa 7 — Família Becker.
     
 
@@ -252,9 +250,9 @@ As atividades incluem:
 
 O trabalho da forja é essencial para manter a capacidade produtiva e defensiva da comunidade.
 
-**Responsável:** [[Samuel Clay]].
+**Responsáveis:** [[Hugo Becker]], [[Marta Becker]] e [[Jonas Becker]].
 
-A família Clay mantém sua residência na Casa 6, enquanto Samuel passa grande parte do tempo na forja.
+A Família Becker mantém sua residência próxima ao setor de oficinas. Hugo coordena o trabalho com metais, Marta produz acessórios e acabamentos, e Jonas atua como aprendiz e auxiliar de produção.
 
 ### 4.4. Casa Médica
 
@@ -270,6 +268,8 @@ A Casa Médica também abriga Marcio, que passa grande parte do tempo sob os cui
 
 **Responsável:** [[Dona Clara Fagundes]].
 
+**Equipe:** [[Lívia Fagundes]] e [[Freya Naevus]]. [[Marina Vilar]] ajuda com a preparação e o reparo de tecidos médicos, e [[Marcio Fagundes]] participa apenas de pequenas tarefas de organização e reparo quando sua condição permite.
+
 ### 4.5. Curral
 
 O curral abriga os animais domesticados que sobreviveram às transformações ambientais e continuam sendo criados pela comunidade.
@@ -282,7 +282,7 @@ O curral também é um dos locais onde Thomas aprende tarefas práticas.
 
 **Responsáveis:** [[Breno Lane]] e [[Cecília Lane]].
 
-**Ajudante:** [[Thomas Lane]].
+Thomas Lane, por ter 10 anos, não possui função formal nem jornada de trabalho. Pode acompanhar os pais e participar voluntariamente de pequenas tarefas seguras, sempre supervisionado.
 
 ### 4.6. Plantação e Estufa
 
@@ -296,6 +296,8 @@ O espaço é utilizado para produzir alimentos e preservar sementes.
 
 **Responsável:** [[Gael Noctua]].
 
+**Apoio:** [[Mabel Noctua]], que participa do cultivo, da organização dos canteiros e da rotina da estufa.
+
 A preservação de sementes é uma das maiores preocupações de Gael, que mantém registros e acompanha o desenvolvimento das plantas.
 
 ### 4.7. Armazém
@@ -306,9 +308,9 @@ Nele são guardados alimentos secos, materiais de reserva, medicamentos precioso
 
 O controle dos estoques é fundamental para evitar desperdícios e garantir que a comunidade tenha recursos durante períodos de escassez.
 
-**Responsável:** [[Marta Becker]].
+**Responsáveis:** [[Elias Ninho]], [[Davi Ninho]] e [[Elisa Ninho]].
 
-A distribuição de alimentos também é coordenada em conjunto com [[Helena Noctua]].
+O Armazém é um setor de acesso restrito. Apenas o líder e seus filhos adultos trabalham no local, cuidando da guarda, dos registros, das autorizações e da distribuição dos estoques. Os demais setores solicitam os materiais de que precisam à família Ninho.
 
 ### 4.8. Estação de Energia
 
@@ -322,9 +324,11 @@ As peças de reposição são escassas, e muitos dos componentes já passaram po
 
 A energia produzida é poupada ao máximo e canalizada estritamente para manter o [[O Muro de Sucata|muro eletrificado]] funcionando.
 
-**Responsável:** [[Hugo Becker]].
+**Responsável técnico:** [[Ithan Voos]].
 
-A manutenção da estação é uma atividade crítica para a segurança coletiva.
+**Auxiliar:** [[Clark Becker]], afastado temporariamente por causa da Doença Azul.
+
+Hugo Becker não trabalha na estação: ele coordena o Ferro-Velho e a Forja. A oficina fornece ferramentas, suportes e componentes metálicos quando necessários.
 
 ## 5. O Muro de Sucata
 
@@ -349,7 +353,7 @@ Devido à escassez de componentes e às dificuldades de manutenção, a eletrici
 
 A prioridade é manter a defesa do perímetro.
 
-O funcionamento desse sistema depende diretamente do trabalho de [[Hugo Becker]] e da preservação da estação.
+O funcionamento desse sistema depende diretamente do trabalho de [[Ithan Voos]] e da preservação da estação.
 
 ### 5.2. Dependência energética
 
@@ -387,14 +391,12 @@ Desde a morte dela, Elias tornou-se mais seco, reservado e rigoroso.
 
 ### 6.3. Os filhos de Elias
 
-Elias possui dois filhos:
+Elias possui dois filhos adultos:
 
-- [[Lívia Fagundes]] — Filho mais velho e um dos guardas pessoais do pai.
-    
-- [[Elisa Ninho]] — Filha mais nova e também responsável por proteger e auxiliar o pai.
-    
+- [[Davi Ninho]] — Filho mais velho, guarda pessoal do pai e responsável pela movimentação física dos estoques do Armazém.
+- [[Elisa Ninho]] — Filha mais nova, guarda pessoal do pai e responsável pelos registros e pela organização das retiradas.
 
-Ambos participam da proteção pessoal do líder.
+Os três administram o Armazém. O acesso ao espaço é restrito à família Ninho; os outros setores fazem solicitações, mas não trabalham no local.
 
 A regra exata de sucessão familiar ainda precisa ser documentada.
 
@@ -410,9 +412,9 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
     
 - [[Dalva Ninho]] — Falecida em 2079.
     
-- [[Lívia Fagundes]] — Filho mais velho e guarda.
+- [[Davi Ninho]] — Filho mais velho, guarda e responsável pelo controle físico do Armazém.
     
-- [[Elisa Ninho]] — Filha mais nova e guarda.
+- [[Elisa Ninho]] — Filha mais nova, guarda e responsável pelos registros e pela distribuição do Armazém.
     
 
 ### 7.2. Família Evans
@@ -430,14 +432,16 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
     
 - [[Cecília Lane]] — Responsável pelo cuidado dos animais e organização do curral.
     
-- [[Thomas Lane]] — Filho do casal e ajudante no curral.
+- [[Thomas Lane]] — Filho do casal, criança de 10 anos; não possui função formal no curral.
     
 
 ### 7.4. Família Fagundes
 
 - [[Dona Clara Fagundes]] — Médica e curandeira.
     
-- [[Marcio Fagundes]] — Marido de Clara, possui amnésia.
+- [[Marcio Fagundes]] — Marido de Clara, possui amnésia e ajuda, quando está em condições, em pequenas tarefas supervisionadas na Casa Médica.
+    
+- [[Lívia Fagundes]] — Auxiliar da Casa Médica.
     
 
 ### 7.5. Família Noctua
@@ -446,27 +450,26 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
     
 - [[Helena Noctua]] — Cozinheira chefe.
     
-- [[Mabel Noctua]] — Filha do casal e personagem de jogador.
+- [[Mabel Noctua]] — Filha do casal e personagem de jogador; participa do cultivo e da rotina da estufa.
     
 
-### 7.6. Família Clay
 
-- [[Samuel Clay]] — Ferreiro.
-    
-- [[Iara Clay]] — Responsável pelo reaproveitamento de tecidos e roupas.
-    
-- [[Caio Clay]] — Filho do casal e aprendiz na forja.
-    
+### 7.6. Família Becker
 
-### 7.7. Família Becker
-
-- [[Hugo Becker]] — Técnico responsável pela estação de energia.
+- [[Hugo Becker]] — Responsável pelo Ferro-Velho e pela Forja.
     
-- [[Marta Becker]] — Responsável pelo armazém.
+- [[Marta Becker]] — Trabalha na Forja com acessórios, acabamentos e proteções.
+    
+- [[Jonas Becker]] — Aprendiz e auxiliar de produção na Forja.
+    
+- [[Clark Becker]] — Antigo auxiliar de Ithan na Estação de Energia; atualmente está internado na Casa Médica.
     
 
-### 7.8. Outros moradores importantes
+### 7.7. Outros moradores importantes
 
+- [[Iara Salles]] — Auxiliar da cozinha comunitária, responsável pela organização de ingredientes e pelo registro do consumo diário.
+    
+- [[Marina Vilar]] — Auxilia a Casa Médica na preparação e conservação de tecidos médicos.
 - [[Vicente Murphy]] — Sentinela, veterano e apaziguador de conflitos.
     
 
@@ -476,7 +479,7 @@ Vicente não possui esposa ou filhos e evita criar vínculos familiares profundo
 
 Deverá acompanhar o grupo de personagens em uma etapa da campanha.
 
-### 7.9. Personagens dos jogadores
+### 7.8. Personagens dos jogadores
 
 Os personagens jogadores nasceram, cresceram ou vivem no Ninho.
 
@@ -604,17 +607,16 @@ As atividades principais são:
 
 |Atividade|Responsáveis|
 |---|---|
-|Preparação das refeições|Helena, Maria e Fernando|
-|Agricultura e sementes|Gael|
-|Criação de animais|Breno e Cecília|
-|Manutenção de ferramentas|Samuel|
-|Atendimento médico|Clara|
-|Estoque de suprimentos|Marta|
-|Manutenção da energia|Hugo|
-|Liderança e administração|Elias|
-|Proteção e vigilância|Vicente, Davi e Elisa|
+|Preparação das refeições|Helena Noctua, Maria Evans, Fernando Evans e Iara Salles|
+|Agricultura, estufa e sementes|Gael Noctua e Mabel Noctua|
+|Criação e cuidado dos animais|Breno Lane e Cecília Lane|
+|Ferro-Velho e Forja|Hugo Becker, Marta Becker e Jonas Becker|
+|Casa Médica|Dona Clara Fagundes, Lívia Fagundes, Freya Naevus e Marina Vilar; Marcio auxilia pontualmente quando pode|
+|Armazém|Elias Ninho, Davi Ninho e Elisa Ninho, exclusivamente|
+|Estação de Energia|Ithan Voos; Clark Becker era seu auxiliar e está afastado|
+|Proteção e vigilância|Vicente Murphy, Davi Ninho e Elisa Ninho|
 
-As funções não representam necessariamente as únicas atividades realizadas pelos moradores. A comunidade depende da colaboração entre diferentes pessoas sempre que surge uma necessidade.
+As funções não representam necessariamente as únicas atividades realizadas pelos moradores. A comunidade depende da colaboração entre diferentes pessoas sempre que surge uma necessidade. Crianças com menos de 16 anos não possuem função formal nem jornada de trabalho.
 
 ## 12. Informações ainda não definidas
 
@@ -703,7 +705,7 @@ As funções não representam necessariamente as únicas atividades realizadas p
     
 - [[Thomas Lane]]
     
-- [[Samuel Clay]]
+- [[Família Becker]]
     
 - [[Dona Clara Fagundes]]
     
@@ -723,9 +725,9 @@ As funções não representam necessariamente as únicas atividades realizadas p
     
 - [[Elisa Ninho]]
     
-- [[Iara Clay]]
+
     
-- [[Caio Clay]]
+
     
 - [[Marta Becker]]
     

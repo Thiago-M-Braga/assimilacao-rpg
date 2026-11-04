@@ -17,6 +17,19 @@ tags:
 
 # Helena Noctua
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Helena Noctua |
+| Idade | 45 anos |
+| Nascimento | 2035 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Chefe da cozinha comunitária |
+| Família | [[Família Noctua]] |
+| Status | viva |
+
+
 > "Pode faltar muita coisa neste mundo, mas enquanto houver comida na panela e alguém disposto a dividir, ainda temos motivos para continuar."
 
 ## Visão geral
@@ -223,7 +236,7 @@ Apesar da rotina exigente, continua procurando momentos para conversar com os mo
 
 Acredita que a comunidade precisa de algo além de segurança e alimentação: precisa de motivos para continuar vivendo.
 
-## Ocupação: chefe da cozinha comunitária
+## Ocupação no Ninho
 
 A cozinha comunitária é um dos espaços mais importantes do Ninho.
 
@@ -348,11 +361,11 @@ Cecília costuma ser organizada ao comunicar a disponibilidade de produtos, enqu
 
 Helena gosta de conversar com os dois e procura manter uma relação de colaboração.
 
-### Iara Salles — responsável pelos registros
+### Iara Salles — auxiliar da cozinha comunitária
 
 Iara é uma das pessoas com quem Helena conversa frequentemente sobre a disponibilidade de alimentos.
 
-Como responsável pelo controle dos suprimentos, Iara ajuda a acompanhar o consumo e as quantidades reservadas para a cozinha.
+Iara trabalha na cozinha comunitária e ajuda Helena a organizar ingredientes e registrar o consumo diário.
 
 Helena aprecia sua organização, mas às vezes acredita que Iara se preocupa excessivamente com os números.
 
@@ -360,13 +373,11 @@ Costuma lembrá-la de que os registros representam pessoas que precisam comer to
 
 As duas mantêm uma relação de respeito e colaboração.
 
-### Lívia Fagundes — responsável pelo Armazém
+### Lívia Fagundes — auxiliar da Casa Médica
 
-Helena depende do trabalho de Lívia para organizar a retirada dos ingredientes armazenados.
+Lívia trabalha na Casa Médica e não atua no Armazém. Quando a cozinha precisa de ingredientes, Helena encaminha as solicitações à família Ninho, responsável pelo controle e pela distribuição dos estoques.
 
 As duas mantêm uma relação cordial e possuem uma comunicação bastante prática.
-
-Helena costuma informar antecipadamente quais materiais precisará, procurando evitar solicitações de última hora.
 
 Também percebe que Lívia carrega preocupações pessoais relacionadas aos pais e, sempre que pode, procura oferecer algum apoio.
 
@@ -431,7 +442,7 @@ Ao longo dos anos, Helena criou alguns costumes na cozinha:
 
 Esses costumes não são regras oficiais, mas fazem parte da maneira como a cozinha funciona.
 
-## Conflitos internos
+## Conflitos e motivações
 
 ### A responsabilidade por todos
 
@@ -465,7 +476,7 @@ Não quer que o medo transforme os moradores em pessoas desconfiadas que pensam 
 
 Tem receio de que a rigidez crescente de Elias prejudique a convivência e enfraqueça aquilo que torna a comunidade diferente de um simples abrigo.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -555,7 +566,7 @@ Pode notar mudanças no comportamento dos moradores antes que eles próprios per
 - Durante uma refeição, Helena percebe que um dos personagens está escondendo alguma coisa por causa de seu comportamento.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     

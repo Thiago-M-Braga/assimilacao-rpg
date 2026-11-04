@@ -17,6 +17,19 @@ tags:
 
 # Cecília Lane
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Cecília Lane |
+| Idade | 35 anos |
+| Nascimento | 2045 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Cuidadora dos animais do Ninho |
+| Família | [[Família Lane]] |
+| Status | viva |
+
+
 > "Cuidar não é apenas alimentar e esperar que tudo dê certo. É prestar atenção antes que alguma coisa dê errado."
 
 ## Visão geral
@@ -195,7 +208,7 @@ Também procura ensinar Thomas a participar das tarefas, sempre respeitando os l
 
 Acredita que o filho precisa aprender a ser responsável, mas não deseja que cresça rápido demais apenas para provar que é capaz.
 
-## Ocupação: cuidadora dos animais
+## Ocupação no Ninho
 
 O curral é um dos setores fundamentais para a sobrevivência do Ninho.
 
@@ -336,15 +349,15 @@ Já procurou a médica em diferentes situações envolvendo a saúde da família
 
 Também valoriza a maneira como Clara cuida dos moradores mais vulneráveis.
 
-Quando Thomas se machuca durante alguma atividade, Cecília procura avaliar a gravidade antes de levá-lo à Casa Médica, mas não hesita em procurar ajuda quando necessário.
+Quando Thomas se machuca enquanto acompanha os pais, Cecília procura avaliar a gravidade antes de levá-lo à Casa Médica, mas não hesita em procurar ajuda quando necessário.
 
-### Samuel Clay — ferreiro
+### Hugo Becker — responsável pela Forja
 
-Cecília procura Samuel quando precisa de reparos em ferramentas, dobradiças, correntes e outros equipamentos utilizados no curral.
+Cecília procura Hugo quando precisa de reparos em ferramentas, dobradiças, correntes e outros equipamentos utilizados no curral.
 
 É bastante cuidadosa com os objetos e costuma explicar exatamente qual problema precisa ser resolvido.
 
-Samuel às vezes se irrita com sua insistência em conferir os detalhes dos reparos, mas reconhece que ela mantém os equipamentos em boas condições.
+Hugo às vezes se irrita com sua insistência em conferir os detalhes dos reparos, mas reconhece que ela mantém os equipamentos em boas condições.
 
 ### Vicente Murphy — veterano
 
@@ -396,7 +409,7 @@ Cecília deseja preparar Thomas para o mundo, mas sabe que não pode protegê-lo
 
 Precisa aprender a permitir que o menino desenvolva autonomia sem confundir independência com imprudência.
 
-## Conflitos internos
+## Conflitos e motivações
 
 ### A necessidade de controlar tudo
 
@@ -420,7 +433,7 @@ Depois, costuma perceber que está sendo impaciente e procura explicar novamente
 
 Não deseja que Breno dependa dela para tudo, mas reconhece que suas habilidades diferentes são justamente o que torna o trabalho dos dois eficiente.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -469,7 +482,7 @@ Ela não possui conhecimento para explicar alterações biológicas extraordiná
     
 - Quando está preocupada, começa a verificar coisas que já havia conferido.
     
-- Procura manter Thomas sempre em seu campo de visão quando ele está trabalhando no curral.
+- Procura manter Thomas sempre em seu campo de visão quando ele acompanha os pais no curral ou participa de alguma atividade voluntária e supervisionada.
     
 
 ### O que a irrita?
@@ -491,7 +504,7 @@ Ela não possui conhecimento para explicar alterações biológicas extraordiná
 
 - Cecília percebe uma mudança incomum no comportamento de um animal do curral.
     
-- Thomas tenta realizar uma tarefa sem autorização e Cecília precisa lidar com a situação.
+- Thomas tenta realizar uma pequena atividade sem supervisão e Cecília precisa lidar com a situação.
     
 - Uma falha em uma cerca coloca os animais em risco.
     
@@ -503,10 +516,10 @@ Ela não possui conhecimento para explicar alterações biológicas extraordiná
     
 - Os personagens encontram registros antigos sobre alterações no comportamento de algum animal.
     
-- Uma atividade do curral é prejudicada pela falta de algum material que precisa ser solicitado a Samuel ou ao Armazém.
+- Uma atividade do curral é prejudicada pela falta de algum material que precisa ser solicitado a Hugo ou ao Armazém.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     
@@ -520,7 +533,7 @@ Ela não possui conhecimento para explicar alterações biológicas extraordiná
     
 - [[Helena Noctua]]
     
-- [[Samuel Clay]]
+- [[Hugo Becker]]
     
 - [[Dona Clara Fagundes]]
     

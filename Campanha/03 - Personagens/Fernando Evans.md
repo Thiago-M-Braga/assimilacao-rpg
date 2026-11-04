@@ -17,6 +17,19 @@ tags:
 
 # Fernando Evans
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Fernando Evans |
+| Idade | 26 anos |
+| Nascimento | 2054 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Auxiliar da cozinha comunitária |
+| Família | [[Família Evans]] |
+| Status | vivo |
+
+
 > "Eu não sei que tipo de mundo meu filho vai encontrar. Só sei que vou fazer tudo para que ele tenha alguém ao seu lado quando isso acontecer."
 
 ## Visão geral
@@ -183,7 +196,7 @@ Fernando procura acompanhar a esposa sempre que possível e tenta assumir as tar
 
 A chegada do bebê é, ao mesmo tempo, sua maior alegria e sua maior fonte de ansiedade.
 
-## Ocupação: cozinha comunitária
+## Ocupação no Ninho
 
 Fernando trabalha com Maria na cozinha comunitária, sob a coordenação de Helena Noctua.
 
@@ -360,7 +373,7 @@ Não se trata de um quarto completo ou de um enxoval abundante. São apenas pequ
 
 Para Fernando, cada objeto representa uma maneira de dizer que a criança já é esperada e amada.
 
-## Conflitos internos
+## Conflitos e motivações
 
 ### O medo de não ser um bom pai
 
@@ -396,7 +409,7 @@ Tem receio de que suas responsabilidades familiares acabem prejudicando sua cont
 
 Procura equilibrar trabalho, casamento e preparação para a chegada do bebê.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -480,7 +493,7 @@ Esse desenvolvimento pode aparecer gradualmente durante a campanha, sem transfor
 - Uma dificuldade na cozinha coloca sua responsabilidade com a comunidade em conflito com a necessidade de acompanhar Maria.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     

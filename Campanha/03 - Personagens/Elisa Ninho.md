@@ -3,7 +3,7 @@ tipo: personagem
 nome: Elisa Ninho
 idade: 26
 nascimento: 2054
-ocupacao: Guarda pessoal de Elias e auxiliar da liderança
+ocupacao: Registros e distribuição do Armazém, guarda pessoal de Elias e apoio à liderança
 local: O Ninho
 status: viva
 tags:
@@ -16,6 +16,19 @@ tags:
 ---
 
 # Elisa Ninho
+
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Elisa Ninho |
+| Idade | 26 anos |
+| Nascimento | 2054 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Registros e distribuição do Armazém, guarda pessoal de Elias e apoio à liderança |
+| Família | [[Família Ninho]] |
+| Status | viva |
+
 
 > "Proteger o Ninho não significa decidir tudo pelas pessoas que vivem nele."
 
@@ -175,9 +188,9 @@ Embora não possua autoridade formal para tomar decisões em nome de Elias, freq
 
 É uma das poucas pessoas que consegue perceber quando uma decisão aparentemente simples pode provocar ressentimento ou desconfiança.
 
-## Função na comunidade
+## Ocupação no Ninho
 
-Elisa trabalha diretamente com a segurança e com o apoio à liderança.
+Elisa trabalha com o pai e o irmão na administração do Armazém, setor exclusivo da família Ninho. É responsável pelos registros de entrada e retirada, organização dos pedidos e comunicação com os demais setores. Também acompanha Elias em atividades que exigem segurança e atua como intermediária com os moradores.
 
 ### Responsabilidades
 
@@ -194,6 +207,12 @@ Elisa trabalha diretamente com a segurança e com o apoio à liderança.
 - Acompanhar atividades de vigilância quando necessário.
     
 - Ajudar a organizar informações recebidas de diferentes moradores.
+    
+- Registrar a entrada e a retirada dos suprimentos do Armazém.
+    
+- Organizar os pedidos dos setores e acompanhar as entregas autorizadas.
+    
+- Informar Elias sobre divergências, perdas ou necessidade de reposição.
     
 
 ### Estilo de trabalho
@@ -336,7 +355,7 @@ Seu receio é que o irmão acabe reproduzindo os mesmos erros do pai por acredit
 
 Ela gostaria que Davi aprendesse a ouvir mais os moradores e percebesse que tradição e mudança não precisam ser incompatíveis.
 
-## Conflitos internos
+## Conflitos e motivações
 
 ### O luto por Dalva
 
@@ -366,7 +385,7 @@ Elisa deseja proteger a comunidade, mas sabe que não pode resolver todos os pro
 
 Às vezes, tenta assumir responsabilidades demais por acreditar que alguém precisa compensar a postura cada vez mais rígida do pai.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -448,7 +467,7 @@ Sua sensibilidade para perceber comportamentos incomuns pode fazer com que seja 
 - Um acontecimento demonstra que ouvir os moradores pode ser tão importante quanto manter a segurança.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     

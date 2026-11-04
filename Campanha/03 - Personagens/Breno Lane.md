@@ -17,6 +17,19 @@ tags:
 
 # Breno Lane
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Breno Lane |
+| Idade | 37 anos |
+| Nascimento | 2043 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Cuidador dos animais do Ninho |
+| Família | [[Família Lane]] |
+| Status | vivo |
+
+
 > "Não precisa entender tudo de uma vez. Olha bem, faz com cuidado e não machuca o bicho."
 
 ## Visão geral
@@ -175,7 +188,7 @@ Breno não gosta quando Thomas tenta fazer alguma coisa apenas para provar que j
 
 Prefere que o menino aprenda aos poucos, sem pressa.
 
-## Ocupação: cuidador dos animais
+## Ocupação no Ninho
 
 O curral é um dos setores fundamentais do Ninho.
 
@@ -250,7 +263,7 @@ Breno demonstra carinho por meio de atitudes simples, como preparar alguma coisa
 
 Thomas é o filho único de Breno e Cecília.
 
-Breno sente muito orgulho do menino e gosta de vê-lo ajudando no curral.
+Breno sente muito orgulho do menino e gosta de vê-lo interessado pelos animais e pelo trabalho do curral.
 
 Procura ensinar aquilo que sabe por meio de demonstrações práticas.
 
@@ -266,7 +279,7 @@ Breno não percebe que Thomas interpreta algumas de suas preocupações como fal
 
 Apesar disso, os dois possuem uma relação muito afetuosa.
 
-Breno gosta de passar tempo com o filho, ensinar pequenas atividades e mostrar como cuidar corretamente dos animais.
+Breno gosta de passar tempo com o filho, mostrar como cuidar corretamente dos animais e ensinar pequenas atividades seguras, sempre como aprendizado e sem atribuir responsabilidades de trabalho.
 
 ### Gael Noctua — colega de trabalho
 
@@ -292,15 +305,15 @@ Helena gosta de brincar com Breno porque ele costuma interpretar algumas piadas 
 
 Breno nem sempre entende quando ela está fazendo graça, mas geralmente acaba sorrindo mesmo assim.
 
-### Samuel Clay — ferreiro
+### Hugo Becker — responsável pela Forja
 
-Breno procura Samuel quando precisa de reparos em ferramentas ou peças utilizadas no curral.
+Breno procura Hugo quando precisa de reparos em ferramentas ou peças utilizadas no curral.
 
-Não entende muito sobre metalurgia, mas confia na qualidade do trabalho do ferreiro.
+Não entende muito sobre metalurgia, mas confia na qualidade do trabalho de Hugo.
 
 Costuma levar objetos danificados e explicar, da maneira mais simples possível, o que precisa ser consertado.
 
-Samuel às vezes reclama da falta de explicações técnicas, mas reconhece que Breno cuida bem dos equipamentos.
+Hugo às vezes reclama da falta de explicações técnicas, mas reconhece que Breno cuida bem dos equipamentos.
 
 ### Dona Clara Fagundes — médica
 
@@ -332,7 +345,7 @@ Quando alguém precisa de ajuda para carregar alguma coisa, consertar uma cerca 
 
 Não espera receber reconhecimento por isso.
 
-## Conflitos internos
+## Conflitos e motivações
 
 ### A dificuldade de compreender situações complexas
 
@@ -358,7 +371,7 @@ Tem receio de mudanças que possam prejudicar a criação e comprometer os recur
 
 Entretanto, nem sempre percebe quando determinada prática poderia ser melhorada.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -441,14 +454,14 @@ Breno provavelmente perceberia que existe um problema, mesmo que não conseguiss
     
 - Um animal fica doente e Breno precisa procurar Clara para obter orientação.
     
-- Uma ferramenta importante quebra e Breno precisa negociar um reparo com Samuel.
+- Uma ferramenta importante quebra e Breno precisa negociar um reparo com Hugo.
     
 - Breno identifica um comportamento incomum em um animal, mas não consegue explicar o que está acontecendo.
     
 - Uma situação de perigo coloca Cecília ou Thomas em risco, fazendo Breno abandonar sua habitual tranquilidade.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     
@@ -462,7 +475,7 @@ Breno provavelmente perceberia que existe um problema, mesmo que não conseguiss
     
 - [[Helena Noctua]]
     
-- [[Samuel Clay]]
+- [[Hugo Becker]]
     
 - [[Dona Clara Fagundes]]
     

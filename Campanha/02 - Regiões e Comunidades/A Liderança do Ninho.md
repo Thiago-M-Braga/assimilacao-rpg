@@ -91,14 +91,14 @@ Esses responsáveis possuem autonomia operacional, mas não autoridade irrestrit
 
 |Responsável|Setor|Responsabilidade|
 |---|---|---|
-|[[Helena Noctua]]|Cozinha comunitária|Preparação e distribuição das refeições|
-|[[Gael Noctua]]|Plantação e estufa|Cultivo, conservação de sementes e produção agrícola|
-|[[Samuel Clay]]|Forja|Ferramentas, reparos e transformação de metais|
-|[[Dona Clara Fagundes]]|Casa Médica|Cuidados médicos, curativos e medicamentos|
+|[[Helena Noctua]], [[Maria Evans]], [[Fernando Evans]] e [[Iara Salles]]|Cozinha comunitária|Preparação, organização e distribuição das refeições|
+|[[Gael Noctua]] e [[Mabel Noctua]]|Plantação e estufa|Cultivo, preservação de sementes e produção agrícola|
+|[[Hugo Becker]], [[Marta Becker]] e [[Jonas Becker]]|Ferro-Velho e Forja|Triagem de sucata, metalurgia, fabricação e reparo de objetos e ferramentas|
+|[[Dona Clara Fagundes]], [[Lívia Fagundes]] e [[Freya Naevus]]|Casa Médica|Atendimento, preparação de materiais e cuidados com os pacientes|
 |[[Breno Lane]] e [[Cecília Lane]]|Curral|Cuidado dos animais domesticados|
-|[[Hugo Becker]]|Estação de Energia|Manutenção do gerador e da alimentação do Muro|
-|[[Lívia Fagundes]]|Armazém|Conservação e controle dos estoques|
-|[[Iara Salles]]|Registros|Controle documental de entradas, retiradas e distribuição|
+|[[Ithan Voos]]|Estação de Energia|Responsabilidade técnica pelo gerador e pelo sistema elétrico do Muro|
+|[[Elias Ninho]], [[Davi Ninho]] e [[Elisa Ninho]]|Armazém|Guarda, registro, autorização e distribuição dos estoques|
+|[[Vicente Murphy]]|Muro e segurança|Vigilância, orientação e preparação para deslocamentos externos|
 
 Cada responsável organiza as tarefas de seu setor e informa à liderança quando enfrenta problemas que ultrapassam sua capacidade de resolução.
 
@@ -169,9 +169,9 @@ Nenhum setor possui propriedade absoluta sobre os alimentos, ferramentas, medica
 
 A distribuição é organizada por meio da cooperação entre:
 
-- [[Lívia Fagundes]], responsável pelo estoque físico.
+- [[Davi Ninho]] e [[Elisa Ninho]], responsáveis pelo recebimento, registro e separação dos estoques.
     
-- [[Iara Salles]], responsável pelos registros e movimentações.
+- [[Iara Salles]], que registra apenas o consumo diário de ingredientes da cozinha comunitária.
     
 - Os responsáveis pelos setores, que solicitam os materiais necessários.
     

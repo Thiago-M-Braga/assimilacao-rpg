@@ -17,6 +17,18 @@ tags:
 
 # Vicente Murphy
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Vicente Murphy |
+| Idade | 60 anos |
+| Nascimento | 2020 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Veterano, guia e sentinela |
+| Status | vivo |
+
+
 > "Lá fora, um erro não custa uma discussão. Custa uma vida. E, às vezes, não é a sua."
 
 ## Visão geral
@@ -252,7 +264,7 @@ No início da campanha, Elias confia a Vicente a responsabilidade de acompanhar 
 
 Vicente aceita porque sabe que os jovens precisam conhecer o mundo exterior com alguém experiente ao lado. Não acredita que possa protegê-los de tudo, mas pretende impedir que cometam erros que poderiam ser evitados.
 
-## Função na comunidade
+## Ocupação no Ninho
 
 Vicente atua como guia, veterano e sentinela.
 
@@ -396,13 +408,13 @@ Ela frequentemente insiste para que ele faça refeições adequadas e não passe
 
 Vicente raramente admite, mas aprecia esse cuidado.
 
-### Samuel Clay — ferreiro
+### Hugo Becker — responsável pela Forja
 
-Vicente conhece Samuel há muitos anos.
+Vicente conhece Hugo há muitos anos.
 
 Os dois possuem personalidades diretas e não costumam desperdiçar palavras.
 
-Vicente respeita a qualidade do trabalho de Samuel e procura cuidar dos equipamentos que recebe da Forja.
+Vicente respeita a qualidade do trabalho de Hugo e procura cuidar dos equipamentos que recebe da Forja.
 
 Às vezes, os dois discordam sobre a melhor maneira de manter ou reparar armas e ferramentas.
 
@@ -461,7 +473,7 @@ Ele pode se cansar, cometer erros e interpretar incorretamente uma ameaça.
 
 Também não deve substituir a iniciativa dos personagens jogadores. Seu papel é ajudá-los a aprender, não decidir por eles.
 
-## Conflitos internos
+## Conflitos e motivações
 
 ### O medo de perder novamente
 
@@ -487,7 +499,7 @@ Agora precisa ensinar os mais jovens a sobreviver sem depender dele.
 
 Essa é uma tarefa difícil, pois exige que aceite a possibilidade de que um dia eles precisem enfrentar perigos sem sua presença.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -577,7 +589,7 @@ Não permite que outras pessoas o utilizem e fica bastante irritado quando algu�
 - Um personagem descobre que Vicente nunca contou a história completa da morte do pai.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     
@@ -593,7 +605,7 @@ Não permite que outras pessoas o utilizem e fica bastante irritado quando algu�
     
 - [[Dona Clara Fagundes]]
     
-- [[Samuel Clay]]
+- [[Hugo Becker]]
     
 - [[O Muro de Sucata]]
     

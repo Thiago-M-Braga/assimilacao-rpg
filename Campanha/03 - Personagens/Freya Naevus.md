@@ -1,28 +1,21 @@
 ---
-
-tipo: personagem  
-categoria: jogador  
-local: "[[O Ninho]]"  
-status: vivo  
-condicao: saudavel  
-familia: "[[Família Naevus]]"  
+tipo: personagem
+categoria: jogador
+nome: Freya Naevus
+idade: 24
+ocupacao: Aprendiz da Casa Médica
+local: "[[O Ninho]]"
+familia: "[[Família Naevus]]"
+status: viva
+condicao: saudavel
 tags:
-
-- campanha
-    
-- personagem-jogador
-    
-- freya
-    
-- ninho
-    
-- medicina
-    
-- mal-azul
-    
-
+  - campanha
+  - personagem-jogador
+  - freya
+  - ninho
+  - medicina
+  - mal-azul
 ---
-
 # Freya Naevus
 
 > "Eu não vou aceitar que mais alguém da minha família morra por causa dessa doença."
@@ -49,6 +42,10 @@ tags:
     
 - **Condição familiar:** A irmã mais nova está doente; o padrasto faleceu há seis anos
     
+
+## Visão geral
+
+Freya é uma personagem jogadora que atua como aprendiz da Casa Médica, sob orientação de Dona Clara. Sua motivação pessoal mais urgente é encontrar uma cura para a irmã mais nova, Luna, que sofre da Doença Azul. A formação médica e a busca por respostas caminham juntas em sua história.
 
 ## Aparência
 
@@ -195,7 +192,7 @@ O colar não possui poderes sobrenaturais ou ligação direta com a Doença Azul
 
 Seu verdadeiro valor narrativo está em sua procedência. Ele pode ajudar a conduzir Freya até informações sobre o pai, sobre sua saída do Ninho e sobre o que existe além dos muros.
 
-## A medicina como propósito
+## Ocupação no Ninho
 
 Freya tornou-se aprendiz de [[Dona Clara Fagundes]] depois que sua irmã começou a apresentar os sintomas da doença.
 
@@ -263,9 +260,9 @@ Freya ainda não conhece esse nome como uma classificação da enfermidade. Para
     
 - O sangue de Dalva apresentou uma coloração azul pouco antes de sua morte.
     
-- A origem está relacionada à [[Língua-de-Vidro]] e ao [[Micélio de Cobalto]].
+- A origem está relacionada à contaminação ambiental da produção da estufa pelo [[Micélio de Cobalto]].
     
-- Uma linhagem limpa da planta pode permitir o desenvolvimento de uma cura.
+- Cultivos variados, recuperados e desenvolvidos em solo limpo, podem permitir que a investigação médica desenvolva um tratamento.
     
 
 ### O que está em jogo
@@ -278,7 +275,7 @@ A investigação da doença será uma das principais jornadas pessoais da person
 
 A nota [[A Cura do Mal Azul]] reúne a solução que poderá ser desenvolvida por Freya, Mabel e Clara.
 
-## Relação com os outros personagens jogadores
+## Relações
 
 ### Mabel Noctua
 
@@ -298,7 +295,7 @@ Embora sua motivação pessoal seja diferente, suas habilidades podem ser import
 
 Freya pode depender de seu conhecimento para investigar os registros e instalações antigos do Ninho.
 
-## Possíveis ganchos narrativos
+## Ganchos narrativos
 
 ### 1. Os sintomas da irmã pioram
 
@@ -332,7 +329,7 @@ Mabel identifica alterações em algumas plantas medicinais e compartilha suas o
 
 As duas começam a comparar as informações da estufa com os registros médicos.
 
-A investigação conduz à [[Língua-de-Vidro]].
+A investigação conduz à origem comum dos cultivos: solo, composto e água compartilhados por diferentes canteiros.
 
 ### 6. O colar e o pai desaparecido
 
@@ -341,6 +338,12 @@ Em algum momento, Freya pode encontrar uma marca, registro ou objeto que reconhe
 Isso pode revelar que o pai esteve envolvido em acontecimentos sobre os quais a mãe nunca falou.
 
 A descoberta pode conduzir a uma investigação diferente daquela relacionada à doença.
+
+## Conflitos e motivações
+
+Freya tenta transformar o medo de perder a irmã em conhecimento e ação. Seu conflito central é conciliar o aprendizado médico, a urgência de salvar Luna e a descoberta de que a Doença Azul atingiu outras pessoas do Ninho.
+
+Ela também precisa lidar com perguntas sobre a morte do padrasto e sobre o passado do pai biológico, sem permitir que essas descobertas desviem sua atenção da irmã.
 
 ## Segredos do mestre
 
@@ -358,7 +361,7 @@ A descoberta pode conduzir a uma investigação diferente daquela relacionada à
     
 - A doença não é contagiosa.
     
-- A origem está relacionada à Língua-de-Vidro contaminada pelo Micélio de Cobalto.
+- A origem está relacionada à exposição prolongada aos alimentos da estufa contaminados pelo Micélio de Cobalto.
     
 - Clara ainda não conhece a origem verdadeira da doença.
     
@@ -428,7 +431,7 @@ Freya terá, portanto, dois caminhos pessoais importantes: compreender o passado
 
 - [[A Doença Azul]]
     
-- [[Língua-de-Vidro]]
+- [[Plantações e Estufa]]
     
 - [[Micélio de Cobalto]]
     

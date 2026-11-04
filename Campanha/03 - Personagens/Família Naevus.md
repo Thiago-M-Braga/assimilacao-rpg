@@ -1,34 +1,23 @@
 ---
-
-tipo: familia  
-categoria: nucleo-familiar  
-local: "[[O Ninho]]"  
-personagem-vinculado: "[[Freya Naevus]]"  
-status: definido  
+tipo: familia
+categoria: nucleo-familiar
+nome: Família Naevus
+local: "[[O Ninho]]"
+personagem-vinculado: "[[Freya Naevus]]"
+status: definido
 tags:
-
-- campanha
-    
-- familia
-    
-- naevus
-    
-- freya
-    
-- ninho
-    
-- mal-azul
-    
-- segredo-do-mestre
-    
-
+  - campanha
+  - familia
+  - naevus
+  - freya
+  - azevedo
+  - medicina
 ---
-
 # Família Naevus
 
 > "Uma família não é feita apenas das pessoas que permanecem. Também é feita das ausências que nunca deixam de ocupar espaço."
 
-## 1. Visão geral
+## Visão geral
 
 A Família Naevus é o núcleo familiar de [[Freya Naevus]], uma jovem de 24 anos que vive no Ninho com sua mãe e sua irmã mais nova.
 
@@ -46,7 +35,7 @@ Em 2079, Luna começou a apresentar sintomas semelhantes. Atualmente, aos sete a
 
 Freya decidiu aprender medicina com [[Dona Clara Fagundes]], tornando-se aprendiz na [[Casa Médica]]. Sua maior motivação é encontrar uma cura para a irmã.
 
-## 2. Integrantes da família
+## Integrantes da família
 
 |Nome|Idade em 2080|Situação|Relação com Freya|
 |---|---|---|---|
@@ -69,7 +58,7 @@ Freya decidiu aprender medicina com [[Dona Clara Fagundes]], tornando-se aprendi
 - Freya e Luna são meias-irmãs por parte de mãe.
     
 
-## 3. Marina Vilar — A mãe
+## Marina Vilar — A mãe
 
 <text style="display:none"> </text>
 
@@ -77,16 +66,16 @@ Freya decidiu aprender medicina com [[Dona Clara Fagundes]], tornando-se aprendi
 **Nascimento aproximado:** 2034  
 **Situação:** Viva  
 **Residência:** O Ninho  
-**Ocupação:** Costureira e responsável por reparos de tecidos  
+**Ocupação:** Auxiliar da Casa Médica na preparação de tecidos e materiais médicos  
 **Filhas:** Freya Naevus e Luna Azevedo
 
 ### Aparência
 
 Marina é uma mulher de aparência cansada, mas ainda bastante ativa. Tem cabelos castanhos com alguns fios grisalhos, olhos escuros e mãos marcadas pelo trabalho com agulhas, linhas e tecidos.
 
-Costuma usar roupas simples, avental de trabalho e manter uma pequena bolsa com materiais de costura por perto.
+Costuma usar roupas simples e um avental de trabalho. Mantém uma pequena bolsa com agulhas, linhas e instrumentos necessários para preparar tecidos médicos.
 
-Tem o hábito de guardar retalhos, botões e pedaços de tecido que ainda possam ser aproveitados.
+Tem o hábito de guardar retalhos, botões e pedaços de tecido que ainda possam ser aproveitados em curativos e reparos da Casa Médica.
 
 ### Personalidade
 
@@ -100,26 +89,18 @@ Carrega uma tristeza antiga relacionada ao desaparecimento de Dário e à morte 
 
 ### Trabalho no Ninho
 
-Marina trabalha como costureira e remendeira.
+Marina trabalha na Casa Médica, onde sua experiência com costura e reaproveitamento de tecidos é utilizada na preparação de materiais de atendimento.
 
 Suas atividades incluem:
 
-- Reparar roupas danificadas.
-    
-- Reforçar calças, casacos e botas de tecido.
-    
-- Consertar bolsas e mochilas.
-    
-- Remendar cobertores e lençóis.
-    
-- Recuperar tecidos para novos usos.
-    
-- Preparar peças simples de vestuário quando há material disponível.
-    
+- Lavar, separar e preparar panos limpos.
+- Costurar e reforçar ataduras e tecidos médicos reutilizáveis.
+- Preparar compressas, bolsas e proteções de tecido.
+- Reparar lençóis, mantas e roupas utilizadas pelos pacientes.
+- Organizar retalhos e materiais que possam ser aproveitados em curativos.
+- Avisar Clara quando os materiais têxteis estiverem em falta.
 
-Seu trabalho é importante porque roupas em boas condições ajudam a proteger os moradores do frio, dos ferimentos e das condições ambientais do exterior.
-
-Ela não possui uma oficina própria. Trabalha em um pequeno espaço junto à residência, onde mantém uma máquina de costura antiga, ferramentas manuais e caixas de retalhos.
+Seu trabalho complementa o atendimento de [[Dona Clara Fagundes]] e o apoio de [[Lívia Fagundes]]. Marina não administra a Casa Médica nem realiza procedimentos clínicos. Sua função é preparar e conservar os materiais de tecido usados no cuidado dos moradores.
 
 ### Relação com Freya
 
@@ -151,7 +132,7 @@ Também guarda ressentimento: Dário escolheu partir, deixando-a responsável pe
 
 Quando entregou o colar a Freya aos 18 anos, tentou oferecer uma lembrança do pai sem precisar reabrir toda a história.
 
-## 4. Dário Naevus — O pai biológico
+## Dário Naevus — O pai biológico
 
 **Idade quando desapareceu:** 32 anos  
 **Idade que teria em 2080:** 48 anos  
@@ -214,7 +195,7 @@ Com o passar dos anos, o silêncio tornou-se mais fácil do que explicar que Dá
 
 Ela também temia que Freya desenvolvesse a mesma obsessão pelo exterior e colocasse a própria vida em perigo.
 
-## 5. Raul Azevedo — O padrasto
+## Raul Azevedo — O padrasto
 
 **Idade quando morreu:** 43 anos  
 **Nascimento aproximado:** 2031  
@@ -288,15 +269,15 @@ Em 2074, Raul começou a apresentar sintomas que inicialmente foram interpretado
 
 Durante os meses seguintes, sua condição piorou.
 
-Ele recebeu preparações medicinais que continham compostos associados à [[Língua-de-Vidro]] contaminada pelo [[Micélio de Cobalto]].
+Durante anos, Raul consumiu refeições e preparações feitas com alimentos da estufa, cujo sistema de cultivo estava contaminado pelo [[Micélio de Cobalto]]. Sua condição física debilitada e a atividade elevada de Assimilação o tornaram especialmente vulnerável.
 
-A verdadeira causa não foi identificada.
+A verdadeira causa não foi identificada. Na época, ninguém suspeitava que a origem estivesse no solo, no composto e na água compartilhados pelos canteiros da estufa.
 
 Raul foi uma das primeiras vítimas conhecidas do [[A Doença Azul]] no Ninho.
 
 Morreu em 2074, quando Freya tinha 18 anos e Luna tinha aproximadamente um ano.
 
-## 6. Luna Azevedo — A irmã mais nova
+## Luna Azevedo — A irmã mais nova
 
 **Idade:** 7 anos  
 **Nascimento aproximado:** 2073  
@@ -359,7 +340,7 @@ Atualmente apresenta um quadro compatível com o estágio II inicial da [[A Doen
 - Veias discretamente azuladas durante períodos de febre.
     
 
-Seu caso ainda apresenta boa possibilidade de recuperação com o tratamento correto.
+Seu caso ainda apresenta boa possibilidade de recuperação com o tratamento correto. A exposição alimentar prolongada e sua vulnerabilidade individual contribuíram para o desenvolvimento da doença.
 
 ### O que Luna sabe
 
@@ -369,7 +350,7 @@ Sabe que Freya estuda medicina porque quer encontrar uma forma de fazê-la melho
 
 Não conhece a origem da doença e não compreende os detalhes relacionados à morte do pai.
 
-## 7. O colar de Dário
+## O colar de Dário
 
 O colar que Freya recebeu de sua mãe aos 18 anos pertenceu originalmente a Dário Naevus.
 
@@ -401,7 +382,7 @@ Para Marina, é uma lembrança de Dário e da família que existia antes de sua 
 
 O objeto não revela sozinho o destino de Dário, mas confirma que ele existiu e que Marina preservou uma lembrança dele por muitos anos.
 
-## 8. Cronologia da família
+## Cronologia da família
 
 |Ano|Acontecimento|Idades aproximadas|
 |---|---|---|
@@ -415,7 +396,7 @@ O objeto não revela sozinho o destino de Dário, mas confirma que ele existiu e
 |2079|Luna começa a apresentar sintomas|Freya: 23; Luna: 6|
 |2080|Presente da campanha|Freya: 24; Marina: 46; Luna: 7|
 
-## 9. Segredos do mestre
+## Segredos do mestre
 
 ### Verdades definitivas
 
@@ -439,7 +420,7 @@ O objeto não revela sozinho o destino de Dário, mas confirma que ele existiu e
     
 - Luna também desenvolveu a Doença Azul.
     
-- A doença de Raul e Luna está relacionada à exposição a preparações feitas com a Língua-de-Vidro contaminada.
+- A doença de Raul e Luna está relacionada à exposição prolongada aos alimentos e preparações produzidos na estufa, cujo sistema de cultivo foi contaminado pelo Micélio de Cobalto.
     
 - Freya não apresenta a doença.
     
@@ -456,7 +437,7 @@ Também teme que a filha tente assumir sozinha a responsabilidade de salvar Luna
 
 Ela não deseja esconder o passado para sempre, mas acredita que manter Freya protegida é mais importante do que responder a todas as perguntas.
 
-## 10. Ganchos narrativos
+## Ganchos narrativos
 
 ### 1. A verdade sobre Dário
 
@@ -502,7 +483,17 @@ Durante uma conversa com Marina, Freya descobre que Raul também havia feito peq
 
 **Resultado possível:** Freya encontra objetos e lembranças que ajudam a compreender melhor a figura paterna que teve durante a infância.
 
-## 11. Relações com o restante do Ninho
+## Responsabilidades no Ninho
+
+| Integrante | Atuação |
+|---|---|
+| [[Freya Naevus]] | Aprendiz da Casa Médica, sob orientação de Dona Clara |
+| [[Marina Vilar]] | Preparação, conservação e reparo de tecidos e materiais médicos na Casa Médica |
+| [[Luna Azevedo]] | Criança de 7 anos; sem função formal |
+| [[Raul Azevedo]] | Falecido em 2074; em vida, realizava manutenção de reservatórios, calhas e tubulações |
+| [[Dário Naevus]] | Desaparecido para Freya; não exerce função atual no Ninho |
+
+## Relações com o restante do Ninho
 
 A Família Naevus está ligada a diferentes áreas da comunidade.
 
@@ -516,7 +507,7 @@ A Família Naevus está ligada a diferentes áreas da comunidade.
 | [[Estação de Energia]]  |Local onde Ithan trabalha e pode auxiliar em investigações técnicas|
 | [[O Ninho]]             |Comunidade onde a família vive|
 
-## 12. Notas relacionadas
+## Notas relacionadas
 
 ### Personagens
 
@@ -560,7 +551,7 @@ A Família Naevus está ligada a diferentes áreas da comunidade.
     
 - [[A Cura do Mal Azul]]
     
-- [[Língua-de-Vidro]]
+- [[Plantações e Estufa]]
     
 - [[Micélio de Cobalto]]
     
@@ -573,7 +564,7 @@ A Família Naevus está ligada a diferentes áreas da comunidade.
 
 ---
 
-## 13. Função narrativa da família
+## Função narrativa da família
 
 A Família Naevus representa duas formas diferentes de ausência.
 

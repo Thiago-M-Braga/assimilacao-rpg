@@ -1,256 +1,171 @@
 ---
-
-tipo: referencia  
-categoria: comunidade  
-local: "[[O Ninho]]"  
+tipo: referencia
+categoria: comunidade
+local: "[[O Ninho]]"
+status: canon
 tags:
-
-- campanha
-    
-- ninho
-    
-- familias
-    
-- comunidade
-    
-
+  - campanha
+  - ninho
+  - familias
+  - comunidade
+  - trabalho
 ---
 
 # As Famílias do Ninho
 
-As famílias do Ninho são a base da organização social da comunidade. Mais do que dividir casas e sobrenomes, elas compartilham trabalho, responsabilidades, histórias e sobrevivência.
+## Visão geral
 
-Como a vila permaneceu isolada por décadas, os laços familiares se tornaram também laços de trabalho. Crianças crescem aprendendo as funções dos pais, casais dividem tarefas e os moradores mais velhos transmitem conhecimentos que não podem ser recuperados de livros ou máquinas.
+As famílias do Ninho compartilham moradia, responsabilidades e recursos. A sobrevivência da comunidade depende de cada adulto contribuir com um setor ou função definida. As funções descritas aqui correspondem à organização atual, em 2080.
 
-Nem todos são parentes de sangue. Algumas famílias se formaram a partir dos refugiados que chegaram nos primeiros anos após o Dia Zero. No Ninho, pertencer à comunidade vale tanto quanto pertencer a uma linhagem.
+Crianças com menos de 16 anos não possuem cargos, jornadas ou obrigações de trabalho. Podem observar os adultos e, por iniciativa própria, participar de pequenas atividades seguras e supervisionadas, mas não são contabilizadas como força de trabalho.
 
 ## Família Ninho
 
-**Representantes:** Elias Ninho, Davi Ninho e Elisa Ninho  
-**Residência:** Casa principal, próxima ao centro da vila  
-**Função:** Liderança e organização comunitária
+**Integrantes:** Elias Ninho, Davi Ninho, Elisa Ninho e Dalva Ninho (falecida)  
+**Residência:** Casa principal  
+**Função:** Liderança e administração exclusiva do Armazém
 
-A família Ninho descende dos antigos proprietários da fazenda onde a comunidade foi fundada. Desde os primeiros anos do Colapso, a responsabilidade pela propriedade e pela segurança dos moradores foi transmitida dentro da família.
+Elias é o líder do Ninho e supervisiona o funcionamento geral da comunidade. Ele e seus filhos adultos, Davi e Elisa, são as únicas pessoas que trabalham no Armazém.
 
-### Integrantes
+- **Elias Ninho:** define prioridades, autoriza retiradas extraordinárias e responde pela administração geral.
+- **Davi Ninho:** guarda pessoal de Elias e responsável pela entrada, conferência, organização física e conservação dos estoques.
+- **Elisa Ninho:** guarda pessoal e auxiliar da liderança; registra entradas e retiradas, organiza pedidos e acompanha a distribuição autorizada.
+- **Dalva Ninho:** falecida em 2079. Em vida, era uma mediadora comunitária e ajudava a manter a convivência entre as famílias.
 
-- **Elias Ninho:** atual líder do Ninho. Carrega a responsabilidade pelas decisões difíceis e pela continuidade da comunidade. Desde a morte da esposa, Dalva, tornou-se mais fechado e severo.
-    
-- **Davi Ninho:** filho de Elias. Atua como guarda pessoal do pai e auxilia na segurança e na manutenção da ordem. É disciplinado, atento e costuma assumir tarefas que exigem firmeza.
-    
-- **Elisa Ninho:** filha de Elias. Também atua como guarda pessoal e auxiliar direta do pai. Tem facilidade para conversar com moradores e perceber conflitos antes que se tornem problemas.
-    
-
-### Dinâmica familiar
-
-A morte de Dalva abalou profundamente a família. Elias passou a se apoiar ainda mais nos filhos, embora raramente demonstre afeto de maneira aberta.
-
-Davi e Elisa respeitam o pai, mas lidam de formas diferentes com sua autoridade. Davi tende a concordar com decisões duras quando acredita que a segurança está em jogo. Elisa costuma considerar primeiro o impacto dessas decisões sobre as pessoas.
-
-A família representa a continuidade da liderança tradicional do Ninho, mas também carrega o peso de manter uma estrutura que talvez já não corresponda às necessidades de todos.
-
----
+O acesso ao Armazém é restrito à família Ninho. Os outros setores encaminham solicitações e recebem os materiais, mas não trabalham no local.
 
 ## Família Noctua
 
 **Integrantes:** Gael Noctua, Helena Noctua e Mabel Noctua  
 **Residência:** Casa 5  
-**Função:** Agricultura, estufa e alimentação comunitária
+**Função:** Estufa e cozinha comunitária
 
-A família Noctua está diretamente ligada à produção de alimentos e à manutenção das plantações. Seu trabalho é essencial para que o Ninho não dependa exclusivamente de estoques antigos ou de recursos encontrados no exterior.
+A família Noctua participa de duas atividades essenciais, com responsabilidades separadas.
 
-### Integrantes
+- **Gael Noctua:** responsável pelas plantações, estufa, sementes, canteiros e produção agrícola.
+- **Helena Noctua:** chefe da cozinha comunitária, coordena o preparo e a distribuição das refeições.
+- **Mabel Noctua:** filha do casal e personagem jogadora. Participa do cultivo e da rotina da estufa, mantendo sua história pessoal em desenvolvimento com a jogadora.
 
-- **Gael Noctua:** responsável pelas plantações e pela estufa improvisada. É paciente, contemplativo e obcecado por preservar sementes. Acredita que cada variedade recuperada pode representar uma chance de sobrevivência para as próximas gerações.
-    
-- **Helena Noctua:** chefe da cozinha comunitária. Acolhedora e bem-humorada, tenta manter a moral dos moradores mesmo nos períodos de escassez. Trabalha com Maria e outros ajudantes na preparação e distribuição das refeições.
-    
-- **Mabel Noctua:** filha do casal. Cresceu em meio às plantações, aos preparativos da cozinha e às histórias sobre o mundo anterior ao Colapso.
-    
-
-### Dinâmica familiar
-
-Gael e Helena formam um casal complementar. Ele pensa no futuro distante, nas sementes que poderão alimentar a comunidade e nas possibilidades de recuperar a terra. Ela se preocupa com o presente: garantir que todos comam e que ninguém se sinta abandonado.
-
-Os dois desejam proteger Mabel, mas sabem que não podem mantê-la para sempre dentro de uma vida limitada pelos muros.
-
----
+Gael e Helena trabalham em contato constante: a produção agrícola determina os ingredientes disponíveis para as refeições.
 
 ## Família Evans
 
-**Integrantes:** Maria Evans e Fernando Evans  
+**Integrantes:** Maria Evans, Fernando Evans e o bebê Evans  
 **Residência:** Casa 2  
-**Função:** Cozinha comunitária e apoio à distribuição de alimentos
+**Função:** Cozinha comunitária
 
-Maria e Fernando trabalham na cozinha comunitária, ajudando Helena a preparar e distribuir as refeições.
+Maria e Fernando trabalham sob a coordenação de Helena Noctua.
 
-### Integrantes
+- **Maria Evans:** auxilia no preparo e na organização das refeições. Está grávida de sete meses no início da campanha.
+- **Fernando Evans:** auxilia no preparo, na limpeza e nas tarefas que exigem maior esforço físico.
+- **Bebê Evans:** primeiro filho do casal, ainda não nascido em 2080.
 
-- **Maria Evans:** 22 anos, está grávida de sete meses. Tem um jeito carinhoso e esperançoso, embora o cansaço e as preocupações da gravidez sejam cada vez mais visíveis.
-    
-- **Fernando Evans:** 26 anos, marido de Maria. Trabalha ao lado dela na cozinha e procura garantir que a família tenha o necessário para receber a criança.
-    
-
-### Dinâmica familiar
-
-A gravidez de Maria é motivo de alegria para a comunidade. Em um mundo onde a sobrevivência nunca é garantida, o nascimento de uma criança representa a possibilidade de continuidade.
-
-O casal ainda não sabe se terá um menino ou uma menina. Também não conhece todas as dificuldades que a chegada de um bebê trará para uma comunidade com recursos limitados.
-
-Maria recebe atenção especial de Helena e de Dona Clara, enquanto Fernando tenta esconder a própria ansiedade mantendo-se ocupado.
-
----
+A gravidez de Maria exige adaptações na rotina, e Helena procura evitar que ela realize tarefas pesadas.
 
 ## Família Lane
 
 **Integrantes:** Breno Lane, Cecília Lane e Thomas Lane  
 **Residência:** Casa 3  
-**Função:** Criação e cuidado dos animais
+**Função:** Curral e criação de animais
 
-A família Lane é responsável por boa parte dos cuidados com os animais domesticados do Ninho. O trabalho exige paciência, força e atenção constante, especialmente porque a perda de um animal pode significar menos alimento para todos.
+- **Breno Lane:** cuida da alimentação, limpeza, manutenção dos abrigos e manejo dos animais.
+- **Cecília Lane:** organiza os procedimentos do curral, acompanha a saúde e o comportamento dos animais e controla os materiais utilizados.
+- **Thomas Lane:** tem 10 anos e não possui função formal nem jornada de trabalho. Pode acompanhar os pais e participar voluntariamente de pequenas atividades seguras, sempre supervisionado.
 
-### Integrantes
-
-- **Breno Lane:** 37 anos. É forte e cuidadoso com os animais, embora não seja conhecido pela rapidez de raciocínio. Prefere tarefas práticas e costuma resolver problemas com as próprias mãos.
-    
-- **Cecília Lane:** 35 anos. Divide com Breno as responsabilidades do curral. É dedicada e organizada, mantendo atenção à saúde e ao comportamento dos animais.
-    
-- **Thomas Lane:** 10 anos. Filho do casal. Ajuda no curral e acompanha os pais nas tarefas mais simples. É magro, sardento e costuma vestir uma jaqueta jeans grande demais. Quer provar que é capaz de ajudar, mas tem medo do mundo exterior.
-    
-
-### Dinâmica familiar
-
-Breno e Cecília tentam proteger Thomas sem fazê-lo crescer completamente dependente deles. O menino deseja ser tratado como alguém útil, mas os pais ainda o veem como uma criança que precisa de cuidado.
-
-Thomas admira os adultos que trabalham fora dos muros e sente curiosidade pelo que existe além deles. Seu medo, porém, é maior do que costuma admitir.
-
----
-
-## Família Clay
-
-**Integrantes:** Samuel Clay e Iara Clay  
-**Residência:** Próxima à Ferro-Velho e à Forja  
-**Função:** Metalurgia, ferramentas e manutenção
-
-A família Clay está ligada à produção de ferramentas e à recuperação de materiais. A forja é uma das estruturas mais importantes do Ninho, e o trabalho dos Clay permite que a comunidade continue reparando equipamentos sem depender de peças industrializadas.
-
-### Integrantes
-
-- **Samuel Clay:** 42 anos, ferreiro. Musculoso, careca e de barba espessa, é conhecido pelo temperamento difícil e pela franqueza. Orgulha-se das ferramentas que consegue recuperar e fabricar.
-    
-- **Iara Clay:** companheira de Samuel. Ajuda a organizar materiais, separar sucata aproveitável e manter o espaço de trabalho funcional. Tem mais paciência para lidar com as pessoas do que Samuel e frequentemente serve de intermediária quando alguém precisa negociar um serviço com a forja.
-    
-
-### Dinâmica familiar
-
-Samuel demonstra afeto por meio do trabalho. Consertar uma ferramenta quebrada ou fabricar algo útil é, para ele, uma forma de cuidar de alguém.
-
-Iara entende o valor da forja para a comunidade, mas também sabe que Samuel pode transformar qualquer divergência em uma discussão. Ela ajuda a manter as relações com os outros moradores em equilíbrio.
-
----
+Breno e Cecília dividem as tarefas do curral e são responsáveis pela produção de origem animal.
 
 ## Família Fagundes
 
 **Integrantes:** Dona Clara Fagundes, Marcio Fagundes e Lívia Fagundes  
 **Residência:** Casa 4, junto à Casa Médica  
-**Função:** Medicina, cuidados e recuperação
+**Função:** Casa Médica
 
-A família Fagundes está associada à saúde dos moradores. A Casa Médica é um dos poucos lugares do Ninho onde alguém pode receber cuidados especializados, ainda que os recursos sejam limitados.
+- **Dona Clara Fagundes:** médica e responsável pela Casa Médica.
+- **Lívia Fagundes:** auxiliar da mãe na preparação de materiais, higiene, organização de instrumentos e acompanhamento dos pacientes.
+- **Marcio Fagundes:** sofre de amnésia e permanece na Casa Médica sob os cuidados de Clara. Quando tem períodos de lucidez e está disposto, ajuda em pequenas tarefas supervisionadas de organização e reparo; não realiza atendimento médico nem possui jornada regular.
 
-### Integrantes
-
-- **Dona Clara Fagundes:** 58 anos, médica e curandeira. É séria, maternal e cuidadosa. Conhece os medicamentos restantes, as ervas disponíveis e os limites dos tratamentos que consegue oferecer.
-    
-- **Marcio Fagundes:** 69 anos, marido de Clara. Sofre de amnésia e passa a maior parte do tempo na Casa Médica, sob os cuidados da esposa.
-    
-- **Lívia Fagundes:** filha do casal. Ajuda na Casa Médica com tarefas de organização, limpeza, preparação de materiais e acompanhamento dos pacientes. Cresceu observando a mãe trabalhar e aprendeu a respeitar os limites de uma medicina com poucos recursos.
-    
-
-### Dinâmica familiar
-
-Clara dedica grande parte da vida ao cuidado dos outros, mas sua maior preocupação é Marcio. A amnésia dele exige atenção constante e representa uma dor que ela raramente compartilha.
-
-Lívia tenta dividir as responsabilidades da Casa Médica com a mãe. Também procura preservar momentos em que Clara possa simplesmente ser esposa e mãe, em vez de médica e cuidadora.
-
----
+A família dedica boa parte de sua rotina à saúde dos moradores.
 
 ## Família Becker
 
-**Integrantes:** Hugo Becker, Marta Becker e Jonas Becker  
-**Residência:** Próxima à Estação de Energia  
-**Função:** Energia, manutenção e reparos técnicos
+**Integrantes:** Hugo Becker, Marta Becker, Clark Becker e Jonas Becker  
+**Residência:** Casa 7, próxima ao Ferro-Velho e à Forja  
+**Função:** Ferro-Velho e Forja, com exceção de Clark
 
-A família Becker está ligada ao funcionamento da Estação de Energia. O conhecimento técnico é raro no Ninho, e a manutenção do gerador eólico exige atenção constante.
+A Família Becker é responsável pelo trabalho com sucata e metalurgia.
 
-### Integrantes
+- **Hugo Becker:** coordena a Forja e executa os trabalhos de metalurgia especializada.
+- **Marta Becker:** produz acabamentos, aventais, luvas, bainhas, correias, bolsas de ferramentas e proteções utilizando tecidos, couro e lona.
+- **Jonas Becker:** aprendiz de metalurgia e auxiliar de produção.
+- **Clark Becker:** é a exceção. Antes de adoecer, ajudava [[Ithan Voos]] na Estação de Energia, preparando ferramentas e identificando componentes elétricos. Atualmente está internado na Casa Médica.
 
-- **Hugo Becker:** 55 anos, técnico responsável pela Estação de Energia. Magro, excêntrico e quase sempre com ferramentas à mão, costuma murmurar enquanto trabalha em fios, engrenagens e mecanismos.
-    
-- **Marta Becker:** companheira de Hugo. Ajuda a controlar materiais, organizar peças e manter o espaço de manutenção em ordem.
-    
-- **Jonas Becker:** filho do casal. Aprendeu desde cedo a reconhecer ferramentas, identificar peças e auxiliar em reparos simples. Tem interesse em compreender como funcionam os equipamentos antigos.
-    
+Hugo, Marta e Jonas trabalham na Forja. A responsabilidade técnica pela Estação de Energia pertence a Ithan, e Clark era seu auxiliar.
 
-### Dinâmica familiar
+A ficha completa do núcleo está em [[Família Becker]].
 
-Hugo tem dificuldade para explicar o que faz de maneira simples. Muitas vezes prefere demonstrar um reparo a conversar sobre ele.
+## Família Voos
 
-Marta ajuda a transformar o conhecimento disperso do marido em tarefas que outras pessoas conseguem compreender. Jonas representa a possibilidade de que esse conhecimento não desapareça com a geração atual.
+**Integrantes:** Ithan Voos e Artur Voos (desaparecido)  
+**Residência:** O Ninho  
+**Função:** Estação de Energia
 
----
+- **Ithan Voos:** engenheiro e responsável técnico pela Estação de Energia e pelo sistema elétrico do Muro de Sucata.
+- **Artur Voos:** pai de Ithan, desaparecido desde 2069. Seu destino verdadeiro permanece um segredo do mestre.
+
+Clark Becker auxiliava Ithan na preparação de ferramentas e na identificação de componentes antes de adoecer. A Família Becker fornece peças metálicas à estação, mas não administra sua operação.
+
+## Família Naevus e núcleo Azevedo
+
+**Integrantes:** Freya Naevus, Marina Vilar, Luna Azevedo e familiares ausentes ou falecidos  
+**Residência:** O Ninho  
+**Função:** Casa Médica
+
+- **Freya Naevus:** personagem jogadora e aprendiz da Casa Médica, sob orientação de Clara.
+- **Marina Vilar:** auxilia a Casa Médica na preparação, conservação e reparo de tecidos médicos, ataduras e materiais de curativo.
+- **Luna Azevedo:** irmã mais nova de Freya, com 7 anos. Não possui função formal por ser criança.
+- **Raul Azevedo:** padrasto de Freya e pai de Luna, falecido em 2074. Em vida, realizava manutenção de reservatórios, calhas e tubulações.
+- **Dário Naevus:** pai biológico de Freya, desaparecido para ela; seu destino é segredo do mestre.
+
+Marina e Freya contribuem para a Casa Médica de formas diferentes: Marina prepara os materiais têxteis, enquanto Freya aprende os cuidados e procedimentos clínicos.
+
+## Iara Salles
+
+**Idade:** 39 anos  
+**Residência:** O Ninho  
+**Função:** Cozinha comunitária
+
+Iara não pertence a um núcleo familiar tradicional. Trabalha na cozinha comunitária com Helena, Maria e Fernando. Organiza ingredientes, auxilia no preparo e registra o consumo diário para apoiar o planejamento das refeições.
+
+Seu controle se limita à cozinha. Iara não trabalha no Armazém nem administra os estoques gerais.
 
 ## Vicente Murphy
 
-**Vínculo:** Morador do Ninho, sem núcleo familiar próprio  
 **Residência:** Alojamento próximo ao Muro de Sucata  
 **Função:** Guia, veterano e sentinela
 
-Vicente não possui esposa ou filhos. Sua vida foi marcada por perdas, especialmente a morte do pai, e ele evita criar laços que possam se transformar em novas dores.
+Vicente não possui esposa ou filhos. Sua experiência em segurança, vigilância e deslocamentos externos faz dele uma referência para a comunidade e para os jovens que precisam sair do Ninho.
 
-A experiência militar herdada do pai e os anos de sobrevivência fizeram dele um dos moradores mais preparados para lidar com ameaças externas.
+## Matriz de responsabilidades
 
-Embora não pertença a uma família tradicional do Ninho, Vicente é tratado como parte da comunidade. Protege os mais jovens, ajuda a resolver conflitos e conhece os perigos que existem além dos muros.
-
-Sua presença oferece uma espécie de proteção que não depende apenas de armas: ele conhece o medo, reconhece sinais de perigo e sabe quando uma decisão precipitada pode custar vidas.
-
----
+| Núcleo ou morador | Setor | Atividade |
+|---|---|---|
+| Elias, Davi e Elisa Ninho | Armazém | Administração exclusiva, controle e distribuição de estoques |
+| Helena, Maria, Fernando e Iara Salles | Cozinha | Preparo e distribuição das refeições |
+| Gael e Mabel Noctua | Estufa | Cultivo, sementes e produção agrícola |
+| Breno e Cecília Lane | Curral | Criação e cuidado dos animais |
+| Clara, Lívia, Freya e Marina | Casa Médica | Atendimento, apoio e preparação de materiais |
+| Marcio Fagundes | Casa Médica | Pequenas tarefas supervisionadas, quando possível |
+| Hugo, Marta e Jonas Becker | Ferro-Velho e Forja | Metalurgia, fabricação e acabamento |
+| Ithan Voos | Estação de Energia | Responsabilidade técnica e manutenção elétrica |
+| Clark Becker | Estação de Energia | Antigo auxiliar de Ithan; atualmente afastado |
+| Vicente Murphy | Muro e segurança | Vigilância, orientação e expedições |
 
 ## Laços entre as famílias
 
-As famílias do Ninho não vivem isoladas umas das outras. A sobrevivência depende da cooperação entre os diferentes núcleos.
+As famílias dependem umas das outras. A estufa e o curral abastecem a cozinha; a cozinha alimenta todos os setores; o Armazém distribui os recursos de reserva; a Casa Médica cuida da saúde; a Forja fabrica ferramentas; a Estação mantém o muro eletrificado; e a liderança coordena prioridades e distribuição.
 
-|Família ou núcleo|Principal contribuição|Dependência comunitária|
-|---|---|---|
-|Ninho|Liderança e segurança|Coordenação de todos os setores|
-|Noctua|Agricultura e alimentação|Produção de alimentos|
-|Evans|Cozinha e distribuição|Preparação das refeições|
-|Lane|Criação de animais|Proteína, reprodução e cuidados|
-|Clay|Forja e ferramentas|Manutenção e fabricação|
-|Fagundes|Saúde e cuidados|Tratamentos e prevenção|
-|Becker|Energia e reparos|Funcionamento do muro eletrificado|
-|Murphy|Experiência e proteção|Orientação e defesa|
-
-## O que mantém as famílias unidas
-
-O Ninho sobrevive porque cada família entende que seu trabalho afeta todas as outras. Uma falha na plantação prejudica a cozinha. Um problema na forja atrasa reparos. Uma interrupção na energia pode comprometer a proteção do muro.
-
-Essa interdependência também cria tensões. Famílias podem discordar sobre a distribuição de recursos, a prioridade de determinados trabalhos ou o peso que cada uma carrega.
-
-Apesar disso, existe uma compreensão compartilhada: fora dos muros, ninguém virá ajudar. Dentro deles, cada família é parte da sobrevivência de todas as outras.
+Nenhum núcleo é autossuficiente. Uma falha em um setor afeta a rotina de todos os demais.
 
 ## Uso em jogo
 
-Esta nota serve como referência rápida para:
-
-- Identificar a qual núcleo familiar pertence cada morador.
-    
-- Encontrar NPCs ligados a uma atividade específica.
-    
-- Criar cenas cotidianas que mostrem a interdependência da comunidade.
-    
-- Apresentar conflitos familiares que tenham consequências para o Ninho.
-    
-- Mostrar como decisões dos personagens afetam pessoas que não participam diretamente de suas aventuras.
-    
-
-As famílias não são apenas grupos de NPCs. São a estrutura humana que transforma o Ninho em uma comunidade, e não apenas em um conjunto de casas protegidas por um muro.
+Esta nota permite identificar rapidamente os responsáveis por cada atividade, encontrar NPCs ligados a um setor e criar cenas cotidianas que mostrem a dependência entre as famílias. Também serve como referência para verificar se novos personagens adultos possuem uma função na comunidade.

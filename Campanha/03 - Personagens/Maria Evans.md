@@ -16,6 +16,19 @@ tags:
 
 # Maria Evans
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Maria Evans |
+| Idade | 22 anos |
+| Nascimento | 2058 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Auxiliar da cozinha comunitária |
+| Família | [[Família Evans]] |
+| Status | viva |
+
+
 > "Talvez a gente não consiga mudar o mundo que recebeu, mas ainda pode oferecer algo melhor para quem está chegando."
 
 ## Visão geral
@@ -176,7 +189,7 @@ O casal decidiu não escolher um nome antes do nascimento. Fernando prefere espe
 
 Para os dois, o bebê representa uma oportunidade de construir algo novo em um mundo que herdaram sem ter escolhido.
 
-## Ocupação: cozinha comunitária
+## Ocupação no Ninho
 
 Maria trabalha ao lado de Helena Noctua na cozinha comunitária.
 
@@ -279,7 +292,7 @@ Desde a morte de Dalva, percebeu que Elias ficou mais distante e menos acessíve
 
 Não costuma confrontá-lo, mas sente que a comunidade perdeu uma parte importante de sua convivência.
 
-## A gravidez e os sentimentos de Maria
+## Conflitos e motivações
 
 A chegada do primeiro filho trouxe novas preocupações.
 
@@ -338,7 +351,7 @@ Maria não costuma compartilhar todos esses medos. Prefere conversar sobre as ex
 
 O bebê representa a continuidade da comunidade e a esperança de uma geração que poderá construir um futuro diferente.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -420,7 +433,7 @@ O nascimento também pode transformar a dinâmica da comunidade, criando novas r
 - O nascimento se aproxima e a comunidade precisa se preparar para receber a criança.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     

@@ -144,17 +144,13 @@ As funções variam conforme a idade, a saúde, a experiência e as necessidades
 
 ### Crianças
 
-As crianças não são obrigadas a assumir tarefas pesadas, mas aprendem desde cedo a cuidar dos próprios pertences, respeitar os espaços compartilhados e ajudar em atividades simples.
+Crianças com menos de 16 anos não possuem função formal, jornada ou obrigação de trabalho. Aprendem a cuidar dos próprios pertences, respeitar os espaços compartilhados e podem, por vontade própria, participar de pequenas atividades seguras e supervisionadas. A prioridade dessa fase é a infância, o aprendizado e a convivência.
 
 Brincadeiras também fazem parte do cotidiano. Muitas utilizam materiais reaproveitados, objetos de madeira e jogos inventados pelos próprios moradores.
 
 ### Adolescentes
 
-Os adolescentes começam a acompanhar os responsáveis pelos setores e a aprender profissões.
-
-Podem ajudar na cozinha, no curral, na plantação, na Forja ou em atividades de manutenção.
-
-É nessa fase que muitos descobrem suas aptidões e começam a assumir responsabilidades mais regulares.
+A partir dos 16 anos, os jovens podem iniciar uma formação prática e assumir tarefas compatíveis com sua experiência e segurança. O aprendizado acontece junto aos responsáveis pelos setores, mas as responsabilidades aumentam gradualmente. Menores de 16 anos não são contabilizados como trabalhadores do vilarejo.
 
 ### Adultos
 
@@ -311,7 +307,7 @@ Ninguém deve comprometer a segurança do Muro ou colocar outros moradores em ri
 
 ### Respeito aos espaços coletivos
 
-A cozinha, a Casa Médica, o Armazém, a Forja e a Estação de Energia possuem responsáveis. Suas orientações devem ser respeitadas.
+A cozinha, a Casa Médica, o Armazém, a Forja, o curral, a estufa e a Estação de Energia possuem equipes e responsáveis definidos. O Armazém é uma exceção de acesso restrito: apenas Elias, Davi e Elisa Ninho trabalham no local.
 
 ### Honestidade sobre retiradas
 

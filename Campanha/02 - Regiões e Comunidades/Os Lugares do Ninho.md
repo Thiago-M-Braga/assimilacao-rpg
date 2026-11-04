@@ -67,7 +67,8 @@ O interior é simples, mas um pouco mais preservado que o restante das casas. H�
 ## 2. Cozinha Comunitária
 
 **Localização:** Próxima ao centro da vila  
-**Responsáveis:** Helena Noctua e Maria Evans  
+**Responsável:** Helena Noctua
+**Equipe:** Maria Evans, Fernando Evans e Iara Salles  
 **Uso:** Preparação e distribuição de alimentos
 
 A Cozinha Comunitária é um dos lugares mais movimentados do Ninho. Todos dependem dela, e seu funcionamento organiza boa parte da rotina diária.
@@ -107,14 +108,14 @@ Cheiros de comida, fumaça, panelas batendo e conversas se misturam durante boa 
 ## 3. Ferro-Velho e Forja
 
 **Localização:** Setor de oficinas  
-**Responsáveis:** Samuel Clay e Iara Clay  
+**Responsáveis:** Hugo Becker, Marta Becker e Jonas Becker  
 **Uso:** Recuperação de sucata, fabricação e reparo de ferramentas
 
 A Forja é um espaço quente, barulhento e coberto por fuligem. Pilhas de sucata são separadas por tipo de metal, enquanto ferramentas antigas aguardam reparo em prateleiras improvisadas.
 
-Samuel trabalha com o que consegue recuperar. Fabrica facões, pontas de lança, peças de reposição, ferramentas agrícolas e componentes para estruturas da vila.
+Hugo coordena o trabalho com o metal e fabrica ferramentas, utensílios, suportes e peças de reposição. Marta prepara acabamentos, luvas, aventais, bainhas, correias e proteções. Jonas atua como aprendiz, separando materiais e auxiliando na produção.
 
-O lugar também funciona como depósito de materiais reaproveitáveis. Quase nada é descartado sem antes passar pela avaliação de Samuel.
+O lugar também funciona como área de triagem de materiais reaproveitáveis. Quase nada é descartado sem antes passar pela avaliação dos Beckers.
 
 ### Atmosfera
 
@@ -122,9 +123,11 @@ O som do martelo contra o metal é constante. O ar é pesado, e o chão está co
 
 ### Pessoas encontradas
 
-- Samuel Clay.
+- Hugo Becker.
     
-- Iara Clay.
+- Marta Becker.
+    
+- Jonas Becker.
     
 
 ### Possibilidades narrativas
@@ -145,7 +148,9 @@ O som do martelo contra o metal é constante. O ar é pesado, e o chão está co
 ## 4. Casa Médica
 
 **Localização:** Próxima às residências  
-**Responsáveis:** Dona Clara Fagundes e Lívia Fagundes  
+**Responsável:** Dona Clara Fagundes
+**Equipe:** Lívia Fagundes e Freya Naevus
+**Apoio:** Marina Vilar e Marcio Fagundes, quando possível  
 **Uso:** Atendimento, tratamento e armazenamento de medicamentos
 
 A Casa Médica é pequena e organizada de maneira rigorosa. Prateleiras guardam frascos, panos limpos, instrumentos, ervas secas e os poucos medicamentos que ainda podem ser utilizados.
@@ -166,7 +171,11 @@ Os moradores respeitam a Casa Médica porque sabem que, sem ela, um ferimento si
     
 - Lívia Fagundes.
     
-- Marcio Fagundes.
+- Freya Naevus.
+    
+- Marina Vilar, quando está ajudando com tecidos e materiais médicos.
+    
+- Marcio Fagundes, em tarefas simples e supervisionadas.
     
 
 ### Possibilidades narrativas
@@ -195,7 +204,7 @@ O Curral abriga os animais domesticados que conseguiram sobreviver e se adaptar 
 
 As instalações são simples, feitas de madeira reforçada, cercas metálicas e materiais reaproveitados. A manutenção é constante, pois qualquer falha pode permitir que um animal escape ou que algo de fora consiga entrar.
 
-Breno e Cecília cuidam da alimentação, limpeza, reprodução e saúde dos animais. Thomas ajuda em tarefas menores e acompanha os pais sempre que pode.
+Breno e Cecília cuidam da alimentação, limpeza, reprodução e saúde dos animais. Thomas, por ter 10 anos, não possui função formal. Pode acompanhar os pais e observar as atividades ou participar voluntariamente de pequenas tarefas seguras, sempre supervisionado.
 
 ### Atmosfera
 
@@ -230,7 +239,8 @@ Há cheiro de feno, esterco e ração. Sons de animais fazem parte da paisagem c
 ## 6. Plantações e Estufa
 
 **Localização:** Área aberta e ensolarada dentro do assentamento  
-**Responsável:** Gael Noctua  
+**Responsável:** Gael Noctua
+**Apoio:** Mabel Noctua  
 **Uso:** Cultivo de alimentos e preservação de sementes
 
 As plantações ocupam uma parte importante do terreno da antiga fazenda. O espaço foi adaptado para aproveitar ao máximo o solo disponível e proteger os cultivos das condições ambientais.
@@ -266,7 +276,7 @@ O agricultor registra o desenvolvimento das plantas e guarda sementes de diferen
 ## 7. Armazém
 
 **Localização:** Próximo à área central de trabalho  
-**Responsáveis:** Administração comunitária  
+**Responsáveis:** Elias Ninho, Davi Ninho e Elisa Ninho  
 **Uso:** Armazenamento e controle de suprimentos
 
 O Armazém guarda os recursos que não são consumidos imediatamente. Alimentos secos, ferramentas de reserva, peças, tecidos, materiais de construção e medicamentos ficam separados e registrados.
@@ -281,7 +291,7 @@ Os estoques são fundamentais para atravessar períodos de baixa produção, doe
 
 ### Pessoas encontradas
 
-O responsável pelo controle pode variar conforme a tarefa. Elias supervisiona decisões importantes sobre distribuição e reservas.
+O Armazém é administrado exclusivamente por [[Elias Ninho]], [[Davi Ninho]] e [[Elisa Ninho]]. Davi cuida da organização física; Elisa mantém os registros e acompanha os pedidos; Elias autoriza prioridades e retiradas excepcionais. Nenhum outro morador trabalha no local.
 
 ### Possibilidades narrativas
 
@@ -301,14 +311,14 @@ O responsável pelo controle pode variar conforme a tarefa. Elias supervisiona d
 ## 8. Estação de Energia
 
 **Localização:** Área elevada e exposta ao vento  
-**Responsável:** Hugo Becker  
+**Responsável técnico:** Ithan Voos  
 **Uso:** Geração e distribuição limitada de eletricidade
 
 A Estação de Energia abriga o gerador eólico rústico herdado da antiga fazenda e adaptado ao longo dos anos.
 
 O equipamento fornece energia em quantidade limitada. Por isso, a eletricidade é poupada e direcionada principalmente ao sistema que mantém o Muro de Sucata eletrificado.
 
-Hugo Becker é responsável pela manutenção. Ele conhece as peças, os ruídos e as falhas recorrentes do equipamento melhor do que qualquer outro morador.
+Ithan Voos é responsável pela manutenção técnica. Clark Becker o auxiliava na preparação de ferramentas e identificação de componentes antes de adoecer. A Forja dos Beckers fornece peças metálicas, mas não administra a estação.
 
 ### Atmosfera
 
@@ -316,11 +326,9 @@ O vento e o ruído mecânico do gerador dominam o ambiente. Fios, ferramentas e 
 
 ### Pessoas encontradas
 
-- Hugo Becker.
+- Ithan Voos.
     
-- Marta Becker.
-    
-- Jonas Becker.
+- Clark Becker, seu antigo auxiliar, atualmente afastado por doença.
     
 
 ### Possibilidades narrativas
@@ -329,7 +337,7 @@ O vento e o ruído mecânico do gerador dominam o ambiente. Fios, ferramentas e 
     
 - Uma peça essencial precisa ser recuperada.
     
-- Hugo identifica uma alteração no consumo de energia.
+- Ithan identifica uma alteração no consumo de energia.
     
 - O fornecimento precisa ser interrompido para manutenção.
     
@@ -478,7 +486,7 @@ Os caminhos são parte da rotina. Durante o dia, estão cheios de movimento. À 
 |---|---|---|
 |Casa Principal|Liderança|Elias, Davi e Elisa|
 |Cozinha Comunitária|Alimentação|Helena, Maria e Fernando|
-|Ferro-Velho e Forja|Ferramentas e metalurgia|Samuel e Iara|
+|Ferro-Velho e Forja|Ferramentas, metalurgia e acessórios|Hugo, Marta e Jonas Becker|
 |Casa Médica|Saúde|Clara, Lívia e Marcio|
 |Curral|Animais|Breno, Cecília e Thomas|
 |Plantações e Estufa|Agricultura|Gael|

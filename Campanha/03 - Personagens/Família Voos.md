@@ -1,36 +1,23 @@
 ---
-
-tipo: familia  
-categoria: nucleo-familiar  
-local: "[[O Ninho]]"  
-personagem-vinculado: "[[Ithan Voos]]"  
-status: definido  
+tipo: familia
+categoria: nucleo-familiar
+nome: Família Voos
+local: "[[O Ninho]]"
+personagem-vinculado: "[[Ithan Voos]]"
+status: definido
 tags:
-
-- campanha
-    
-- familia
-    
-- voos
-    
-- ithan
-    
-- ninho
-    
-- exploracao
-    
-- engenharia
-    
-- segredo-do-mestre
-    
-
+  - campanha
+  - familia
+  - voos
+  - ithan
+  - artur
+  - energia
 ---
-
 # Família Voos
 
 > "Um dia você vai precisar escolher entre ficar onde conhece tudo e descobrir o que existe além do horizonte."
 
-## 1. Visão geral
+## Visão geral
 
 A Família Voos é representada atualmente por [[Ithan Voos]], um jovem engenheiro de 22 anos que trabalha na manutenção do sistema elétrico responsável pela proteção do [[O Ninho]].
 
@@ -48,7 +35,7 @@ Atualmente, trabalha na [[Estação de Energia]], ajudando a manter o sistema qu
 
 Embora tenha vontade de sair e descobrir o mundo, Ithan ainda sente responsabilidade pela comunidade que o criou.
 
-## 2. Integrantes da família
+## Integrantes da família
 
 |Nome|Idade em 2080|Situação|Relação|
 |---|---|---|---|
@@ -57,7 +44,7 @@ Embora tenha vontade de sair e descobrir o mundo, Ithan ainda sente responsabili
 
 A família não possui outros integrantes ativos definidos nesta nota. Ithan não tem parentes próximos acompanhando sua vida dentro do Ninho.
 
-## 3. Ithan Voos — O filho
+## Ithan Voos — O filho
 
 **Idade:** 22 anos  
 **Nascimento aproximado:** 2058  
@@ -101,7 +88,7 @@ A partida de Artur também representa uma pergunta que Ithan ainda não consegui
 
 Para conhecer o personagem em detalhes, consulte [[Ithan Voos]].
 
-## 4. Artur Voos — O pai desaparecido
+## Artur Voos — O pai desaparecido
 
 **Idade:** 60 anos em 2080  
 **Nascimento aproximado:** 2020  
@@ -162,7 +149,7 @@ Também compartilhava conhecimentos com outros moradores que trabalhavam na áre
 
 Seu interesse pelo funcionamento de equipamentos antigos acabou influenciando a formação de Ithan.
 
-## 5. A partida em 2069
+## A partida em 2069
 
 Em 2069, Artur decidiu sair do Ninho.
 
@@ -196,7 +183,7 @@ A curiosidade pelas histórias de Artur se transformou em desejo de explorar.
 
 Ao mesmo tempo, Ithan decidiu aprender a cuidar dos equipamentos do Ninho. Manter o sistema elétrico funcionando era uma maneira de aplicar tudo o que havia aprendido com o pai.
 
-## 6. A pulseira de Artur
+## A pulseira de Artur
 
 **Nome da nota relacionada:** [[A Pulseira de Ithan]]
 
@@ -230,7 +217,7 @@ A bússola foi adquirida por Artur em uma expedição anterior à sua partida de
 
 Não possui uma marca secreta ou mecanismo oculto. Seu valor é sentimental e está relacionado à última lembrança que Ithan recebeu do pai antes de perdê-lo.
 
-## 7. O destino verdadeiro de Artur
+## O destino verdadeiro de Artur
 
 > [!danger] Segredo do Mestre — Não revelar a Ithan
 > 
@@ -280,15 +267,15 @@ A existência da Vigília do Relé pode ser descoberta por meio de sinais de com
 
 O objetivo é fazer com que Ithan encontre primeiro evidências de que seu pai pode ter sobrevivido, antes de descobrir toda a verdade.
 
-## 8. Relação com a Estação de Energia
+## Relação com a Estação de Energia
 
 A família Voos possui uma ligação importante com a infraestrutura elétrica do Ninho.
 
 Artur ajudou a transmitir conhecimentos técnicos a Ithan, que atualmente trabalha na [[Estação de Energia]].
 
-### Ithan e Hugo Becker
+### Ithan e Ithan Voos
 
-[[Hugo Becker]] é um dos técnicos mais experientes da estação e conhece profundamente o gerador eólico utilizado pela comunidade.
+[[Ithan Voos]] é o responsável técnico pela Estação de Energia e conhece profundamente o gerador eólico utilizado pela comunidade. [[Hugo Becker]] coordena a Forja e fornece peças metálicas quando necessário.
 
 Ithan possui conhecimentos de engenharia e atua diretamente nos sistemas elétricos que alimentam a proteção do muro.
 
@@ -304,7 +291,7 @@ Algumas técnicas de diagnóstico, formas de organizar componentes e princípios
 
 Assim, mesmo ausente, Artur continua influenciando a maneira como Ithan trabalha.
 
-## 9. Ganchos narrativos
+## Ganchos narrativos
 
 ### 1. Uma falha com padrão desconhecido
 
@@ -354,7 +341,7 @@ Essa decisão deve ter consequências reais e não precisa apresentar uma respos
 
 **Conexão:** [[O Ninho]] e [[O Mundo Exterior]].
 
-## 10. Cronologia da família
+## Cronologia da família
 
 |Ano|Acontecimento|Idades|
 |---|---|---|
@@ -367,7 +354,7 @@ Essa decisão deve ter consequências reais e não precisa apresentar uma respos
 |2074–2079|Artur permanece na comunidade exterior|Artur: 54–59|
 |2080|Presente da campanha|Artur: 60; Ithan: 22|
 
-## 11. Segredos do mestre
+## Segredos do mestre
 
 - O pai de Ithan se chama Artur Voos.
     
@@ -396,7 +383,16 @@ Essa decisão deve ter consequências reais e não precisa apresentar uma respos
 - A existência de Artur pode levar Ithan a descobrir outras comunidades, equipamentos e rotas do mundo exterior.
     
 
-## 12. Notas relacionadas
+## Responsabilidades no Ninho
+
+| Integrante | Atuação |
+|---|---|
+| [[Ithan Voos]] | Engenheiro e responsável técnico pela Estação de Energia e pelo sistema elétrico do Muro de Sucata |
+| [[Artur Voos]] | Desaparecido desde 2069; não reside atualmente no Ninho. Seu paradeiro é segredo do mestre |
+
+A manutenção técnica da estação pertence a Ithan. [[Clark Becker]] era seu auxiliar antes de adoecer. A Família Becker fornece ferramentas e componentes metálicos por meio da Forja, mas não administra o setor de energia.
+
+## Notas relacionadas
 
 ### Personagens
 
@@ -446,7 +442,7 @@ Essa decisão deve ter consequências reais e não precisa apresentar uma respos
 - [[O Mundo Exterior]]
     
 
-## 13. Função narrativa da família
+## Função narrativa da família
 
 A Família Voos representa a ligação entre o conhecimento do passado e a vontade de descobrir o futuro.
 

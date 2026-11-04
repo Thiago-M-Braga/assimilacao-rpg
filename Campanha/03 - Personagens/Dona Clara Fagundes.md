@@ -42,6 +42,18 @@ tags:
 
 # Dona Clara Fagundes
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Dona Clara Fagundes |
+| Idade | 58 anos |
+| Nascimento | 2022 |
+| Residência ou vínculo principal | Casa Médica do Ninho |
+| Ocupação atual | Médica e curandeira |
+| Status | viva |
+
+
 > "Eu não preciso saber explicar todas as coisas. Só preciso saber o que fazer para impedir que alguém morra."
 
 ## Visão geral
@@ -52,7 +64,7 @@ Séria, cuidadosa e maternal, dedica a maior parte de sua vida ao atendimento do
 
 Sua presença transmite segurança. Mesmo quando não possui uma solução, Clara procura oferecer conforto e fazer tudo o que está ao seu alcance.
 
-É casada com Marcio Fagundes, de 69 anos, que sofre de amnésia e permanece sob seus cuidados na Casa Médica. Também é mãe de Lívia Fagundes, de 34 anos, responsável pelo controle de suprimentos do Ninho.
+É casada com Marcio Fagundes, de 69 anos, que sofre de amnésia e permanece sob seus cuidados na Casa Médica. Também é mãe de Lívia Fagundes, de 34 anos, que trabalha como sua auxiliar na Casa Médica.
 
 Entretanto, Clara guarda um segredo que nunca conseguiu compreender completamente: ela testemunhou a alteração na cor do sangue de Dalva Ninho, aproximadamente um mês antes de sua morte.
 
@@ -186,7 +198,7 @@ Desde pequena, observava a mãe cuidando dos moradores e o pai organizando ferra
 
 Clara sempre incentivou a filha a encontrar seu próprio caminho. Nunca exigiu que ela seguisse a medicina.
 
-### A Casa Médica — 2060 a 2072
+### Ocupação no Ninho — 2060 a 2072
 
 Com o passar dos anos, Clara se tornou a principal responsável pela saúde dos moradores.
 
@@ -310,11 +322,11 @@ Até o presente, nenhum desses momentos produziu uma recuperação duradoura da 
 
 ### Lívia Fagundes — filha, 34 anos
 
-Lívia é a filha única de Clara e Marcio.
+Lívia é a filha única de Clara e Marcio e atua como auxiliar da Casa Médica.
 
-Clara tem muito orgulho da mulher que a filha se tornou. Reconhece sua competência no Armazém e valoriza sua capacidade de organização.
+Clara tem muito orgulho da mulher que a filha se tornou. Valoriza sua organização e a confiança que demonstra no trabalho da Casa Médica.
 
-Depois do acidente de Marcio, Lívia passou a ajudar mais frequentemente na Casa Médica.
+Depois do acidente de Marcio, Lívia passou a ajudar mais frequentemente na preparação de materiais, na higiene do espaço e no acompanhamento dos pacientes.
 
 Clara tenta impedir que a filha abandone suas próprias responsabilidades para assumir os cuidados do pai. Não quer que Lívia passe a viver em função da doença de Marcio, como aconteceu com ela.
 
@@ -356,13 +368,13 @@ Clara aprecia esse cuidado, mas raramente admite quando está cansada demais par
 
 ### Iara Salles — colaboradora
 
-Clara respeita a organização de Iara e reconhece a importância de seu trabalho com suprimentos.
+Clara respeita a organização de Iara e reconhece sua contribuição na cozinha comunitária. Iara ajuda a registrar o consumo diário de alimentos e a manter a comunicação entre a cozinha e os demais setores.
 
-Em algumas ocasiões, precisa solicitar materiais específicos à responsável pelos registros do Armazém.
+Quando a Casa Médica precisa de materiais, Clara encaminha a solicitação a Elias, Davi ou Elisa Ninho, que administram o Armazém.
 
 Clara prefere manter um controle cuidadoso dos medicamentos, pois sabe que a falta de determinados itens pode comprometer tratamentos futuros.
 
-## A Casa Médica
+## Ocupação no Ninho
 
 A Casa Médica é o local de trabalho e residência de Clara em boa parte do dia.
 
@@ -434,7 +446,13 @@ Entretanto, sabe que esconder uma informação médica também representa uma qu
 
 Se uma situação semelhante acontecer novamente, talvez não consiga manter o mesmo silêncio.
 
-## Segredo do Mestre
+## Conflitos e motivações
+
+Clara precisa equilibrar o atendimento dos moradores, a escassez de medicamentos e os cuidados com Marcio. Seu maior conflito é reconhecer os limites do conhecimento e dos recursos disponíveis sem deixar de tentar ajudar cada paciente.
+
+A amostra do sangue de Dalva e a repetição de sintomas semelhantes entre diferentes moradores aumentam sua inquietação. Clara teme que a comunidade esteja diante de uma ameaça que a medicina disponível ainda não consegue explicar.
+
+## Segredos do mestre
 
 **SEGREDO — NÃO REVELAR AOS JOGADORES**
 
@@ -448,15 +466,13 @@ Não conseguiu identificar a causa nem encontrar um tratamento eficaz.
 
 ### O que realmente aconteceu
 
-A doença de Dalva foi provocada por uma reação anômala do organismo ao parasita responsável pelo processo de Assimilação.
+A doença de Dalva foi provocada por uma reação anômala do organismo ao processo de Assimilação. Ao longo do tempo, Dalva consumiu alimentos produzidos na estufa, cujo sistema de cultivo estava contaminado pelo Micélio de Cobalto.
 
-O parasita, normalmente presente nos seres vivos, começou a desenvolver uma atividade desordenada dentro do corpo dela.
+A baixa resistência física e a atividade elevada de Assimilação tornaram seu organismo especialmente vulnerável aos compostos ingeridos. O fungo estimulou o parasita a acelerar a transformação do corpo de maneira desordenada.
 
-A alteração no sangue foi um dos primeiros sinais visíveis dessa atividade.
+A alteração no sangue foi um dos primeiros sinais visíveis dessa atividade. O organismo de Dalva não conseguiu suportar as mudanças internas, e o processo acabou provocando sua morte.
 
-O organismo de Dalva não conseguiu suportar as mudanças internas, e o processo acabou provocando sua morte.
-
-Clara não conhece essa explicação.
+Clara não conhece a origem ambiental nem a relação com os alimentos da estufa.
 
 ### O destino da amostra
 
@@ -542,7 +558,7 @@ Tem medo de que o mesmo fenômeno possa acontecer com outra pessoa.
 - Clara precisa escolher entre manter seu segredo ou arriscar provocar pânico para proteger os moradores.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     
