@@ -1,28 +1,21 @@
 ---
-
-tipo: personagem  
-categoria: jogador  
-local: "[[O Ninho]]"  
-status: vivo  
-condicao: saudavel  
-familia: "[[Família Naevus]]"  
+tipo: personagem
+categoria: jogador
+nome: Freya Naevus
+idade: 24
+ocupacao: Aprendiz da Casa Médica
+local: "[[O Ninho]]"
+familia: "[[Família Naevus]]"
+status: viva
+condicao: saudavel
 tags:
-
-- campanha
-    
-- personagem-jogador
-    
-- freya
-    
-- ninho
-    
-- medicina
-    
-- mal-azul
-    
-
+  - campanha
+  - personagem-jogador
+  - freya
+  - ninho
+  - medicina
+  - mal-azul
 ---
-
 # Freya Naevus
 
 > "Eu não vou aceitar que mais alguém da minha família morra por causa dessa doença."
