@@ -3,7 +3,7 @@ tipo: personagem
 nome: Thomas Lane
 idade: 10
 nascimento: 2070
-ocupacao: Ajudante do curral
+ocupacao: Criança do Ninho; sem função formal
 local: O Ninho
 status: vivo
 tags:
@@ -22,7 +22,7 @@ tags:
 
 Thomas Lane tem 10 anos e é filho de Breno e Cecília Lane.
 
-É um dos moradores mais jovens do Ninho e ajuda os pais nas atividades do curral. Apesar da pouca idade, procura participar de diferentes tarefas e está sempre tentando demonstrar que consegue assumir responsabilidades maiores.
+É um dos moradores mais jovens do Ninho. Por ter apenas 10 anos, não possui função formal nem jornada de trabalho. Gosta de acompanhar os pais e pode participar voluntariamente de pequenas atividades seguras, sempre supervisionado, mas não recebe responsabilidades de adulto.
 
 É magro, alto para sua idade e possui sardas espalhadas pelo rosto. Costuma vestir uma jaqueta jeans velha e rasgada, grande demais para seu corpo, que parece ter sido herdada de alguém mais velho.
 
@@ -204,28 +204,9 @@ Quando escuta histórias de exploração, costuma fazer muitas perguntas. Entret
 
 Mas, quando está sozinho, imagina o que faria se realmente encontrasse uma delas.
 
-## Ocupação: ajudante do curral
+## Infância e participação voluntária
 
-Thomas auxilia Breno e Cecília no cuidado dos animais do Ninho.
-
-Sua participação ainda é limitada pela idade, mas já consegue realizar diversas tarefas simples.
-
-### Responsabilidades
-
-- Ajudar a distribuir alimento para os animais.
-    
-- Reabastecer recipientes de água.
-    
-- Recolher materiais utilizados na limpeza.
-    
-- Acompanhar o comportamento dos animais.
-    
-- Auxiliar na separação de alimentos e rações.
-    
-- Ajudar a localizar animais que saem dos espaços delimitados.
-    
-- Buscar ferramentas e materiais solicitados pelos pais.
-    
+Thomas gosta de observar os pais no curral e aprender sobre os animais. Quando deseja participar, pode realizar pequenas atividades seguras, como observar um animal, conversar com os pais sobre seu comportamento ou ajudar a guardar um objeto leve. Essas ações são voluntárias, supervisionadas e não constituem trabalho ou obrigação.
 
 ### O que aprendeu
 
