@@ -296,6 +296,8 @@ O espaço é utilizado para produzir alimentos e preservar sementes.
 
 **Responsável:** [[Gael Noctua]].
 
+**Apoio:** [[Mabel Noctua]], que participa do cultivo, da organização dos canteiros e da rotina da estufa.
+
 A preservação de sementes é uma das maiores preocupações de Gael, que mantém registros e acompanha o desenvolvimento das plantas.
 
 ### 4.7. Armazém
@@ -605,17 +607,16 @@ As atividades principais são:
 
 |Atividade|Responsáveis|
 |---|---|
-|Preparação das refeições|Helena, Maria e Fernando|
-|Agricultura e sementes|Gael|
-|Criação de animais|Breno e Cecília|
-|Manutenção de ferramentas|Samuel|
-|Atendimento médico|Clara|
-|Estoque de suprimentos|Marta|
-|Manutenção da energia|Hugo|
-|Liderança e administração|Elias|
-|Proteção e vigilância|Vicente, Davi e Elisa|
+|Preparação das refeições|Helena Noctua, Maria Evans, Fernando Evans e Iara Salles|
+|Agricultura, estufa e sementes|Gael Noctua e Mabel Noctua|
+|Criação e cuidado dos animais|Breno Lane e Cecília Lane|
+|Ferro-Velho e Forja|Hugo Becker, Marta Becker e Jonas Becker|
+|Casa Médica|Dona Clara Fagundes, Lívia Fagundes, Freya Naevus e Marina Vilar; Marcio auxilia pontualmente quando pode|
+|Armazém|Elias Ninho, Davi Ninho e Elisa Ninho, exclusivamente|
+|Estação de Energia|Ithan Voos; Clark Becker era seu auxiliar e está afastado|
+|Proteção e vigilância|Vicente Murphy, Davi Ninho e Elisa Ninho|
 
-As funções não representam necessariamente as únicas atividades realizadas pelos moradores. A comunidade depende da colaboração entre diferentes pessoas sempre que surge uma necessidade.
+As funções não representam necessariamente as únicas atividades realizadas pelos moradores. A comunidade depende da colaboração entre diferentes pessoas sempre que surge uma necessidade. Crianças com menos de 16 anos não possuem função formal nem jornada de trabalho.
 
 ## 12. Informações ainda não definidas
 
