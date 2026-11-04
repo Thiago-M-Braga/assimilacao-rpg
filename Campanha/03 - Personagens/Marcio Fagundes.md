@@ -16,6 +16,19 @@ tags:
 
 # Marcio Fagundes
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Marcio Fagundes |
+| Idade | 69 anos |
+| Nascimento | 2011 |
+| Residência ou vínculo principal | Casa Médica do Ninho |
+| Ocupação atual | Apoio eventual à organização e aos pequenos reparos da Casa Médica |
+| Família | [[Família Fagundes]] |
+| Status | vivo |
+
+
 > "Eu sei que esqueci alguma coisa importante. Só não sei o que era."
 
 ## Visão geral
