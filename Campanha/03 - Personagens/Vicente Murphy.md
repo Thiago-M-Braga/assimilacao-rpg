@@ -396,13 +396,13 @@ Ela frequentemente insiste para que ele faça refeições adequadas e não passe
 
 Vicente raramente admite, mas aprecia esse cuidado.
 
-### Hugo Becker — ferreiro
+### Hugo Becker — responsável pela Forja
 
-Vicente conhece Samuel há muitos anos.
+Vicente conhece Hugo há muitos anos.
 
 Os dois possuem personalidades diretas e não costumam desperdiçar palavras.
 
-Vicente respeita a qualidade do trabalho de Samuel e procura cuidar dos equipamentos que recebe da Forja.
+Vicente respeita a qualidade do trabalho de Hugo e procura cuidar dos equipamentos que recebe da Forja.
 
 Às vezes, os dois discordam sobre a melhor maneira de manter ou reparar armas e ferramentas.
 
