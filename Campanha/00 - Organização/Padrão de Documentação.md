@@ -62,7 +62,16 @@ Campos específicos podem ser adicionados conforme a categoria. Manter os campos
 
 Não manter campos contraditórios ou duplicados. A idade deve corresponder ao ano de referência da campanha (2080).
 
-## 4. Ficha de personagem
+## 4. Organização das pastas de personagens e famílias
+
+As fichas individuais ficam organizadas por tipo dentro da pasta `Campanha/03 - Ninho/`:
+
+- `Personagens/` — fichas de indivíduos, incluindo personagens jogadores e NPCs.
+- `Famílias/` — fichas específicas de núcleos familiares.
+
+A referência geral sobre a composição familiar e as funções de cada núcleo permanece em `Campanha/02 - Regiões e Comunidades/As Famílias do Ninho.md`. Essa página não substitui as fichas específicas de cada família.
+
+## 5. Ficha de personagem
 
 Todas as fichas individuais devem seguir esta ordem:
 
@@ -81,7 +90,7 @@ Todas as fichas individuais devem seguir esta ordem:
 
 Personagens jogadores podem incluir uma seção de conceito, objetos pessoais ou evolução, desde que a ordem das seções principais seja preservada.
 
-## 5. Ficha de família
+## 6. Ficha de família
 
 Todas as notas de família devem seguir esta ordem:
 
@@ -98,7 +107,7 @@ Todas as notas de família devem seguir esta ordem:
 
 Famílias não devem receber funções que contradigam as fichas individuais de seus integrantes.
 
-## 6. Ficha de local ou setor
+## 7. Ficha de local ou setor
 
 Todas as descrições de lugares devem seguir esta ordem:
 
@@ -116,7 +125,7 @@ Todas as descrições de lugares devem seguir esta ordem:
 
 A lista de pessoas encontradas em um lugar deve corresponder à equipe atual descrita nas fichas de personagens e na matriz de trabalho.
 
-## 7. Notas de mundo e história
+## 8. Notas de mundo e história
 
 As notas de mundo devem seguir esta ordem:
 
@@ -131,7 +140,7 @@ As notas de mundo devem seguir esta ordem:
 
 Separar explicitamente o que é conhecimento geral, conhecimento dos moradores e verdade do mestre.
 
-## 8. Segredos do mestre e mistérios
+## 9. Segredos do mestre e mistérios
 
 As notas reservadas devem seguir esta ordem:
 
@@ -149,7 +158,7 @@ As notas reservadas devem seguir esta ordem:
 
 Informações que os jogadores ainda não conhecem devem permanecer sob uma seção identificada como segredo do mestre. Fichas de personagens podem mencionar os sintomas e pistas sem revelar a causa.
 
-## 9. Matriz de responsabilidades do Ninho
+## 10. Matriz de responsabilidades do Ninho
 
 A matriz de trabalho deve ser mantida coerente em `[[As Famílias do Ninho]]`, `[[O Ninho]]`, `[[A Liderança do Ninho]]`, `[[Os Lugares do Ninho]]` e `[[Trabalho, Produção e Recursos do Ninho]]`.
 
@@ -164,7 +173,7 @@ A matriz de trabalho deve ser mantida coerente em `[[As Famílias do Ninho]]`, `
 
 A regra de idade permanece: crianças com menos de 16 anos não possuem função ou jornada formal.
 
-## 10. Revisão de consistência
+## 11. Revisão de consistência
 
 Antes de concluir uma alteração, verificar:
 
@@ -177,11 +186,11 @@ Antes de concluir uma alteração, verificar:
 - Links para arquivos existentes; remover referências a personagens ou famílias excluídos.
 - Se a mesma informação aparece com versões diferentes em documentos de comunidade, personagens e mistérios.
 
-## 11. Notas relacionadas
+## 12. Notas relacionadas
 
 - [[O Ninho]]
 - [[As Famílias do Ninho]]
-- [[Famílias do Ninho]]
+- [[As Famílias do Ninho]]
 - [[A Liderança do Ninho]]
 - [[A Vida Cotidiana no Ninho]]
 - [[Os Lugares do Ninho]]
