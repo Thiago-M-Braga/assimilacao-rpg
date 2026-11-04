@@ -396,4 +396,3 @@ As histórias e vínculos familiares apresentados nesta nota foram desenvolvidos
     
 - [[Marcio Fagundes]]
     
-- [[Samuel Clay]]
