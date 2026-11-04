@@ -3,7 +3,7 @@ tipo: personagem
 nome: Marcio Fagundes
 idade: 69
 nascimento: 2011
-ocupacao: Antigo trabalhador de manutenção
+ocupacao: Apoio eventual à organização e aos pequenos reparos da Casa Médica
 local: Casa Médica do Ninho
 status: vivo
 tags:
@@ -28,7 +28,7 @@ Ajudou durante muitos anos na manutenção de estruturas do Ninho e também part
 
 Em 2073, sofreu uma queda enquanto movimentava materiais armazenados. Bateu a cabeça e, depois do acidente, começou a apresentar problemas de memória que se agravaram com o passar do tempo.
 
-Atualmente, passa a maior parte dos dias na Casa Médica, sob os cuidados de Clara.
+Atualmente, passa a maior parte dos dias na Casa Médica, sob os cuidados de Clara. Quando está em um período de lucidez e se sente disposto, ajuda em pequenas tarefas de organização, conservação de prateleiras e reparos simples, sempre supervisionado. Não possui jornada regular nem realiza atendimentos médicos.
 
 Sua condição não apagou completamente quem ele foi. Algumas habilidades, hábitos e lembranças permanecem, mas sua capacidade de reconhecer pessoas e compreender acontecimentos varia bastante.
 
@@ -332,7 +332,7 @@ Em alguns momentos, Marcio reconhece o líder. Em outros, precisa ser lembrado d
 
 ## Relação com a Casa Médica
 
-Marcio não é responsável por nenhum atendimento médico, mas sua presença faz parte da rotina da Casa Médica.
+Marcio não é responsável por nenhum atendimento médico. Quando sua condição permite, ajuda de maneira informal e supervisionada na organização do espaço, na conservação de móveis e em pequenos reparos que não ofereçam risco.
 
 Clara procura mantê-lo ocupado com atividades simples, especialmente aquelas que não representam riscos.
 
