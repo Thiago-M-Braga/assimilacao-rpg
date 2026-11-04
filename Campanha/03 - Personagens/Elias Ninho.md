@@ -246,9 +246,9 @@ Considera os dois pilares da estabilidade interna.
 
 ### Hugo Becker
 
-Elias respeita o trabalho de Samuel e sabe que a Forja é indispensável para a segurança e a manutenção do Ninho.
+Elias respeita o trabalho de Hugo e sabe que a Forja é indispensável para a segurança e a manutenção do Ninho.
 
-Entretanto, os dois possuem temperamentos difíceis. Samuel não gosta de receber ordens sem explicações, enquanto Elias espera que as pessoas cumpram as responsabilidades assumidas.
+Entretanto, os dois possuem temperamentos difíceis. Hugo não gosta de receber ordens sem explicações, enquanto Elias espera que as pessoas cumpram as responsabilidades assumidas.
 
 Apesar dos atritos, existe respeito profissional entre eles.
 
