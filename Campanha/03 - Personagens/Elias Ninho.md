@@ -162,7 +162,7 @@ Ele confia nos filhos e depende bastante de Vicente Murphy para assuntos de segu
 
 Seu maior medo é que alguma coisa aconteça com a comunidade durante seu governo e que ele seja lembrado como o homem que falhou em proteger o legado da própria família.
 
-## A liderança do Ninho
+## Ocupação no Ninho
 
 Elias não considera sua posição um privilégio. Para ele, a liderança é uma obrigação herdada.
 
@@ -328,7 +328,7 @@ O segredo pode vir à tona de três maneiras:
 
 A revelação da causa verdadeira pode ficar para um momento posterior, quando os personagens tiverem contato com manifestações mais evidentes da Assimilação.
 
-## Conflitos internos
+## Conflitos e motivações
 
 Elias possui conflitos que podem ser explorados durante a campanha.
 
@@ -388,7 +388,7 @@ Ele terá de escolher entre preservar a confiança da comunidade ou admitir que 
 - Questionar sua autoridade diante dos moradores.
 - Insistir em expedições exteriores sem preparação.
 
-## Ganchos para a campanha
+## Ganchos narrativos
 
 - Um dos personagens percebe que Elias reage de maneira estranha quando alguém menciona Dalva.
 - Clara demonstra desconforto diante de perguntas sobre a antiga paciente.
@@ -397,7 +397,7 @@ Ele terá de escolher entre preservar a confiança da comunidade ou admitir que 
 - Iara encontra uma inconsistência em registros antigos que pode envolver uma decisão de Elias.
 - Um acontecimento relacionado à Assimilação ameaça revelar que o segredo de Dalva não era um caso isolado.
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
 - [[Famílias do Ninho]]
