@@ -343,7 +343,7 @@ Elias costuma cumprimentá-lo quando visita a Casa Médica, mas não espera mant
 
 Em alguns momentos, Marcio reconhece o líder. Em outros, precisa ser lembrado de quem ele é.
 
-## Relação com a Casa Médica
+## Ocupação no Ninho
 
 Marcio não é responsável por nenhum atendimento médico. Quando sua condição permite, ajuda de maneira informal e supervisionada na organização do espaço, na conservação de móveis e em pequenos reparos que não ofereçam risco.
 
@@ -357,7 +357,7 @@ Embora não possua uma função formal, Marcio ainda contribui de pequenas manei
 
 Clara evita que ele realize trabalhos que exijam esforço físico, altura ou uso de ferramentas perigosas.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -447,7 +447,7 @@ Entretanto, suas anotações não devem ser tratadas como um registro perfeitame
 - Alguém tenta utilizar as habilidades de Marcio para recuperar um equipamento antigo, mas Clara teme que o esforço seja prejudicial.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     
