@@ -410,7 +410,7 @@ Entretanto, acredita que a comunidade precisa pensar no futuro com a mesma serie
 
 Não costuma discutir diretamente com o líder, mas defende a importância de manter recursos destinados à agricultura.
 
-### Samuel Clay — ferreiro
+### Hugo Becker — ferreiro
 
 Gael procura Samuel quando precisa de ferramentas, suportes metálicos ou reparos em estruturas utilizadas na plantação.
 
@@ -576,7 +576,7 @@ Sua cautela não vem de uma explicação científica, mas da experiência de ter
     
 - [[Iara Salles]]
     
-- [[Samuel Clay]]
+- [[Hugo Becker]]
     
 - [[A Nova Ecologia]]
     
