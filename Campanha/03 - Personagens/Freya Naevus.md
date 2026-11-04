@@ -188,7 +188,7 @@ O colar não possui poderes sobrenaturais ou ligação direta com a Doença Azul
 
 Seu verdadeiro valor narrativo está em sua procedência. Ele pode ajudar a conduzir Freya até informações sobre o pai, sobre sua saída do Ninho e sobre o que existe além dos muros.
 
-## A medicina como propósito
+## Ocupação no Ninho
 
 Freya tornou-se aprendiz de [[Dona Clara Fagundes]] depois que sua irmã começou a apresentar os sintomas da doença.
 
@@ -291,7 +291,7 @@ Embora sua motivação pessoal seja diferente, suas habilidades podem ser import
 
 Freya pode depender de seu conhecimento para investigar os registros e instalações antigos do Ninho.
 
-## Possíveis ganchos narrativos
+## Ganchos narrativos
 
 ### 1. Os sintomas da irmã pioram
 
