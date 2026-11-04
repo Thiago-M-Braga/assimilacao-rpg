@@ -189,7 +189,7 @@ O casal decidiu não escolher um nome antes do nascimento. Fernando prefere espe
 
 Para os dois, o bebê representa uma oportunidade de construir algo novo em um mundo que herdaram sem ter escolhido.
 
-## Ocupação: cozinha comunitária
+## Ocupação no Ninho
 
 Maria trabalha ao lado de Helena Noctua na cozinha comunitária.
 
@@ -351,7 +351,7 @@ Maria não costuma compartilhar todos esses medos. Prefere conversar sobre as ex
 
 O bebê representa a continuidade da comunidade e a esperança de uma geração que poderá construir um futuro diferente.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -433,7 +433,7 @@ O nascimento também pode transformar a dinâmica da comunidade, criando novas r
 - O nascimento se aproxima e a comunidade precisa se preparar para receber a criança.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     
