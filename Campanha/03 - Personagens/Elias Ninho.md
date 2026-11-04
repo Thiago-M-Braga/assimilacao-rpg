@@ -244,7 +244,7 @@ Gael garante a produção de alimentos, enquanto Helena ajuda a manter os morado
 
 Considera os dois pilares da estabilidade interna.
 
-### Samuel Clay
+### Hugo Becker
 
 Elias respeita o trabalho de Samuel e sabe que a Forja é indispensável para a segurança e a manutenção do Ninho.
 
