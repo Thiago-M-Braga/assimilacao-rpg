@@ -441,11 +441,11 @@ O importante é que os recursos tenham valor porque representam trabalho, tempo 
 
 ## Ganchos de História
 
-- Lívia identifica uma diferença significativa entre o inventário e o estoque físico.
+- Elisa identifica uma diferença significativa entre os registros e o estoque físico do Armazém, e comunica a Elias e Davi.
     
 - Gael descobre que parte das sementes reservadas não poderá ser utilizada no próximo plantio.
     
-- Samuel precisa de um metal específico para concluir um reparo importante.
+- Hugo precisa de um metal específico para concluir um reparo importante na Forja.
     
 - Hugo solicita uma peça que não consta nos registros atuais do Armazém.
     
