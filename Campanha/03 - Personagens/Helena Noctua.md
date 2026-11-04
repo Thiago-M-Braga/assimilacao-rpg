@@ -17,6 +17,19 @@ tags:
 
 # Helena Noctua
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Helena Noctua |
+| Idade | 45 anos |
+| Nascimento | 2035 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Chefe da cozinha comunitária |
+| Família | [[Família Noctua]] |
+| Status | viva |
+
+
 > "Pode faltar muita coisa neste mundo, mas enquanto houver comida na panela e alguém disposto a dividir, ainda temos motivos para continuar."
 
 ## Visão geral
