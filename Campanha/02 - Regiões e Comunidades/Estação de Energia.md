@@ -4,7 +4,7 @@ tipo: estrutura
 categoria: infraestrutura  
 status: canon  
 local: "[[O Ninho]]"  
-responsavel: "[[Hugo Becker]]"  
+responsavel: "[[Ithan Voos]]"  
 origem: "Antiga fazenda da família Ninho"  
 fonte_energia: "Vento"  
 principal_funcao: "Alimentar a eletrificação do Muro de Sucata"  
@@ -23,7 +23,7 @@ tags:
 - estação-elétrica  
 - muro-sucata
     
-- hugo-becker
+- ithan-voos
     
 - colapso
     
@@ -37,7 +37,7 @@ tags:
 > 
 > Seu principal equipamento é um gerador eólico rústico, responsável por fornecer a energia necessária para manter o [[O Muro de Sucata]] eletrificado.
 > 
-> Em 2080, a instalação continua funcionando graças à manutenção artesanal e ao conhecimento de [[Hugo Becker]], seu responsável.
+> Em 2080, a instalação continua funcionando graças à manutenção artesanal e ao conhecimento de [[Ithan Voos]], seu responsável.
 > 
 > A estação é uma das maiores heranças tecnológicas do Ninho. Suas peças são escassas, sua manutenção exige cuidado e a comunidade não possui meios industriais para reconstruí-la caso seja completamente perdida.
 
@@ -81,7 +81,7 @@ O gerador aproveita a movimentação do vento para produzir energia elétrica.
 
 Essa energia é conduzida até o sistema responsável pela eletrificação do muro.
 
-O princípio de funcionamento é conhecido por Hugo, mas a instalação não pode ser tratada como uma máquina simples.
+O princípio de funcionamento é conhecido por Ithan, mas a instalação não pode ser tratada como uma máquina simples.
 
 Mesmo que o conceito seja compreendido, reparar componentes específicos pode exigir peças que já não são fabricadas.
 
@@ -148,7 +148,7 @@ Qualquer ampliação do consumo exigiria uma decisão importante e poderia compr
 
 Tem 55 anos, é magro, usa óculos de proteção apoiados na testa e costuma carregar um cinto cheio de chaves de fenda.
 
-É um homem excêntrico, frequentemente visto murmurando sozinho enquanto trabalha com as fiações e os componentes do gerador.
+Ithan é o responsável técnico pela estação. Clark Becker o auxiliava na preparação de ferramentas e na identificação de componentes antes de adoecer.
 
 Seu comportamento pode parecer estranho para outros moradores, mas seu trabalho é indispensável para a comunidade.
 
@@ -164,7 +164,7 @@ Seu comportamento sugere alguém que passa tanto tempo concentrado nos equipamen
 
 ### 4.2. Conhecimento técnico
 
-Hugo conhece o funcionamento da instalação melhor do que qualquer outro morador.
+Ithan conhece o funcionamento da instalação melhor do que qualquer outro morador.
 
 Seu conhecimento é especialmente importante porque a estação é antiga e não existem profissionais especializados disponíveis para ajudá-lo.
 
@@ -176,7 +176,7 @@ Ele pode conhecer profundamente a manutenção prática sem necessariamente domi
 
 ### 4.3. Responsabilidade
 
-Hugo carrega uma responsabilidade que ultrapassa seu trabalho cotidiano.
+Ithan carrega uma responsabilidade que ultrapassa seu trabalho cotidiano.
 
 Se a estação parar, o muro poderá perder sua eletrificação.
 
@@ -190,7 +190,7 @@ Manter a estação funcionando é uma atividade permanente.
 
 O desgaste natural dos componentes exige inspeções, reparos e adaptações.
 
-Hugo precisa aproveitar ao máximo tudo aquilo que ainda pode ser recuperado.
+Ithan precisa aproveitar ao máximo tudo aquilo que ainda pode ser recuperado.
 
 ### 5.1. Peças e componentes
 
@@ -253,7 +253,7 @@ Não basta que o equipamento exista.
 
 É necessário que alguém saiba como mantê-lo funcionando.
 
-Em 2080, Hugo é o principal responsável por esse conhecimento prático.
+Em 2080, Ithan é o responsável pelo conhecimento técnico e pela manutenção cotidiana do sistema.
 
 A perda de seu conhecimento, seja por morte, doença ou incapacidade, poderia representar um problema sério para o futuro do Ninho.
 
@@ -279,9 +279,9 @@ Seu envelhecimento e a escassez de componentes criam uma vulnerabilidade permane
 
 Uma peça que antes poderia ser comprada ou fabricada em uma indústria agora pode ser praticamente impossível de substituir.
 
-### 7.2. O conhecimento de Hugo
+### 7.2. O conhecimento de Ithan
 
-O conhecimento de Hugo é um recurso tão importante quanto as peças armazenadas.
+O conhecimento de Ithan é um recurso tão importante quanto as peças armazenadas.
 
 Sua maneira de trabalhar, seus registros e suas soluções improvisadas podem conter informações que ninguém mais possui.
 
@@ -293,7 +293,7 @@ Uma falha na estação poderia colocar o Ninho diante de uma situação difícil
 
 A comunidade teria que decidir como preservar o muro, recuperar os componentes e encontrar uma maneira de restabelecer a eletrificação.
 
-Uma crise desse tipo poderia envolver diversos moradores, não apenas Hugo.
+Uma crise desse tipo poderia envolver diversos moradores, não apenas Ithan.
 
 > [!warning] Possibilidade narrativa  
 > Uma falha, sabotagem, acidente ou interrupção do gerador ainda não aconteceu no cânone estabelecido.
