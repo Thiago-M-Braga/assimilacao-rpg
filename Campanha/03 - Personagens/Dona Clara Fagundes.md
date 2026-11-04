@@ -448,15 +448,13 @@ Não conseguiu identificar a causa nem encontrar um tratamento eficaz.
 
 ### O que realmente aconteceu
 
-A doença de Dalva foi provocada por uma reação anômala do organismo ao parasita responsável pelo processo de Assimilação.
+A doença de Dalva foi provocada por uma reação anômala do organismo ao processo de Assimilação. Ao longo do tempo, Dalva consumiu alimentos produzidos na estufa, cujo sistema de cultivo estava contaminado pelo Micélio de Cobalto.
 
-O parasita, normalmente presente nos seres vivos, começou a desenvolver uma atividade desordenada dentro do corpo dela.
+A baixa resistência física e a atividade elevada de Assimilação tornaram seu organismo especialmente vulnerável aos compostos ingeridos. O fungo estimulou o parasita a acelerar a transformação do corpo de maneira desordenada.
 
-A alteração no sangue foi um dos primeiros sinais visíveis dessa atividade.
+A alteração no sangue foi um dos primeiros sinais visíveis dessa atividade. O organismo de Dalva não conseguiu suportar as mudanças internas, e o processo acabou provocando sua morte.
 
-O organismo de Dalva não conseguiu suportar as mudanças internas, e o processo acabou provocando sua morte.
-
-Clara não conhece essa explicação.
+Clara não conhece a origem ambiental nem a relação com os alimentos da estufa.
 
 ### O destino da amostra
 
