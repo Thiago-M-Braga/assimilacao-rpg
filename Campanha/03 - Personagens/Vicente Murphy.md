@@ -264,7 +264,7 @@ No início da campanha, Elias confia a Vicente a responsabilidade de acompanhar 
 
 Vicente aceita porque sabe que os jovens precisam conhecer o mundo exterior com alguém experiente ao lado. Não acredita que possa protegê-los de tudo, mas pretende impedir que cometam erros que poderiam ser evitados.
 
-## Função na comunidade
+## Ocupação no Ninho
 
 Vicente atua como guia, veterano e sentinela.
 
@@ -473,7 +473,7 @@ Ele pode se cansar, cometer erros e interpretar incorretamente uma ameaça.
 
 Também não deve substituir a iniciativa dos personagens jogadores. Seu papel é ajudá-los a aprender, não decidir por eles.
 
-## Conflitos internos
+## Conflitos e motivações
 
 ### O medo de perder novamente
 
@@ -499,7 +499,7 @@ Agora precisa ensinar os mais jovens a sobreviver sem depender dele.
 
 Essa é uma tarefa difícil, pois exige que aceite a possibilidade de que um dia eles precisem enfrentar perigos sem sua presença.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -589,7 +589,7 @@ Não permite que outras pessoas o utilizem e fica bastante irritado quando algu�
 - Um personagem descobre que Vicente nunca contou a história completa da morte do pai.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     
