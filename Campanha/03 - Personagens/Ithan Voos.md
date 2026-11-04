@@ -48,7 +48,7 @@ tags:
 - **Conflito pessoal:** Deseja partir, mas sente responsabilidade pela sobrevivência do Ninho.
     
 
-## Conceito do personagem
+## Visão geral
 
 Ithan é um jovem engenheiro que cresceu ouvindo histórias sobre o mundo anterior ao Colapso.
 
