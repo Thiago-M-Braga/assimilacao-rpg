@@ -292,7 +292,7 @@ Helena gosta de brincar com Breno porque ele costuma interpretar algumas piadas 
 
 Breno nem sempre entende quando ela está fazendo graça, mas geralmente acaba sorrindo mesmo assim.
 
-### Samuel Clay — ferreiro
+### Hugo Becker — ferreiro
 
 Breno procura Samuel quando precisa de reparos em ferramentas ou peças utilizadas no curral.
 
@@ -462,7 +462,7 @@ Breno provavelmente perceberia que existe um problema, mesmo que não conseguiss
     
 - [[Helena Noctua]]
     
-- [[Samuel Clay]]
+- [[Hugo Becker]]
     
 - [[Dona Clara Fagundes]]
     
