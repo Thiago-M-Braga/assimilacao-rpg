@@ -396,7 +396,7 @@ Ela frequentemente insiste para que ele faça refeições adequadas e não passe
 
 Vicente raramente admite, mas aprecia esse cuidado.
 
-### Samuel Clay — ferreiro
+### Hugo Becker — ferreiro
 
 Vicente conhece Samuel há muitos anos.
 
@@ -593,7 +593,7 @@ Não permite que outras pessoas o utilizem e fica bastante irritado quando algu�
     
 - [[Dona Clara Fagundes]]
     
-- [[Samuel Clay]]
+- [[Hugo Becker]]
     
 - [[O Muro de Sucata]]
     
