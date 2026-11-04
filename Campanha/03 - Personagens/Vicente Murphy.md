@@ -17,6 +17,18 @@ tags:
 
 # Vicente Murphy
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Vicente Murphy |
+| Idade | 60 anos |
+| Nascimento | 2020 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Veterano, guia e sentinela |
+| Status | vivo |
+
+
 > "Lá fora, um erro não custa uma discussão. Custa uma vida. E, às vezes, não é a sua."
 
 ## Visão geral
