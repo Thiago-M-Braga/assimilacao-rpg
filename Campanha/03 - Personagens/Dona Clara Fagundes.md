@@ -52,7 +52,7 @@ Séria, cuidadosa e maternal, dedica a maior parte de sua vida ao atendimento do
 
 Sua presença transmite segurança. Mesmo quando não possui uma solução, Clara procura oferecer conforto e fazer tudo o que está ao seu alcance.
 
-É casada com Marcio Fagundes, de 69 anos, que sofre de amnésia e permanece sob seus cuidados na Casa Médica. Também é mãe de Lívia Fagundes, de 34 anos, responsável pelo controle de suprimentos do Ninho.
+É casada com Marcio Fagundes, de 69 anos, que sofre de amnésia e permanece sob seus cuidados na Casa Médica. Também é mãe de Lívia Fagundes, de 34 anos, que trabalha como sua auxiliar na Casa Médica.
 
 Entretanto, Clara guarda um segredo que nunca conseguiu compreender completamente: ela testemunhou a alteração na cor do sangue de Dalva Ninho, aproximadamente um mês antes de sua morte.
 
@@ -310,11 +310,11 @@ Até o presente, nenhum desses momentos produziu uma recuperação duradoura da 
 
 ### Lívia Fagundes — filha, 34 anos
 
-Lívia é a filha única de Clara e Marcio.
+Lívia é a filha única de Clara e Marcio e atua como auxiliar da Casa Médica.
 
-Clara tem muito orgulho da mulher que a filha se tornou. Reconhece sua competência no Armazém e valoriza sua capacidade de organização.
+Clara tem muito orgulho da mulher que a filha se tornou. Valoriza sua organização e a confiança que demonstra no trabalho da Casa Médica.
 
-Depois do acidente de Marcio, Lívia passou a ajudar mais frequentemente na Casa Médica.
+Depois do acidente de Marcio, Lívia passou a ajudar mais frequentemente na preparação de materiais, na higiene do espaço e no acompanhamento dos pacientes.
 
 Clara tenta impedir que a filha abandone suas próprias responsabilidades para assumir os cuidados do pai. Não quer que Lívia passe a viver em função da doença de Marcio, como aconteceu com ela.
 
@@ -356,9 +356,9 @@ Clara aprecia esse cuidado, mas raramente admite quando está cansada demais par
 
 ### Iara Salles — colaboradora
 
-Clara respeita a organização de Iara e reconhece a importância de seu trabalho com suprimentos.
+Clara respeita a organização de Iara e reconhece sua contribuição na cozinha comunitária. Iara ajuda a registrar o consumo diário de alimentos e a manter a comunicação entre a cozinha e os demais setores.
 
-Em algumas ocasiões, precisa solicitar materiais específicos à responsável pelos registros do Armazém.
+Quando a Casa Médica precisa de materiais, Clara encaminha a solicitação a Elias, Davi ou Elisa Ninho, que administram o Armazém.
 
 Clara prefere manter um controle cuidadoso dos medicamentos, pois sabe que a falta de determinados itens pode comprometer tratamentos futuros.
 
