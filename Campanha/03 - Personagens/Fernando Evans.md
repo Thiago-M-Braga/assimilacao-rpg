@@ -17,6 +17,19 @@ tags:
 
 # Fernando Evans
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Fernando Evans |
+| Idade | 26 anos |
+| Nascimento | 2054 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Auxiliar da cozinha comunitária |
+| Família | [[Família Evans]] |
+| Status | vivo |
+
+
 > "Eu não sei que tipo de mundo meu filho vai encontrar. Só sei que vou fazer tudo para que ele tenha alguém ao seu lado quando isso acontecer."
 
 ## Visão geral
