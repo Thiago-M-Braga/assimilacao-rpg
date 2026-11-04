@@ -256,6 +256,12 @@ Durante anos, ajudaram a manter a cozinha comunitária como um espaço de conviv
 
 Helena sentiu muito sua morte e, algumas vezes, ainda se pega esperando ouvir sua voz durante as atividades cotidianas.
 
+## Conflitos e motivações
+
+Dalva procurava equilibrar a responsabilidade de manter a família unida com seu papel de mediadora comunitária. Sua preocupação recorrente era evitar que o medo, a escassez e as diferenças entre os moradores destruíssem os laços de confiança que sustentavam o Ninho.
+
+Nos últimos meses de vida, enfrentou uma doença cuja origem não compreendia. Morreu sem descobrir a causa.
+
 ## Segredos do mestre
 
 <escape>**SEGREDO — NÃO REVELAR AOS JOGADORES**</escape>
