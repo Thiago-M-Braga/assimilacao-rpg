@@ -17,6 +17,19 @@ tags:
 
 # Elisa Ninho
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Elisa Ninho |
+| Idade | 26 anos |
+| Nascimento | 2054 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Registros e distribuição do Armazém, guarda pessoal de Elias e apoio à liderança |
+| Família | [[Família Ninho]] |
+| Status | viva |
+
+
 > "Proteger o Ninho não significa decidir tudo pelas pessoas que vivem nele."
 
 ## Visão geral
