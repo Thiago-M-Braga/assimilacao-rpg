@@ -431,7 +431,7 @@ O objeto não revela sozinho o destino de Dário, mas confirma que ele existiu e
     
 - Luna também desenvolveu a Doença Azul.
     
-- A doença de Raul e Luna está relacionada à exposição a preparações feitas com a Língua-de-Vidro contaminada.
+- A doença de Raul e Luna está relacionada à exposição prolongada aos alimentos e preparações produzidos na estufa, cujo sistema de cultivo foi contaminado pelo Micélio de Cobalto.
     
 - Freya não apresenta a doença.
     
@@ -552,7 +552,7 @@ A Família Naevus está ligada a diferentes áreas da comunidade.
     
 - [[A Cura do Mal Azul]]
     
-- [[Língua-de-Vidro]]
+- [[Plantações e Estufa]]
     
 - [[Micélio de Cobalto]]
     
