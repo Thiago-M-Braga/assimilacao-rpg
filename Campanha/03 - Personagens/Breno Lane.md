@@ -17,6 +17,19 @@ tags:
 
 # Breno Lane
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Breno Lane |
+| Idade | 37 anos |
+| Nascimento | 2043 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Cuidador dos animais do Ninho |
+| Família | [[Família Lane]] |
+| Status | vivo |
+
+
 > "Não precisa entender tudo de uma vez. Olha bem, faz com cuidado e não machuca o bicho."
 
 ## Visão geral
