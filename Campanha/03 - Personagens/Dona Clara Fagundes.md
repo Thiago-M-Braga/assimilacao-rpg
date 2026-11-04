@@ -374,7 +374,7 @@ Quando a Casa Médica precisa de materiais, Clara encaminha a solicitação a El
 
 Clara prefere manter um controle cuidadoso dos medicamentos, pois sabe que a falta de determinados itens pode comprometer tratamentos futuros.
 
-## A Casa Médica
+## Ocupação no Ninho
 
 A Casa Médica é o local de trabalho e residência de Clara em boa parte do dia.
 
@@ -445,6 +445,12 @@ Clara acredita que o segredo sobre Dalva foi uma exceção necessária.
 Entretanto, sabe que esconder uma informação médica também representa uma quebra de confiança com a comunidade.
 
 Se uma situação semelhante acontecer novamente, talvez não consiga manter o mesmo silêncio.
+
+## Conflitos e motivações
+
+Clara precisa equilibrar o atendimento dos moradores, a escassez de medicamentos e os cuidados com Marcio. Seu maior conflito é reconhecer os limites do conhecimento e dos recursos disponíveis sem deixar de tentar ajudar cada paciente.
+
+A amostra do sangue de Dalva e a repetição de sintomas semelhantes entre diferentes moradores aumentam sua inquietação. Clara teme que a comunidade esteja diante de uma ameaça que a medicina disponível ainda não consegue explicar.
 
 ## Segredos do mestre
 
