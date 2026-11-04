@@ -352,7 +352,7 @@ Helena gosta de conversar com os dois e procura manter uma relação de colabora
 
 Iara é uma das pessoas com quem Helena conversa frequentemente sobre a disponibilidade de alimentos.
 
-Como responsável pelo controle dos suprimentos, Iara ajuda a acompanhar o consumo e as quantidades reservadas para a cozinha.
+Iara trabalha na cozinha comunitária e ajuda Helena a organizar ingredientes e registrar o consumo diário.
 
 Helena aprecia sua organização, mas às vezes acredita que Iara se preocupa excessivamente com os números.
 
@@ -360,7 +360,7 @@ Costuma lembrá-la de que os registros representam pessoas que precisam comer to
 
 As duas mantêm uma relação de respeito e colaboração.
 
-### Lívia Fagundes — responsável pelo Armazém
+### Lívia Fagundes — auxiliar da Casa Médica
 
 Helena depende do trabalho de Lívia para organizar a retirada dos ingredientes armazenados.
 
