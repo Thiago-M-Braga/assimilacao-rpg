@@ -252,9 +252,9 @@ As atividades incluem:
 
 O trabalho da forja é essencial para manter a capacidade produtiva e defensiva da comunidade.
 
-**Responsável:** [[Samuel Clay]].
+**Responsáveis:** [[Hugo Becker]], [[Marta Becker]] e [[Jonas Becker]].
 
-A família Clay mantém sua residência na Casa 6, enquanto Samuel passa grande parte do tempo na forja.
+A Família Becker mantém sua residência próxima ao setor de oficinas. Hugo coordena o trabalho com metais, Marta produz acessórios e acabamentos, e Jonas atua como aprendiz e auxiliar de produção.
 
 ### 4.4. Casa Médica
 
@@ -270,6 +270,8 @@ A Casa Médica também abriga Marcio, que passa grande parte do tempo sob os cui
 
 **Responsável:** [[Dona Clara Fagundes]].
 
+**Equipe:** [[Lívia Fagundes]] e [[Freya Naevus]]. [[Marina Vilar]] ajuda com a preparação e o reparo de tecidos médicos, e [[Marcio Fagundes]] participa apenas de pequenas tarefas de organização e reparo quando sua condição permite.
+
 ### 4.5. Curral
 
 O curral abriga os animais domesticados que sobreviveram às transformações ambientais e continuam sendo criados pela comunidade.
@@ -282,7 +284,7 @@ O curral também é um dos locais onde Thomas aprende tarefas práticas.
 
 **Responsáveis:** [[Breno Lane]] e [[Cecília Lane]].
 
-**Ajudante:** [[Thomas Lane]].
+Thomas Lane, por ter 10 anos, não possui função formal nem jornada de trabalho. Pode acompanhar os pais e participar voluntariamente de pequenas tarefas seguras, sempre supervisionado.
 
 ### 4.6. Plantação e Estufa
 
@@ -306,9 +308,9 @@ Nele são guardados alimentos secos, materiais de reserva, medicamentos precioso
 
 O controle dos estoques é fundamental para evitar desperdícios e garantir que a comunidade tenha recursos durante períodos de escassez.
 
-**Responsável:** [[Marta Becker]].
+**Responsáveis:** [[Elias Ninho]], [[Davi Ninho]] e [[Elisa Ninho]].
 
-A distribuição de alimentos também é coordenada em conjunto com [[Helena Noctua]].
+O Armazém é um setor de acesso restrito. Apenas o líder e seus filhos adultos trabalham no local, cuidando da guarda, dos registros, das autorizações e da distribuição dos estoques. Os demais setores solicitam os materiais de que precisam à família Ninho.
 
 ### 4.8. Estação de Energia
 
@@ -322,9 +324,11 @@ As peças de reposição são escassas, e muitos dos componentes já passaram po
 
 A energia produzida é poupada ao máximo e canalizada estritamente para manter o [[O Muro de Sucata|muro eletrificado]] funcionando.
 
-**Responsável:** [[Hugo Becker]].
+**Responsável técnico:** [[Ithan Voos]].
 
-A manutenção da estação é uma atividade crítica para a segurança coletiva.
+**Auxiliar:** [[Clark Becker]], afastado temporariamente por causa da Doença Azul.
+
+Hugo Becker não trabalha na estação: ele coordena o Ferro-Velho e a Forja. A oficina fornece ferramentas, suportes e componentes metálicos quando necessários.
 
 ## 5. O Muro de Sucata
 
@@ -465,8 +469,10 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
 - [[Marta Becker]] — Responsável pelo armazém.
     
 
-### 7.8. Outros moradores importantes
+### 7.7. Outros moradores importantes
 
+- [[Iara Salles]] — Auxiliar da cozinha comunitária, responsável pela organização de ingredientes e pelo registro do consumo diário.
+- [[Marina Vilar]] — Apoia a Casa Médica com tecidos, curativos e materiais limpos.
 - [[Vicente Murphy]] — Sentinela, veterano e apaziguador de conflitos.
     
 
@@ -476,7 +482,7 @@ Vicente não possui esposa ou filhos e evita criar vínculos familiares profundo
 
 Deverá acompanhar o grupo de personagens em uma etapa da campanha.
 
-### 7.9. Personagens dos jogadores
+### 7.8. Personagens dos jogadores
 
 Os personagens jogadores nasceram, cresceram ou vivem no Ninho.
 
