@@ -286,9 +286,9 @@ A família Voos possui uma ligação importante com a infraestrutura elétrica d
 
 Artur ajudou a transmitir conhecimentos técnicos a Ithan, que atualmente trabalha na [[Estação de Energia]].
 
-### Ithan e Hugo Becker
+### Ithan e Ithan Voos
 
-[[Hugo Becker]] é um dos técnicos mais experientes da estação e conhece profundamente o gerador eólico utilizado pela comunidade.
+[[Ithan Voos]] é o responsável técnico pela Estação de Energia e conhece profundamente o gerador eólico utilizado pela comunidade. [[Hugo Becker]] coordena a Forja e fornece peças metálicas quando necessário.
 
 Ithan possui conhecimentos de engenharia e atua diretamente nos sistemas elétricos que alimentam a proteção do muro.
 
