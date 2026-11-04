@@ -103,7 +103,7 @@ As atividades incluem:
 - Aproveitamento responsável dos recursos obtidos.
     
 
-[[Thomas Lane]] ajuda os pais no curral e aprende gradualmente a reconhecer comportamentos e necessidades dos animais.
+Thomas, por ter 10 anos, não possui função formal nem jornada de trabalho. Pode acompanhar os pais e participar voluntariamente de pequenas tarefas seguras, sempre supervisionado.
 
 A perda de um animal adulto pode representar um prejuízo significativo, especialmente quando se trata de um exemplar importante para a reprodução.
 
@@ -127,11 +127,11 @@ O Ninho não possui uma indústria. A fabricação de ferramentas e peças acont
 
 ### Forja
 
-**Responsável:** [[Samuel Clay]]
+**Responsáveis:** [[Hugo Becker]], [[Marta Becker]] e [[Jonas Becker]]
 
-A Forja transforma metais reaproveitados em ferramentas, peças e equipamentos necessários à comunidade.
+A Forja transforma metais reaproveitados em ferramentas, peças, utensílios e objetos necessários à comunidade.
 
-Samuel trabalha com sucata metálica, estruturas antigas e materiais que podem ser recuperados.
+Hugo coordena a metalurgia, Marta produz acabamentos e acessórios de oficina, e Jonas atua como aprendiz e auxiliar de produção.
 
 Entre os produtos mais importantes estão:
 
@@ -162,23 +162,21 @@ A comunidade evita substituir uma estrutura inteira quando apenas uma parte pode
 
 ## Energia
 
-**Responsável:** [[Hugo Becker]]
+**Responsável técnico:** [[Ithan Voos]]
 
-A Estação de Energia mantém o gerador eólico rústico herdado da antiga fazenda.
+**Auxiliar:** [[Clark Becker]], atualmente afastado por doença.
 
-A energia produzida é limitada e utilizada prioritariamente para manter o Muro de Sucata eletrificado.
+A Estação de Energia mantém o gerador eólico rústico herdado da antiga fazenda. A energia produzida é limitada e utilizada prioritariamente para manter o Muro de Sucata eletrificado.
 
-A comunidade não possui eletricidade abundante para uso doméstico. A iluminação e os equipamentos elétricos são restritos e utilizados apenas quando necessário.
+A comunidade não possui eletricidade abundante para uso doméstico. A manutenção depende de peças, ferramentas e conhecimentos técnicos. A Forja dos Beckers fornece componentes metálicos sob solicitação de Ithan, mas não assume a responsabilidade técnica pela estação.
 
-A manutenção depende de peças, ferramentas e conhecimentos técnicos.
-
-[[Jonas Becker]] auxilia Hugo e aprende a trabalhar com os equipamentos.
-
-Uma falha prolongada na Estação pode comprometer a principal defesa do Ninho.
+Uma falha prolongada pode comprometer a principal defesa do Ninho.
 
 ## Saúde e Medicamentos
 
 **Responsável:** [[Dona Clara Fagundes]]
+
+**Equipe:** [[Lívia Fagundes]] e [[Freya Naevus]]. [[Marina Vilar]] auxilia na preparação e conservação de tecidos médicos; [[Marcio Fagundes]] ajuda apenas em pequenas tarefas supervisionadas quando sua condição permite.
 
 A Casa Médica depende de medicamentos antigos, materiais reaproveitados, curativos e conhecimentos de tratamento.
 
@@ -209,42 +207,23 @@ O conhecimento sobre plantas medicinais complementa os tratamentos, mas não sub
 
 ## Armazenamento e Controle
 
-O Armazém é o centro de administração dos recursos físicos da comunidade.
+O Armazém concentra os recursos de reserva e é administrado exclusivamente pela família Ninho. Elias, Davi e Elisa trabalham no local. Nenhum morador de outro núcleo possui função ou rotina de trabalho no Armazém.
 
-### [[Lívia Fagundes]] — Controle físico
+### [[Elias Ninho]] — autoridade e autorização
 
-Lívia organiza os materiais, acompanha as condições de conservação e verifica o que está disponível.
+Elias supervisiona as reservas, define prioridades em situações excepcionais e autoriza retiradas que envolvam recursos escassos.
 
-É responsável por manter os estoques separados e identificados.
+### [[Davi Ninho]] — recebimento e controle físico
 
-Conhece boa parte dos materiais pelo aspecto, peso e localização.
+Davi acompanha a entrada, a organização e a separação dos materiais. Também ajuda a verificar as condições de conservação e a integridade dos estoques.
 
-### [[Iara Salles]] — Registros
+### [[Elisa Ninho]] — registros e distribuição
 
-Iara acompanha as entradas, retiradas e distribuição dos recursos.
+Elisa mantém os registros de entradas e retiradas, organiza os pedidos dos setores e acompanha a distribuição aprovada pela liderança.
 
-Mantém registros que permitem comparar o que deveria existir com aquilo que realmente está armazenado.
+### Solicitações dos setores
 
-Trabalha em conjunto com Lívia para identificar divergências.
-
-### Fluxo dos recursos
-
-O funcionamento normal segue este caminho:
-
-1. Um setor identifica uma necessidade.
-    
-2. O responsável solicita os materiais ao Armazém.
-    
-3. Lívia verifica a disponibilidade.
-    
-4. A retirada é registrada por Iara.
-    
-5. O material é entregue ao setor solicitante.
-    
-6. O responsável utiliza o recurso e informa quando houver consumo extraordinário, dano ou perda.
-    
-
-Quando a solicitação envolve recursos escassos ou uma situação excepcional, Elias pode precisar autorizar a retirada.
+Os responsáveis por outros setores não trabalham no Armazém. Quando precisam de materiais, encaminham solicitações à família Ninho. A entrega e a retirada são registradas pelos próprios responsáveis do Armazém.
 
 ## Categorias de Recursos
 
