@@ -348,7 +348,7 @@ Gosta de compartilhar conhecimentos sobre agricultura e natureza, mas sabe que M
 
 Às vezes se preocupa com a distância que pode existir entre aquilo que deseja para a filha e aquilo que ela realmente deseja para si.
 
-Não pretende obrigá-la a trabalhar na plantação ou assumir sua coleção de sementes.
+Não pretende obrigá-la a seguir o mesmo caminho profissional que ele ou assumir sua coleção de sementes, embora respeite sua participação voluntária no cultivo.
 
 Sua maior esperança é que Mabel encontre algo pelo qual valha a pena dedicar sua vida.
 
@@ -410,11 +410,11 @@ Entretanto, acredita que a comunidade precisa pensar no futuro com a mesma serie
 
 Não costuma discutir diretamente com o líder, mas defende a importância de manter recursos destinados à agricultura.
 
-### Hugo Becker — ferreiro
+### Hugo Becker — responsável pela Forja
 
-Gael procura Samuel quando precisa de ferramentas, suportes metálicos ou reparos em estruturas utilizadas na plantação.
+Gael procura Hugo quando precisa de ferramentas, suportes metálicos ou reparos em estruturas utilizadas na plantação.
 
-Samuel considera Gael excessivamente cuidadoso com alguns equipamentos, mas reconhece que ele cuida bem das ferramentas que recebe.
+Hugo considera Gael excessivamente cuidadoso com alguns equipamentos, mas reconhece que ele cuida bem das ferramentas que recebe.
 
 Os dois mantêm uma relação de respeito profissional.
 
