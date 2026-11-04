@@ -191,11 +191,11 @@ Ithan participa da manutenção dos circuitos, da identificação de falhas e da
 
 ### Relação com Hugo Becker
 
-[[Hugo Becker]] é o técnico mais experiente associado à Estação de Energia e conhece profundamente o gerador eólico.
+Ithan é o responsável técnico pela Estação de Energia e conhece profundamente o gerador eólico. [[Hugo Becker]] coordena a Forja e fornece peças metálicas quando necessário.
 
 Ithan trabalha em colaboração com ele.
 
-Hugo conhece a história do equipamento, suas limitações e os problemas que aparecem com frequência. Ithan traz conhecimentos de engenharia e interesse por compreender os circuitos e desenvolver soluções.
+Ithan conhece a história do equipamento, suas limitações e os problemas que aparecem com frequência. Sua experiência de engenharia é complementada pela ajuda de Clark antes da doença e pelas peças metálicas produzidas por Hugo.
 
 Os dois possuem responsabilidades diferentes, mas complementares.
 
