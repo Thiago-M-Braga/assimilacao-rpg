@@ -188,7 +188,7 @@ Breno não gosta quando Thomas tenta fazer alguma coisa apenas para provar que j
 
 Prefere que o menino aprenda aos poucos, sem pressa.
 
-## Ocupação: cuidador dos animais
+## Ocupação no Ninho
 
 O curral é um dos setores fundamentais do Ninho.
 
@@ -345,7 +345,7 @@ Quando alguém precisa de ajuda para carregar alguma coisa, consertar uma cerca 
 
 Não espera receber reconhecimento por isso.
 
-## Conflitos internos
+## Conflitos e motivações
 
 ### A dificuldade de compreender situações complexas
 
@@ -371,7 +371,7 @@ Tem receio de mudanças que possam prejudicar a criação e comprometer os recur
 
 Entretanto, nem sempre percebe quando determinada prática poderia ser melhorada.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -461,7 +461,7 @@ Breno provavelmente perceberia que existe um problema, mesmo que não conseguiss
 - Uma situação de perigo coloca Cecília ou Thomas em risco, fazendo Breno abandonar sua habitual tranquilidade.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     
