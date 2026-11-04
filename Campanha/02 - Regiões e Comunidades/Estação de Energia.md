@@ -1,401 +1,146 @@
 ---
-
-tipo: estrutura  
-categoria: infraestrutura  
-status: canon  
-local: "[[O Ninho]]"  
-responsavel: "[[Ithan Voos]]"  
-origem: "Antiga fazenda da família Ninho"  
-fonte_energia: "Vento"  
-principal_funcao: "Alimentar a eletrificação do Muro de Sucata"  
+tipo: local
+categoria: infraestrutura
+local: "[[O Ninho]]"
+responsavel: "[[Ithan Voos]]"
+status: ativo
 tags:
-
-- ninho
-    
-- ninho/estruturas
-    
-- ninho/tecnologia
-    
-- mundo/sobrevivencia  
-    
-- gerador-eólico
-    
-- estação-elétrica  
-- muro-sucata
-    
-- ithan-voos
-    
-- colapso
-    
-
+  - ninho
+  - infraestrutura
+  - energia
+  - muro
+  - eletricidade
 ---
 
 # Estação de Energia
 
-> [!abstract] Resumo  
-> A Estação de Energia é uma antiga instalação da fazenda original, preservada desde antes do [[O Colapso]].
-> 
-> Seu principal equipamento é um gerador eólico rústico, responsável por fornecer a energia necessária para manter o [[O Muro de Sucata]] eletrificado.
-> 
-> Em 2080, a instalação continua funcionando graças à manutenção artesanal e ao conhecimento de [[Ithan Voos]], seu responsável.
-> 
-> A estação é uma das maiores heranças tecnológicas do Ninho. Suas peças são escassas, sua manutenção exige cuidado e a comunidade não possui meios industriais para reconstruí-la caso seja completamente perdida.
+## 1. Visão geral
 
-## 1. Origem
+A Estação de Energia é uma estrutura herdada da antiga fazenda. Abriga um gerador eólico rústico, adaptado ao longo de décadas, que fornece a eletricidade necessária para manter o sistema defensivo do [[O Muro de Sucata]].
 
-A Estação de Energia já existia antes do Dia Zero.
+A energia é limitada e não atende às casas como uma rede elétrica convencional. Sua prioridade é a proteção do perímetro. Cada reparo precisa ser planejado para evitar desperdício de componentes e interrupções desnecessárias.
 
-Ela fazia parte da infraestrutura da antiga fazenda pertencente à família Ninho.
+**Responsável técnico:** [[Ithan Voos]].  
+**Auxiliar:** [[Clark Becker]], atualmente afastado devido à [[A Doença Azul]].  
+**Oficina parceira:** [[Ferro-Velho e Forja]], coordenada por [[Hugo Becker]].
 
-Na época, sua função era fornecer energia para algumas necessidades da propriedade rural.
+## 2. Origem e estrutura
 
-O equipamento sobreviveu ao Colapso e acabou se tornando uma das poucas instalações tecnológicas antigas que continuaram úteis para a comunidade.
+A instalação foi construída antes do Colapso para atender às necessidades da propriedade rural. O sistema original foi simplificado e adaptado pelos moradores para continuar funcionando com peças recuperadas.
 
-Com o crescimento do Ninho e a construção do [[O Muro de Sucata]], a estação passou a ter uma importância ainda maior.
+O gerador eólico é composto por:
 
-A energia produzida deixou de ser apenas uma comodidade e se tornou um recurso essencial para a defesa coletiva.
+- Estrutura de sustentação e rotor.
+- Conjunto mecânico de transmissão.
+- Gerador e componentes elétricos.
+- Cabos e conexões adaptados.
+- Sistema de controle e proteção.
+- Compartimento para ferramentas e peças de reposição.
 
-### 1.1. Uma herança do mundo antigo
+Nem todos os componentes originais continuam presentes. Algumas partes foram substituídas por peças reaproveitadas, e outras foram adaptadas para operar em condições diferentes das previstas pelos antigos fabricantes.
 
-Diferentemente de equipamentos construídos pelos próprios moradores, a estação foi herdada de uma época em que ainda existiam indústrias, profissionais especializados e cadeias de produção capazes de fabricar componentes complexos.
+## 3. Geração e distribuição
 
-Os habitantes atuais não possuem acesso a essa estrutura industrial.
+### 3.1. Funcionamento
 
-Por isso, preservar o equipamento é muito mais fácil do que substituí-lo.
+O vento movimenta o rotor, que transmite energia mecânica ao gerador. A eletricidade produzida passa por um sistema de controle improvisado e segue para o circuito que alimenta a proteção do muro.
 
-A estação representa uma ligação material com o mundo que existia antes do Colapso.
+A produção varia conforme as condições climáticas e o estado dos componentes. Períodos prolongados de pouco vento reduzem a disponibilidade de energia.
 
-## 2. O gerador eólico
+### 3.2. Prioridade do muro
 
-O principal equipamento da instalação é um gerador eólico rústico.
+A eletricidade é direcionada prioritariamente ao sistema de eletrificação do [[O Muro de Sucata]]. A comunidade evita conectar novos equipamentos sem avaliar o impacto sobre a defesa.
 
-Sua fonte de energia é o vento, recurso natural que pode ser aproveitado sem depender de combustíveis ou de abastecimento externo.
+Uma falha prolongada pode comprometer a segurança do Ninho, especialmente durante períodos de maior atividade de criaturas ou ameaças externas.
 
-O equipamento é antigo e já passou por décadas de uso.
+### 3.3. Limitações
 
-Sua operação depende das condições ambientais e da conservação de seus componentes.
+- Não há energia abundante para uso doméstico.
+- O sistema depende de componentes difíceis de substituir.
+- A produção varia com o vento e com o estado mecânico do gerador.
+- Reparos improvisados podem criar falhas secundárias.
+- Parte do conhecimento de funcionamento está concentrada em Ithan.
 
-### 2.1. Funcionamento geral
+## 4. Ithan Voos — responsável técnico
 
-O gerador aproveita a movimentação do vento para produzir energia elétrica.
+[[Ithan Voos]] é o responsável pela manutenção elétrica e pelo funcionamento da Estação. Seu conhecimento de engenharia, a familiaridade com circuitos e sua curiosidade sobre tecnologia antiga fazem dele a principal referência técnica do setor.
 
-Essa energia é conduzida até o sistema responsável pela eletrificação do muro.
+### Responsabilidades
 
-O princípio de funcionamento é conhecido por Ithan, mas a instalação não pode ser tratada como uma máquina simples.
+- Inspecionar o gerador e os componentes elétricos.
+- Identificar falhas e acompanhar o consumo.
+- Manter conexões, cabos e proteções em condições seguras.
+- Planejar reparos e solicitar peças à Forja.
+- Registrar mudanças feitas no sistema.
+- Evitar ampliações de consumo que comprometam o muro.
+- Ensinar procedimentos simples a quem o auxilia.
 
-Mesmo que o conceito seja compreendido, reparar componentes específicos pode exigir peças que já não são fabricadas.
+Ithan não precisa fabricar todas as peças utilizadas na estação. Quando necessita de suportes, ferramentas ou componentes metálicos, solicita a produção ou adaptação ao Ferro-Velho e à Forja.
 
-### 2.2. Limitações
+## 5. Clark Becker — antigo auxiliar
 
-A estação possui limitações importantes:
+Antes de adoecer, [[Clark Becker]] ajudava Ithan na preparação de ferramentas, identificação de componentes, organização de cabos e execução de tarefas simples e seguras.
 
-- Depende da disponibilidade de vento.
-    
-- Seus componentes estão envelhecidos.
-    
-- Peças de reposição são escassas.
-    
-- A manutenção precisa ser feita artesanalmente.
-    
-- A comunidade não possui indústria para fabricar componentes complexos.
-    
-- Sua capacidade energética é tratada como um recurso limitado.
-    
+Clark não era o responsável técnico pelo gerador nem decidia alterações no sistema. Sua contribuição era prática e complementar: conhecia o material disponível, ajudava a localizar peças e preparava a estação para os reparos.
 
-O Ninho não pode desperdiçar a energia produzida.
+Atualmente está internado na [[Casa Médica]]. Sua ausência aumenta a carga de trabalho de Ithan, mas não transfere a responsabilidade técnica para os demais Beckers.
 
-### 2.3. Uma estrutura insubstituível
+## 6. Relação com o Ferro-Velho e a Forja
 
-A estação é uma das instalações mais valiosas da comunidade.
+A Estação depende da capacidade de recuperar e fabricar peças. O [[Ferro-Velho e Forja]] fornece suportes, chapas, abraçadeiras, ferramentas, proteções e componentes metálicos que podem ser adaptados às necessidades do gerador.
 
-Sua importância não está apenas na energia que produz, mas na dificuldade de substituí-la.
+[[Hugo Becker]] coordena a produção e avalia o que pode ser fabricado com os materiais disponíveis. [[Marta Becker]] produz proteções, correias e acabamentos; [[Jonas Becker]] auxilia na preparação e fabricação das peças.
 
-Se um componente essencial deixar de funcionar e não puder ser reparado, o Ninho poderá perder parte ou toda sua capacidade de geração.
+A oficina não realiza o diagnóstico elétrico nem administra a estação. Cada setor mantém sua própria responsabilidade.
 
-A comunidade não possui uma alternativa tecnológica confirmada para substituir o gerador.
+## 7. Manutenção e recursos
 
-## 3. Distribuição de energia
+A manutenção preventiva é importante porque a comunidade não dispõe de um sistema reserva.
 
-A energia produzida pela estação é poupada ao máximo.
+Os materiais mais necessários incluem:
 
-Seu uso é direcionado estritamente para manter o [[O Muro de Sucata]] eletrificado.
-
-Essa prioridade existe porque o muro é a principal estrutura defensiva da comunidade.
-
-A segurança coletiva depende da continuidade desse sistema.
-
-### 3.1. Prioridade absoluta: o muro
-
-A eletrificação do perímetro é o motivo pelo qual a estação continua sendo mantida.
-
-O funcionamento do gerador e a preservação dos componentes elétricos são responsabilidades essenciais.
-
-A comunidade precisa garantir que a energia disponível seja suficiente para alimentar a defesa.
-
-### 3.2. Consumo controlado
-
-A energia não é utilizada livremente nas casas ou nas instalações do vilarejo.
-
-O Ninho não possui uma rede elétrica doméstica estabelecida como a que existia antes do Colapso.
-
-A eletricidade é tratada como um recurso estratégico.
-
-Qualquer ampliação do consumo exigiria uma decisão importante e poderia comprometer a finalidade principal da estação.
-
-## 4. Hugo Becker — O responsável pela estação
-
-[[Hugo Becker]] é o responsável pela manutenção da Estação de Energia.
-
-Tem 55 anos, é magro, usa óculos de proteção apoiados na testa e costuma carregar um cinto cheio de chaves de fenda.
-
-Ithan é o responsável técnico pela estação. Clark Becker o auxiliava na preparação de ferramentas e na identificação de componentes antes de adoecer.
-
-Seu comportamento pode parecer estranho para outros moradores, mas seu trabalho é indispensável para a comunidade.
-
-### 4.1. Personalidade e comportamento
-
-Hugo possui uma relação muito próxima com a estação.
-
-É paciente com máquinas, componentes e mecanismos, embora possa demonstrar irritação quando alguém interrompe seu trabalho ou mexe em algo sem autorização.
-
-Costuma conversar consigo mesmo enquanto realiza reparos.
-
-Seu comportamento sugere alguém que passa tanto tempo concentrado nos equipamentos que acaba tratando a estação quase como uma companheira.
-
-### 4.2. Conhecimento técnico
-
-Ithan conhece o funcionamento da instalação melhor do que qualquer outro morador.
-
-Seu conhecimento é especialmente importante porque a estação é antiga e não existem profissionais especializados disponíveis para ajudá-lo.
-
-Ele precisa trabalhar com aquilo que possui, recuperar peças e encontrar soluções para manter o equipamento funcionando.
-
-**O quanto Hugo realmente compreende da engenharia original do gerador ainda precisa ser definido.**
-
-Ele pode conhecer profundamente a manutenção prática sem necessariamente dominar todos os princípios técnicos envolvidos.
-
-### 4.3. Responsabilidade
-
-Ithan carrega uma responsabilidade que ultrapassa seu trabalho cotidiano.
-
-Se a estação parar, o muro poderá perder sua eletrificação.
-
-Isso significa que a segurança de todas as famílias depende, em parte, da capacidade de Hugo de preservar uma máquina antiga.
-
-A comunidade precisa valorizar seu trabalho, mesmo que nem todos compreendam sua importância técnica.
-
-## 5. Manutenção e conservação
-
-Manter a estação funcionando é uma atividade permanente.
-
-O desgaste natural dos componentes exige inspeções, reparos e adaptações.
-
-Ithan precisa aproveitar ao máximo tudo aquilo que ainda pode ser recuperado.
-
-### 5.1. Peças e componentes
-
-Peças específicas podem ser extremamente difíceis de encontrar.
-
-Quando algum componente apresenta defeito, a primeira opção é tentar recuperá-lo.
-
-Caso isso não seja possível, Hugo precisa procurar alguma peça compatível ou adaptar outro material.
-
-Esse processo exige conhecimento, paciência e criatividade.
-
-### 5.2. Materiais necessários
-
-A manutenção pode exigir:
-
+- Cabos e conexões compatíveis.
+- Peças metálicas de fixação e suporte.
 - Ferramentas manuais.
-    
-- Componentes elétricos.
-    
-- Fios e cabos.
-    
-- Peças metálicas.
-    
-- Materiais de fixação.
-    
-- Equipamentos de proteção.
-    
-- Materiais recuperados de outras estruturas.
-    
+- Isolantes e materiais de proteção.
+- Lubrificantes e componentes recuperáveis.
+- Registros e desenhos técnicos antigos.
 
-A disponibilidade desses recursos depende do trabalho de recuperação e da capacidade de armazenamento do Ninho.
+Qualquer retirada de materiais deve ser solicitada ao Armazém, administrado exclusivamente por [[Elias Ninho]], [[Davi Ninho]] e [[Elisa Ninho]].
 
-### 5.3. Relação com a forja
+## 8. Importância narrativa
 
-[[Samuel Clay]] pode auxiliar na produção ou adaptação de determinadas peças metálicas.
+A Estação representa a dependência do Ninho em relação a uma tecnologia antiga que poucos compreendem por completo.
 
-Entretanto, a fabricação de uma peça metálica não significa que ela possa substituir qualquer componente elétrico ou mecânico.
+Uma falha pode exigir cooperação entre Ithan, a família Becker e a liderança. A ausência de Clark também pode ser sentida em uma manutenção difícil, lembrando que a doença afeta não apenas as famílias, mas o funcionamento diário da comunidade.
 
-O trabalho dos dois moradores pode se complementar, mas cada um possui conhecimentos e responsabilidades diferentes.
+## 9. Segredos do mestre
 
-## 6. Importância para a sobrevivência
+- A estação é uma herança da antiga fazenda.
+- O gerador eólico é a fonte de energia utilizada para eletrificar o muro.
+- A energia produzida é poupada e direcionada prioritariamente à defesa do perímetro.
+- Ithan é o responsável técnico pela estação.
+- Clark era seu auxiliar e está temporariamente afastado.
+- Hugo, Marta e Jonas trabalham na Forja, não na Estação de Energia.
+- A estação é difícil de substituir e não possui fonte alternativa estabelecida.
 
-A estação é uma das estruturas mais importantes do Ninho porque mantém o funcionamento da defesa elétrica do muro.
-
-Sua existência permite que a comunidade continue utilizando uma tecnologia herdada do mundo anterior.
-
-### 6.1. Segurança coletiva
-
-A eletrificação do muro representa uma camada adicional de proteção.
-
-O gerador, portanto, não é apenas um equipamento de infraestrutura.
-
-Ele faz parte do sistema de sobrevivência da comunidade.
-
-### 6.2. Dependência de conhecimento
-
-A estação também representa uma dependência humana.
-
-Não basta que o equipamento exista.
-
-É necessário que alguém saiba como mantê-lo funcionando.
-
-Em 2080, Ithan é o responsável pelo conhecimento técnico e pela manutenção cotidiana do sistema.
-
-A perda de seu conhecimento, seja por morte, doença ou incapacidade, poderia representar um problema sério para o futuro do Ninho.
-
-### 6.3. Dependência de recursos
-
-A estação precisa de componentes e ferramentas que não podem ser facilmente produzidos.
-
-Cada reparo pode consumir materiais importantes.
-
-A comunidade precisa equilibrar a manutenção da instalação com as demais necessidades de sobrevivência.
-
-## 7. A estação como elemento narrativo
-
-A Estação de Energia oferece possibilidades importantes para a campanha.
-
-Ela é uma estrutura cotidiana para os moradores, mas pode se tornar um ponto de tensão quando seus limites forem colocados à prova.
-
-### 7.1. A fragilidade de uma tecnologia antiga
-
-O gerador pode continuar funcionando durante décadas, mas isso não significa que seja indestrutível.
-
-Seu envelhecimento e a escassez de componentes criam uma vulnerabilidade permanente.
-
-Uma peça que antes poderia ser comprada ou fabricada em uma indústria agora pode ser praticamente impossível de substituir.
-
-### 7.2. O conhecimento de Ithan
-
-O conhecimento de Ithan é um recurso tão importante quanto as peças armazenadas.
-
-Sua maneira de trabalhar, seus registros e suas soluções improvisadas podem conter informações que ninguém mais possui.
-
-Isso abre espaço para histórias relacionadas à transmissão de conhecimento e à importância de preservar habilidades.
-
-### 7.3. Uma possível crise
-
-Uma falha na estação poderia colocar o Ninho diante de uma situação difícil.
-
-A comunidade teria que decidir como preservar o muro, recuperar os componentes e encontrar uma maneira de restabelecer a eletrificação.
-
-Uma crise desse tipo poderia envolver diversos moradores, não apenas Ithan.
-
-> [!warning] Possibilidade narrativa  
-> Uma falha, sabotagem, acidente ou interrupção do gerador ainda não aconteceu no cânone estabelecido.
-> 
-> São possibilidades para aventuras futuras, não acontecimentos confirmados.
-
-## 8. Relação com outras estruturas
-
-A estação não funciona isoladamente.
-
-Ela faz parte de um conjunto de instalações essenciais para a sobrevivência do Ninho.
-
-|Estrutura|Relação|
-|---|---|
-|[[O Muro de Sucata]]|Principal destino da energia produzida.|
-|[[O Ninho]]|Comunidade que depende da instalação.|
-|[[Ferro-Velho e Forja]]|Pode fornecer ferramentas e peças metálicas adaptadas.|
-|[[Armazém]]|Pode armazenar ferramentas e componentes de reposição.|
-
-## 9. Informações técnicas ainda não definidas
-
-> [!todo] Desenvolvimento futuro  
-> Para tornar a estação mais concreta e permitir que ela seja utilizada em aventuras, ainda precisamos estabelecer:
-> 
-> - Aparência e tamanho do gerador.
->     
-> - Localização exata dentro do Ninho.
->     
-> - Altura da torre e dimensões das pás.
->     
-> - Idade aproximada do equipamento.
->     
-> - Estado de conservação.
->     
-> - Capacidade de geração.
->     
-> - Existência e capacidade de baterias ou acumuladores.
->     
-> - Como a energia é conduzida até o muro.
->     
-> - Como Hugo identifica problemas no sistema.
->     
-> - Quais componentes são mais difíceis de substituir.
->     
-> - Se existem registros técnicos antigos.
->     
-> - Quem ensinou Hugo a cuidar do equipamento.
->     
-> - Se existe alguma alternativa caso o gerador pare completamente.
->     
-
-## 10. Segredos do mestre
-
-> [!secret] Informações reservadas
-> 
-> - A estação é uma herança da antiga fazenda.
->     
-> - Seu gerador eólico é a fonte de energia utilizada para eletrificar o muro.
->     
-> - A energia produzida é poupada e direcionada estritamente para a defesa do perímetro.
->     
-> - Hugo Becker é o responsável pela manutenção.
->     
-> - A estação é uma estrutura valiosa e difícil de substituir.
->     
-> 
-> Não existe, até o momento, uma fonte alternativa de energia estabelecida para o sistema defensivo.
-
-## 11. Notas relacionadas
+## 10. Notas relacionadas
 
 ### Comunidade
-
 - [[O Ninho]]
-    
 - [[O Muro de Sucata]]
-    
 - [[Armazém]]
-    
 - [[Ferro-Velho e Forja]]
-    
+- [[Trabalho, Produção e Recursos do Ninho]]
 
 ### Personagens
-
+- [[Ithan Voos]]
+- [[Clark Becker]]
 - [[Hugo Becker]]
-    
-- [[Samuel Clay]]
-    
+- [[Marta Becker]]
+- [[Jonas Becker]]
 - [[Elias Ninho]]
-    
 
-### História do mundo
-
+### Mistérios
+- [[A Doença Azul]]
 - [[O Colapso]]
-    
-- [[A Nova Ecologia]]
-    
-
----
-
-> [!quote] O significado da estação  
-> O mundo antigo construiu máquinas para tornar a vida mais fácil.
-> 
-> O Ninho preservou uma delas para continuar vivo.
-> 
-> Enquanto o gerador girar, o muro continuará sendo a última barreira entre a comunidade e tudo aquilo que existe lá fora.
