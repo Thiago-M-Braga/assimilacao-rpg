@@ -160,6 +160,10 @@ Sua presença era uma espécie de equilíbrio para Elias. Quando ele se tornava 
 
 Ela não concordava com todas as decisões do marido, mas compreendia o peso da liderança que ele carregava.
 
+## Ocupação no Ninho
+
+Dalva atuava como mediadora comunitária. Ajudava a aproximar a liderança dos moradores, escutava desentendimentos e procurava resolver conflitos antes que se tornassem problemas maiores. Essa função deixou de existir após sua morte em 2079.
+
 ## A doença e os últimos meses — 2078 a 2079
 
 Os primeiros sinais de que algo estava errado surgiram alguns meses antes de sua morte.
@@ -252,7 +256,7 @@ Durante anos, ajudaram a manter a cozinha comunitária como um espaço de conviv
 
 Helena sentiu muito sua morte e, algumas vezes, ainda se pega esperando ouvir sua voz durante as atividades cotidianas.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 <escape>**SEGREDO — NÃO REVELAR AOS JOGADORES**</escape>
 
@@ -298,7 +302,7 @@ O fato de a comunidade estar relativamente protegida das Zonas Quentes não sign
 
 Dalva representa uma primeira evidência de que algo pode estar acontecendo dentro dos próprios muros — inclusive no alimento produzido pela própria comunidade.
 
-## Possíveis pistas para os jogadores
+## Pistas narrativas
 
 - A amostra de sangue azul escondida na Casa Médica.
     
@@ -371,7 +375,7 @@ A história de Dalva está desenvolvida. Os seguintes elementos permanecem como 
 - Definir se a Assimilação anômala que causou sua morte possui alguma relação com acontecimentos futuros.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[Elias Ninho]]
     
