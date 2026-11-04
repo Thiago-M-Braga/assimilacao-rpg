@@ -16,6 +16,19 @@ tags:
 
 # Thomas Lane
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Thomas Lane |
+| Idade | 10 anos |
+| Nascimento | 2070 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Criança do Ninho; sem função formal |
+| Família | [[Família Lane]] |
+| Status | vivo |
+
+
 > "Eu consigo fazer sozinho! Só preciso que vocês parem de me tratar como criança."
 
 ## Visão geral
