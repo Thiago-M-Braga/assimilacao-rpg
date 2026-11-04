@@ -97,7 +97,7 @@ Clark é o filho mais velho de Hugo e Marta Becker e irmão de Jonas.
 
 Cresceu acompanhando o trabalho dos pais e aprendeu desde cedo que, no Ninho, nenhuma peça é tão insignificante que não possa ter alguma utilidade.
 
-Enquanto Hugo desenvolveu conhecimentos técnicos sobre o funcionamento da Estação de Energia, Clark aprendeu a reconhecer, separar, limpar, catalogar e recuperar os materiais utilizados na manutenção.
+Enquanto Hugo e Marta trabalhavam no Ferro-Velho e na Forja, Clark demonstrou mais interesse pelos mecanismos elétricos. Aprendeu a reconhecer componentes, organizar cabos e auxiliar em tarefas simples da Estação de Energia ao lado de Ithan.
 
 Ele não possui a mesma especialização técnica do pai, mas conhece muito bem o estoque da estação e sabe onde encontrar componentes, ferramentas e peças de reposição.
 
@@ -105,7 +105,7 @@ Ele não possui a mesma especialização técnica do pai, mas conhece muito bem 
 
 Clark admira o conhecimento do pai, embora nem sempre compreenda suas explicações técnicas.
 
-Hugo costuma ser exigente quando se trata de manutenção. Ensina que uma peça mal conservada pode comprometer um equipamento inteiro e que qualquer reparo precisa ser feito com atenção.
+Hugo é exigente com ferramentas e materiais. Ensinou Clark a conservar peças, evitar desperdícios e respeitar os procedimentos de segurança, mesmo quando o filho decidiu seguir um caminho técnico diferente do trabalho da família.
 
 Clark aprendeu a respeitar essa responsabilidade.
 
@@ -123,7 +123,7 @@ Desde que adoeceu, Marta tem sofrido com sua condição. Ela procura visitá-lo 
 
 Clark é o irmão mais velho de Jonas e sempre teve uma postura protetora com ele.
 
-Quando Jonas começou a aprender sobre ferramentas e peças, Clark o ajudou a identificar materiais e organizar os componentes da estação.
+Quando Jonas começou a aprender metalurgia, Clark o ajudou a reconhecer ferramentas e a organizar peças reaproveitáveis da oficina.
 
 Os dois possuem uma relação afetuosa, embora Clark às vezes faça brincadeiras com o irmão para provocá-lo.
 
@@ -131,9 +131,9 @@ A doença interrompeu boa parte dessa convivência. Jonas sente falta de trabalh
 
 ### Lugar de Clark na família
 
-Clark é uma parte importante da rotina dos Becker. Sua função ajuda a manter o trabalho da Estação de Energia organizado e reduz o tempo necessário para localizar peças e realizar reparos.
+Clark é uma parte importante da rotina dos Becker. Sua antiga função ajudava Ithan a manter a Estação de Energia organizada e reduzia o tempo necessário para localizar componentes e preparar reparos.
 
-Sua ausência não significa apenas que a família perdeu alguém querido. Significa também que Hugo e Jonas precisam dividir tarefas que antes eram responsabilidade dele.
+Sua ausência não significa apenas que a família perdeu alguém querido. Também interrompeu uma colaboração importante com Ithan e privou a oficina de um par de mãos que conhecia bem componentes elétricos.
 
 A família tenta manter a rotina, mas a doença de Clark afeta todos os seus integrantes.
 
@@ -141,7 +141,7 @@ Para conhecer melhor as relações e responsabilidades desse núcleo, consulte [
 
 ## Trabalho na Estação de Energia
 
-Clark trabalha na [[Estação de Energia]], auxiliando na manutenção do equipamento e na organização dos materiais utilizados pela equipe.
+Antes de adoecer, Clark ajudava [[Ithan Voos]] na [[Estação de Energia]]. Não era o responsável técnico pelo sistema: sua função era apoiar a manutenção elétrica, preparar ferramentas, identificar componentes e auxiliar em procedimentos simples e seguros.
 
 Sua função é especialmente importante porque muitas peças não podem ser substituídas por componentes novos. O que existe precisa ser conservado, reaproveitado e, sempre que possível, recuperado.
 
@@ -157,7 +157,7 @@ Sua função é especialmente importante porque muitas peças não podem ser sub
     
 - Organizar materiais necessários para manutenções.
     
-- Auxiliar Hugo na desmontagem de componentes.
+- Auxiliar Ithan na preparação e desmontagem de componentes simples, sempre sob orientação.
     
 - Preparar ferramentas e peças para os trabalhos de manutenção.
     
@@ -166,7 +166,7 @@ Sua função é especialmente importante porque muitas peças não podem ser sub
 
 Clark também possui habilidade com pequenos reparos manuais. Consegue desmontar objetos simples, identificar problemas visíveis e recuperar peças que parecem inutilizáveis.
 
-Entretanto, não é o principal responsável pelos sistemas elétricos. Os reparos técnicos mais complexos ficam sob responsabilidade de Hugo e da equipe de energia.
+Entretanto, não é o responsável pelos sistemas elétricos. O planejamento e os reparos técnicos ficam sob responsabilidade de Ithan.
 
 ### Relação com Ithan Voos
 
@@ -294,7 +294,7 @@ Clark sabe que está muito doente.
 
 Sabe também que Clara ainda não encontrou um tratamento definitivo e que sua recuperação é incerta.
 
-Ele não conhece a verdadeira origem da doença, nem sabe que ela está relacionada às plantas medicinais cultivadas no Ninho.
+Ele não conhece a verdadeira origem da doença, nem sabe que ela está relacionada à produção alimentar da estufa.
 
 Não sabe que o sangue de [[Dalva Ninho]] apresentou a mesma alteração antes de sua morte.
 
@@ -364,7 +364,7 @@ Clara precisa interromper a conversa para atendê-lo. A situação deixa claro q
 
 **4. Uma conversa com a família**
 
-Hugo visita o filho e tenta conversar sobre a Estação de Energia. Clark pergunta se Jonas está conseguindo organizar as peças e se o pai está cuidando do gerador.
+Hugo visita o filho e tenta conversar sobre a Forja. Clark pergunta se Jonas está aprendendo a trabalhar o metal e se a oficina está conseguindo atender aos pedidos da comunidade.
 
 A conversa revela que ele sente falta de seu trabalho e teme estar deixando responsabilidades demais para a família.
 
@@ -384,11 +384,11 @@ Pela primeira vez em meses, consegue permanecer sentado por mais tempo, alimenta
 
 - Clark é o filho mais velho de Hugo e Marta Becker e irmão de Jonas.
     
-- Sua função na Estação de Energia é organizar, catalogar e recuperar peças e materiais.
+- Sua função era auxiliar Ithan na manutenção elétrica, preparando ferramentas e identificando componentes. Os demais Beckers trabalham no Ferro-Velho e na Forja.
     
 - Ele não é o principal responsável pelos reparos elétricos complexos.
     
-- Clark adoeceu após utilizar preparações medicinais associadas à [[Língua-de-Vidro]] contaminada.
+- Clark adoeceu após um período prolongado de exposição à produção alimentar da estufa. A causa exata e os fatores individuais de sua vulnerabilidade ainda são desconhecidos por ele.
     
 - Ele não sabe que a planta está relacionada à doença.
     
@@ -415,7 +415,7 @@ Ele pode voltar a andar, trabalhar e produzir suas dobraduras, mas não deve mel
 
 Sua recuperação também pode modificar sua relação com Mabel. Ao perceber tudo o que ela fez durante sua doença, Clark poderá compreender a profundidade do carinho que recebeu.
 
-Sua volta à Estação de Energia também permitirá que Hugo e Jonas recuperem parte da rotina familiar. Clark poderá voltar a ensinar ao irmão aquilo que aprendeu durante os anos de trabalho.
+Sua recuperação permitirá que volte gradualmente a colaborar com Ithan na Estação de Energia, enquanto Hugo, Marta e Jonas mantêm o trabalho da família na Forja.
 
 O que acontecerá entre ele e Mabel, porém, dependerá das escolhas e interpretações dos jogadores.
 
@@ -463,7 +463,7 @@ O que acontecerá entre ele e Mabel, porém, dependerá das escolhas e interpret
 
 - [[A Doença Azul]]
     
-- [[Língua-de-Vidro]]
+- Produção contaminada da estufa
     
 - [[Micélio de Cobalto]]
     
@@ -478,7 +478,7 @@ Clark representa aquilo que Mabel deseja proteger: uma pessoa querida, uma prome
 
 Sua doença conecta a história pessoal de Mabel ao mistério central da campanha.
 
-Sua ligação com a Família Becker também faz com que a doença afete diretamente a manutenção da Estação de Energia, a rotina de Hugo e a formação de Jonas.
+Sua ligação com a Família Becker também faz com que a doença afete a rotina familiar e interrompa a colaboração com Ithan na Estação de Energia.
 
 Ele ajuda a lembrar que, por trás de cada investigação, existe alguém esperando por uma resposta.
 
