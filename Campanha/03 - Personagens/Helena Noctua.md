@@ -236,7 +236,7 @@ Apesar da rotina exigente, continua procurando momentos para conversar com os mo
 
 Acredita que a comunidade precisa de algo além de segurança e alimentação: precisa de motivos para continuar vivendo.
 
-## Ocupação: chefe da cozinha comunitária
+## Ocupação no Ninho
 
 A cozinha comunitária é um dos espaços mais importantes do Ninho.
 
@@ -442,7 +442,7 @@ Ao longo dos anos, Helena criou alguns costumes na cozinha:
 
 Esses costumes não são regras oficiais, mas fazem parte da maneira como a cozinha funciona.
 
-## Conflitos internos
+## Conflitos e motivações
 
 ### A responsabilidade por todos
 
@@ -476,7 +476,7 @@ Não quer que o medo transforme os moradores em pessoas desconfiadas que pensam 
 
 Tem receio de que a rigidez crescente de Elias prejudique a convivência e enfraqueça aquilo que torna a comunidade diferente de um simples abrigo.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -566,7 +566,7 @@ Pode notar mudanças no comportamento dos moradores antes que eles próprios per
 - Durante uma refeição, Helena percebe que um dos personagens está escondendo alguma coisa por causa de seu comportamento.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     
