@@ -290,99 +290,39 @@ Uma família ligada à produção de alimentos e à manutenção da vida cotidia
 - Sua história pessoal será desenvolvida junto com o jogador responsável.
     
 
-## Família Clay
-
-### Samuel Clay — 42 anos
-
-- Ferreiro do Ninho.
-    
-- Trabalha na Forja.
-    
-- Não possui família.
-    
-- É dedicado ao trabalho e tem orgulho das ferramentas que recupera e fabrica.
-    
-
-Samuel construiu sua vida em torno da própria profissão e da contribuição que pode oferecer à comunidade. Não possui esposa, filhos ou parentes próximos conhecidos no Ninho.
-
 ## Família Becker
-
-Uma família diretamente ligada à manutenção da infraestrutura da comunidade.
 
 ### Hugo Becker — 55 anos
 
-- Técnico responsável pela Estação de Energia.
-    
-- É magro, usa óculos de proteção na testa e carrega um cinto cheio de ferramentas.
-    
-- Tem uma personalidade excêntrica e costuma murmurar enquanto trabalha.
-    
-- É casado com Marta e pai de Jonas.
-    
+- Responsável pelo Ferro-Velho e pela Forja.
+- Coordena a triagem de sucata, a metalurgia e a fabricação de ferramentas, utensílios e peças necessárias ao Ninho.
+- É excêntrico, curioso e exigente com a qualidade do trabalho.
 
 ### Marta Becker — 52 anos
 
-- Esposa de Hugo.
-    
-- Trabalha com costura e reparos de roupas.
-    
-- Aproveita tecidos, lonas e peças de vestuário reaproveitadas para produzir roupas e remendar as peças dos moradores.
-    
-- É tranquila, paciente e muito mais sociável que o marido.
-    
-- Costuma ser a pessoa que traduz as explicações técnicas e confusas de Hugo para os demais moradores.
-    
+- Trabalha na Forja com o marido e os filhos.
+- Produz aventais, luvas, bainhas, correias, bolsas de ferramentas, proteções e acabamentos utilizando tecidos, couro e lona.
+- Organiza materiais não metálicos e ajuda na finalização dos objetos.
 
-**História e formação**
+### Clark Becker — 26 anos
 
-Marta chegou ao Ninho ainda muito jovem, acompanhada de familiares que buscavam abrigo depois do Colapso. Cresceu em meio à reconstrução da comunidade e aprendeu cedo a reaproveitar materiais.
-
-Sua mãe sabia costurar e consertar roupas, e Marta aprendeu com ela a transformar tecidos velhos em peças úteis. Com o passar dos anos, tornou-se uma das pessoas mais procuradas quando alguém precisava reparar uma roupa, reforçar uma bolsa ou adaptar um tecido para algum trabalho.
-
-Conheceu Hugo durante os anos em que a comunidade ainda trabalhava na melhoria de suas instalações. Ele estava tentando recuperar um equipamento quando precisou de tecido resistente para proteger algumas peças. Marta o ajudou, e os dois começaram a conversar.
-
-A relação cresceu aos poucos. Marta se interessou pela curiosidade e pelo jeito peculiar de Hugo; ele encontrou nela alguém que não se incomodava com suas conversas intermináveis sobre mecanismos e ferramentas.
-
-Os dois se casaram alguns anos depois.
-
-**Relação com Hugo**
-
-Marta conhece os hábitos do marido e sabe quando suas murmurações significam que está concentrado, irritado ou preocupado.
-
-Embora não compreenda todos os detalhes técnicos de seu trabalho, consegue interpretar suas explicações e transmitir aos moradores o que precisam saber.
-
-Ela também é uma das poucas pessoas capazes de convencê-lo a interromper o trabalho para descansar ou comer.
+- Filho mais velho de Hugo e Marta.
+- Antes de adoecer, ajudava [[Ithan Voos]] na Estação de Energia, preparando ferramentas e identificando componentes elétricos.
+- Está internado na Casa Médica devido à Doença Azul.
 
 ### Jonas Becker — 24 anos
 
-- Filho único de Hugo e Marta.
-    
-- Ajuda o pai na Estação de Energia.
-    
-- É curioso e habilidoso com trabalhos manuais, mas ainda não possui o conhecimento técnico de Hugo.
-    
+- Filho de Hugo e Marta.
+- Aprendiz de metalurgia e auxiliar de produção na Forja.
+- É organizado e mantém registros de medidas e procedimentos.
 
-**História e formação**
+**História e dinâmica familiar**
 
-Jonas cresceu ouvindo o barulho das ferramentas do pai e acompanhando a recuperação de sucata e a fabricação de objetos na Forja. Quando criança, observava Hugo trabalhando e fazia perguntas sobre metais, ferramentas e acabamentos.
+Os Beckers construíram sua vida comunitária em torno da recuperação de materiais. Hugo coordena a metalurgia; Marta adaptou sua experiência com tecidos e couro às necessidades da oficina; Jonas aprende o ofício e assume tarefas cada vez mais complexas.
 
-Na adolescência, começou a ajudá-lo em tarefas simples. Com o tempo, aprendeu a separar metais, preparar peças, utilizar ferramentas e executar acabamentos.
+Clark escolheu seguir um caminho diferente e passou a auxiliar Ithan na Estação de Energia. Sua escolha é respeitada pela família. A doença o afastou temporariamente da estação e abalou a rotina dos Beckers.
 
-Hugo nunca foi um professor muito paciente. Muitas vezes explica uma coisa enquanto já está fazendo outra, deixando o filho confuso. Jonas aprendeu boa parte do que sabe observando e repetindo os procedimentos.
-
-**Personalidade e conflito**
-
-Jonas admira muito o pai, mas se incomoda com sua dificuldade de explicar o funcionamento completo dos equipamentos.
-
-Tem medo de que, caso Hugo fique doente ou morra, ninguém consiga manter o gerador funcionando. Esse receio o leva a tentar aprender tudo o que pode, mesmo quando o pai acredita que ainda não está preparado.
-
-Ao mesmo tempo, Jonas gostaria de construir uma identidade própria, em vez de passar a vida inteira sendo conhecido apenas como o filho de Hugo Becker.
-
-**Relação com Marta**
-
-Jonas tem uma relação muito próxima com a mãe. Marta costuma ser a pessoa com quem ele conversa sobre suas dúvidas e frustrações.
-
-Ela acredita que o filho precisa aprender o ofício do pai, mas também precisa encontrar algo que seja realmente seu.
+A ficha completa do núcleo está em [[Família Becker]].
 
 ## Iara Salles — 39 anos
 
@@ -390,63 +330,41 @@ Iara não pertence a nenhuma das famílias tradicionais do Ninho, mas possui rel
 
 ### História familiar
 
-Iara é filha de dois refugiados que chegaram ao Ninho durante os primeiros anos após o Colapso.
+Iara é filha de dois refugiados que chegaram ao Ninho durante os primeiros anos após o Colapso. Seus pais participaram da reconstrução da comunidade. Ela nasceu no Ninho e nunca conheceu o mundo exterior.
 
-Seus pais conseguiram abrigo na comunidade e participaram dos trabalhos necessários para reconstruir a vida dentro dos muros. Iara nasceu no Ninho e nunca conheceu o mundo exterior.
-
-Sua mãe morreu quando Iara tinha quinze anos, vítima de uma infecção que evoluiu rapidamente. Seu pai continuou cuidando dela, mas faleceu alguns anos depois, em um acidente durante um trabalho de manutenção.
-
-Após perder os pais, Iara passou a viver de maneira mais independente. Foi acolhida por pessoas da comunidade, mas fez questão de conquistar seu próprio espaço por meio do trabalho.
+Após perder os pais, conquistou independência por meio do trabalho e desenvolveu habilidade para organizar tarefas, quantidades e registros.
 
 ### Ocupação e formação
 
-Iara trabalha na cozinha comunitária, auxiliando Helena na preparação, na organização dos ingredientes e no registro do consumo diário de alimentos. Ela não trabalha no Armazém nem controla os estoques gerais da comunidade.
+Iara trabalha na cozinha comunitária com Helena, Maria e Fernando. Organiza os ingredientes recebidos, auxilia no preparo das refeições e registra o consumo diário para ajudar no planejamento do cardápio.
 
-Durante a juventude, ajudava em diferentes tarefas da cozinha comunitária e do armazenamento de alimentos. Era cuidadosa com quantidades, datas e anotações, e frequentemente percebia quando alguma informação não correspondia ao estoque real.
-
-Aos 27 anos, durante um período de escassez, identificou inconsistências nos registros de alimentos. A diferença não era resultado de roubo, mas de anotações incompletas e falta de um método de controle.
-
-Por iniciativa própria, reorganizou os registros, refez as contagens e estabeleceu um sistema simples para acompanhar o consumo e as reservas.
-
-O resultado ajudou a comunidade a entender melhor quanto tempo os suprimentos poderiam durar e como distribuir os recursos com menos desperdício.
-
-Depois desse episódio, Helena passou a contar com Iara para manter o controle interno dos ingredientes utilizados na cozinha e planejar as refeições com base no que é entregue pelo Armazém.
+Seu controle se limita à cozinha. Iara não trabalha no Armazém, não administra estoques gerais e não autoriza retiradas. Quando a cozinha precisa de suprimentos, Helena encaminha a solicitação à família Ninho.
 
 ### Responsabilidades
 
-Iara acompanha o uso de ingredientes dentro da cozinha, organiza os alimentos recebidos e informa à família Ninho quando são necessárias novas entregas.
-
-Sua função é complementar à de Lívia Fagundes:
-
-- Lívia é responsável pela rotina do Armazém e pelo controle físico dos materiais.
-    
-- Iara cuida dos registros, das contagens e do acompanhamento do consumo.
-    
-
-As duas trabalham em conjunto para manter as informações atualizadas.
+- Organizar ingredientes recebidos pela cozinha.
+- Apoiar o preparo e a distribuição das refeições.
+- Registrar o consumo diário de alimentos dentro da cozinha.
+- Informar Helena quando determinado ingrediente estiver acabando.
+- Comunicar necessidades de reposição à família Ninho.
+- Evitar desperdícios e manter utensílios organizados.
 
 ### Personalidade
 
 - Inteligente, observadora e independente.
-    
 - Tem facilidade para perceber quando alguém está escondendo alguma coisa.
-    
 - É direta e não gosta de promessas vazias.
-    
 - Apesar da postura desconfiada, é leal às pessoas em quem confia.
-    
 
 ### Relações
 
-**Elisa Ninho:** as duas são amigas próximas. Iara é uma das poucas pessoas com quem Elisa conversa abertamente sobre as preocupações envolvendo o pai.
+**Helena Noctua:** trabalham juntas na cozinha. Helena coordena as refeições e Iara organiza ingredientes e registros de consumo.
 
-**Helena Noctua:** trabalham juntas na cozinha comunitária. Helena coordena as refeições e Iara organiza ingredientes e registros de consumo.
+**Lívia Fagundes:** mantêm uma amizade próxima, mas trabalham em setores diferentes. Lívia atua na Casa Médica.
 
-**Helena Noctua:** Iara mantém contato frequente com Helena por causa da distribuição de alimentos e das necessidades da cozinha comunitária.
+**Maria e Fernando Evans:** são colegas de trabalho na cozinha comunitária.
 
-**Elias Ninho:** respeita a posição do líder, mas não concorda com todas as suas decisões. Por conhecer os estoques e as necessidades reais da comunidade, às vezes questiona as prioridades estabelecidas por ele.
-
-Iara é uma personagem que conhece bem a rotina do Ninho e pode perceber problemas antes que eles se tornem evidentes para os demais moradores.
+**Família Ninho:** Iara encaminha à liderança as necessidades de suprimentos da cozinha; não tem função operacional no Armazém.
 
 ## Vicente Murphy — 60 anos
 
