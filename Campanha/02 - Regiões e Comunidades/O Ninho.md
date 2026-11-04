@@ -204,7 +204,7 @@ As casas numeradas são:
     
 - Casa 5 — Família Noctua.
     
-- Casa 6 — Família Clay.
+- Casa 6 — Família Becker.
     
 - Casa 7 — Família Becker.
     
@@ -353,7 +353,7 @@ Devido à escassez de componentes e às dificuldades de manutenção, a eletrici
 
 A prioridade é manter a defesa do perímetro.
 
-O funcionamento desse sistema depende diretamente do trabalho de [[Hugo Becker]] e da preservação da estação.
+O funcionamento desse sistema depende diretamente do trabalho de [[Ithan Voos]] e da preservação da estação.
 
 ### 5.2. Dependência energética
 
@@ -391,14 +391,12 @@ Desde a morte dela, Elias tornou-se mais seco, reservado e rigoroso.
 
 ### 6.3. Os filhos de Elias
 
-Elias possui dois filhos:
+Elias possui dois filhos adultos:
 
-- [[Lívia Fagundes]] — Filho mais velho e um dos guardas pessoais do pai.
-    
-- [[Elisa Ninho]] — Filha mais nova e também responsável por proteger e auxiliar o pai.
-    
+- [[Davi Ninho]] — Filho mais velho, guarda pessoal do pai e responsável pela movimentação física dos estoques do Armazém.
+- [[Elisa Ninho]] — Filha mais nova, guarda pessoal do pai e responsável pelos registros e pela organização das retiradas.
 
-Ambos participam da proteção pessoal do líder.
+Os três administram o Armazém. O acesso ao espaço é restrito à família Ninho; os outros setores fazem solicitações, mas não trabalham no local.
 
 A regra exata de sucessão familiar ainda precisa ser documentada.
 
@@ -414,7 +412,9 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
     
 - [[Dalva Ninho]] — Falecida em 2079.
     
-- [[Lívia Fagundes]] — Filho mais velho e guarda.
+- [[Davi Ninho]] — Filho mais velho e guarda.
+    
+- [[Elisa Ninho]] — Filha mais nova e guarda.
     
 - [[Elisa Ninho]] — Filha mais nova e guarda.
     
@@ -434,14 +434,16 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
     
 - [[Cecília Lane]] — Responsável pelo cuidado dos animais e organização do curral.
     
-- [[Thomas Lane]] — Filho do casal e ajudante no curral.
+- [[Thomas Lane]] — Filho do casal, criança de 10 anos; não possui função formal no curral.
     
 
 ### 7.4. Família Fagundes
 
 - [[Dona Clara Fagundes]] — Médica e curandeira.
     
-- [[Marcio Fagundes]] — Marido de Clara, possui amnésia.
+- [[Marcio Fagundes]] — Marido de Clara, possui amnésia e ajuda, quando está em condições, em pequenas tarefas supervisionadas na Casa Médica.
+    
+- [[Lívia Fagundes]] — Auxiliar da Casa Médica.
     
 
 ### 7.5. Família Noctua
@@ -450,28 +452,26 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
     
 - [[Helena Noctua]] — Cozinheira chefe.
     
-- [[Mabel Noctua]] — Filha do casal e personagem de jogador.
+- [[Mabel Noctua]] — Filha do casal e personagem de jogador; participa do cultivo e da rotina da estufa.
     
 
-### 7.6. Família Clay
 
-- [[Samuel Clay]] — Ferreiro.
-    
-- [[Iara Clay]] — Responsável pelo reaproveitamento de tecidos e roupas.
-    
-- [[Caio Clay]] — Filho do casal e aprendiz na forja.
-    
+### 7.6. Família Becker
 
-### 7.7. Família Becker
-
-- [[Hugo Becker]] — Técnico responsável pela estação de energia.
+- [[Hugo Becker]] — Responsável pelo Ferro-Velho e pela Forja.
     
-- [[Marta Becker]] — Responsável pelo armazém.
+- [[Marta Becker]] — Trabalha na Forja com acessórios, acabamentos e proteções.
+    
+- [[Jonas Becker]] — Aprendiz e auxiliar de produção na Forja.
+    
+- [[Clark Becker]] — Antigo auxiliar de Ithan na Estação de Energia; atualmente está internado na Casa Médica.
     
 
 ### 7.7. Outros moradores importantes
 
 - [[Iara Salles]] — Auxiliar da cozinha comunitária, responsável pela organização de ingredientes e pelo registro do consumo diário.
+    
+- [[Marina Vilar]] — Auxilia a Casa Médica na preparação e conservação de tecidos médicos.
 - [[Marina Vilar]] — Apoia a Casa Médica com tecidos, curativos e materiais limpos.
 - [[Vicente Murphy]] — Sentinela, veterano e apaziguador de conflitos.
     
@@ -709,7 +709,7 @@ As funções não representam necessariamente as únicas atividades realizadas p
     
 - [[Thomas Lane]]
     
-- [[Samuel Clay]]
+- [[Família Becker]]
     
 - [[Dona Clara Fagundes]]
     
@@ -729,9 +729,9 @@ As funções não representam necessariamente as únicas atividades realizadas p
     
 - [[Elisa Ninho]]
     
-- [[Iara Clay]]
+
     
-- [[Caio Clay]]
+
     
 - [[Marta Becker]]
     
