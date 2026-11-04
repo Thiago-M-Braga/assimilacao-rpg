@@ -46,7 +46,7 @@ Uma das famílias mais antigas e influentes da comunidade. Sua linhagem está di
 
 - Filho mais velho de Elias e Dalva.
     
-- Atua como guarda pessoal do pai e participa da organização da segurança interna.
+- É guarda pessoal de Elias e participa da segurança interna. Também recebe, confere, organiza fisicamente e conserva os estoques do Armazém, setor exclusivo da família Ninho.
     
 - É forte, disciplinado e de poucas palavras.
     
@@ -73,7 +73,7 @@ Davi não deseja tomar o lugar do pai, mas sabe que talvez precise fazê-lo algu
 
 - Filha mais nova de Elias e Dalva.
     
-- Atua como guarda pessoal e ajudante do pai.
+- É guarda pessoal de Elias e auxilia a liderança. No Armazém, registra entradas e retiradas, organiza os pedidos e acompanha a distribuição autorizada.
     
 - Tem olhar atento, raciocínio rápido e uma personalidade mais questionadora que a do irmão.
     
