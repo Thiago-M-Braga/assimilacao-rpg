@@ -176,6 +176,12 @@ Não existe uma estrutura formal de votação entre os moradores. A opinião das
 
 Ele confia especialmente em pessoas que demonstraram competência ao longo dos anos.
 
+## Administração do Armazém
+
+Elias supervisiona o Armazém, que é um setor de acesso exclusivo da família Ninho. Apenas ele e seus dois filhos adultos trabalham no local. Davi responde pela entrada, conferência e organização física dos materiais; Elisa mantém os registros e organiza os pedidos e as entregas; Elias define prioridades e autoriza retiradas extraordinárias.
+
+Os demais setores não possuem trabalhadores no Armazém. Seus responsáveis encaminham solicitações à família Ninho e recebem os materiais após autorização e registro.
+
 ## Relações
 
 ### Dalva Ninho — esposa falecida
