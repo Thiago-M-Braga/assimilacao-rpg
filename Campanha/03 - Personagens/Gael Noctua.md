@@ -231,7 +231,7 @@ Acredita que o Ninho precisa preservar sua capacidade de produzir alimentos inde
 
 Sua maior preocupação é que a comunidade se torne dependente de poucos cultivos e perca a diversidade necessária para enfrentar mudanças futuras.
 
-## Ocupação: agricultura e estufa
+## Ocupação no Ninho
 
 A plantação é um dos setores essenciais para a sobrevivência do Ninho.
 
@@ -431,7 +431,7 @@ Hugo considera Gael excessivamente cuidadoso com alguns equipamentos, mas reconh
 
 Os dois mantêm uma relação de respeito profissional.
 
-## Conflitos internos
+## Conflitos e motivações
 
 ### A obsessão por preservar sementes
 
@@ -465,7 +465,7 @@ Em situações de escassez, pode ser necessário utilizar sementes reservadas pa
 
 Essa possibilidade representa um dos maiores dilemas para Gael.
 
-## Segredo do Mestre
+## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
 
@@ -569,7 +569,7 @@ Sua cautela não vem de uma explicação científica, mas da experiência de ter
 - Mabel demonstra interesse por algo que não está relacionado à agricultura, provocando uma conversa sobre o futuro da filha.
     
 
-## Relações com outras notas
+## Notas relacionadas
 
 - [[O Ninho]]
     
