@@ -259,6 +259,12 @@ Também conhece diferentes métodos de conservação de sementes e compreende a 
 
 Não é um cientista nem possui equipamentos avançados. Seu conhecimento é resultado de observação, experimentação e registros.
 
+### O sistema de cultivo e seus riscos
+
+Gael administra os canteiros, a estufa, a compostagem e a distribuição de água para as plantações. Como diferentes cultivos compartilham parte dessa infraestrutura, uma alteração no solo, no composto ou na irrigação pode afetar alimentos e ervas de espécies muito diferentes.
+
+Gael não conhece a contaminação pelo Micélio de Cobalto. Ele percebe ocasionalmente diferenças de crescimento entre canteiros, mas atribui essas variações à qualidade do solo, ao clima e à escassez de nutrientes. Não sabe que a ameaça pode estar presente em toda a produção, nem que a aparência saudável de uma planta não garante que ela esteja livre dos compostos do fungo.
+
 ### Relação com a nova ecologia
 
 Gael cresceu em um mundo onde a natureza passou por transformações profundas.
