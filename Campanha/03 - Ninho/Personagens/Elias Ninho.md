@@ -400,7 +400,7 @@ Ele terá de escolher entre preservar a confiança da comunidade ou admitir que 
 ## Notas relacionadas
 
 - [[O Ninho]]
-- [[Famílias do Ninho]]
+- [[As Famílias do Ninho]]
 - [[Conhecimento e Lendas do Ninho]]
 - [[O Muro de Sucata]]
 - [[Estação de Energia]]
