@@ -280,7 +280,7 @@ Ela também pode se tornar uma pista narrativa caso os personagens encontrem alg
 
 Para conhecer sua história e características, consulte [[A Pulseira de Ithan]].
 
-## Relações com os outros personagens jogadores
+## Relações
 
 ### Mabel Noctua
 
@@ -375,6 +375,12 @@ Entretanto, sua partida poderá deixar responsabilidades importantes para outros
 A decisão deve ter consequências para a comunidade e para o próprio personagem.
 
 **Conexões:** [[O Ninho]], [[O Mundo Exterior]] e [[Vicente Murphy]].
+
+## Conflitos e motivações
+
+Ithan deseja conhecer o mundo exterior, mas sente a responsabilidade de manter a Estação de Energia e a proteção do Ninho funcionando. A ausência de Artur alimenta sua curiosidade e sua vontade de partir, enquanto a dependência da comunidade em relação a seu trabalho o faz hesitar.
+
+Seu conflito não é apenas escolher entre ficar ou partir: é descobrir como pode ajudar o Ninho sem abandonar o desejo de construir sua própria vida.
 
 ## Segredos do mestre
 
