@@ -112,9 +112,9 @@ Cheiros de comida, fumaça, panelas batendo e conversas se misturam durante boa 
 
 A Forja é um espaço quente, barulhento e coberto por fuligem. Pilhas de sucata são separadas por tipo de metal, enquanto ferramentas antigas aguardam reparo em prateleiras improvisadas.
 
-Samuel trabalha com o que consegue recuperar. Fabrica facões, pontas de lança, peças de reposição, ferramentas agrícolas e componentes para estruturas da vila.
+Hugo coordena o trabalho com o metal e fabrica ferramentas, utensílios, suportes e peças de reposição. Marta prepara acabamentos, luvas, aventais, bainhas, correias e proteções. Jonas atua como aprendiz, separando materiais e auxiliando na produção.
 
-O lugar também funciona como depósito de materiais reaproveitáveis. Quase nada é descartado sem antes passar pela avaliação de Samuel.
+O lugar também funciona como área de triagem de materiais reaproveitáveis. Quase nada é descartado sem antes passar pela avaliação dos Beckers.
 
 ### Atmosfera
 
@@ -122,9 +122,9 @@ O som do martelo contra o metal é constante. O ar é pesado, e o chão está co
 
 ### Pessoas encontradas
 
-- Samuel Clay.
+- Ithan Voos.
     
-- Iara Clay.
+- Clark Becker, atualmente afastado por doença.
     
 
 ### Possibilidades narrativas
@@ -163,6 +163,14 @@ Os moradores respeitam a Casa Médica porque sabem que, sem ela, um ferimento si
 ### Pessoas encontradas
 
 - Dona Clara Fagundes.
+    
+- Lívia Fagundes.
+    
+- Freya Naevus.
+    
+- Marina Vilar, quando está ajudando com tecidos e materiais médicos.
+    
+- Marcio Fagundes, em tarefas simples e supervisionadas.
     
 - Lívia Fagundes.
     
@@ -308,7 +316,7 @@ A Estação de Energia abriga o gerador eólico rústico herdado da antiga fazen
 
 O equipamento fornece energia em quantidade limitada. Por isso, a eletricidade é poupada e direcionada principalmente ao sistema que mantém o Muro de Sucata eletrificado.
 
-Hugo Becker é responsável pela manutenção. Ele conhece as peças, os ruídos e as falhas recorrentes do equipamento melhor do que qualquer outro morador.
+Ithan Voos é responsável pela manutenção técnica. Clark Becker o auxiliava na preparação de ferramentas e identificação de componentes antes de adoecer. A Forja dos Beckers fornece peças metálicas, mas não administra a estação.
 
 ### Atmosfera
 
@@ -478,7 +486,7 @@ Os caminhos são parte da rotina. Durante o dia, estão cheios de movimento. À 
 |---|---|---|
 |Casa Principal|Liderança|Elias, Davi e Elisa|
 |Cozinha Comunitária|Alimentação|Helena, Maria e Fernando|
-|Ferro-Velho e Forja|Ferramentas e metalurgia|Samuel e Iara|
+|Ferro-Velho e Forja|Ferramentas, metalurgia e acessórios|Hugo, Marta e Jonas Becker|
 |Casa Médica|Saúde|Clara, Lívia e Marcio|
 |Curral|Animais|Breno, Cecília e Thomas|
 |Plantações e Estufa|Agricultura|Gael|
