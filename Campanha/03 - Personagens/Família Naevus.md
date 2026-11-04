@@ -77,16 +77,16 @@ Freya decidiu aprender medicina com [[Dona Clara Fagundes]], tornando-se aprendi
 **Nascimento aproximado:** 2034  
 **Situação:** Viva  
 **Residência:** O Ninho  
-**Ocupação:** Costureira e responsável por reparos de tecidos  
+**Ocupação:** Auxiliar da Casa Médica na preparação de tecidos e materiais médicos  
 **Filhas:** Freya Naevus e Luna Azevedo
 
 ### Aparência
 
 Marina é uma mulher de aparência cansada, mas ainda bastante ativa. Tem cabelos castanhos com alguns fios grisalhos, olhos escuros e mãos marcadas pelo trabalho com agulhas, linhas e tecidos.
 
-Costuma usar roupas simples, avental de trabalho e manter uma pequena bolsa com materiais de costura por perto.
+Costuma usar roupas simples e um avental de trabalho. Mantém uma pequena bolsa com agulhas, linhas e instrumentos necessários para preparar tecidos médicos.
 
-Tem o hábito de guardar retalhos, botões e pedaços de tecido que ainda possam ser aproveitados.
+Tem o hábito de guardar retalhos, botões e pedaços de tecido que ainda possam ser aproveitados em curativos e reparos da Casa Médica.
 
 ### Personalidade
 
@@ -100,26 +100,18 @@ Carrega uma tristeza antiga relacionada ao desaparecimento de Dário e à morte 
 
 ### Trabalho no Ninho
 
-Marina trabalha como costureira e remendeira.
+Marina trabalha na Casa Médica, onde sua experiência com costura e reaproveitamento de tecidos é utilizada na preparação de materiais de atendimento.
 
 Suas atividades incluem:
 
-- Reparar roupas danificadas.
-    
-- Reforçar calças, casacos e botas de tecido.
-    
-- Consertar bolsas e mochilas.
-    
-- Remendar cobertores e lençóis.
-    
-- Recuperar tecidos para novos usos.
-    
-- Preparar peças simples de vestuário quando há material disponível.
-    
+- Lavar, separar e preparar panos limpos.
+- Costurar e reforçar ataduras e tecidos médicos reutilizáveis.
+- Preparar compressas, bolsas e proteções de tecido.
+- Reparar lençóis, mantas e roupas utilizadas pelos pacientes.
+- Organizar retalhos e materiais que possam ser aproveitados em curativos.
+- Avisar Clara quando os materiais têxteis estiverem em falta.
 
-Seu trabalho é importante porque roupas em boas condições ajudam a proteger os moradores do frio, dos ferimentos e das condições ambientais do exterior.
-
-Ela não possui uma oficina própria. Trabalha em um pequeno espaço junto à residência, onde mantém uma máquina de costura antiga, ferramentas manuais e caixas de retalhos.
+Seu trabalho complementa o atendimento de [[Dona Clara Fagundes]] e o apoio de [[Lívia Fagundes]]. Marina não administra a Casa Médica nem realiza procedimentos clínicos. Sua função é preparar e conservar os materiais de tecido usados no cuidado dos moradores.
 
 ### Relação com Freya
 
