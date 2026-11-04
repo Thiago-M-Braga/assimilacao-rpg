@@ -227,7 +227,7 @@ Lívia cresceu na Casa Médica, acompanhando a rotina de trabalho da mãe. Desde
 
 Seu pai sempre foi uma presença muito importante em sua infância. Marcio gostava de ensinar coisas práticas à filha: consertar objetos simples, organizar ferramentas e registrar pequenas informações. Ele tinha o hábito de anotar o que considerava importante, pois acreditava que as pessoas não deveriam depender apenas da memória.
 
-Lívia acabou desenvolvendo interesse por organização e registros. Na adolescência, começou a ajudar em tarefas do Armazém e, com o tempo, tornou-se responsável por parte do controle de suprimentos.
+Lívia acabou desenvolvendo interesse por organização e cuidados. Na adolescência, começou a ajudar na Casa Médica e, com o tempo, tornou-se a principal auxiliar de Clara na preparação de materiais, higiene do espaço e acompanhamento dos pacientes.
 
 **A doença do pai**
 
@@ -364,9 +364,9 @@ Ela também é uma das poucas pessoas capazes de convencê-lo a interromper o tr
 
 **História e formação**
 
-Jonas cresceu ouvindo o barulho das ferramentas do pai e acompanhando pequenos reparos na Estação de Energia. Quando criança, costumava observar Hugo trabalhando e fazer perguntas sobre cada engrenagem, fio ou peça.
+Jonas cresceu ouvindo o barulho das ferramentas do pai e acompanhando a recuperação de sucata e a fabricação de objetos na Forja. Quando criança, observava Hugo trabalhando e fazia perguntas sobre metais, ferramentas e acabamentos.
 
-Na adolescência, começou a ajudá-lo em tarefas simples. Com o tempo, aprendeu a reconhecer componentes, substituir peças e identificar defeitos comuns.
+Na adolescência, começou a ajudá-lo em tarefas simples. Com o tempo, aprendeu a separar metais, preparar peças, utilizar ferramentas e executar acabamentos.
 
 Hugo nunca foi um professor muito paciente. Muitas vezes explica uma coisa enquanto já está fazendo outra, deixando o filho confuso. Jonas aprendeu boa parte do que sabe observando e repetindo os procedimentos.
 
@@ -384,7 +384,7 @@ Jonas tem uma relação muito próxima com a mãe. Marta costuma ser a pessoa co
 
 Ela acredita que o filho precisa aprender o ofício do pai, mas também precisa encontrar algo que seja realmente seu.
 
-## Iara Salles — 33 anos
+## Iara Salles — 39 anos
 
 Iara não pertence a nenhuma das famílias tradicionais do Ninho, mas possui relações próximas com vários moradores.
 
@@ -400,7 +400,7 @@ Após perder os pais, Iara passou a viver de maneira mais independente. Foi acol
 
 ### Ocupação e formação
 
-Iara trabalha no controle de suprimentos e na organização dos registros do Armazém.
+Iara trabalha na cozinha comunitária, auxiliando Helena na preparação, na organização dos ingredientes e no registro do consumo diário de alimentos. Ela não trabalha no Armazém nem controla os estoques gerais da comunidade.
 
 Durante a juventude, ajudava em diferentes tarefas da cozinha comunitária e do armazenamento de alimentos. Era cuidadosa com quantidades, datas e anotações, e frequentemente percebia quando alguma informação não correspondia ao estoque real.
 
@@ -410,11 +410,11 @@ Por iniciativa própria, reorganizou os registros, refez as contagens e estabele
 
 O resultado ajudou a comunidade a entender melhor quanto tempo os suprimentos poderiam durar e como distribuir os recursos com menos desperdício.
 
-Depois desse episódio, Elias autorizou que Iara assumisse formalmente a organização dos registros de suprimentos.
+Depois desse episódio, Helena passou a contar com Iara para manter o controle interno dos ingredientes utilizados na cozinha e planejar as refeições com base no que é entregue pelo Armazém.
 
 ### Responsabilidades
 
-Iara acompanha o consumo de alimentos, ferramentas e outros recursos, ajudando a identificar quando algum estoque está acabando.
+Iara acompanha o uso de ingredientes dentro da cozinha, organiza os alimentos recebidos e informa à família Ninho quando são necessárias novas entregas.
 
 Sua função é complementar à de Lívia Fagundes:
 
@@ -440,7 +440,7 @@ As duas trabalham em conjunto para manter as informações atualizadas.
 
 **Elisa Ninho:** as duas são amigas próximas. Iara é uma das poucas pessoas com quem Elisa conversa abertamente sobre as preocupações envolvendo o pai.
 
-**Lívia Fagundes:** trabalham juntas no controle dos suprimentos. Iara cuida dos registros e da organização das contagens, enquanto Lívia tem responsabilidade direta pelo Armazém. As duas possuem temperamentos diferentes, mas formam uma boa equipe.
+**Helena Noctua:** trabalham juntas na cozinha comunitária. Helena coordena as refeições e Iara organiza ingredientes e registros de consumo.
 
 **Helena Noctua:** Iara mantém contato frequente com Helena por causa da distribuição de alimentos e das necessidades da cozinha comunitária.
 
