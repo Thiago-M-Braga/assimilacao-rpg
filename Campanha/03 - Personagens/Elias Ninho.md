@@ -16,6 +16,18 @@ tags:
 
 # Elias Ninho
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Elias Ninho |
+| Idade | 55 anos |
+| Nascimento | 2025 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Líder do Ninho |
+| Status | vivo |
+
+
 > "Enquanto eu estiver aqui, ninguém vai tirar o Ninho de nós. Não importa o preço."
 
 ## Visão geral
