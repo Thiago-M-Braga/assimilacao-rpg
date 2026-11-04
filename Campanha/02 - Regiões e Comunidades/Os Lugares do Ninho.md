@@ -276,7 +276,7 @@ O agricultor registra o desenvolvimento das plantas e guarda sementes de diferen
 ## 7. Armazém
 
 **Localização:** Próximo à área central de trabalho  
-**Responsáveis:** Administração comunitária  
+**Responsáveis:** Elias Ninho, Davi Ninho e Elisa Ninho  
 **Uso:** Armazenamento e controle de suprimentos
 
 O Armazém guarda os recursos que não são consumidos imediatamente. Alimentos secos, ferramentas de reserva, peças, tecidos, materiais de construção e medicamentos ficam separados e registrados.
