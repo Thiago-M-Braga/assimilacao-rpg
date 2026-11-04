@@ -55,7 +55,7 @@ A família representa a continuidade da liderança tradicional do Ninho, mas tam
 
 **Integrantes:** Gael Noctua, Helena Noctua e Mabel Noctua  
 **Residência:** Casa 5  
-**Função:** Agricultura, estufa e alimentação comunitária
+**Função:** Cultivo de alimentos e manutenção da estufa
 
 A família Noctua está diretamente ligada à produção de alimentos e à manutenção das plantações. Seu trabalho é essencial para que o Ninho não dependa exclusivamente de estoques antigos ou de recursos encontrados no exterior.
 
@@ -80,9 +80,9 @@ Os dois desejam proteger Mabel, mas sabem que não podem mantê-la para sempre d
 
 **Integrantes:** Maria Evans e Fernando Evans  
 **Residência:** Casa 2  
-**Função:** Cozinha comunitária e apoio à distribuição de alimentos
+**Função:** Cozinha comunitária
 
-Maria e Fernando trabalham na cozinha comunitária, ajudando Helena a preparar e distribuir as refeições.
+Maria e Fernando trabalham na cozinha comunitária, ajudando Helena a preparar e distribuir as refeições. [[Iara Salles]] também atua nesse setor, cuidando da preparação, da organização dos ingredientes e dos registros de consumo da cozinha. Iara não trabalha no Armazém e solicita os suprimentos necessários à família Ninho.
 
 ### Integrantes
 
@@ -115,7 +115,7 @@ A família Lane é responsável por boa parte dos cuidados com os animais domest
     
 - **Cecília Lane:** 35 anos. Divide com Breno as responsabilidades do curral. É dedicada e organizada, mantendo atenção à saúde e ao comportamento dos animais.
     
-- **Thomas Lane:** 10 anos. Filho do casal. Ajuda no curral e acompanha os pais nas tarefas mais simples. É magro, sardento e costuma vestir uma jaqueta jeans grande demais. Quer provar que é capaz de ajudar, mas tem medo do mundo exterior.
+- **Thomas Lane:** 10 anos. Filho do casal. Ainda não possui função ou jornada de trabalho no Ninho. Gosta de observar os pais e, quando deseja, participa de pequenas atividades seguras e voluntárias, sempre acompanhado. É magro, sardento e costuma vestir uma jaqueta jeans grande demais. Quer provar que está crescendo, mas ainda é criança e não recebe responsabilidades de adulto.
     
 
 ### Dinâmica familiar
@@ -130,22 +130,7 @@ Thomas admira os adultos que trabalham fora dos muros e sente curiosidade pelo q
 
 **Integrantes:** Samuel Clay e Iara Clay  
 **Residência:** Próxima à Ferro-Velho e à Forja  
-**Função:** Metalurgia, ferramentas e manutenção
 
-A família Clay está ligada à produção de ferramentas e à recuperação de materiais. A forja é uma das estruturas mais importantes do Ninho, e o trabalho dos Clay permite que a comunidade continue reparando equipamentos sem depender de peças industrializadas.
-
-### Integrantes
-
-- **Samuel Clay:** 42 anos, ferreiro. Musculoso, careca e de barba espessa, é conhecido pelo temperamento difícil e pela franqueza. Orgulha-se das ferramentas que consegue recuperar e fabricar.
-    
-- **Iara Clay:** companheira de Samuel. Ajuda a organizar materiais, separar sucata aproveitável e manter o espaço de trabalho funcional. Tem mais paciência para lidar com as pessoas do que Samuel e frequentemente serve de intermediária quando alguém precisa negociar um serviço com a forja.
-    
-
-### Dinâmica familiar
-
-Samuel demonstra afeto por meio do trabalho. Consertar uma ferramenta quebrada ou fabricar algo útil é, para ele, uma forma de cuidar de alguém.
-
-Iara entende o valor da forja para a comunidade, mas também sabe que Samuel pode transformar qualquer divergência em uma discussão. Ela ajuda a manter as relações com os outros moradores em equilíbrio.
 
 ---
 
@@ -153,7 +138,7 @@ Iara entende o valor da forja para a comunidade, mas também sabe que Samuel pod
 
 **Integrantes:** Dona Clara Fagundes, Marcio Fagundes e Lívia Fagundes  
 **Residência:** Casa 4, junto à Casa Médica  
-**Função:** Medicina, cuidados e recuperação
+**Função:** Atendimento médico e cuidados de saúde
 
 A família Fagundes está associada à saúde dos moradores. A Casa Médica é um dos poucos lugares do Ninho onde alguém pode receber cuidados especializados, ainda que os recursos sejam limitados.
 
@@ -161,9 +146,9 @@ A família Fagundes está associada à saúde dos moradores. A Casa Médica é u
 
 - **Dona Clara Fagundes:** 58 anos, médica e curandeira. É séria, maternal e cuidadosa. Conhece os medicamentos restantes, as ervas disponíveis e os limites dos tratamentos que consegue oferecer.
     
-- **Marcio Fagundes:** 69 anos, marido de Clara. Sofre de amnésia e passa a maior parte do tempo na Casa Médica, sob os cuidados da esposa.
+- **Marcio Fagundes:** 69 anos, marido de Clara. Sofre de amnésia e passa a maior parte do tempo na Casa Médica. Quando está em condições, ajuda sob supervisão em tarefas simples de organização de instrumentos, prateleiras e pequenos reparos; não realiza atendimentos médicos.
     
-- **Lívia Fagundes:** filha do casal. Ajuda na Casa Médica com tarefas de organização, limpeza, preparação de materiais e acompanhamento dos pacientes. Cresceu observando a mãe trabalhar e aprendeu a respeitar os limites de uma medicina com poucos recursos.
+- **Lívia Fagundes:** filha do casal. Trabalha na Casa Médica, ajudando na organização, limpeza, preparação de materiais e acompanhamento dos pacientes. Cresceu observando a mãe trabalhar e aprendeu a respeitar os limites de uma medicina com poucos recursos.
     
 
 ### Dinâmica familiar
@@ -222,12 +207,11 @@ As famílias do Ninho não vivem isoladas umas das outras. A sobrevivência depe
 |Família ou núcleo|Principal contribuição|Dependência comunitária|
 |---|---|---|
 |Ninho|Liderança e segurança|Coordenação de todos os setores|
-|Noctua|Agricultura e alimentação|Produção de alimentos|
+|Noctua|Estufa e agricultura|Produção de alimentos e preservação de sementes|
 |Evans|Cozinha e distribuição|Preparação das refeições|
 |Lane|Criação de animais|Proteína, reprodução e cuidados|
-|Clay|Forja e ferramentas|Manutenção e fabricação|
-|Fagundes|Saúde e cuidados|Tratamentos e prevenção|
-|Becker|Energia e reparos|Funcionamento do muro eletrificado|
+|Fagundes|Casa Médica|Atendimento, preparação de materiais e apoio aos pacientes|
+|Becker|Forja, ferramentas e objetos|Produção e recuperação de itens necessários ao vilarejo; Clark auxilia Ithan na energia|
 |Murphy|Experiência e proteção|Orientação e defesa|
 
 ## O que mantém as famílias unidas
