@@ -292,7 +292,7 @@ Desde a morte de Dalva, percebeu que Elias ficou mais distante e menos acessíve
 
 Não costuma confrontá-lo, mas sente que a comunidade perdeu uma parte importante de sua convivência.
 
-## A gravidez e os sentimentos de Maria
+## Conflitos e motivações
 
 A chegada do primeiro filho trouxe novas preocupações.
 
