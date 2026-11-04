@@ -263,9 +263,9 @@ Freya ainda não conhece esse nome como uma classificação da enfermidade. Para
     
 - O sangue de Dalva apresentou uma coloração azul pouco antes de sua morte.
     
-- A origem está relacionada à [[Língua-de-Vidro]] e ao [[Micélio de Cobalto]].
+- A origem está relacionada à contaminação ambiental da produção da estufa pelo [[Micélio de Cobalto]].
     
-- Uma linhagem limpa da planta pode permitir o desenvolvimento de uma cura.
+- Cultivos variados, recuperados e desenvolvidos em solo limpo, podem permitir que a investigação médica desenvolva um tratamento.
     
 
 ### O que está em jogo
@@ -332,7 +332,7 @@ Mabel identifica alterações em algumas plantas medicinais e compartilha suas o
 
 As duas começam a comparar as informações da estufa com os registros médicos.
 
-A investigação conduz à [[Língua-de-Vidro]].
+A investigação conduz à origem comum dos cultivos: solo, composto e água compartilhados por diferentes canteiros.
 
 ### 6. O colar e o pai desaparecido
 
@@ -358,7 +358,7 @@ A descoberta pode conduzir a uma investigação diferente daquela relacionada à
     
 - A doença não é contagiosa.
     
-- A origem está relacionada à Língua-de-Vidro contaminada pelo Micélio de Cobalto.
+- A origem está relacionada à exposição prolongada aos alimentos da estufa contaminados pelo Micélio de Cobalto.
     
 - Clara ainda não conhece a origem verdadeira da doença.
     
@@ -428,7 +428,7 @@ Freya terá, portanto, dois caminhos pessoais importantes: compreender o passado
 
 - [[A Doença Azul]]
     
-- [[Língua-de-Vidro]]
+- [[Plantações e Estufa]]
     
 - [[Micélio de Cobalto]]
     
