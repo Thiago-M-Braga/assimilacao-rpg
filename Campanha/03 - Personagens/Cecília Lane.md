@@ -336,15 +336,15 @@ Já procurou a médica em diferentes situações envolvendo a saúde da família
 
 Também valoriza a maneira como Clara cuida dos moradores mais vulneráveis.
 
-Quando Thomas se machuca durante alguma atividade, Cecília procura avaliar a gravidade antes de levá-lo à Casa Médica, mas não hesita em procurar ajuda quando necessário.
+Quando Thomas se machuca enquanto acompanha os pais, Cecília procura avaliar a gravidade antes de levá-lo à Casa Médica, mas não hesita em procurar ajuda quando necessário.
 
-### Hugo Becker — ferreiro
+### Hugo Becker — responsável pela Forja
 
-Cecília procura Samuel quando precisa de reparos em ferramentas, dobradiças, correntes e outros equipamentos utilizados no curral.
+Cecília procura Hugo quando precisa de reparos em ferramentas, dobradiças, correntes e outros equipamentos utilizados no curral.
 
 É bastante cuidadosa com os objetos e costuma explicar exatamente qual problema precisa ser resolvido.
 
-Samuel às vezes se irrita com sua insistência em conferir os detalhes dos reparos, mas reconhece que ela mantém os equipamentos em boas condições.
+Hugo às vezes se irrita com sua insistência em conferir os detalhes dos reparos, mas reconhece que ela mantém os equipamentos em boas condições.
 
 ### Vicente Murphy — veterano
 
@@ -469,7 +469,7 @@ Ela não possui conhecimento para explicar alterações biológicas extraordiná
     
 - Quando está preocupada, começa a verificar coisas que já havia conferido.
     
-- Procura manter Thomas sempre em seu campo de visão quando ele está trabalhando no curral.
+- Procura manter Thomas sempre em seu campo de visão quando ele acompanha os pais no curral ou participa de alguma atividade voluntária e supervisionada.
     
 
 ### O que a irrita?
@@ -491,7 +491,7 @@ Ela não possui conhecimento para explicar alterações biológicas extraordiná
 
 - Cecília percebe uma mudança incomum no comportamento de um animal do curral.
     
-- Thomas tenta realizar uma tarefa sem autorização e Cecília precisa lidar com a situação.
+- Thomas tenta realizar uma pequena atividade sem supervisão e Cecília precisa lidar com a situação.
     
 - Uma falha em uma cerca coloca os animais em risco.
     
@@ -503,7 +503,7 @@ Ela não possui conhecimento para explicar alterações biológicas extraordiná
     
 - Os personagens encontram registros antigos sobre alterações no comportamento de algum animal.
     
-- Uma atividade do curral é prejudicada pela falta de algum material que precisa ser solicitado a Samuel ou ao Armazém.
+- Uma atividade do curral é prejudicada pela falta de algum material que precisa ser solicitado a Hugo ou ao Armazém.
     
 
 ## Relações com outras notas
