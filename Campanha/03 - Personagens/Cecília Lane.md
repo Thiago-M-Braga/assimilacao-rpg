@@ -17,6 +17,19 @@ tags:
 
 # Cecília Lane
 
+## Identificação
+
+| Campo | Informação |
+|---|---|
+| Nome | Cecília Lane |
+| Idade | 35 anos |
+| Nascimento | 2045 |
+| Residência ou vínculo principal | O Ninho |
+| Ocupação atual | Cuidadora dos animais do Ninho |
+| Família | [[Família Lane]] |
+| Status | viva |
+
+
 > "Cuidar não é apenas alimentar e esperar que tudo dê certo. É prestar atenção antes que alguma coisa dê errado."
 
 ## Visão geral
