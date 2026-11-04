@@ -201,9 +201,9 @@ Os dois possuem responsabilidades diferentes, mas complementares.
 
 ### Relação com Clark Becker
 
-[[Clark Becker]] auxiliava na organização, recuperação e catalogação de peças utilizadas na estação.
+[[Clark Becker]] era seu auxiliar direto na Estação de Energia, ajudando a preparar ferramentas, identificar componentes, organizar cabos e executar tarefas simples de manutenção sob sua orientação.
 
-Antes de adoecer, era comum Ithan contar com sua ajuda para localizar componentes e preparar os materiais necessários para uma manutenção.
+Antes de adoecer, Ithan contava com a ajuda de Clark para localizar componentes e preparar os materiais necessários para uma manutenção.
 
 Clark conhecia muito bem o estoque e sabia onde encontrar peças que pareciam perdidas entre as caixas e prateleiras.
 
@@ -315,7 +315,7 @@ Mesmo sendo jovem, sua área de atuação exige responsabilidade e conhecimento 
 
 ### Hugo Becker
 
-É seu principal contato profissional na Estação de Energia. A experiência de Hugo complementa seus conhecimentos de engenharia.
+Hugo é um contato importante para solicitar peças metálicas, suportes e ferramentas produzidas na Forja. A experiência prática dele complementa o trabalho técnico de Ithan, mas os dois atuam em setores diferentes.
 
 ### Clark
 
@@ -349,7 +349,7 @@ A descoberta desperta novas perguntas sobre o mundo anterior ao Colapso.
 
 ### 3. Os paióis subterrâneos
 
-A investigação do Mal Azul leva o grupo até os [[Paióis Subterrâneos da Fazenda]], onde estão guardadas as sementes da linhagem limpa de Língua-de-Vidro.
+A investigação do Mal Azul pode levar o grupo aos [[Paióis Subterrâneos da Fazenda]], onde estão preservados registros e amostras agrícolas anteriores à contaminação do sistema de cultivo.
 
 O acesso pode exigir a recuperação de sistemas antigos de ventilação, iluminação ou abertura.
 
@@ -494,7 +494,7 @@ O conflito principal será decidir se sua responsabilidade está em proteger o l
 
 Ithan representa a curiosidade pelo mundo que existia antes do Colapso e a vontade de descobrir o que ainda pode existir depois dele.
 
-Sua profissão o mantém ligado à sobrevivência cotidiana do Ninho, mas sua história pessoal aponta constantemente para fora dos muros.
+Sua função o mantém ligado à sobrevivência cotidiana do Ninho, mas sua história pessoal aponta constantemente para fora dos muros.
 
 O pai desaparecido representa uma ligação emocional com o exterior, enquanto a pulseira simboliza a promessa de retorno e a liberdade de escolher um caminho.
 
