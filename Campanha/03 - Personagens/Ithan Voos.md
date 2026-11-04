@@ -151,7 +151,7 @@ Seu conhecimento foi crescendo até que passou a trabalhar diretamente nos siste
 
 Atualmente, ajuda a manter funcionando uma das estruturas mais importantes do Ninho: a eletrificação do Muro de Sucata.
 
-## Trabalho: engenharia e eletricidade
+## Ocupação no Ninho
 
 Ithan trabalha na [[Estação de Energia]], principalmente com a parte elétrica responsável por alimentar o sistema de proteção do Muro de Sucata.
 
