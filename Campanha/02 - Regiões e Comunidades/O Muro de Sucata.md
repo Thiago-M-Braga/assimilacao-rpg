@@ -139,7 +139,7 @@ A prioridade é preservar a proteção do perímetro.
 
 ### 2.3. Responsável pelo sistema
 
-[[Hugo Becker]] é o responsável pela estação de energia e pela manutenção do equipamento que alimenta o muro.
+[[Ithan Voos]] é o responsável técnico pela Estação de Energia e pela manutenção do equipamento que alimenta o muro. [[Clark Becker]] o auxiliava na preparação de ferramentas e na identificação de componentes, mas está afastado devido à Doença Azul.
 
 Seu conhecimento sobre a instalação é essencial para a continuidade do funcionamento do sistema.
 
@@ -256,11 +256,11 @@ O reparo de partes danificadas é uma tarefa que envolve o reaproveitamento de m
 
 A forja pode contribuir com ferramentas, peças e componentes necessários para reparos.
 
-[[Samuel Clay]] é um dos moradores cujo trabalho pode ser importante para esse tipo de atividade.
+[[Hugo Becker]], [[Marta Becker]] e [[Jonas Becker]] são responsáveis por fabricar e reparar peças e ferramentas na Forja.
 
 ### 5.2. Manutenção elétrica
 
-O sistema elétrico depende da estação eólica e do conhecimento técnico de Hugo.
+O sistema elétrico depende da estação eólica e do conhecimento técnico de Ithan. Clark era seu auxiliar; os demais Becker atuam na Forja e fornecem peças metálicas quando necessário.
 
 A manutenção envolve a preservação do gerador e de seus componentes, além do acompanhamento do funcionamento do sistema.
 
@@ -414,7 +414,7 @@ Isso cria uma fragilidade estrutural que pode ser explorada narrativamente.
     
 - [[Hugo Becker]]
     
-- [[Samuel Clay]]
+- [[Família Becker]]
     
 
 ### Mundo exterior
