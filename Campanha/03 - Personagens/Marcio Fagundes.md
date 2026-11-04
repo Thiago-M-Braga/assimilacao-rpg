@@ -357,6 +357,12 @@ Embora não possua uma função formal, Marcio ainda contribui de pequenas manei
 
 Clara evita que ele realize trabalhos que exijam esforço físico, altura ou uso de ferramentas perigosas.
 
+## Conflitos e motivações
+
+Marcio tenta preservar a sensação de autonomia apesar das falhas de memória. Em seus períodos de lucidez, percebe que depende cada vez mais de Clara e Lívia, mas nem sempre compreende por que precisa de ajuda ou por que certas tarefas lhe são restringidas.
+
+Sua maior dificuldade é lidar com a distância entre as habilidades que ainda conserva e as lembranças que não consegue recuperar.
+
 ## Segredos do mestre
 
 **INFORMAÇÕES RESTRITAS AO MESTRE**
