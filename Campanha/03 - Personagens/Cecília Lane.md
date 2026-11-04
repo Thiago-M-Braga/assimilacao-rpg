@@ -338,7 +338,7 @@ Também valoriza a maneira como Clara cuida dos moradores mais vulneráveis.
 
 Quando Thomas se machuca durante alguma atividade, Cecília procura avaliar a gravidade antes de levá-lo à Casa Médica, mas não hesita em procurar ajuda quando necessário.
 
-### Samuel Clay — ferreiro
+### Hugo Becker — ferreiro
 
 Cecília procura Samuel quando precisa de reparos em ferramentas, dobradiças, correntes e outros equipamentos utilizados no curral.
 
@@ -520,7 +520,7 @@ Ela não possui conhecimento para explicar alterações biológicas extraordiná
     
 - [[Helena Noctua]]
     
-- [[Samuel Clay]]
+- [[Hugo Becker]]
     
 - [[Dona Clara Fagundes]]
     
