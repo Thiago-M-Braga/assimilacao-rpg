@@ -3,6 +3,7 @@ tipo: referencia-de-mundo
 categoria: contexto
 periodo: 2080
 status: canon
+visibilidade: mestre
 tags:
   - mundo
   - mundo-exterior
