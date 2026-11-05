@@ -163,9 +163,9 @@ Informações que os jogadores ainda não conhecem devem permanecer sob uma seç
 A matriz de trabalho deve ser mantida coerente em `[[As Famílias do Ninho]]`, `[[O Ninho]]`, `[[A Liderança do Ninho]]`, `[[Os Lugares do Ninho]]` e `[[Trabalho, Produção e Recursos do Ninho]]`.
 
 - **Cozinha Comunitária:** Helena Noctua, Maria Evans, Fernando Evans e Iara Salles.
-- **Plantações e Estufa:** Gael Noctua e Mabel Noctua.
+- **Plantações e Estufa:** Gael Noctua é o responsável pelo setor; Mabel Noctua participa voluntariamente, conforme suas escolhas, sem cargo formal.
 - **Curral:** Breno Lane e Cecília Lane.
-- **Casa Médica:** Dona Clara Fagundes, Lívia Fagundes, Freya Naevus e apoio de Marina Vilar; Marcio pode ajudar em tarefas simples quando sua condição permite.
+- **Casa Médica:** Dona Clara Fagundes, Lívia Fagundes e Freya Naevus; Marina Vilar apoia a preparação e conservação de tecidos médicos; Marcio pode ajudar em tarefas simples supervisionadas quando sua condição permite.
 - **Armazém:** exclusivamente Elias, Davi e Elisa Ninho.
 - **Ferro-Velho e Forja:** Hugo Becker, Marta Becker e Jonas Becker.
 - **Estação de Energia:** Ithan Voos; Clark Becker era seu auxiliar e está afastado.
@@ -183,14 +183,17 @@ Antes de concluir uma alteração, verificar:
 - O setor e o responsável citados em todas as notas.
 - A coerência dos eventos na cronologia.
 - A separação entre fatos conhecidos pelos personagens e segredos do mestre.
-- Links para arquivos existentes; remover referências a personagens ou famílias excluídos.
+- Links para arquivos existentes ou para seções válidas; não criar arquivos duplicados para setores já descritos em uma nota central.
+- Usar os nomes canônicos dos arquivos, inclusive artigos iniciais como “O” e “A”.
+- Não transformar personagens jogadores em responsáveis formais por setores sem decisão expressa dos jogadores.
+- Diferenciar fatos conhecidos pelos moradores de segredos reservados ao mestre.
 - Se a mesma informação aparece com versões diferentes em documentos de comunidade, personagens e mistérios.
 
 ## 12. Notas relacionadas
 
 - [[O Ninho]]
 - [[As Famílias do Ninho]]
-- [[As Famílias do Ninho]]
+- [[A Liderança do Ninho]]
 - [[A Liderança do Ninho]]
 - [[A Vida Cotidiana no Ninho]]
 - [[Os Lugares do Ninho]]
