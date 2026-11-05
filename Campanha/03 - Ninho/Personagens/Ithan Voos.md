@@ -354,7 +354,7 @@ Uma transmissão ou equipamento recuperado apresenta sinais de funcionamento.
 
 O evento desperta a curiosidade de Ithan e pode revelar que ainda existem comunidades utilizando tecnologias antigas.
 
-**Conexões:** [[O Mundo Exterior]] e [[A Vigília do Relé]].
+**Conexões:** [[O Mundo Exterior]] e [[Vigília do Relé]].
 
 ### 5. Informações sobre Artur
 
@@ -465,7 +465,7 @@ O conflito principal será decidir se sua responsabilidade está em proteger o l
 
 - [[Ithan Voos#A pulseira de Ithan]]
     
-- [[A Vigília do Relé]]
+- [[Vigília do Relé]]
     
 - [[A Expedição de Artur Voos]]
     
