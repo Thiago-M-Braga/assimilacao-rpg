@@ -5,7 +5,7 @@ idade: 34
 nascimento: 2046
 ocupacao: Auxiliar da Casa Médica
 local: O Ninho
-familia: "[[As Famílias do Ninho#Família Fagundes]]"
+familia: "[[Família Fagundes]]"
 status: viva
 tags:
   - personagem
