@@ -32,7 +32,7 @@ tags:
 - **Irmão:** [[Jonas Becker]]
 - **Residência:** Casa da Família Becker, próximo à Forja
 - **Ocupação:** Antigo auxiliar de [[Ithan Voos]] na [[Estação de Energia]]
-- **Local atual:** [[Casa Médica]]
+- **Local atual:** [[Os Lugares do Ninho#4. Casa Médica]]
 - **Condição:** [[A Doença Azul]] — estágio II avançado
 - **Vínculos importantes:** [[Mabel Noctua]], [[Ithan Voos]] e [[Dona Clara Fagundes]]
 
@@ -181,8 +181,8 @@ Sua maior vontade é ter a oportunidade de voltar às atividades simples de que 
 - [[Mabel Noctua]]
 - [[Dona Clara Fagundes]]
 - [[A Doença Azul]]
-- [[Casa Médica]]
+- [[Os Lugares do Ninho#4. Casa Médica]]
 - [[Estação de Energia]]
-- [[Ferro-Velho e Forja]]
+- [[Os Lugares do Ninho#3. Ferro-Velho e Forja]]
 - [[Plantações e Estufa]]
 - [[O Ninho]]
