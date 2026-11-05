@@ -291,17 +291,13 @@ Acredita que a esposa sofreu de uma doença desconhecida e teme que algo semelha
 
 **Verdade secreta criada para esta campanha:**
 
-Dalva passou por uma reação anômala do organismo ao parasita associado à Assimilação.
+Dalva desenvolveu a Doença Azul após anos de exposição alimentar a plantas cultivadas no sistema contaminado pelo [[Micélio de Cobalto]]. O fungo chegou ao Ninho por meio de materiais agrícolas recuperados do Viveiro do Vale e se espalhou por partes do solo, do composto e da água compartilhados entre canteiros. O Micélio contamina somente plantas e o ambiente de cultivo; não coloniza animais nem contamina carne, leite ou ovos.
 
-O parasita, normalmente presente nos seres vivos, começou a desenvolver um processo de assimilação incomum dentro do corpo dela.
+Dalva tinha baixa resistência física e atividade de Assimilação especialmente elevada. Os compostos produzidos pelo fungo, ingeridos repetidamente por meio de alimentos e preparações vegetais, estimularam o parasita a acelerar a transformação de maneira desordenada, provocando alterações internas que o organismo não conseguiu suportar.
 
-A alteração no sangue foi um dos primeiros sinais visíveis dessa atividade. A coloração azulada não era uma doença isolada, mas uma consequência de mudanças biológicas internas.
+A alteração no sangue foi um dos primeiros sinais visíveis da reação. Quando o sangue ficou azul, Dalva estava no Estágio III — Síndrome Azul. Nas semanas seguintes, o quadro avançou ao Estágio IV — Colapso, culminando em sua morte em 2079.
 
-O organismo de Dalva não conseguiu suportar o processo. A assimilação avançou de maneira desordenada, provocando danos que culminaram em sua morte.
-
-O fenômeno não foi provocado por uma exposição recente às Zonas Quentes, nem significa que todos os moradores do Ninho estejam passando pelo mesmo processo.
-
-A morte de Dalva foi um caso excepcional, mas demonstra que os muros e a aparente segurança do Ninho não protegem seus habitantes de todas as ameaças.
+Elias sabe que a alteração aconteceu, mas não conhece a origem ambiental ou a relação com os alimentos da estufa. A morte de Dalva demonstra que a segurança dos muros não protege os moradores de uma ameaça que já está presente na produção cotidiana.
 
 ### Por que Elias escondeu o acontecimento?
 
