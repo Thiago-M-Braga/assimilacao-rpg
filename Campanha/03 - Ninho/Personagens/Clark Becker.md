@@ -64,7 +64,7 @@ Seu interesse por mecanismos elétricos o aproximou de Ithan Voos. Aos poucos, p
 
 A rotina na estação também fez com que Clark e Mabel Noctua se encontrassem com frequência pelos caminhos do Ninho. A amizade entre os dois cresceu com o tempo.
 
-A doença começou aproximadamente seis meses antes do início da campanha. Os sintomas se agravaram e Clark precisou deixar o trabalho, passando a permanecer na Casa Médica.
+Os primeiros sinais discretos surgiram por volta de 2077, mas foram confundidos com cansaço do trabalho. O quadro se agravou durante períodos de sobrecarga, preocupação com suas responsabilidades e dificuldade em descansar. Clark foi internado aproximadamente seis meses antes do início da campanha, em 2079, e está no estágio II avançado em 2080.
 
 ## Ocupação no Ninho
 
@@ -121,7 +121,7 @@ Para Clark, foi um presente simples de amizade. Para Mabel, tornou-se uma lembra
 
 ## A Doença Azul
 
-Clark adoeceu aproximadamente seis meses antes do início da campanha. No começo, os sintomas pareciam uma enfermidade comum. Depois vieram cansaço persistente, febres, tremores, fraqueza e alterações na coloração das veias.
+Clark começou a apresentar sinais discretos por volta de 2077 e foi internado aproximadamente seis meses antes do início da campanha, em 2079. No começo, os sintomas pareciam uma enfermidade comum. Depois vieram cansaço persistente, febres, tremores, fraqueza e alterações na coloração das veias.
 
 Atualmente está no estágio II avançado da [[A Doença Azul]]. Seu quadro é grave, mas ainda existe uma possibilidade real de recuperação.
 
