@@ -41,7 +41,7 @@ tags:
     
 - **Situação familiar:** Vive sem familiares próximos no Ninho
     
-- **Objeto pessoal:** [[A Pulseira de Ithan]]
+- **Objeto pessoal:** [[Ithan Voos#A pulseira de Ithan]]
     
 - **Principal desejo:** Explorar o mundo exterior
     
@@ -76,7 +76,7 @@ Por trabalhar na [[Estação de Energia]], é natural que tenha contato frequent
 
 Sua rotina exige roupas práticas, que permitam trabalhar em espaços apertados e lidar com equipamentos.
 
-A [[A Pulseira de Ithan]] é seu objeto pessoal mais característico e costuma acompanhá-lo.
+A [[Ithan Voos#A pulseira de Ithan]] é seu objeto pessoal mais característico e costuma acompanhá-lo.
 
 ## Personalidade
 
@@ -278,7 +278,7 @@ A pulseira pode aparecer em momentos de dúvida, decisões sobre exploração e 
 
 Ela também pode se tornar uma pista narrativa caso os personagens encontrem alguém que reconheça o objeto ou sua procedência.
 
-Para conhecer sua história e características, consulte [[A Pulseira de Ithan]].
+Para conhecer sua história e características, consulte [[Ithan Voos#A pulseira de Ithan]].
 
 ## Relações
 
@@ -463,7 +463,7 @@ O conflito principal será decidir se sua responsabilidade está em proteger o l
 
 ### Objetos e segredos
 
-- [[A Pulseira de Ithan]]
+- [[Ithan Voos#A pulseira de Ithan]]
     
 - [[A Vigília do Relé]]
     
