@@ -424,7 +424,6 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
 - [[Mabel Noctua]] — Filha do casal e personagem jogadora; participa voluntariamente do cultivo, sem função formal ou responsabilidade pelo setor.
     
 
-
 ### 7.6. Família Becker
 
 - [[Hugo Becker]] — Responsável pelo Ferro-Velho e pela Forja.
@@ -696,22 +695,20 @@ As funções não representam necessariamente as únicas atividades realizadas p
 - [[Cecília Lane]]
 - [[Dona Clara Fagundes]]
 - [[Marcio Fagundes]]
-- [[Lívia Fagundes]]
+
 - [[Gael Noctua]]
 - [[Helena Noctua]]
 - [[Mabel Noctua]]
 - [[Hugo Becker]]
 - [[Marta Becker]]
 - [[Clark Becker]]
-- [[Jonas Becker]]
-- [[Iara Salles]]
+
 - [[Marina Azevedo]]
 - [[Freya Naevus]]
 - [[Luna Azevedo]]
 - [[Raul Azevedo]]
 - [[Dário Naevus]]
 - [[Ithan Voos]]
-
 
 ---
 
