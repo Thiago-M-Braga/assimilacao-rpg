@@ -228,7 +228,7 @@ Ali acontecem conversas, pequenas discussões, notícias sobre o trabalho e mome
 
 **Equipe:** [[Maria Evans]], [[Fernando Evans]] e [[Iara Salles]]. Iara organiza os ingredientes recebidos e registra o consumo interno da cozinha; não trabalha no Armazém.
 
-### 4.3. Ferro-Velho / Forja
+### 4.3. Ferro-Velho e Forja
 
 O Ferro-Velho é a área responsável pelo trabalho com metais.
 
@@ -285,7 +285,7 @@ O curral também é um dos locais onde Thomas aprende tarefas práticas.
 
 Thomas Lane, por ter 10 anos, não possui função formal nem jornada de trabalho. Pode acompanhar os pais e participar voluntariamente de pequenas tarefas seguras, sempre supervisionado.
 
-### 4.6. Plantação e Estufa
+### 4.6. Plantações e Estufa
 
 A agricultura é uma das principais atividades de sobrevivência do Ninho.
 
@@ -297,7 +297,7 @@ O espaço é utilizado para produzir alimentos e preservar sementes.
 
 **Responsável:** [[Gael Noctua]].
 
-**Apoio:** [[Mabel Noctua]], que participa do cultivo, da organização dos canteiros e da rotina da estufa.
+**Apoio voluntário:** [[Mabel Noctua]], que pode participar do cultivo, da organização dos canteiros e da rotina da estufa conforme suas escolhas. Ela não possui função formal nem responsabilidade pelo setor; Gael continua sendo o responsável pela produção agrícola.
 
 A preservação de sementes é uma das maiores preocupações de Gael, que mantém registros e acompanha o desenvolvimento das plantas.
 
@@ -327,7 +327,7 @@ A energia produzida é poupada ao máximo e canalizada estritamente para manter 
 
 **Responsável técnico:** [[Ithan Voos]].
 
-**Auxiliar:** [[Clark Becker]], afastado temporariamente por causa da Doença Azul.
+**Antigo auxiliar:** [[Clark Becker]], atualmente afastado e internado na Casa Médica devido à Doença Azul.
 
 Hugo Becker não trabalha na estação: ele coordena o Ferro-Velho e a Forja. A oficina fornece ferramentas, suportes e componentes metálicos quando necessários.
 
