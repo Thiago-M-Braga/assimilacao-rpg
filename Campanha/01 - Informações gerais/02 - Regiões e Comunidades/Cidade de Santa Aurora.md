@@ -75,7 +75,7 @@ Os personagens não devem saber de antemão quais prédios ainda contêm recurso
 
 ## Uso em campanha
 
-Santa Aurora oferece um objetivo concreto para as primeiras expedições: obter alimentos e materiais antes que as reservas do Ninho terminem. A pressão de tempo é real, pois o Armazém possui aproximadamente um mês de comida, enquanto a próxima colheita relevante ainda não estará pronta.
+Santa Aurora oferece um objetivo concreto para as primeiras expedições: obter alimentos e materiais antes que as reservas do Ninho terminem. A pressão de tempo é real, pois o Armazém possui aproximadamente quinze dias de comida, enquanto a próxima colheita relevante ainda não estará pronta.
 
 A cidade também pode oferecer pistas sobre o mundo anterior, a história do Colapso, a Nova Ecologia e outras comunidades humanas. Não é necessário revelar tudo em uma única visita.
 
