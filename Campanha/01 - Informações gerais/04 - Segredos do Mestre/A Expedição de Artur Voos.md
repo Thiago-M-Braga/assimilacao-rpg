@@ -377,11 +377,9 @@ As informações abaixo são definitivas para o mestre:
 
 ### Uma distinção importante
 
-O ataque sofrido por Artur em 2073 não é o mesmo acontecimento que levou à morte de [[Dário Naevus]] em 2064.
+A partida de [[Dário Naevus]] em 2064 não tem relação com o ataque sofrido por Artur em 2073. São acontecimentos distintos, realizados por pessoas diferentes e em momentos diferentes.
 
-São expedições diferentes, realizadas por pessoas diferentes e em momentos distintos.
-
-Dário morreu durante sua própria expedição. Artur sobreviveu ao ataque dos Primais e conseguiu retornar à Vigília do Relé.
+Dário partiu sozinho e, durante a jornada, encontrou um grupo de sobreviventes ao qual se juntou. Artur sobreviveu ao ataque dos Primais em 2073 e conseguiu retornar à Vigília do Relé.
 
 ## 11. Como os personagens podem descobrir a verdade
 
