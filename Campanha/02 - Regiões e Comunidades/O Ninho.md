@@ -687,54 +687,47 @@ As funções não representam necessariamente as únicas atividades realizadas p
 ### Sociedade
 
 - [[Conhecimento e Lendas do Ninho]]
-    
 - [[As Famílias do Ninho]]
-    
-- [[O Ninho#6. Organização social e liderança]]
-    
+- [[A Liderança do Ninho]]
+- [[Família Ninho]]
+- [[Família Evans]]
+- [[Família Lane]]
+- [[Família Fagundes]]
+- [[Família Noctua]]
+- [[Família Becker]]
+- [[Família Naevus]]
+- [[Família Voos]]
 
-### Personagens
+### Personagens e moradores
 
 - [[Elias Ninho]]
-    
 - [[Dalva Ninho]]
-    
-- [[Vicente Murphy]]
-    
-- [[Maria Evans]]
-    
-- [[Fernando Evans]]
-    
-- [[Thomas Lane]]
-    
-- [[Família Becker]]
-    
-- [[Dona Clara Fagundes]]
-    
-- [[Marcio Fagundes]]
-    
-- [[Gael Noctua]]
-    
-- [[Helena Noctua]]
-    
-- [[Hugo Becker]]
-    
-- [[Breno Lane]]
-    
-- [[Cecília Lane]]
-    
-- [[Lívia Fagundes]]
-    
+- [[Davi Ninho]]
 - [[Elisa Ninho]]
-    
-
-    
-
-    
-- [[Marta Becker]]
-    
+- [[Vicente Murphy]]
+- [[Maria Evans]]
+- [[Fernando Evans]]
+- [[Thomas Lane]]
+- [[Breno Lane]]
+- [[Cecília Lane]]
+- [[Dona Clara Fagundes]]
+- [[Marcio Fagundes]]
+- [[Lívia Fagundes]]
+- [[Gael Noctua]]
+- [[Helena Noctua]]
 - [[Mabel Noctua]]
-    
+- [[Hugo Becker]]
+- [[Marta Becker]]
+- [[Clark Becker]]
+- [[Jonas Becker]]
+- [[Iara Salles]]
+- [[Marina Vilar]]
+- [[Freya Naevus]]
+- [[Luna Azevedo]]
+- [[Raul Azevedo]]
+- [[Dário Naevus]]
+- [[Ithan Voos]]
+
 
 ---
 
