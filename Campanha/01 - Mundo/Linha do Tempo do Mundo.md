@@ -13,7 +13,7 @@ tags:
 
 ## Convenção temporal
 
-O [[O Dia Zero|Dia Zero]] ocorreu em 2025 e serve como marco inicial do calendário histórico da campanha. O presente de referência é 2080, aproximadamente 55 anos depois.
+O [[O Colapso#1. O Dia Zero — 2025|Dia Zero]] ocorreu em 2025 e serve como marco inicial do calendário histórico da campanha. O presente de referência é 2080, aproximadamente 55 anos depois.
 
 Quando a data exata de um acontecimento não está definida, esta linha do tempo utiliza expressões como “por volta de”, “durante a década” ou intervalos. Idades devem ser tratadas como as idades indicadas nas fichas em 2080, considerando que o dia e o mês do presente ainda não foram fixados.
 
