@@ -383,7 +383,7 @@ Freya está desenvolvendo conhecimentos médicos e participa da investigação d
 - Auxilia a Casa Médica na preparação, conservação e reparo de tecidos médicos, ataduras e materiais de curativo.
 - Sua experiência com costura e reaproveitamento de tecidos foi adaptada às necessidades do atendimento médico.
 
-Marina complementa o trabalho de Clara e Lívia, mas não realiza procedimentos clínicos nem administra a Casa Médica.
+Marina complementa o trabalho de Clara na preparação e conservação de tecidos e materiais médicos, mas não realiza procedimentos clínicos nem administra a Casa Médica.
 
 ### Luna Azevedo — 7 anos
 
