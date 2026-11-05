@@ -36,7 +36,6 @@ Quando a data exata de um acontecimento não está definida, esta linha do tempo
 | 2064 | Dário Naevus parte em uma expedição voluntária atacada por Primais. O grupo nunca retorna ao Ninho; a verdade do mestre é que Dário morre no ataque. |
 | 2069 | Artur Voos deixa o Ninho; Ithan tem 11 anos. |
 | 2070 | Artur chega à Vigília do Relé e passa a ajudar na recuperação dos equipamentos. Raul Azevedo apresenta os primeiros sintomas da Doença Azul por volta desse ano. |
-| 2070–2074 | Raul Azevedo progride pelos estágios da Doença Azul e morre em 2074. |
 | 2073 | Marcio Fagundes cai ao tentar consertar o telhado da própria casa e desenvolve problemas de memória. Uma expedição de retorno de Artur é interrompida por um ataque de Primais. Luna Azevedo nasce. |
 | 2074 | Raul Azevedo morre. Marina entrega a Freya o colar que pertenceu a Dário, no aniversário de 18 anos da filha. |
 | 2075–2079 | Dalva Ninho apresenta os primeiros sintomas por volta de 2075. O quadro progride, chega ao estágio azul em 2079 e culmina em sua morte no mesmo ano. |
