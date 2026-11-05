@@ -40,7 +40,7 @@ A verdade é que o Mal Azul não é uma infecção convencional e não é causad
 | Pessoas mais vulneráveis | Indivíduos debilitados e com atividade de Assimilação elevada |
 | Transmissão entre pessoas | Não ocorre |
 | Cura | Possível após interromper a exposição e desenvolver um tratamento com cultivos livres do fungo |
-| Locais centrais da investigação | [[Casa Médica]], [[Plantações e Estufa]] e reservatórios/estruturas agrícolas antigas |
+| Locais centrais da investigação | [[Os Lugares do Ninho#4. Casa Médica]], [[Plantações e Estufa]] e reservatórios/estruturas agrícolas antigas |
 
 ## 2. A verdadeira origem
 
@@ -201,7 +201,7 @@ Luna está em estágio inicial de II e ainda tem uma possibilidade muito boa de 
 
 ### 5.4. Clark Becker
 
-Clark adoeceu aproximadamente seis meses antes do início da campanha. A doença comprometeu sua saúde e ele precisou permanecer na [[Casa Médica]].
+Clark adoeceu aproximadamente seis meses antes do início da campanha. A doença comprometeu sua saúde e ele precisou permanecer na [[Os Lugares do Ninho#4. Casa Médica]].
 
 Seu quadro é semelhante ao de Luna, embora a progressão seja individual. [[Mabel Noctua]] deseja encontrar uma cura para ele. Antes de adoecer, Clark ajudava [[Ithan Voos]] na Estação de Energia; a doença o afastou desse trabalho.
 
@@ -339,7 +339,7 @@ O conhecimento de Ithan sobre energia e engenharia será útil para acessar o es
 
 ### Lugares e contexto
 - [[O Ninho]] — comunidade onde a doença permanece escondida.
-- [[Casa Médica]] — local de tratamento e dos registros clínicos.
+- [[Os Lugares do Ninho#4. Casa Médica]] — local de tratamento e dos registros clínicos.
 - [[Plantações e Estufa]] — origem da exposição alimentar.
 - [[Paióis Subterrâneos da Fazenda]] — local de registros e sementes preservadas.
 - [[O Colapso]] — evento que transformou o mundo.
