@@ -91,7 +91,7 @@ Esses responsáveis possuem autonomia operacional, mas não autoridade irrestrit
 
 |Responsável|Setor|Responsabilidade|
 |---|---|---|
-|[[Helena Noctua]], [[Maria Evans]], [[Fernando Evans]] e [[Iara Salles]]|Cozinha comunitária|Preparação, organização e distribuição das refeições|
+|[[Helena Noctua]], [[Maria Evans]], [[Fernando Evans]] e [[Iara Salles]]|Cozinha Comunitária|Preparação, organização e distribuição das refeições|
 |[[Gael Noctua]]|Plantações e Estufa|Coordenação do cultivo, preservação de sementes e produção agrícola|
 |[[Hugo Becker]], [[Marta Becker]] e [[Jonas Becker]]|Ferro-Velho e Forja|Triagem de sucata, metalurgia, fabricação e reparo de objetos e ferramentas|
 |[[Dona Clara Fagundes]], [[Lívia Fagundes]] e [[Freya Naevus]]|Casa Médica|Atendimento, preparação de materiais e cuidados com os pacientes; apoio de [[Marina Vilar]] na preparação de tecidos e materiais médicos|
