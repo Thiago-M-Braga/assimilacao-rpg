@@ -29,7 +29,6 @@ tags:
 - **Família:** [[Família Becker]]
 - **Pai:** [[Hugo Becker]]
 - **Mãe:** [[Marta Becker]]
-- **Irmão:** [[Jonas Becker]]
 - **Residência:** Casa da Família Becker, próximo à Forja
 - **Ocupação:** Antigo auxiliar de [[Ithan Voos]] na [[Estação de Energia]]
 - **Local atual:** [[Os Lugares do Ninho#4. Casa Médica]]
@@ -58,7 +57,7 @@ Demonstra carinho por meio de pequenos gestos, presentes e atitudes cotidianas. 
 
 ## História
 
-Clark nasceu em 2054 e cresceu na família Becker. Aprendeu com Hugo e Marta a conservar materiais, cuidar de ferramentas e reaproveitar objetos. Apesar de conhecer o trabalho da Forja, não se identificou tanto com a metalurgia quanto Jonas.
+Clark nasceu em 2054 e cresceu na família Becker. Aprendeu com Hugo e Marta a conservar materiais, cuidar de ferramentas e reaproveitar objetos. Apesar de conhecer o trabalho da Forja, identificou-se mais com eletricidade e mecanismos.
 
 Seu interesse por mecanismos elétricos o aproximou de Ithan Voos. Aos poucos, passou a ajudá-lo na Estação de Energia, primeiro com tarefas simples e depois com a preparação de materiais e componentes para reparos.
 
@@ -79,7 +78,7 @@ Antes de adoecer, Clark era auxiliar de [[Ithan Voos]] na [[Estação de Energia
 - Auxiliar em tarefas simples e seguras sob orientação de Ithan.
 - Informar quando algum componente precisava ser recuperado ou substituído.
 
-A responsabilidade técnica pela estação sempre pertenceu a Ithan. Hugo, Marta e Jonas trabalham no Ferro-Velho e na Forja, produzindo peças metálicas quando solicitadas.
+A responsabilidade técnica pela estação sempre pertenceu a Ithan. Hugo e Marta trabalham no Ferro-Velho e na Forja, produzindo peças metálicas quando solicitadas.
 
 Clark está atualmente afastado. Sua recuperação poderá permitir que volte gradualmente a ajudar Ithan, sem assumir a responsabilidade técnica pelo sistema.
 
@@ -92,10 +91,6 @@ Clark admira o pai e aprendeu com ele a conservar ferramentas e materiais. Hugo 
 ### Marta Becker — mãe
 
 Marta sempre foi uma presença acolhedora. Ensinou Clark a ter paciência com as pessoas e a compreender que cada um possui habilidades diferentes. Desde a internação, visita o filho sempre que possível.
-
-### Jonas Becker — irmão
-
-Clark é o irmão mais velho de Jonas e sempre teve uma postura protetora com ele. Os dois possuem uma relação afetuosa. Jonas sente falta da presença do irmão e da convivência entre os dois setores.
 
 ### Ithan Voos — colega de trabalho
 
@@ -148,15 +143,15 @@ Clark tem medo de morrer e de se tornar um peso para as pessoas que ama. Procura
 
 ## Conflitos e motivações
 
-Clark sente falta da rotina na Estação de Energia e da colaboração com Ithan. Também se preocupa com a família, pois sabe que sua internação mudou o cotidiano de Hugo, Marta e Jonas.
+Clark sente falta da rotina na Estação de Energia e da colaboração com Ithan. Também se preocupa com a família, pois sabe que sua internação mudou o cotidiano de Hugo e Marta.
 
 Sua maior vontade é ter a oportunidade de voltar às atividades simples de que gostava: caminhar pelo Ninho, conversar com Mabel, fazer dobraduras e ajudar em algum reparo.
 
 ## Segredos do mestre
 
-- Clark é o filho mais velho de Hugo e Marta e irmão de Jonas.
+- Clark é o filho único de Hugo e Marta.
 - Sua função era auxiliar Ithan na Estação de Energia; nunca foi o responsável técnico pelo gerador.
-- Hugo, Marta e Jonas trabalham no Ferro-Velho e na Forja.
+- Hugo e Marta trabalham no Ferro-Velho e na Forja.
 - Clark adoeceu após exposição prolongada à produção alimentar da estufa. Sua predisposição genética hereditária, a vulnerabilidade física e a atividade de Assimilação contribuíram para o quadro.
 - Ele ainda pode ser curado.
 - O broche de Mabel não possui propriedades especiais.
@@ -167,7 +162,7 @@ Sua maior vontade é ter a oportunidade de voltar às atividades simples de que 
 - Mabel encontra Clark tentando terminar uma pequena dobradura.
 - Clark conta que deixou um origami inacabado e pede que Mabel o guarde.
 - Uma piora inesperada exige que Clara interrompa uma visita para atendê-lo.
-- Hugo visita o filho e conversa sobre o trabalho de Jonas na Forja.
+- Hugo visita o filho e conversa com ele sobre a rotina da oficina.
 - Clark pergunta a Ithan se a Estação está funcionando sem sua ajuda.
 - Uma melhora após o tratamento permite que Clark permaneça sentado por mais tempo e volte a conversar sem perder o fôlego.
 
@@ -176,7 +171,6 @@ Sua maior vontade é ter a oportunidade de voltar às atividades simples de que 
 - [[Família Becker]]
 - [[Hugo Becker]]
 - [[Marta Becker]]
-- [[Jonas Becker]]
 - [[Ithan Voos]]
 - [[Mabel Noctua]]
 - [[Dona Clara Fagundes]]
