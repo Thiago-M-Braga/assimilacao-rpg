@@ -307,7 +307,7 @@ Durante uma exploração, os personagens encontram um equipamento antigo que rec
 
 O sinal contém uma sequência de pulsos semelhante a um código simples que Artur ensinou a Ithan durante a infância.
 
-**Conexão:** [[A Vigília do Relé]] e [[O Mundo Exterior]].
+**Conexão:** [[Vigília do Relé]] e [[O Mundo Exterior]].
 
 ### 3. Um mapa incompleto
 
@@ -426,7 +426,7 @@ A manutenção técnica da estação pertence a Ithan. [[Clark Becker]] era seu 
 
 - [[Ithan Voos#A pulseira de Ithan]]
     
-- [[A Vigília do Relé]]
+- [[Vigília do Relé]]
     
 - [[A Expedição de Artur Voos]]
     
