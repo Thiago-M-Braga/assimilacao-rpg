@@ -58,9 +58,9 @@ A produção é comunicada à cozinha, que planeja as refeições. O suprimento 
 
 <escape>**SEGREDO DO MESTRE — NÃO REVELAR AOS JOGADORES ANTES DA INVESTIGAÇÃO**</escape>
 
-O sistema de cultivo está contaminado pelo [[Micélio de Cobalto]]. O fungo chegou ao Ninho por meio de materiais agrícolas recuperados do [[Viveiro do Vale]] em uma expedição ocorrida por volta de 2033.
+O sistema de cultivo está contaminado pelo [[Micélio de Cobalto]]. O fungo chegou ao Ninho por meio de solo e composto recuperados do [[Viveiro do Vale]] em uma expedição ocorrida por volta de 2033. Como a estufa ainda era aberta, esporos se dispersaram pelo ar durante o manuseio do material e colonizaram canteiros, plantas e o solo ao redor.
 
-Com o tempo, o micélio se espalhou por partes do solo, do composto e da água compartilhados entre canteiros. A contaminação não está limitada a uma planta medicinal ou a uma espécie vegetal. Alimentos e ervas cultivados em áreas ligadas ao sistema contaminado podem acumular compostos produzidos pelo fungo.
+Com o tempo, o micélio se espalhou por partes do solo, do composto e da água compartilhados entre canteiros. A dispersão dos esporos pelo ar ocorreu no ambiente de cultivo e não constitui transmissão humana da doença. A contaminação não está limitada a uma planta medicinal ou a uma espécie vegetal. Alimentos e ervas cultivados em áreas ligadas ao sistema contaminado podem acumular compostos produzidos pelo fungo.
 
 A exposição acontece pela ingestão repetida de plantas e preparações vegetais provenientes do sistema contaminado. O Micélio coloniza somente plantas e o ambiente de cultivo: não contamina animais, carne, leite ou ovos. Pessoas com baixa resistência física e atividade de Assimilação elevada são mais vulneráveis, mas nem todos os moradores adoecem.
 
@@ -70,7 +70,7 @@ A contaminação não é conhecida por Gael, Mabel ou pela maioria dos trabalhad
 
 A investigação deve comparar cultivos de canteiros diferentes, verificar o compartilhamento de água e composto e cruzar registros agrícolas com os casos clínicos da Casa Médica. A descoberta de uma espécie vegetal específica não resolve o problema.
 
-A recuperação exige isolar e investigar as áreas contaminadas, interromper a utilização dos materiais suspeitos e restabelecer uma produção limpa. Os [[Paióis Subterrâneos da Fazenda]] preservam registros e sementes anteriores à expansão do cultivo contaminado.
+A recuperação exige isolar e investigar as áreas contaminadas, interromper a utilização dos materiais suspeitos, retirar todo o solo e composto contaminados dos canteiros, não reutilizá-los, remover raízes e resíduos, limpar ferramentas, recipientes, canais e reservatórios, substituir a água e os materiais porosos contaminados e repor os canteiros com solo comprovadamente limpo. Só então sementes preservadas nos paióis poderão iniciar uma produção limpa. Os primeiros cultivos devem permanecer separados até serem verificados. Os [[Paióis Subterrâneos da Fazenda]] preservam registros e sementes anteriores à expansão do cultivo contaminado.
 
 ## Pontos ainda não definidos
 
