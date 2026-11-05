@@ -59,7 +59,7 @@ Sua principal característica é a torre de retransmissão, que continua sendo u
 **Região:** [[Maciço das Antenas]]  
 **Terreno:** Região serrana elevada, cercada por vales e vegetação densa  
 **Referência geográfica:** Antiga instalação de retransmissão construída sobre uma elevação rochosa  
-**Distância estimada do Ninho:** De nove a doze dias de caminhada, dependendo da rota e das condições ambientais.
+**Distância e tempo de viagem desde o Ninho:** Ainda não definidos. Dependem do mapa geral, do reconhecimento da rota e das condições encontradas durante a campanha.
 
 A Vigília está situada em uma região de relevo irregular, com encostas íngremes, trechos de mata fechada e antigas estradas de manutenção.
 
