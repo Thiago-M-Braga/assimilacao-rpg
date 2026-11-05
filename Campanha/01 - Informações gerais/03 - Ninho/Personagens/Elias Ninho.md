@@ -28,7 +28,6 @@ tags:
 | Ocupação atual | Líder do Ninho |
 | Status | vivo |
 
-
 > "Enquanto eu estiver aqui, ninguém vai tirar o Ninho de nós. Não importa o preço."
 
 ## Visão geral
@@ -265,12 +264,6 @@ Entretanto, os dois possuem temperamentos difíceis. Hugo não gosta de receber 
 
 Apesar dos atritos, existe respeito profissional entre eles.
 
-### Iara Salles
-
-Elias reconhece a competência de Iara na organização dos ingredientes e dos registros internos da Cozinha Comunitária. Foi ele quem autorizou que ela mantivesse o controle do consumo diário daquele setor, sempre sob a coordenação de Helena.
-
-Esse registro não inclui o estoque geral nem dá a Iara acesso ou responsabilidade pelo Armazém. Quando a cozinha precisa de reposição, Helena encaminha a solicitação a Elias, Davi ou Elisa. Elias confia no trabalho de Iara, embora às vezes se incomode com suas perguntas e com sua tendência de contestar decisões relacionadas à distribuição de recursos.
-
 ## O segredo de Dalva
 
 <escape>**SEGREDO DO MESTRE — NÃO REVELAR AOS JOGADORES**</escape>
@@ -401,7 +394,5 @@ Ele terá de escolher entre preservar a confiança da comunidade ou admitir que 
 - [[Estação de Energia]]
 - [[Dalva Ninho]]
 - [[Dona Clara Fagundes]]
-- [[Lívia Fagundes]]
 - [[Elisa Ninho]]
 - [[Vicente Murphy]]
-- [[Iara Salles]]
