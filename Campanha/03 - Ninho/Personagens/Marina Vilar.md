@@ -46,7 +46,7 @@ Marina tem cabelos castanhos com alguns fios grisalhos, olhos escuros e mãos ma
 
 ## História
 
-Marina teve Freya com Dário Naevus. Dário deixou o Ninho em uma expedição em 2064 e não retornou. Marina recebeu de um sobrevivente a notícia de que ele havia morrido durante um ataque de Primais. Ela nunca contou a Freya o que soube, temendo que a filha saísse do Ninho para procurar o local da morte do pai.
+Marina teve Freya com Dário Naevus. Dário deixou o Ninho em uma expedição em 2064 e não retornou. Nenhum integrante da expedição retornou ao Ninho e Marina nunca recebeu confirmação sobre o destino de Dário. Com o passar dos anos, passou a acreditar que ele morreu, mas não possui prova. Nunca contou à filha toda a história da partida, temendo que Freya saia do Ninho para procurar respostas.
 
 Depois, Marina formou uma família com Raul Azevedo, que se tornou figura paterna para Freya e pai biológico de Luna, nascida em 2073. Raul morreu em 2074 após desenvolver uma doença que não foi compreendida na época. Marina criou as filhas enquanto continuava trabalhando na comunidade.
 
@@ -87,7 +87,7 @@ Raul foi seu companheiro e pai de Luna. Também construiu uma relação de afeto
 
 ## Segredos do mestre
 
-- Marina sabe que Dário morreu em 2064 durante uma expedição atacada por Primais. Freya acredita que ele apenas desapareceu.
+- Marina suspeita que Dário morreu em 2064 durante uma expedição, mas não possui confirmação. Freya acredita que ele apenas desapareceu. A morte de Dário durante o ataque de Primais é verdade conhecida apenas pelo mestre.
 - Marina não conhece a origem ambiental da Doença Azul nem a relação com o Micélio de Cobalto.
 - Raul foi uma das primeiras vítimas conhecidas da Doença Azul no Ninho.
 - Marina entregou o colar de Dário a Freya em 2074, quando a filha completou 18 anos.
