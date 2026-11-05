@@ -31,7 +31,6 @@ tags:
 | Família | [[Família Noctua]] |
 | Status | vivo |
 
-
 > "Uma semente parece pouca coisa. Mas, quando tudo desaparece, é ela que pode fazer o mundo começar de novo."
 
 ## Visão geral
@@ -406,12 +405,6 @@ Cecília costuma ser cuidadosa com as necessidades do curral, enquanto Breno pre
 
 Gael respeita o trabalho dos dois e procura evitar qualquer desperdício que possa prejudicar a produção de alimentos.
 
-### Iara Salles — equipe da Cozinha Comunitária
-
-Gael não depende de Iara para controlar a produção agrícola, os materiais da estufa ou suas reservas de sementes. A responsabilidade por esses registros permanece com ele.
-
-Quando os alimentos são entregues à Cozinha Comunitária, Iara organiza os ingredientes recebidos e registra o consumo interno, ajudando Helena no planejamento das refeições. As solicitações de materiais para as plantações e a estufa seguem diretamente para Elias, Davi ou Elisa, por meio do processo de pedidos ao Armazém. Iara não controla estoques gerais nem manipula a coleção de sementes de Gael.
-
 ### Elias Ninho — líder do Ninho
 
 Gael respeita Elias e reconhece a importância de suas decisões.
@@ -586,7 +579,6 @@ Sua cautela não vem de uma explicação científica, mas da experiência de ter
     
 - [[Cecília Lane]]
     
-- [[Iara Salles]]
     
 - [[Hugo Becker]]
     
