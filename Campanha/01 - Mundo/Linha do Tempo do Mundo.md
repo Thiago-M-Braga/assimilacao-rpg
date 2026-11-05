@@ -60,7 +60,7 @@ Quando a data exata de um acontecimento não está definida, esta linha do tempo
 - A gestação de Maria é estimada em cerca de sete meses no recorte inicial de 2080. O Ninho não dispõe de recursos clínicos para determinar com precisão a idade gestacional ou prever o dia do parto; não fixar uma data prevista.
 - Idades são valores de referência de 2080; não calcular aniversários específicos sem calendário.
 - A expedição ao Viveiro do Vale ocorreu por volta de 2033; os participantes ainda não foram identificados nominalmente. O fungo chegou como esporos dispersos pelo ar durante o manuseio do material agrícola, quando a estufa ainda era aberta.
-- A morte de Dário em 2064 e a sobrevivência de Artur após o ataque de 2073 são acontecimentos diferentes.
+- A morte de Dário em 2064 e a sobrevivência de Artur após o ataque de 2073 são acontecimentos diferentes. Nenhum dos integrantes dessas expedições retorna ao Ninho.
 
 ## Notas relacionadas
 
