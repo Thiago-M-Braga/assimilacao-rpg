@@ -49,7 +49,7 @@ Era curioso e observador. Acreditava que o conhecimento do mundo exterior poderi
 
 Em 2064, quando Freya tinha aproximadamente oito anos, Dário participou de uma expedição para reconhecer uma rota que poderia ligar o Ninho a outras áreas habitadas.
 
-A expedição foi atacada por um grupo de [[Primais]] durante a travessia de uma antiga rodovia em ruínas. Dário foi ferido enquanto tentava proteger os demais integrantes e permitir que recuassem. Os sobreviventes escaparam, mas precisaram abandoná-lo para não serem alcançados.
+A expedição foi atacada por um grupo de [[A Nova Ecologia#6.2. Primais]] durante a travessia de uma antiga rodovia em ruínas. Dário foi ferido enquanto tentava proteger os demais integrantes e permitir que recuassem. Os sobreviventes escaparam, mas precisaram abandoná-lo para não serem alcançados.
 
 **Verdade do mestre:** Dário morreu durante o ataque. Seu corpo nunca foi recuperado.
 
