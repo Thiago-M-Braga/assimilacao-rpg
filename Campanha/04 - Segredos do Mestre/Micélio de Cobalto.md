@@ -33,6 +33,8 @@ A contaminação não está ligada a uma espécie vegetal específica. Alimentos
 
 A quantidade varia segundo a espécie, o canteiro, a época de cultivo e a parte consumida. Aparência e sabor não são indicadores confiáveis de segurança.
 
+O Micélio de Cobalto coloniza somente plantas e o ambiente de cultivo. Não coloniza animais nem contamina carne, leite, ovos ou outros produtos de origem animal. O consumo desses produtos não transmite os compostos do fungo nem provoca exposição à Doença Azul.
+
 ## Interação com a Assimilação
 
 Em hospedeiros suscetíveis, os compostos ingeridos funcionam como estímulo persistente ao parasita de Assimilação. O parasita intensifica o processo de transformação de maneira desordenada, mesmo quando o organismo não tem capacidade física para suportar as mudanças.
@@ -47,6 +49,8 @@ A Doença Azul depende da combinação de exposição repetida, baixa capacidade
 - A doença não é transmitida pelo ar, pelo toque ou pelo sangue.
 - Não está restrito a uma planta medicinal.
 - O fungo pode contaminar o sistema de produção, inclusive canteiros de espécies diferentes.
+- A contaminação permanece restrita às plantas e ao ambiente de cultivo.
+- Animais não são colonizados pelo fungo; carne, leite e ovos não são vias de exposição.
 - A aparência saudável dos cultivos não garante ausência dos compostos.
 
 ## Como pode ser descoberto
