@@ -32,13 +32,13 @@ A rotina acompanha a luz natural. Como a eletricidade é limitada e reservada pr
 
 ### Amanhecer
 
-O dia começa cedo. A rotina atual inclui desjejum, refeição principal e refeição da noite, embora as porções variem conforme os estoques. Isso contrasta com os primeiros anos após o Colapso, quando os moradores consumiam apenas uma refeição racionada por dia enquanto recuperavam a produção agrícola e a criação de animais.
+O dia começa cedo. Atualmente, a comunidade faz uma única refeição por dia. Essa redução aconteceu há cerca de três anos: antes disso, quando os estoques e a produção permitiam, eram servidas duas refeições diárias. Nos primeiros anos após o Colapso, os moradores também consumiam apenas uma refeição racionada por dia enquanto recuperavam a produção agrícola e a criação de animais.
 
 As primeiras pessoas a acordar são aquelas responsáveis pelos animais, pela preparação dos alimentos e pelas inspeções necessárias.
 
 - O curral recebe os primeiros cuidados.
     
-- A cozinha comunitária começa a preparar o desjejum.
+- A cozinha comunitária começa a preparar a única refeição diária.
     
 - Gael verifica a plantação e a estufa.
     
@@ -61,7 +61,7 @@ Crianças e adolescentes acompanham os adultos em tarefas adequadas à idade, ap
 
 ### Meio do dia
 
-A refeição principal costuma acontecer na cozinha comunitária.
+A única refeição diária costuma acontecer na cozinha comunitária.
 
 O trabalho diminui temporariamente para que os moradores possam comer, descansar e conversar.
 
@@ -71,7 +71,7 @@ O trabalho diminui temporariamente para que os moradores possam comer, descansar
 
 As atividades continuam, mas algumas tarefas mais pesadas são encerradas para permitir a manutenção dos espaços e a preparação do dia seguinte.
 
-A cozinha organiza a refeição da noite, o Armazém confere movimentações e os responsáveis pelos setores verificam o que precisa ser solicitado.
+A cozinha organiza os ingredientes e registra o consumo da refeição diária; o Armazém confere movimentações e os responsáveis pelos setores verificam o que precisa ser solicitado.
 
 Também é o período em que muitos moradores aproveitam para consertar objetos pessoais, visitar familiares ou resolver assuntos particulares.
 
@@ -89,7 +89,7 @@ O Muro continua eletrificado, sustentado pela energia produzida e administrada p
 
 A alimentação é uma responsabilidade coletiva. Em 2080, o Ninho enfrenta uma crise de abastecimento: o Armazém possui aproximadamente mais quinze dias de comida, mas a próxima colheita relevante ainda não estará pronta quando essas reservas terminarem. As porções e o cardápio já estão sendo ajustados, e a comunidade precisa encontrar recursos alimentares fora dos muros.
 
-A cozinha comunitária, coordenada por [[Helena Noctua]] com a ajuda de [[Maria Evans]], [[Fernando Evans]] e [[Iara Salles]], prepara e distribui as refeições. Iara também organiza os ingredientes recebidos e registra o consumo interno da cozinha.
+A cozinha comunitária, coordenada por [[Helena Noctua]] com a ajuda de [[Maria Evans]] e [[Fernando Evans]], prepara e distribui a única refeição diária.
 
 Os alimentos vêm principalmente da plantação, da estufa, dos animais domesticados e dos estoques conservados.
 
@@ -134,7 +134,7 @@ A quantidade disponível é calculada considerando o número de moradores, a pro
 
 Em períodos de escassez, a cozinha reduz porções e modifica o cardápio.
 
-As decisões sobre preparo e porções são discutidas entre Helena e a equipe da cozinha, com apoio dos registros de Iara. Quando é necessário solicitar ou priorizar suprimentos do estoque geral, Helena encaminha a questão a [[Elias Ninho]], [[Davi Ninho]] ou [[Elisa Ninho]]. Lívia não participa da administração alimentar: sua função é na Casa Médica.
+As decisões sobre preparo e porções são discutidas entre Helena e a equipe da cozinha. Quando é necessário solicitar ou priorizar suprimentos do estoque geral, Helena encaminha a questão a [[Elias Ninho]], [[Davi Ninho]] ou [[Elisa Ninho]]. 
 
 ## Trabalho e Responsabilidades
 
