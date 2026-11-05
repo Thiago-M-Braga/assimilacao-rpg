@@ -566,7 +566,12 @@ As fichas individuais continuam sendo a fonte principal para aparência, persona
 - [[Jonas Becker]]
 - [[Iara Salles]]
 - [[Freya Naevus]]
+- [[Marina Vilar]]
+- [[Luna Azevedo]]
+- [[Raul Azevedo]]
+- [[Dário Naevus]]
 - [[Ithan Voos]]
+- [[Artur Voos]]
 - [[Vicente Murphy]]
 
 ### Mistérios
