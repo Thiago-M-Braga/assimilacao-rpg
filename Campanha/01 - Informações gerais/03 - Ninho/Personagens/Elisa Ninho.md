@@ -436,8 +436,6 @@ Sua sensibilidade para perceber comportamentos incomuns pode fazer com que seja 
     
 - Davi e Elisa precisam trabalhar juntos em uma situação que coloca suas diferenças à prova.
     
-- Iara percebe que a quantidade de ingredientes entregue à Cozinha Comunitária não corresponde ao consumo anotado e procura Elisa para discutir a divergência.
-    
 - Elisa percebe que Clara evita falar sobre os últimos dias de Dalva.
     
 - Durante uma reunião, um morador questiona abertamente a autoridade de Elias e Elisa precisa decidir como reagir.
