@@ -91,10 +91,10 @@ Esses responsáveis possuem autonomia operacional, mas não autoridade irrestrit
 
 |Responsável|Setor|Responsabilidade|
 |---|---|---|
-|[[Helena Noctua]], [[Maria Evans]], [[Fernando Evans]] e [[Iara Salles]]|Cozinha Comunitária|Preparação, organização e distribuição das refeições|
+|[[Helena Noctua]], [[Maria Evans]] e [[Fernando Evans]]|Cozinha Comunitária|Preparação, organização e distribuição da refeição diária|
 |[[Gael Noctua]]|Plantações e Estufa|Coordenação do cultivo, preservação de sementes e produção agrícola|
-|[[Hugo Becker]], [[Marta Becker]] e [[Jonas Becker]]|Ferro-Velho e Forja|Triagem de sucata, metalurgia, fabricação e reparo de objetos e ferramentas|
-|[[Dona Clara Fagundes]], [[Lívia Fagundes]] e [[Freya Naevus]]|Casa Médica|Atendimento, preparação de materiais e cuidados com os pacientes; apoio de [[Marina Vilar]] na preparação de tecidos e materiais médicos|
+|[[Hugo Becker]] e [[Marta Becker]]|Ferro-Velho e Forja|Triagem de sucata, metalurgia, fabricação e reparo de objetos e ferramentas|
+|[[Dona Clara Fagundes]] e [[Freya Naevus]]|Casa Médica|Atendimento e cuidados com os pacientes; apoio de [[Marina Azevedo]] na preparação de tecidos e materiais médicos|
 |[[Breno Lane]] e [[Cecília Lane]]|Curral|Cuidado dos animais domesticados|
 |[[Ithan Voos]]|Estação de Energia|Responsabilidade técnica pelo gerador e pelo sistema elétrico do Muro|
 |[[Elias Ninho]], [[Davi Ninho]] e [[Elisa Ninho]]|Armazém|Guarda, registro, autorização e distribuição dos estoques|
@@ -173,7 +173,6 @@ A distribuição é organizada por meio da cooperação entre:
 
 - [[Davi Ninho]] e [[Elisa Ninho]], responsáveis pelo recebimento, registro e separação dos estoques.
     
-- [[Iara Salles]], que registra apenas o consumo diário de ingredientes da cozinha comunitária.
     
 - Os responsáveis pelos setores, que solicitam os materiais necessários.
     
@@ -291,8 +290,6 @@ A comunidade precisa sobreviver, mas seus moradores podem discordar sobre o que 
     
 - [[Estação de Energia]]
     
-- [[Lívia Fagundes]]
     
-- [[Iara Salles]]
     
 - [[Conhecimento e Lendas do Ninho]]
