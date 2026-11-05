@@ -322,11 +322,9 @@ Helena conhece parte das dificuldades familiares de Elisa e procura oferecer apo
 
 ### Iara e Lívia — relações de confiança
 
-Elisa conhece Lívia por causa de sua amizade com Iara e das atividades comunitárias.
+Elisa conhece Lívia por causa de sua amizade com Iara e das atividades comunitárias. Respeita o trabalho das duas, embora atuem em setores diferentes: Iara organiza ingredientes e registra o consumo interno da Cozinha Comunitária; Lívia auxilia Clara na Casa Médica.
 
-Tem respeito pelo trabalho das duas e acredita que a organização dos suprimentos é essencial para manter a comunidade estável.
-
-Entretanto, percebe que Lívia costuma guardar preocupações pessoais e tenta não pressioná-la quando nota que está passando por um momento difícil.
+Elisa conversa com Iara sobre necessidades da cozinha e com Lívia sobre as demandas da Casa Médica. Nenhuma das duas administra o Armazém ou controla os estoques gerais. Elisa também percebe que Lívia costuma guardar preocupações pessoais e tenta não pressioná-la quando nota que está passando por um momento difícil.
 
 ## Visão sobre a liderança
 
