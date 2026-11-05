@@ -24,7 +24,7 @@ A vila não foi planejada como uma cidade. Cada espaço existe porque alguém pr
 
 As estruturas são simples, remendadas e constantemente reparadas. Madeira reaproveitada, tijolos antigos, chapas metálicas e telhas de zinco compõem boa parte das construções.
 
-O Muro de Sucata delimita o espaço protegido. Dentro dele, os moradores mantêm uma rotina de trabalho, alimentação, descanso e vigilância. Fora dele, começa um mundo que a maioria dos habitantes vivos jamais conheceu de verdade.
+O Muro de Sucata delimita o espaço protegido. Diante do único portão principal, um caminho desce até o Rio Claro, que passa em frente ao vilarejo. Uma ponte reforçada atravessa o rio e liga o lado do Ninho à mata e ao terreno de exploração do outro lado. Dentro dos muros, os moradores mantêm uma rotina de trabalho, alimentação, descanso e vigilância. Fora deles, começa um mundo que a maioria dos habitantes vivos jamais conheceu de verdade.
 
 ## 1. Casa Principal
 
@@ -352,44 +352,52 @@ O vento e o ruído mecânico do gerador dominam o ambiente. Fios, ferramentas e 
 ## 9. Muro de Sucata
 
 **Localização:** Perímetro do Ninho  
-**Responsáveis:** Guardas e equipe de manutenção  
-**Uso:** Defesa e isolamento da comunidade
+**Responsáveis pela segurança:** Vicente Murphy, com apoio de Davi e Elisa  
+**Responsável técnico pela eletrificação:** Ithan Voos  
+**Uso:** Defesa e controle de entrada e saída
 
-O Muro de Sucata tem aproximadamente cinco metros de altura e circunda o assentamento. Foi construído nos primeiros anos após o Dia Zero, com metal, madeira, veículos desmontados e outros materiais recuperados.
+O Muro de Sucata tem aproximadamente cinco metros de altura e circunda o assentamento. Foi construído entre 2027 e 2030 com metal, madeira, veículos desmontados e outros materiais recuperados. Fios desencapados percorrem a estrutura metálica e a mantêm eletrificada.
 
-Além de funcionar como barreira física, o muro possui um sistema de eletrificação alimentado pela Estação de Energia.
+### O único portão
 
-Há pontos de observação e áreas de vigilância distribuídos pelo perímetro. Os moradores evitam se aproximar do lado de fora sem autorização.
+O Ninho possui apenas um portão de entrada e saída. É um portão grande, com largura suficiente para a passagem de uma caminhonete. Ele também faz parte do circuito eletrificado e permanece fechado por barreiras físicas reforçadas instaladas do lado de dentro.
 
-### Atmosfera
+As barreiras internas impedem que a abertura do portão seja suficiente, por si só, para permitir uma entrada. É necessário remover essas estruturas antes de abrir a passagem.
 
-O muro é uma presença constante na vida do Ninho. Seu tamanho transmite segurança, mas também lembra aos moradores que existe um mundo perigoso do outro lado.
+### Procedimento de abertura
+
+Quando alguém precisa sair ou entrar, a operação é coordenada pela segurança e pela Estação de Energia:
+
+1. A pessoa comunica a necessidade de atravessar o muro e aguarda autorização e organização da passagem.
+2. Ithan desliga a alimentação elétrica do sistema do muro. A eletrificação é interrompida no perímetro para que a passagem possa ser manipulada com segurança.
+3. Vicente, Davi ou Elisa supervisionam a retirada das barreiras físicas do lado de dentro.
+4. O portão é destravado e aberto; a pessoa, veículo ou carga atravessa.
+5. O portão é fechado, as barreiras internas são recolocadas e a segurança confirma que a passagem está vedada.
+6. Ithan restabelece a alimentação elétrica.
+
+A energia fica desligada apenas durante o tempo necessário para a operação. Enquanto o portão está aberto e o muro desenergizado, a defesa do Ninho fica temporariamente mais vulnerável. Por isso, não se trata de uma passagem cotidiana sem controle.
+
+### Relação com o rio e a ponte
+
+Do lado de fora do portão, um caminho de terra desce até o Rio Claro. A ponte fica alinhada com a saída principal e permite atravessar para a mata e o terreno mais adiante. A ponte é reforçada e suporta pedestres, animais, carrinhos de carga e uma caminhonete leve por vez, desde que atravesse devagar e sem excesso de carga.
+
+A ponte não faz parte do muro eletrificado. Ela é uma estrutura externa e precisa de inspeção própria, pois enchentes, erosão e deterioração podem comprometer a travessia.
 
 ### Pessoas encontradas
 
-- Guardas designados para a vigilância.
-    
 - Vicente Murphy, especialmente em tarefas relacionadas à segurança.
-    
-- Ithan Voos, responsável técnico pelo sistema elétrico; Clark Becker o auxiliava antes de adoecer.
-    
+- Davi Ninho e Elisa Ninho, quando acompanham a autorização e a abertura do portão.
+- Ithan Voos, responsável técnico pela interrupção e pelo restabelecimento da eletrificação.
 - Hugo Becker, quando a Forja precisa fornecer peças metálicas ou realizar reparos estruturais.
-    
 
 ### Possibilidades narrativas
 
 - Ruídos ou movimentos do lado de fora.
-    
-- Danos na estrutura.
-    
+- Danos na estrutura ou nos fios expostos.
 - Falhas na eletrificação.
-    
-- Descoberta de marcas ou objetos junto ao perímetro.
-    
-- Uma situação que exija uma decisão sobre abrir ou não os portões.
-    
-
----
+- Uma operação de saída interrompida por uma ameaça.
+- A ponte fica danificada depois de uma cheia.
+- Uma situação exige decidir se vale a pena desenergizar o muro.
 
 ## 10. Alojamentos e Casas Familiares
 
@@ -573,3 +581,11 @@ Os personagens podem atravessar a vila e encontrar rostos familiares, ouvir conv
 Cada lugar representa uma parte da sobrevivência coletiva. A perda de uma estrutura não significa apenas perder um prédio: significa comprometer uma função da comunidade e colocar outras pessoas em risco.
 
 O Ninho é, acima de tudo, um lugar onde a vida continua porque todos dependem uns dos outros.
+
+## 13. Rio Claro e Ponte do Ninho
+
+O Rio Claro passa diante do vilarejo, pelo lado externo do muro. A água corre ao longo da base do morro e funciona como uma referência geográfica e uma barreira natural entre o Ninho e a mata que se estende adiante.
+
+A ponte fica em frente ao único portão do muro. Ela conecta o caminho de saída do Ninho à margem oposta, onde começa a Mata da Margem. A travessia é utilizada por pedestres, animais, carrinhos de carga e, com cuidado, por uma caminhonete leve. Não existe uma segunda ponte conhecida nas proximidades imediatas do Ninho.
+
+A ponte não é um acesso alternativo ao assentamento: qualquer pessoa que queira entrar no Ninho ainda precisa alcançar o único portão e passar pelo procedimento de abertura. A existência do rio e da ponte não elimina a necessidade de controle da entrada.
