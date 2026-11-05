@@ -8,6 +8,7 @@ ocupacao: Criança do Ninho; sem função formal
 local: "[[O Ninho]]"
 familia: "[[Família Naevus]]"
 status: viva
+visibilidade: mestre
 condicao: "[[A Doença Azul]] — estágio II inicial"
 tags:
   - personagem
