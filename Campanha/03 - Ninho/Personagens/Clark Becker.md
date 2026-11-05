@@ -48,7 +48,7 @@ Atualmente permanece na Casa Médica. A doença interrompeu sua rotina e sua col
 
 Clark tem aproximadamente 1,78 m, corpo magro, cabelos castanhos geralmente desalinhados e olhos castanho-claros. Costumava vestir camisas simples, calças gastas e botas de trabalho.
 
-Suas mãos apresentam pequenos cortes e calosidades, marcas do contato com ferramentas e materiais reaproveitados. Desde que adoeceu, perdeu peso e ficou mais pálido. Veias azuladas podem ser percebidas sob a pele dos braços.
+Suas mãos apresentam pequenos cortes e calosidades, marcas do contato com ferramentas e materiais reaproveitados. Desde que adoeceu, perdeu peso e ficou mais pálido. Veias azuladas podem ser percebidas sob a pele dos braços. A progressão acelerou durante períodos de sobrecarga, preocupação com as responsabilidades, frustração por não conseguir continuar ajudando Ithan e dificuldade em descansar.
 
 ## Personalidade
 
