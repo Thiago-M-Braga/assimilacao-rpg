@@ -28,7 +28,7 @@ tags:
 |---|---|
 | Idade em 2080 | 7 anos |
 | Nascimento | 2073 |
-| Residência | O Ninho |
+| Residência | Casa 6 |
 | Mãe | [[Marina Vilar]] |
 | Pai | [[Raul Azevedo]] — falecido em 2074 |
 | Meia-irmã | [[Freya Naevus]] |
