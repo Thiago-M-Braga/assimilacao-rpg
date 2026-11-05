@@ -49,9 +49,9 @@ Quando a data exata de um acontecimento não está definida, esta linha do tempo
 - [[Família Ninho]]: Elias, Dalva, Davi e Elisa.
 - [[Família Naevus]]: Dário, Freya, Marina, Raul e Luna.
 - [[Família Voos]]: Artur e Ithan.
-- [[Família Fagundes]]: Clara, Marcio e Lívia.
+- [[Família Fagundes]]: Clara e Marcio, casal que nunca conseguiu ter filhos.
 - [[Família Evans]]: Maria, Fernando e o bebê ainda não nascido.
-- [[Família Becker]]: Hugo, Marta, Clark e Jonas.
+- [[Família Becker]]: Hugo, Marta e Clark, filho único do casal.
 - [[Família Lane]]: Breno, Cecília e Thomas.
 - [[Família Noctua]]: Gael, Helena e Mabel.
 
