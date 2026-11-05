@@ -30,7 +30,6 @@ tags:
 | Ocupação em vida | Mediadora comunitária |
 | Status | falecida |
 
-
 > "Uma comunidade não sobrevive apenas porque seus muros são fortes. Ela sobrevive porque as pessoas lá dentro ainda se importam umas com as outras."
 
 ## Visão geral
@@ -391,7 +390,6 @@ A história de Dalva está desenvolvida. Os seguintes elementos permanecem como 
     
 - [[Dona Clara Fagundes]]
     
-- [[Lívia Fagundes]]
     
 - [[Elisa Ninho]]
     
