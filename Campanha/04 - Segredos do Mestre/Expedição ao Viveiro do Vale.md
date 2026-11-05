@@ -29,11 +29,11 @@ A iniciativa pretendia ampliar a diversidade de cultivos do Ninho. Os materiais 
 
 Entre os materiais trazidos havia solo e composto colonizados pelo [[Micélio de Cobalto]]. Como não ocorreu uma mortandade visível e os cultivos aparentavam normalidade, a contaminação não foi reconhecida.
 
-O fungo permaneceu em partes do solo e dos canteiros. Com a expansão da plantação e a construção da estufa, a infraestrutura compartilhada de solo, composto e irrigação permitiu que os compostos do fungo alcançassem cultivos diferentes.
+Os esporos colonizaram o ambiente agrícola, incluindo partes do solo e dos canteiros. Com a expansão da plantação e a construção posterior da estufa, a infraestrutura compartilhada de solo, composto e irrigação permitiu que o fungo se espalhasse por cultivos diferentes.
 
 ## Consequências
 
-A expedição não causou uma crise imediata. Seu efeito foi gradual: materiais contaminados foram incorporados à produção cotidiana e, ao longo de anos, diferentes alimentos e ervas puderam carregar os compostos que desencadeiam a Doença Azul em indivíduos suscetíveis.
+A expedição não causou uma crise imediata. Seu efeito foi gradual: esporos dispersos pelo ar colonizaram a área de cultivo, e o fungo se estabeleceu no solo e na infraestrutura agrícola. Ao longo dos anos, diferentes alimentos e ervas passaram a carregar compostos capazes de desencadear a Doença Azul em pessoas com predisposição genética hereditária e atividade de Assimilação elevada. A dispersão aérea contaminou o ambiente vegetal, não as pessoas diretamente.
 
 A relação entre a expedição e a doença não foi identificada pelos moradores do Ninho.
 
