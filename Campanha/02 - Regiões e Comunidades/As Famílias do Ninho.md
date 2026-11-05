@@ -536,8 +536,12 @@ As fichas individuais continuam sendo a fonte principal para aparência, persona
 
 ### Famílias
 - [[Família Becker]]
+- [[Família Evans]]
+- [[Família Fagundes]]
+- [[Família Lane]]
 - [[Família Naevus]]
 - [[Família Ninho]]
+- [[Família Noctua]]
 - [[Família Voos]]
 
 ### Personagens
