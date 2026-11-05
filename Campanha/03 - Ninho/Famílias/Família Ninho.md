@@ -3,6 +3,7 @@ tipo: familia
 categoria: nucleo-familiar
 nome: Família Ninho
 local: "[[O Ninho]]"
+residencia: "Casa 1 — Casa Principal"
 integrantes:
   - "[[Elias Ninho]]"
   - "[[Dalva Ninho]]"
@@ -20,6 +21,10 @@ tags:
 # Família Ninho
 
 > “O Ninho não pertence à nossa família. Mas, enquanto estivermos aqui, é nossa responsabilidade mantê-lo vivo.”
+
+## Residência
+
+A família vive na Casa 1, a Casa Principal do Ninho.
 
 ## Visão geral
 
