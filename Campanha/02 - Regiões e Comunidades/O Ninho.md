@@ -560,7 +560,7 @@ Para eles, o mundo exterior é construído a partir de:
 
 ### 9.2. A diferença entre verdade e conhecimento
 
-O mestre conhece a existência da [[A Nova Ecologia]], das [[Quimeras e Híbridos]], dos [[Assimilados e Ferais]], dos [[Primais]] e das [[Zonas Quentes]].
+O mestre conhece a existência da [[A Nova Ecologia]], das [[A Nova Ecologia#5. Quimeras e Híbridos]], dos [[A Nova Ecologia#6.1. Assimilados e Ferais]], dos [[A Nova Ecologia#6.2. Primais]] e das [[A Nova Ecologia#7. As Zonas Quentes]].
 
 Os moradores do Ninho não conhecem necessariamente essas categorias ou sua verdadeira natureza.
 
@@ -669,17 +669,17 @@ As funções não representam necessariamente as únicas atividades realizadas p
     
 - [[Estação de Energia]]
     
-- [[Cozinha Comunitária]]
+- [[Os Lugares do Ninho#2. Cozinha Comunitária]]
     
-- [[Casa Médica]]
+- [[Os Lugares do Ninho#4. Casa Médica]]
     
-- [[Curral]]
+- [[Os Lugares do Ninho#5. Curral]]
     
-- [[Plantação e Estufa]]
+- [[Plantações e Estufa]]
     
-- [[Ferro-Velho e Forja]]
+- [[Os Lugares do Ninho#3. Ferro-Velho e Forja]]
     
-- [[Armazém]]
+- [[Os Lugares do Ninho#7. Armazém]]
     
 
 ### Sociedade
@@ -688,7 +688,7 @@ As funções não representam necessariamente as únicas atividades realizadas p
     
 - [[As Famílias do Ninho]]
     
-- [[Organização Social do Ninho]]
+- [[O Ninho#6. Organização social e liderança]]
     
 
 ### Personagens
