@@ -26,7 +26,7 @@ tags:
 |---|---|
 | Idade em 2080 | 46 anos |
 | Nascimento aproximado | 2034 |
-| Residência | O Ninho |
+| Residência | Casa 6 |
 | Ocupação | Preparação, conservação e reparo de tecidos médicos |
 | Setor | Casa Médica |
 | Filhas | [[Freya Naevus]] e [[Luna Azevedo]] |
