@@ -83,7 +83,7 @@ Antes de adoecer, [[Clark Becker]] ajudava Ithan na preparação de ferramentas,
 
 Clark não era o responsável técnico pelo gerador nem decidia alterações no sistema. Sua contribuição era prática e complementar: conhecia o material disponível, ajudava a localizar peças e preparava a estação para os reparos.
 
-Atualmente está internado na [[Casa Médica]]. Sua ausência aumenta a carga de trabalho de Ithan, mas não transfere a responsabilidade técnica para os demais Beckers.
+Atualmente está internado na [[Casa Médica]]. Sua ausência aumenta a carga de trabalho de Ithan, mas não transfere a responsabilidade técnica para os demais Becker.
 
 ## 6. Relação com o Ferro-Velho e a Forja
 
@@ -120,7 +120,7 @@ Uma falha pode exigir cooperação entre Ithan, a família Becker e a liderança
 - O gerador eólico é a fonte de energia utilizada para eletrificar o muro.
 - A energia produzida é poupada e direcionada prioritariamente à defesa do perímetro.
 - Ithan é o responsável técnico pela estação.
-- Clark era seu auxiliar e está temporariamente afastado.
+- Clark era seu auxiliar e está afastado por causa da Doença Azul.
 - Hugo, Marta e Jonas trabalham na Forja, não na Estação de Energia.
 - A estação é difícil de substituir e não possui fonte alternativa estabelecida.
 
