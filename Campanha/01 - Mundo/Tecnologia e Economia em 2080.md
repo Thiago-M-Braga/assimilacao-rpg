@@ -43,7 +43,7 @@ Não existe uma moeda universal ou tabela única de preços estabelecida para o 
 
 ## Conhecimento e desigualdade tecnológica
 
-O acesso à tecnologia varia entre assentamentos. Algumas comunidades preservaram especialistas e instalações; outras dependem de técnicas manuais e conhecimentos transmitidos entre gerações.
+O acesso à tecnologia varia conforme a história de cada comunidade. Alguns assentamentos já possuíam equipamentos e instalações que sobreviveram ao Colapso; outros recuperaram máquinas em ruínas, receberam componentes por escambo ou os trouxeram de expedições. Existem ainda locais que preservaram equipamentos militares, industriais, agrícolas ou de comunicação por causa de sua função anterior. A disponibilidade tecnológica depende do que existia no lugar, do que foi recuperado, da presença de especialistas e da capacidade de manter os sistemas. Não há um padrão tecnológico único para todas as comunidades.
 
 A diferença tecnológica não determina automaticamente poder ou segurança. Uma instalação avançada pode ser vulnerável se faltar manutenção, peças ou pessoas capazes de operá-la.
 
