@@ -29,12 +29,11 @@ tags:
 | Família | [[Família Fagundes]] |
 | Status | vivo |
 
-
 > "Eu sei que esqueci alguma coisa importante. Só não sei o que era."
 
 ## Visão geral
 
-Marcio Fagundes tem 69 anos e é marido de Dona Clara Fagundes e pai de Lívia Fagundes.
+Marcio Fagundes tem 69 anos e é marido de Dona Clara Fagundes. Os dois nunca conseguiram ter filhos.
 
 Antes de perder parte de suas lembranças, era conhecido por sua habilidade com ferramentas, sua paciência e sua capacidade de organizar e consertar praticamente qualquer objeto que chegasse às suas mãos.
 
@@ -137,20 +136,6 @@ Começaram a passar mais tempo juntos e acabaram se casando.
 
 Marcio nunca foi muito eloquente para demonstrar sentimentos, mas costumava expressá-los por meio de atitudes. Consertava objetos para Clara, preparava pequenas surpresas e procurava facilitar seu trabalho sempre que possível.
 
-### A chegada de Lívia — 2046
-
-Em 2046 nasceu sua filha, Lívia.
-
-Marcio ficou profundamente feliz com a chegada da menina.
-
-Era um pai carinhoso, embora não fosse excessivamente protetor. Gostava de ensinar coisas práticas à filha e acreditava que aprender a consertar objetos era uma maneira de conquistar independência.
-
-Quando Lívia era pequena, costumava deixá-la ajudá-lo em tarefas simples.
-
-Ensinou-a a organizar materiais, reconhecer ferramentas e registrar pequenas informações. Foi uma das influências que contribuíram para o interesse dela por organização e controle de suprimentos.
-
-Um dos apelidos que utilizava para a filha era "Lili". Mesmo depois do acidente, esse nome permaneceu entre as poucas lembranças afetivas que ocasionalmente consegue recuperar.
-
 ### Trabalho na comunidade
 
 Durante boa parte da vida adulta, Marcio trabalhou com manutenção, reparos e organização de materiais.
@@ -233,8 +218,6 @@ Isso costuma acontecer quando entra em contato com objetos familiares ou ativida
 
 Nessas ocasiões, pode reconhecer Clara e chamá-la pelo nome, conversar normalmente ou lembrar de acontecimentos da vida familiar.
 
-Às vezes, também reconhece Lívia e a chama de "Lili".
-
 Esses momentos costumam durar poucos minutos. Depois, Marcio volta a apresentar confusão e pode não se lembrar da conversa que acabou de ter.
 
 Clara aprendeu a não pressioná-lo durante esses episódios. Prefere aproveitar o tempo para conversar tranquilamente.
@@ -257,7 +240,6 @@ As primeiras páginas contêm informações escritas por ela:
     
 - Minha esposa é Clara.
     
-- Minha filha é Lívia.
     
 - Estou na Casa Médica do Ninho.
     
@@ -293,24 +275,6 @@ Quando está lúcido, Marcio costuma chamá-la pelo nome e demonstrar carinho co
 Em uma dessas ocasiões, disse que não precisava lembrar de tudo enquanto ainda pudesse contar com ela.
 
 Clara guarda essa frase com muito carinho.
-
-### Lívia Fagundes — filha, 34 anos
-
-Lívia é a filha única de Marcio e Clara.
-
-Antes do acidente, tinha uma relação muito próxima com o pai.
-
-Marcio ensinou a ela diversas habilidades práticas e incentivou seu interesse por organização e registros.
-
-Depois da amnésia, Lívia passou a visitar o pai com frequência.
-
-Algumas vezes ele a reconhece como filha. Em outras, trata-a como uma pessoa conhecida ou simplesmente não consegue compreender quem ela é.
-
-Lívia sofre com essa situação, mas tenta preservar os momentos de lucidez.
-
-Costuma levar pequenos objetos para que o pai organize, mantendo algumas das atividades que os dois costumavam fazer juntos.
-
-Marcio ainda consegue chamá-la de "Lili" em determinados momentos.
 
 ### Dalva Ninho — antiga conhecida
 
@@ -350,7 +314,7 @@ Clara evita que ele realize trabalhos que exijam esforço físico, altura ou uso
 
 ## Conflitos e motivações
 
-Marcio tenta preservar a sensação de autonomia apesar das falhas de memória. Em seus períodos de lucidez, percebe que depende cada vez mais de Clara e Lívia, mas nem sempre compreende por que precisa de ajuda ou por que certas tarefas lhe são restringidas.
+Marcio tenta preservar a sensação de autonomia apesar das falhas de memória. Em seus períodos de lucidez, percebe que depende cada vez mais de Clara, mas nem sempre compreende por que precisa de ajuda ou por que certas tarefas lhe são restringidas.
 
 Sua maior dificuldade é lidar com a distância entre as habilidades que ainda conserva e as lembranças que não consegue recuperar.
 
@@ -413,7 +377,7 @@ Entretanto, suas anotações não devem ser tratadas como um registro perfeitame
     
 - Observa atentamente mecanismos e objetos quebrados.
     
-- Às vezes chama Clara ou Lívia por apelidos antigos.
+- Às vezes chama Clara por um apelido antigo.
     
 
 ### O que o deixa desconfortável?
@@ -439,7 +403,6 @@ Entretanto, suas anotações não devem ser tratadas como um registro perfeitame
     
 - Durante um momento de clareza, lembra de uma conversa antiga com Dalva.
     
-- Lívia percebe que o pai começou a repetir uma anotação específica.
     
 - Alguém tenta utilizar as habilidades de Marcio para recuperar um equipamento antigo, mas Clara teme que o esforço seja prejudicial.
     
@@ -452,7 +415,6 @@ Entretanto, suas anotações não devem ser tratadas como um registro perfeitame
     
 - [[Dona Clara Fagundes]]
     
-- [[Lívia Fagundes]]
     
 - [[Dalva Ninho]]
     
