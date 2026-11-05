@@ -73,7 +73,7 @@ Artur foi a principal referência de Ithan durante a infância.
 
 Ensinou-lhe nomes de ferramentas, princípios básicos de funcionamento de equipamentos e formas de observar problemas mecânicos e elétricos.
 
-Mais do que transmitir conhecimentos, Artur ensinou o filho a ter curiosidade.
+Mais do que transmitir conhecimentos, Artur ensinou o filho a ter curiosidade. Antes de partir em 2069, preparou para Ithan um manual artesanal de engenharia e manutenção, com desenhos, esquemas de circuitos, princípios de funcionamento do gerador e métodos de diagnóstico. Ithan conservou o caderno e o preencheu com observações próprias, aprendendo também por tentativa, erro e experimentação.
 
 Ithan ainda utiliza muitas das pequenas lições que recebeu durante a infância.
 
@@ -197,7 +197,7 @@ A pulseira é um objeto simples, artesanal, feito com um pedaço de corda resist
 
 Não possui componentes eletrônicos ou qualquer tecnologia especial.
 
-Artur preparou o objeto para entregar ao filho antes da partida.
+Artur preparou a pulseira e o manual técnico para entregar ao filho antes da partida.
 
 ### Aparência e conservação
 
@@ -209,7 +209,7 @@ Ithan mantém a pulseira consigo.
 
 ### Significado emocional
 
-A pulseira representa a relação entre pai e filho.
+A pulseira representa a relação entre pai e filho. O manual representa o conhecimento que Artur quis deixar para que Ithan pudesse continuar aprendendo mesmo sem a presença dele.
 
 Para Ithan, é uma lembrança de Artur, das histórias sobre o mundo antigo e da promessa de retorno.
 
