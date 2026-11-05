@@ -5,6 +5,7 @@ nome: Família Naevus
 local: "[[O Ninho]]"
 personagem-vinculado: "[[Freya Naevus]]"
 status: definido
+visibilidade: mestre
 tags:
   - campanha
   - familia
@@ -59,8 +60,6 @@ Freya decidiu aprender medicina com [[Dona Clara Fagundes]], tornando-se aprendi
     
 
 ## Marina Vilar — A mãe
-
-<text style="display:none"> </text>
 
 **Idade:** 46 anos  
 **Nascimento aproximado:** 2034  
