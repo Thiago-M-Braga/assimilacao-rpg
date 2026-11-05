@@ -40,9 +40,8 @@ visibilidade: mestre
 | Helena Noctua              | Coordena a cozinha comunitária                               |
 | Gael Noctua                | Plantações e Estufa                                          |
 | Dona Clara Fagundes        | Médica; coordena a Casa Médica                               |
-| Lívia Fagundes             | Auxilia Clara                                                |
 | Freya Naevus               | Aprendiz da Casa Médica; teme perder a irmã                  |
-| Hugo, Marta e Jonas Becker | Forja e recuperação de metais                                |
+| Hugo e Marta Becker        | Forja e recuperação de metais                                |
 | Clark Becker               | Afastado por doença; antigo auxiliar de Ithan                |
 
 ## Ordem das cenas
