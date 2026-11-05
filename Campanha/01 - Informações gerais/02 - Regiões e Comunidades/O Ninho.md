@@ -57,7 +57,7 @@ Sua sobrevivência depende de atividades essenciais:
 - Defesa permanente do perímetro.
     
 
-A comunidade funciona de maneira coletiva. Diferentes moradores são responsáveis por atividades específicas e contribuem diretamente para o funcionamento do lugar. No momento do Colapso, a fazenda possuía reservas fartas de alimentos no Armazém. Nos primeiros anos, os sobreviventes consumiam apenas uma refeição racionada por dia enquanto recuperavam e ampliavam a produção agrícola e a criação de animais. As reservas foram sendo complementadas pelo que conseguiam produzir, permitindo atravessar os anos de reconstrução. Em 2080, a situação se inverteu: a conferência mais recente indica que o estoque alimentar do Armazém tem aproximadamente mais quinze dias de comida, mas a próxima produção relevante ainda não estará pronta a tempo. O Ninho não é plenamente autossuficiente e enfrenta uma crise concreta de abastecimento. A Cidade de Santa Aurora, depois da ponte sobre o Rio Claro e da Mata da Margem, é o principal destino regional para buscar mantimentos e outros recursos; a localização e os riscos estão registrados em [[Mapa Regional do Vale do Rio Claro]] e [[Cidade de Santa Aurora]].
+A comunidade funciona de maneira coletiva. Diferentes moradores são responsáveis por atividades específicas e contribuem diretamente para o funcionamento do lugar. No momento do Colapso, a fazenda possuía reservas fartas de alimentos no Armazém. Nos primeiros anos, os sobreviventes consumiam apenas uma refeição racionada por dia enquanto recuperavam e ampliavam a produção agrícola e a criação de animais. Com a recuperação gradual da produção, o Ninho passou a oferecer duas refeições diárias. Há cerca de três anos, por volta de 2077, a redução dos estoques obrigou a comunidade a voltar a uma única refeição por dia. As reservas foram sendo complementadas pelo que conseguiam produzir, permitindo atravessar os anos de reconstrução. Em 2080, a situação se inverteu: a conferência mais recente indica que o estoque alimentar do Armazém tem aproximadamente mais quinze dias de comida, mas a próxima produção relevante ainda não estará pronta a tempo. O Ninho não é plenamente autossuficiente e enfrenta uma crise concreta de abastecimento. A Cidade de Santa Aurora, depois da ponte sobre o Rio Claro e da Mata da Margem, é o principal destino regional para buscar mantimentos e outros recursos; a localização e os riscos estão registrados em [[Mapa Regional do Vale do Rio Claro]] e [[Cidade de Santa Aurora]].
 
 ### Características conhecidas
 
@@ -150,7 +150,7 @@ As pessoas passaram a assumir responsabilidades mais definidas, dividindo o trab
 
 Por volta de 2035, a chegada de refugiados e viajantes ao Ninho praticamente cessou. As estradas estavam cada vez mais perigosas, as ruínas haviam se tornado ambientes hostis e a transformação dos ecossistemas dificultava o deslocamento. O assentamento deixou de receber pessoas de fora de maneira regular, mas não proibiu seus moradores de sair.
 
-Nas décadas seguintes, alguns habitantes organizaram expedições por iniciativa própria, sem obrigação ou convocação da liderança. Essas partidas eram voluntárias e cada pessoa sabia que poderia não retornar. Nenhuma das expedições que saiu do Ninho voltou. A expedição de Dário em 2064 não retornou, e ninguém trouxe notícias confirmadas sobre o que aconteceu com o grupo. Artur também decidiu partir por vontade própria em 2069. Nenhuma pessoa que saiu em expedição após o fim das chegadas regulares voltou ao Ninho. O Ninho não recebe notícias regulares do exterior e não mantém contato confirmado com outras comunidades.
+Nas décadas seguintes, alguns habitantes organizaram expedições por iniciativa própria, sem obrigação ou convocação da liderança. Essas partidas eram voluntárias e cada pessoa sabia que poderia não retornar. Nenhuma das expedições que saiu do Ninho voltou. Dário partiu sozinho em 2064 e nunca retornou; ninguém no Ninho recebeu notícias confirmadas sobre seu destino. Artur também decidiu partir por vontade própria em 2069. Nenhuma pessoa que saiu em expedição após o fim das chegadas regulares voltou ao Ninho. O Ninho não recebe notícias regulares do exterior e não mantém contato confirmado com outras comunidades.
 
 ### Ano 55 — O presente
 
@@ -190,7 +190,7 @@ As casas numeradas são:
     
 - Casa 5 — Família Noctua.
     
-- Casa 6 — Família Naevus (Marina Vilar, Freya Naevus e Luna Azevedo).
+- Casa 6 — Família Naevus (Marina Azevedo, Freya Naevus e Luna Azevedo).
     
 - Casa 7 — Família Becker.
     
@@ -215,7 +215,7 @@ Ali acontecem conversas, pequenas discussões, notícias sobre o trabalho e mome
 
 **Responsável:** [[Helena Noctua]].
 
-**Equipe:** [[Maria Evans]], [[Fernando Evans]] e [[Iara Salles]]. Iara organiza os ingredientes recebidos e registra o consumo interno da cozinha; não trabalha no Armazém.
+**Equipe:** [[Maria Evans]] e [[Fernando Evans]].
 
 ### 4.3. Ferro-Velho e Forja
 
@@ -240,9 +240,9 @@ As atividades incluem:
 
 O trabalho da forja é essencial para manter a capacidade produtiva e defensiva da comunidade.
 
-**Responsáveis:** [[Hugo Becker]], [[Marta Becker]] e [[Jonas Becker]].
+**Responsáveis:** [[Hugo Becker]] e [[Marta Becker]].
 
-A Família Becker mantém sua residência próxima ao setor de oficinas. Hugo coordena o trabalho com metais, Marta produz acessórios e acabamentos, e Jonas atua como aprendiz e auxiliar de produção.
+A Família Becker mantém sua residência próxima ao setor de oficinas. Hugo coordena o trabalho com metais e Marta produz acessórios e acabamentos.
 
 ### 4.4. Casa Médica
 
@@ -258,7 +258,7 @@ A Casa Médica também abriga Marcio, que passa grande parte do tempo sob os cui
 
 **Responsável:** [[Dona Clara Fagundes]].
 
-**Equipe:** [[Lívia Fagundes]] e [[Freya Naevus]]. [[Marina Vilar]] ajuda com a preparação e o reparo de tecidos médicos, e [[Marcio Fagundes]] participa apenas de pequenas tarefas de organização e reparo quando sua condição permite.
+**Equipe:** [[Freya Naevus]]. [[Marina Azevedo]] ajuda com a preparação e o reparo de tecidos médicos, e [[Marcio Fagundes]] participa apenas de pequenas tarefas de organização e reparo quando sua condição permite.
 
 ### 4.5. Curral
 
@@ -413,7 +413,6 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
     
 - [[Marcio Fagundes]] — Marido de Clara, possui amnésia e ajuda, quando está em condições, em pequenas tarefas supervisionadas na Casa Médica.
     
-- [[Lívia Fagundes]] — Auxiliar da Casa Médica.
     
 
 ### 7.5. Família Noctua
@@ -432,14 +431,13 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
     
 - [[Marta Becker]] — Trabalha na Forja com acessórios, acabamentos e proteções.
     
-- [[Jonas Becker]] — Aprendiz e auxiliar de produção na Forja.
     
 - [[Clark Becker]] — Antigo auxiliar de Ithan na Estação de Energia; atualmente está internado na Casa Médica.
     
 
 ### 7.7. Família Naevus
 
-- [[Marina Vilar]] — Mãe de Freya e Luna; reside com as filhas na Casa 6 e auxilia a Casa Médica na preparação e conservação de tecidos médicos.
+- [[Marina Azevedo]] — Mãe de Freya e Luna; reside com as filhas na Casa 6 e auxilia a Casa Médica na preparação e conservação de tecidos médicos.
 - [[Freya Naevus]] — Aprendiz da Casa Médica; mora na Casa 6 com Marina e Luna.
 - [[Luna Azevedo]] — Criança de 7 anos; mora na Casa 6 e não possui função formal.
 
@@ -454,9 +452,8 @@ A Casa 8 foi construída com materiais reaproveitados para oferecer uma moradia 
 
 ### 7.9. Outros moradores importantes
 
-- [[Iara Salles]] — Auxiliar da cozinha comunitária, responsável pela organização de ingredientes e pelo registro do consumo diário.
     
-- [[Marina Vilar]] — Auxilia a Casa Médica na preparação e conservação de tecidos médicos.
+- [[Marina Azevedo]] — Auxilia a Casa Médica na preparação e conservação de tecidos médicos.
 - [[Vicente Murphy]] — Sentinela, veterano e apaziguador de conflitos.
     
 
@@ -594,11 +591,11 @@ As atividades principais são:
 
 |Atividade|Responsáveis|
 |---|---|
-|Preparação das refeições|Helena Noctua, Maria Evans, Fernando Evans e Iara Salles|
+|Preparação das refeições|Helena Noctua, Maria Evans e Fernando Evans|
 |Agricultura, estufa e sementes|Gael Noctua; Mabel participa voluntariamente, conforme suas escolhas|
 |Criação e cuidado dos animais|Breno Lane e Cecília Lane|
-|Ferro-Velho e Forja|Hugo Becker, Marta Becker e Jonas Becker|
-|Casa Médica|Dona Clara Fagundes, Lívia Fagundes, Freya Naevus e Marina Vilar; Marcio auxilia pontualmente quando pode|
+|Ferro-Velho e Forja|Hugo Becker e Marta Becker|
+|Casa Médica|Dona Clara Fagundes, Freya Naevus e Marina Azevedo; Marcio auxilia pontualmente quando pode|
 |Armazém|Elias Ninho, Davi Ninho e Elisa Ninho, exclusivamente|
 |Estação de Energia|Ithan Voos; Clark Becker era seu auxiliar e está afastado|
 |Proteção e vigilância|Vicente Murphy, Davi Ninho e Elisa Ninho|
@@ -708,7 +705,7 @@ As funções não representam necessariamente as únicas atividades realizadas p
 - [[Clark Becker]]
 - [[Jonas Becker]]
 - [[Iara Salles]]
-- [[Marina Vilar]]
+- [[Marina Azevedo]]
 - [[Freya Naevus]]
 - [[Luna Azevedo]]
 - [[Raul Azevedo]]
