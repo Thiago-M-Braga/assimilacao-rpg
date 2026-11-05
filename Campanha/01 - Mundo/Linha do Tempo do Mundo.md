@@ -57,7 +57,7 @@ Quando a data exata de um acontecimento não está definida, esta linha do tempo
 ## Pontos de atenção temporal
 
 - O presente da campanha é 2080, mas o dia e o mês ainda não estão fixados.
-- A gestação de Maria é descrita como estando no sétimo mês no recorte atual de 2080. Atualizar quando houver uma data exata para o presente.
+- A gestação de Maria é estimada em cerca de sete meses no recorte inicial de 2080. O Ninho não dispõe de recursos clínicos para determinar com precisão a idade gestacional ou prever o dia do parto; não fixar uma data prevista.
 - Idades são valores de referência de 2080; não calcular aniversários específicos sem calendário.
 - A expedição ao Viveiro do Vale ocorreu por volta de 2033; não atribuir participantes ou data exata sem uma decisão de campanha.
 - A morte de Dário em 2064 e a sobrevivência de Artur após o ataque de 2073 são acontecimentos diferentes.
