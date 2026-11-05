@@ -50,7 +50,7 @@ Iara é filha de dois refugiados que chegaram ao Ninho durante os primeiros anos
 
 Durante a juventude, ajudou em diferentes tarefas da cozinha comunitária. Descobriu que tinha facilidade para manter anotações consistentes e perceber quando o consumo de determinados alimentos mudava. Com o tempo, Helena passou a confiar a ela a organização dos ingredientes e o registro do que era utilizado em cada refeição.
 
-Iara também teve contato com tarefas de armazenamento no passado, mas sua função atual é exclusivamente ligada à cozinha. A administração do Armazém pertence à família Ninho.
+Sua experiência com registros e organização foi desenvolvida inteiramente na cozinha comunitária. Iara nunca trabalhou no Armazém: a administração e o controle dos estoques gerais sempre pertenceram exclusivamente à família Ninho.
 
 ## Ocupação no Ninho
 
