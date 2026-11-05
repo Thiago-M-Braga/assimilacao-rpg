@@ -1,30 +1,21 @@
 ---
-
-tipo: segredo-do-mestre  
-categoria: acontecimento  
-personagem-principal: "[[Artur Voos]]"  
-personagem-relacionado: "[[Ithan Voos]]"  
-local-origem: "[[O Ninho]]"  
-local-destino: "[[Vigília do Relé]]"  
-data-inicio: 2069  
-status: concluida  
+tipo: segredo
+categoria: acontecimento
+personagem-principal: "[[Artur Voos]]"
+personagem-relacionado: "[[Ithan Voos]]"
+local-origem: "[[O Ninho]]"
+local-destino: "[[Vigília do Relé]]"
+data-inicio: 2069
+status: canon
+visibilidade: mestre
 tags:
-
-- campanha
-    
-- segredo-do-mestre
-    
-- artur-voos
-    
-- expedicao
-    
-- familia-voos
-    
-- exploracao
-    
-- mundo-exterior
-    
-
+  - campanha
+  - segredo-do-mestre
+  - artur-voos
+  - expedicao
+  - familia-voos
+  - exploracao
+  - mundo-exterior
 ---
 
 # A Expedição de Artur Voos
