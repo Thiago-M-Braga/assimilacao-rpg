@@ -24,24 +24,26 @@ Quando a data exata de um acontecimento não está definida, esta linha do tempo
 |---|---|
 | 2025 | O Dia Zero desencadeia o colapso da infraestrutura e o início da nova era. |
 | 2025–2026 | Primeiros refugiados se estabelecem na antiga fazenda que dará origem ao Ninho; a sobrevivência da propriedade se deve, em parte, à sorte de as linhas de energia não atingirem suas estruturas principais. |
-| 2025–2030 | Anos iniciais de reconstrução, escassez e organização do assentamento. |
+| 2025–2030 | Anos iniciais de reconstrução, escassez e organização do assentamento; o Muro de Sucata é construído entre 2027 e 2030. |
 | 2029 | A família Fagundes chega à antiga fazenda, segundo a história de Clara. |
-| Por volta de 2033 | Uma expedição recupera materiais agrícolas no Viveiro do Vale; parte do solo e do composto trazidos está colonizada pelo Micélio de Cobalto. |
+| Por volta de 2033 | Uma expedição recupera materiais agrícolas no Viveiro do Vale. Esporos do Micélio de Cobalto se dispersam pelo ar durante o manuseio, quando a estufa ainda era aberta, e colonizam áreas de cultivo, solo e composto do Ninho. |
+| 2033–2040 | O Ninho amplia e estabiliza gradualmente seus sistemas de produção, defesa e armazenamento. A chegada de refugiados diminui até praticamente cessar por volta de 2035; depois disso, moradores ainda podem partir em expedições voluntárias, mas nenhuma retorna ao Ninho. |
 | 2034 | Artur Murphy morre durante uma atividade de reconhecimento; Vicente sobrevive ao ataque e carrega as cicatrizes. |
-| 2033–2040 | O Ninho amplia e estabiliza gradualmente seus sistemas de produção, defesa e armazenamento. A chegada de refugiados diminui até praticamente cessar por volta de 2035. |
 | 2050 | Nascimento de Davi Ninho. |
 | 2054 | Nascimento de Elisa Ninho e morte de Nair Bastos, mentora de Clara. |
 | 2056 | Nascimento de Freya Naevus. |
 | 2061 | A instalação que dará origem à Vigília do Relé é descoberta por sobreviventes. |
-| 2064 | Dário Naevus parte em uma expedição voluntária atacada por Primais; o grupo nunca retorna ao Ninho. A verdade do mestre é que Dário morre no ataque. |
+| 2064 | Dário Naevus parte em uma expedição voluntária atacada por Primais. O grupo nunca retorna ao Ninho; a verdade do mestre é que Dário morre no ataque. |
 | 2069 | Artur Voos deixa o Ninho; Ithan tem 11 anos. |
-| 2070 | Artur chega à Vigília do Relé e passa a ajudar na recuperação dos equipamentos. |
-| 2073 | Marcio Fagundes sofre uma queda ao tentar consertar o telhado de sua própria casa e desenvolve problemas de memória. Uma expedição de retorno de Artur é interrompida por um ataque de Primais. Luna Azevedo nasce. |
-| 2070–2074 | Raul Azevedo apresenta os primeiros sintomas da Doença Azul por volta de 2070 e morre em 2074, após a progressão pelos quatro estágios. |
+| 2070 | Artur chega à Vigília do Relé e passa a ajudar na recuperação dos equipamentos. Raul Azevedo apresenta os primeiros sintomas da Doença Azul por volta desse ano. |
+| 2070–2074 | Raul Azevedo progride pelos estágios da Doença Azul e morre em 2074. |
+| 2073 | Marcio Fagundes cai ao tentar consertar o telhado da própria casa e desenvolve problemas de memória. Uma expedição de retorno de Artur é interrompida por um ataque de Primais. Luna Azevedo nasce. |
+| 2074 | Raul Azevedo morre. Marina entrega a Freya o colar que pertenceu a Dário, no aniversário de 18 anos da filha. |
+| 2075–2079 | Dalva Ninho apresenta os primeiros sintomas por volta de 2075. O quadro progride, chega ao estágio azul em 2079 e culmina em sua morte no mesmo ano. |
+| 2077–2080 | Clark Becker apresenta sinais discretos da Doença Azul a partir de 2077; o quadro se agrava e ele é internado em 2079. Em 2080 está no estágio II avançado. |
+| 2078–2079 | Luna Azevedo apresenta sinais discretos no fim de 2078, percebidos claramente em 2079; em 2080 está no estágio II inicial. |
 | 2078 | Maria Evans e Fernando Evans se casam. |
-| 2074 | Marina entrega a Freya o colar que pertenceu a Dário, no aniversário de 18 anos da filha. |\n| 2075–2079 | Dalva Ninho apresenta os primeiros sintomas por volta de 2075. O quadro progride e chega ao estágio azul em 2079; ela morre no mesmo ano. |
-| 2078–2079 | Clark Becker apresenta sintomas discretos a partir de 2078; o quadro se agrava e ele é internado em 2079. Luna começa a apresentar sintomas em 2079. |
-| 2080 | Presente de referência da campanha. Clark está no estágio II avançado e Luna no estágio II inicial da Doença Azul; Mabel, Freya e Ithan participam da investigação e das histórias ligadas ao mundo exterior. |
+| 2080 | Presente de referência da campanha. Mabel tem 25 anos; Freya e Ithan participam de histórias ligadas à investigação e ao mundo exterior. |
 
 ## Cronologias pessoais que devem permanecer alinhadas
 
