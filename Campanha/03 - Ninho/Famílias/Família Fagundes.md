@@ -35,7 +35,7 @@ A família é marcada pela dedicação ao cuidado dos moradores e pelo impacto d
 
 Clara e Marcio se conheceram na década de 2040 e tiveram Lívia em 2046. Marcio ajudou a construir e organizar parte da estrutura da Casa Médica, recuperando móveis e criando locais para armazenar instrumentos. Lívia cresceu acompanhando o trabalho dos pais e desenvolveu interesse por organização, registros e cuidados de apoio.
 
-Em 2073, Marcio sofreu uma queda e bateu a cabeça. Depois do acidente, desenvolveu problemas de memória persistentes. Clara passou a cuidar dele, e Lívia assumiu mais tarefas de apoio na Casa Médica. A condição de Marcio não é estabelecida como consequência da Assimilação; as notas atuais tratam o acidente e a amnésia como um caso independente.
+Em 2073, Marcio caiu enquanto tentava consertar o telhado da própria casa e bateu a cabeça. Depois do acidente, desenvolveu problemas de memória persistentes. Clara passou a cuidar dele, e Lívia assumiu mais tarefas de apoio na Casa Médica. A condição de Marcio não é estabelecida como consequência da Assimilação; as notas atuais tratam o acidente e a amnésia como um caso independente.
 
 A família enfrenta uma tensão silenciosa entre o desejo de cuidar de Marcio e a necessidade de preservar a autonomia e a vida pessoal de Clara e Lívia. As duas tentam manter a rotina sem transformar a condição dele em sua única identidade.
 
