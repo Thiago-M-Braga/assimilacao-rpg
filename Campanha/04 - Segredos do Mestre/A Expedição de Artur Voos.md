@@ -89,7 +89,7 @@ Seu erro foi subestimar as dificuldades do exterior e superestimar sua capacidad
 **Idade de Artur:** 49 anos  
 **Idade de Ithan:** 11 anos
 
-Antes de partir, Artur passou meses preparando o equipamento necessário.
+Antes de partir, Artur passou meses preparando o equipamento necessário e organizando o manual de engenharia que deixaria para Ithan.
 
 Reuniu ferramentas, materiais de reparo, roupas resistentes, recipientes para água, provisões e equipamentos simples de orientação.
 
@@ -103,7 +103,7 @@ A despedida aconteceu dentro do Ninho, pouco antes de Artur atravessar o Muro de
 
 Ele explicou a Ithan que precisaria viajar por algum tempo para procurar uma instalação antiga.
 
-Entregou ao filho a [[Ithan Voos#A pulseira de Ithan]], dizendo que a bússola poderia ajudá-lo a encontrar uma direção quando precisasse.
+Entregou ao filho a [[Ithan Voos#A pulseira de Ithan]] e um manual artesanal de engenharia e manutenção que havia preparado para ele. O caderno reunia desenhos, esquemas de circuitos, princípios de funcionamento de máquinas e métodos de diagnóstico de falhas. Artur queria que Ithan tivesse uma referência para continuar aprendendo mesmo durante sua ausência. Disse que a bússola poderia ajudá-lo a encontrar uma direção quando precisasse.
 
 Também prometeu retornar.
 
