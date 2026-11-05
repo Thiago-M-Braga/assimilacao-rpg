@@ -59,7 +59,7 @@ Sua principal característica é a torre de retransmissão, que continua sendo u
 **Região:** [[Maciço das Antenas]]  
 **Terreno:** Região serrana elevada, cercada por vales e vegetação densa  
 **Referência geográfica:** Antiga instalação de retransmissão construída sobre uma elevação rochosa  
-**Distância e tempo de viagem desde o Ninho:** Ainda não definidos. Dependem do mapa geral, do reconhecimento da rota e das condições encontradas durante a campanha.
+**Distância aproximada desde o Ninho:** 50 a 70 km por rotas de exploração, ao norte-nordeste. O tempo de viagem depende do reconhecimento da rota e das condições encontradas durante a campanha. Consulte [[Mapa Regional do Vale do Rio Claro]].
 
 A Vigília está situada em uma região de relevo irregular, com encostas íngremes, trechos de mata fechada e antigas estradas de manutenção.
 
@@ -81,7 +81,7 @@ A rota principal é a que [[Artur Voos]] utilizou para chegar à instalação em
 
 ### Relação com o Ninho
 
-A localização da Vigília não é conhecida pelos moradores do [[O Ninho]].
+A localização da Vigília não é conhecida pelos moradores do [[O Ninho]]. Sua posição regional no mapa do mestre fica no Maciço das Antenas, ao norte-nordeste do assentamento.
 
 Artur percorreu a distância entre as duas comunidades durante sua expedição, mas nunca conseguiu estabelecer um caminho de retorno seguro.
 
@@ -799,6 +799,7 @@ A cooperação pode beneficiar os dois assentamentos, mas também criar novos ri
 - [[O Ninho]]
     
 - [[Maciço das Antenas]]
+- [[Mapa Regional do Vale do Rio Claro]]
     
 - [[Estação de Energia]]
     
