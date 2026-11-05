@@ -27,7 +27,7 @@ A Família Noctua é formada por Gael, Helena e Mabel. O núcleo participa de du
 |---|---:|---|---|
 | [[Gael Noctua]] | 50 | Vivo | Agricultor e responsável pelas Plantações e Estufa |
 | [[Helena Noctua]] | 45 | Viva | Chefe da Cozinha Comunitária |
-| [[Mabel Noctua]] | Não definida | Personagem jogadora | Apoio voluntário ao cultivo, conforme suas escolhas |
+| [[Mabel Noctua]] | 25 | Personagem jogadora | Apoio voluntário ao cultivo, conforme suas escolhas |
 
 A idade, aparência, personalidade e história pessoal de Mabel permanecem sob definição da jogadora. Os documentos do mestre não devem preencher esses aspectos sem autorização.
 
@@ -45,7 +45,7 @@ A colaboração de Mabel na estufa é voluntária e depende das escolhas da joga
 |---|---|---|
 | Gael Noctua | Plantações e Estufa | Coordenação do cultivo, canteiros, compostagem e preservação de sementes |
 | Helena Noctua | Cozinha Comunitária | Coordenação do preparo e distribuição das refeições |
-| Mabel Noctua | — | Apoio voluntário ao cultivo e à investigação; sem cargo formal |
+| Mabel Noctua | 25 | Apoio voluntário ao cultivo e à investigação; sem cargo formal |
 
 Mabel não é responsável pela estufa. A produção agrícola, a gestão dos canteiros e a conservação das sementes permanecem sob responsabilidade de Gael.
 
