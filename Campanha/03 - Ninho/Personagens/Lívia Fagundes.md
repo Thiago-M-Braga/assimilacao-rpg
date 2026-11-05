@@ -125,6 +125,6 @@ Também deseja que a Casa Médica seja reconhecida como um setor que depende de 
 - [[Marcio Fagundes]]
 - [[Iara Salles]]
 - [[Família Fagundes]]
-- [[Casa Médica]]
+- [[Os Lugares do Ninho#4. Casa Médica]]
 - [[O Ninho]]
 - [[A Doença Azul]]
