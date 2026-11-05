@@ -29,7 +29,7 @@ tags:
     
 - **Nascimento aproximado:** 2058
     
-- **Residência:** [[O Ninho]]
+- **Residência:** Casa 8, dentro do Ninho
     
 - **Família:** [[Família Voos]]
     
