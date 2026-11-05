@@ -26,7 +26,7 @@ tags:
 
 O ano de 2025 marcou o fim da civilização como ela era conhecida.
 
-Sem aviso, algumas linhas de energia rasgaram o globo terrestre instantaneamente. O fenômeno percorreu a superfície do planeta, atingindo tudo o que estava acima do nível do mar.
+Sem aviso, algumas linhas de energia rasgaram o globo terrestre instantaneamente. O fenômeno percorreu a superfície do planeta por meio de linhas de energia separadas umas das outras por uma distância média aproximada de 500 metros. As linhas atingiam estruturas e áreas ao longo de suas trajetórias, mas não cobriam cada metro da superfície. Construções que ficavam entre duas trajetórias podiam escapar do corte direto, embora ainda fossem atingidas pelas catástrofes secundárias do Colapso.
 
 A origem, a natureza e o propósito dessas linhas ainda são desconhecidos para a população sobrevivente.
 
@@ -38,7 +38,7 @@ As linhas de energia atravessaram regiões habitadas, áreas industriais, cidade
 
 Não se tratava de explosões convencionais. O fenômeno produzia cortes extremamente precisos, como se partes da matéria tivessem sido separadas por uma força impossível de compreender.
 
-O impacto foi global e praticamente instantâneo.
+O impacto foi global e praticamente instantâneo. O espaçamento irregular entre as linhas fez com que alguns locais e estruturas principais não fossem atingidos diretamente; sobreviver ao corte inicial podia depender de sorte, posição e das consequências indiretas que se seguiram.
 
 ### 1.2. Consequências físicas imediatas
 
