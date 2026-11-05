@@ -34,7 +34,7 @@ tags:
 
 ## 1. Identidade e características gerais
 
-O Ninho é uma comunidade rural, autossuficiente e fortificada.
+O Ninho é uma comunidade rural, fortificada e relativamente autônoma. Produz boa parte dos alimentos e mantém serviços essenciais, mas não consegue fabricar ou repor todos os recursos de que depende.
 
 Sua estrutura foi construída a partir dos recursos disponíveis na antiga fazenda e dos materiais trazidos ou recuperados pelos sobreviventes que chegaram após o Dia Zero.
 
@@ -57,7 +57,7 @@ Sua sobrevivência depende de atividades essenciais:
 - Defesa permanente do perímetro.
     
 
-A comunidade funciona de maneira coletiva. Diferentes moradores são responsáveis por atividades específicas e contribuem diretamente para o funcionamento do lugar.
+A comunidade funciona de maneira coletiva. Diferentes moradores são responsáveis por atividades específicas e contribuem diretamente para o funcionamento do lugar. Os recursos armazenados na fazenda eram abundantes no momento do Colapso. Durante os primeiros anos, os moradores consumiam apenas uma refeição racionada por dia enquanto reativavam e ampliavam a produção agrícola e a criação de animais. As reservas foram sendo complementadas pela produção própria e permitiram atravessar os anos de reconstrução. Em 2080, porém, os estoques alimentares estão próximos do esgotamento: resta aproximadamente um mês de comida, e a próxima produção relevante ainda não estará pronta a tempo. O Ninho não é plenamente autossuficiente e está diante de uma crise concreta de abastecimento.
 
 ### Características conhecidas
 
@@ -72,8 +72,8 @@ A comunidade funciona de maneira coletiva. Diferentes moradores são responsáve
 |Água|Poço artesiano profundo|
 |Alimentação|Agricultura, criação de animais e estoques|
 |Organização|Liderança familiar hereditária e trabalho comunitário|
-|Contato exterior|Praticamente inexistente|
-|Economia|Recursos de utilidade e escambo|
+|Contato exterior|Sem contato regular; expedições voluntárias ainda podem partir, mas nenhuma retornou|
+|População atual|24 habitantes, incluindo todos os moradores vivos nomeados nos documentos|\n|Economia|Recursos de utilidade e escambo|
 
 ## 2. Origem — A fazenda que sobreviveu
 
