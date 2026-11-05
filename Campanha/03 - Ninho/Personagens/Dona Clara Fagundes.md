@@ -202,9 +202,9 @@ Clara tentou acompanhá-lo e ajudá-lo a recuperar suas capacidades, mas não co
 
 A condição se tornou uma das maiores dificuldades de sua vida.
 
-### A doença de Dalva — 2078 a 2079
+### A doença de Dalva — 2075 a 2079
 
-Nos meses anteriores à morte de Dalva, Clara começou a acompanhá-la por causa de sintomas persistentes.
+Clara começou a acompanhar Dalva por sintomas discretos por volta de 2075. O quadro progrediu ao longo dos anos seguintes, chegando ao estágio III em 2078–2079.
 
 Inicialmente, Dalva apresentava cansaço incomum e episódios de fraqueza. Depois surgiram febre, tremores e uma deterioração gradual de seu estado físico.
 
