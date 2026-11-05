@@ -500,7 +500,8 @@ Sua família, no sentido mais próximo, acabou sendo formada pelas pessoas que e
 |---|---|---|
 | Elias, Davi e Elisa Ninho | Armazém | Administração exclusiva, controle e distribuição de estoques |
 | Helena, Maria, Fernando e Iara Salles | Cozinha Comunitária | Preparo e distribuição das refeições |
-| Gael e Mabel Noctua | Plantações e Estufa | Cultivo, sementes e produção agrícola; Mabel participa voluntariamente |
+| Gael Noctua | Plantações e Estufa | Responsável pela produção, canteiros, compostagem e sementes |
+| Mabel Noctua | — | Participação voluntária na estufa e na investigação, conforme suas escolhas; sem função formal |
 | Breno e Cecília Lane | Curral | Criação e cuidado dos animais |
 | Clara, Lívia, Freya e Marina | Casa Médica | Atendimento, apoio clínico e preparação de materiais |
 | Marcio Fagundes | Casa Médica | Pequenas tarefas supervisionadas, quando sua condição permite |
