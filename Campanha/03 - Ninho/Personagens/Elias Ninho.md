@@ -389,7 +389,7 @@ Ele terá de escolher entre preservar a confiança da comunidade ou admitir que 
 - Clara demonstra desconforto diante de perguntas sobre a antiga paciente.
 - Elisa começa a questionar decisões do pai com maior frequência.
 - Davi precisa escolher entre obedecer a Elias ou proteger alguém que considera inocente.
-- Iara encontra uma inconsistência em registros antigos que pode envolver uma decisão de Elias.
+- Ao comparar os registros de ingredientes recebidos com o consumo diário da Cozinha Comunitária, Iara percebe uma divergência que pode estar ligada a uma decisão anterior de Elias sobre a distribuição de alimentos.
 - Um acontecimento relacionado à Assimilação ameaça revelar que o segredo de Dalva não era um caso isolado.
 
 ## Notas relacionadas
