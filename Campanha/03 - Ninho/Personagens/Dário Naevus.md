@@ -72,7 +72,7 @@ O colar não contém tecnologia secreta, poderes ou ligação direta com a Doen�
 ## Segredos do mestre
 
 - Dário morreu em 2064 durante o ataque de Primais.
-- Marina recebeu a notícia de um sobrevivente e escondeu a verdade de Freya.
+- Nenhum integrante da expedição retornou ao Ninho. Marina suspeita que Dário morreu, mas não tem confirmação.
 - Dário não abandonou Freya por falta de afeto; acreditava que explorar o exterior poderia ajudar o Ninho.
 - O colar entregue a Freya pertenceu realmente a Dário.
 
