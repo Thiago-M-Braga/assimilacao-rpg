@@ -5,6 +5,7 @@ idade: 55
 nascimento: 2025
 ocupacao: Líder do Ninho
 local: O Ninho
+familia: "[[Família Ninho]]"
 status: vivo
 tags:
   - personagem
