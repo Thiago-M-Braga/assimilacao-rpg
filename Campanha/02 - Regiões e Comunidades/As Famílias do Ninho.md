@@ -532,6 +532,7 @@ As fichas individuais continuam sendo a fonte principal para aparência, persona
 - [[Estação de Energia]]
 - [[Os Lugares do Ninho#4. Casa Médica]]
 - [[Plantações e Estufa]]
+- [[Paióis Subterrâneos da Fazenda]]
 - [[O Muro de Sucata]]
 
 ### Famílias
