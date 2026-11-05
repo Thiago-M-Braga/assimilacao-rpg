@@ -355,7 +355,7 @@ A família não administra a Estação de Energia. Ithan é o responsável técn
 ## Família Voos
 
 **Integrantes:** Ithan Voos e Artur Voos (desaparecido)  
-**Residência:** O Ninho, no caso de Ithan  
+**Residência:** Casa 8, no caso de Ithan  
 **Setor:** Estação de Energia
 
 A Família Voos está ligada ao conhecimento técnico necessário para manter a Estação de Energia e o sistema elétrico do Muro de Sucata.
@@ -390,10 +390,10 @@ Ithan acredita que o pai desapareceu durante uma expedição. A verdade sobre se
 ## Família Naevus e núcleo Azevedo
 
 **Integrantes:** Freya Naevus, Marina Vilar, Luna Azevedo e familiares ausentes ou falecidos  
-**Residência:** O Ninho  
+**Residência:** Casa 6  
 **Setor:** Casa Médica
 
-O núcleo familiar de Freya está ligado à medicina, à história de sua família e à investigação da Doença Azul.
+O núcleo familiar de Freya está ligado à medicina, à história de sua família e à investigação da Doença Azul. Marina, Freya e Luna dividem a Casa 6. Dário e Raul não residem no Ninho: Dário está desaparecido para Freya, e Raul faleceu em 2074.
 
 ### Freya Naevus — 24 anos
 
