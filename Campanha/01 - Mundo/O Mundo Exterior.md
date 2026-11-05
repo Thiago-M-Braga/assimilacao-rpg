@@ -21,9 +21,9 @@ Cinquenta e cinco anos após o [[O Colapso]], a humanidade continua existindo em
 
 ## Geografia e deslocamento
 
-As rotas variam em segurança e condição. Estradas antigas podem estar bloqueadas, cobertas por vegetação ou expostas a criaturas e estruturas instáveis. A posição geográfica exata do Ninho e de várias comunidades ainda não foi definida, portanto distâncias e direções não devem ser inventadas em cada nota isoladamente.
+As rotas variam em segurança e condição. Estradas antigas podem estar bloqueadas, cobertas por vegetação ou expostas a criaturas e estruturas instáveis. A localização regional está consolidada em [[Mapa Regional do Vale do Rio Claro]]. O Ninho fica no Morro da Fazenda, junto ao Rio Claro; a ponte diante do portão leva à Mata da Margem e à Cidade de Santa Aurora, principal destino próximo de coleta de recursos. O Viveiro do Vale fica a sudoeste e a Vigília do Relé, no Maciço das Antenas, ao norte-nordeste. As distâncias são aproximadas e devem seguir o mapa regional.
 
-A [[Vigília do Relé]] é uma das comunidades exteriores conhecidas pelo mestre. Ela está associada ao [[Maciço das Antenas]] e se formou ao redor de uma instalação de retransmissão e geração auxiliar de energia.
+A [[Vigília do Relé]] é uma das comunidades exteriores conhecidas pelo mestre. Ela está associada ao [[Maciço das Antenas]] e se formou ao redor de uma instalação de retransmissão e geração auxiliar de energia. A [[Cidade de Santa Aurora]] é um antigo centro urbano de grande porte, abandonado e parcialmente tomado pela vegetação, a aproximadamente 14 a 18 km do Ninho por uma rota que cruza o Rio Claro e a Mata da Margem.
 
 ## Ecologia e ameaças
 
@@ -58,6 +58,8 @@ O conhecimento do mestre é mais amplo que o conhecimento dos moradores. As nota
 - [[O Colapso]]
 - [[A Nova Ecologia]]
 - [[Maciço das Antenas]]
+- [[Mapa Regional do Vale do Rio Claro]]
+- [[Cidade de Santa Aurora]]
 - [[Vigília do Relé]]
 - [[O Ninho]]
 - [[O Muro de Sucata]]
