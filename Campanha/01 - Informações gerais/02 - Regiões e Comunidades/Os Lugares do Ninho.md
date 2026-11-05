@@ -89,8 +89,6 @@ Cheiros de comida, fumaça, panelas batendo e conversas se misturam durante boa 
     
 - Fernando Evans.
     
-- Iara Salles.
-    
 
 ### Possibilidades narrativas
 
@@ -128,8 +126,6 @@ O som do martelo contra o metal é constante. O ar é pesado, e o chão está co
 - Hugo Becker.
     
 - Marta Becker.
-    
-- Jonas Becker.
     
 
 ### Possibilidades narrativas
@@ -170,8 +166,6 @@ Os moradores respeitam a Casa Médica porque sabem que, sem ela, um ferimento si
 ### Pessoas encontradas
 
 - Dona Clara Fagundes.
-    
-- Lívia Fagundes.
     
 - Freya Naevus.
     
