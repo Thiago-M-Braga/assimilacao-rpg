@@ -67,7 +67,7 @@ A família de Elias possui uma posição especial na estrutura da comunidade.
 
 Davi acompanha o pai e atua como seu guarda pessoal. Também pode representar Elias em tarefas que envolvam segurança e supervisão.
 
-Sua proximidade com a liderança faz com que muitos moradores o considerem uma possível figura de autoridade no futuro, embora não exista uma sucessão formal anunciada.
+Como filho mais velho, Davi é o sucessor previsto pela tradição familiar. A regra aponta para ele caso Elias deixe a liderança, embora ainda não tenha sido testada numa sucessão entre irmãos.
 
 ### [[Elisa Ninho]]
 
@@ -240,9 +240,7 @@ A estrutura de liderança parece estável para os moradores, mas depende de rela
 
 O maior ponto de fragilidade é a concentração de autoridade em Elias.
 
-Se ele perder a confiança da comunidade, ficar incapacitado ou morrer, não existe um procedimento formal e universalmente aceito para determinar o próximo líder.
-
-Davi pode ser considerado um sucessor natural por sua proximidade com o pai, mas Elisa possui relações comunitárias que podem torná-la uma figura importante em uma crise.
+Se Elias perder a confiança da comunidade, ficar incapacitado ou morrer, a tradição aponta Davi como sucessor por ser o filho mais velho. A regra de primogenitura é conhecida na família, mas nunca foi testada num cenário em que dois filhos adultos pudessem reivindicar papéis diferentes. Elisa não é a sucessora prevista, mas possui relações comunitárias que podem torná-la uma figura importante em uma crise.
 
 Os responsáveis pelos setores também podem reivindicar maior participação nas decisões, principalmente se acreditarem que a liderança está comprometendo a sobrevivência do povoado.
 
