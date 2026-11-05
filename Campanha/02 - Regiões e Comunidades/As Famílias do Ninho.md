@@ -39,7 +39,7 @@ A referência geral não substitui as fichas específicas. Quando houver mudanç
 ## Família Ninho
 
 **Integrantes:** Elias Ninho, Davi Ninho, Elisa Ninho e Dalva Ninho (falecida)  
-**Residência:** Casa principal  
+**Residência:** Casa 1 — Casa Principal  
 **Setores:** Liderança e Armazém
 
 A Família Ninho é uma das mais antigas e influentes da comunidade. Sua linhagem está diretamente ligada à antiga fazenda e à responsabilidade histórica pela liderança do povoado.
