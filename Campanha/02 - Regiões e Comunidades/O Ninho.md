@@ -205,12 +205,14 @@ As casas numeradas são:
     
 - Casa 5 — Família Noctua.
     
-- Casa 6 — sem atribuição confirmada no registro atual; não há definição se a construção está vazia, desocupada, destruída ou se a numeração foi simplesmente omitida.
+- Casa 6 — Família Naevus (Marina Vilar, Freya Naevus e Luna Azevedo).
     
 - Casa 7 — Família Becker.
     
+- Casa 8 — Família Voos (Ithan Voos).
+    
 
-A disposição geográfica exata das casas ainda precisa ser registrada em um mapa do vilarejo. A Casa 6 permanece sem atribuição confirmada; nenhuma explicação para a lacuna da numeração deve ser presumida até que seja definida pelo mestre.
+A Casa 6 é a residência da Família Naevus. A Casa 8 foi construída com materiais reaproveitados para servir de moradia a Ithan Voos, único integrante da Família Voos que atualmente vive no Ninho. A localização exata das Casas 6 e 8 dentro do vilarejo ainda precisa ser registrada em um mapa; não há pontos de referência ou distâncias definidos para elas.
 
 ### 4.2. Cozinha Comunitária
 
@@ -468,7 +470,22 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
 - [[Clark Becker]] — Antigo auxiliar de Ithan na Estação de Energia; atualmente está internado na Casa Médica.
     
 
-### 7.7. Outros moradores importantes
+### 7.7. Família Naevus
+
+- [[Marina Vilar]] — Mãe de Freya e Luna; reside com as filhas na Casa 6 e auxilia a Casa Médica na preparação e conservação de tecidos médicos.
+- [[Freya Naevus]] — Aprendiz da Casa Médica; mora na Casa 6 com Marina e Luna.
+- [[Luna Azevedo]] — Criança de 7 anos; mora na Casa 6 e não possui função formal.
+
+Raul Azevedo faleceu em 2074, e Dário Naevus está desaparecido para Freya. Nenhum dos dois reside atualmente no Ninho.
+
+### 7.8. Família Voos
+
+- [[Ithan Voos]] — Engenheiro e responsável técnico pela Estação de Energia; mora sozinho na Casa 8.
+- [[Artur Voos]] — Pai de Ithan, desaparecido desde 2069 para os moradores do Ninho; não reside na comunidade.
+
+A Casa 8 foi construída com materiais reaproveitados para oferecer uma moradia própria a Ithan após a saída do pai. A existência e o destino atuais de Artur permanecem assuntos separados da residência do filho.
+
+### 7.9. Outros moradores importantes
 
 - [[Iara Salles]] — Auxiliar da cozinha comunitária, responsável pela organização de ingredientes e pelo registro do consumo diário.
     
@@ -482,7 +499,7 @@ Vicente não possui esposa ou filhos e evita criar vínculos familiares profundo
 
 Deverá acompanhar o grupo de personagens em uma etapa da campanha.
 
-### 7.8. Personagens dos jogadores
+### 7.10. Personagens dos jogadores
 
 Os personagens jogadores nasceram, cresceram ou vivem no Ninho.
 
