@@ -9,6 +9,7 @@ ocupacao: Manutenção de reservatórios, calhas e tubulações
 local: O Ninho
 familia: "[[Família Naevus]]"
 status: falecido
+visibilidade: mestre
 tags:
   - personagem
   - npc
