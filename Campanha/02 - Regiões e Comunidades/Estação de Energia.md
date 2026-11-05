@@ -22,7 +22,7 @@ A energia é limitada e não atende às casas como uma rede elétrica convencion
 
 **Responsável técnico:** [[Ithan Voos]].  
 **Auxiliar:** [[Clark Becker]], atualmente afastado devido à [[A Doença Azul]].  
-**Oficina parceira:** [[Ferro-Velho e Forja]], coordenada por [[Hugo Becker]].
+**Oficina parceira:** [[Os Lugares do Ninho#3. Ferro-Velho e Forja]], coordenada por [[Hugo Becker]].
 
 ## 2. Origem e estrutura
 
@@ -83,11 +83,11 @@ Antes de adoecer, [[Clark Becker]] ajudava Ithan na preparação de ferramentas,
 
 Clark não era o responsável técnico pelo gerador nem decidia alterações no sistema. Sua contribuição era prática e complementar: conhecia o material disponível, ajudava a localizar peças e preparava a estação para os reparos.
 
-Atualmente está internado na [[Casa Médica]]. Sua ausência aumenta a carga de trabalho de Ithan, mas não transfere a responsabilidade técnica para os demais Becker.
+Atualmente está internado na [[Os Lugares do Ninho#4. Casa Médica]]. Sua ausência aumenta a carga de trabalho de Ithan, mas não transfere a responsabilidade técnica para os demais Becker.
 
 ## 6. Relação com o Ferro-Velho e a Forja
 
-A Estação depende da capacidade de recuperar e fabricar peças. O [[Ferro-Velho e Forja]] fornece suportes, chapas, abraçadeiras, ferramentas, proteções e componentes metálicos que podem ser adaptados às necessidades do gerador.
+A Estação depende da capacidade de recuperar e fabricar peças. O [[Os Lugares do Ninho#3. Ferro-Velho e Forja]] fornece suportes, chapas, abraçadeiras, ferramentas, proteções e componentes metálicos que podem ser adaptados às necessidades do gerador.
 
 [[Hugo Becker]] coordena a produção e avalia o que pode ser fabricado com os materiais disponíveis. [[Marta Becker]] produz proteções, correias e acabamentos; [[Jonas Becker]] auxilia na preparação e fabricação das peças.
 
@@ -129,8 +129,8 @@ Uma falha pode exigir cooperação entre Ithan, a família Becker e a liderança
 ### Comunidade
 - [[O Ninho]]
 - [[O Muro de Sucata]]
-- [[Armazém]]
-- [[Ferro-Velho e Forja]]
+- [[Os Lugares do Ninho#7. Armazém]]
+- [[Os Lugares do Ninho#3. Ferro-Velho e Forja]]
 - [[Trabalho, Produção e Recursos do Ninho]]
 
 ### Personagens
