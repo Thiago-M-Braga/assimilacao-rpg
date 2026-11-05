@@ -207,7 +207,7 @@ As casas numeradas são:
 - Casa 7 — Família Becker.
     
 
-A disposição geográfica exata das casas ainda precisa ser registrada em um mapa do vilarejo.
+A disposição geográfica exata das casas ainda precisa ser registrada em um mapa do vilarejo. A numeração conhecida passa da Casa 5 para a Casa 7; a existência, o uso ou o estado de uma possível Casa 6 permanece indefinido e não deve ser presumido.
 
 ### 4.2. Cozinha Comunitária
 
@@ -225,7 +225,7 @@ Ali acontecem conversas, pequenas discussões, notícias sobre o trabalho e mome
 
 **Responsável:** [[Helena Noctua]].
 
-**Auxiliares:** [[Maria Evans]] e [[Fernando Evans]].
+**Equipe:** [[Maria Evans]], [[Fernando Evans]] e [[Iara Salles]]. Iara organiza os ingredientes recebidos e registra o consumo interno da cozinha; não trabalha no Armazém.
 
 ### 4.3. Ferro-Velho / Forja
 
@@ -450,7 +450,7 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
     
 - [[Helena Noctua]] — Cozinheira chefe.
     
-- [[Mabel Noctua]] — Filha do casal e personagem de jogador; participa do cultivo e da rotina da estufa.
+- [[Mabel Noctua]] — Filha do casal e personagem jogadora; participa voluntariamente do cultivo, sem função formal ou responsabilidade pelo setor.
     
 
 
@@ -608,7 +608,7 @@ As atividades principais são:
 |Atividade|Responsáveis|
 |---|---|
 |Preparação das refeições|Helena Noctua, Maria Evans, Fernando Evans e Iara Salles|
-|Agricultura, estufa e sementes|Gael Noctua e Mabel Noctua|
+|Agricultura, estufa e sementes|Gael Noctua; Mabel participa voluntariamente, conforme suas escolhas|
 |Criação e cuidado dos animais|Breno Lane e Cecília Lane|
 |Ferro-Velho e Forja|Hugo Becker, Marta Becker e Jonas Becker|
 |Casa Médica|Dona Clara Fagundes, Lívia Fagundes, Freya Naevus e Marina Vilar; Marcio auxilia pontualmente quando pode|
