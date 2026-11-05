@@ -5,6 +5,7 @@ idade: 26
 nascimento: 2054
 ocupacao: Registros e distribuição do Armazém, guarda pessoal de Elias e apoio à liderança
 local: O Ninho
+familia: "[[Família Ninho]]"
 status: viva
 tags:
   - personagem
