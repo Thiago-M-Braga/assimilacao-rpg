@@ -49,7 +49,7 @@ A gravidez trouxe alegria e insegurança. O casal ainda não escolheu nome e nã
 | Fernando Evans | Cozinha Comunitária | Apoio no preparo, transporte de ingredientes, limpeza e organização |
 | Bebê Evans | — | Ainda não nasceu; não possui função |
 
-Ambos trabalham sob a coordenação de [[Helena Noctua]]. [[Iara Salles]] também integra a equipe da cozinha, com foco na organização de ingredientes e no registro do consumo interno.
+Ambos trabalham sob a coordenação de [[Helena Noctua]] na preparação e distribuição das refeições.
 
 ## Relações com outras famílias
 
@@ -68,6 +68,5 @@ A Família Evans mantém proximidade com os Noctua por causa do trabalho na cozi
 - [[Maria Evans]]
 - [[Fernando Evans]]
 - [[Helena Noctua]]
-- [[Iara Salles]]
 - [[Os Lugares do Ninho#2. Cozinha Comunitária]]
 - [[O Ninho]]
