@@ -27,11 +27,11 @@ O material foi considerado seguro porque germinou e produziu alimentos sem sinai
 
 ## Comportamento no sistema de cultivo
 
-O fungo se espalhou pela infraestrutura compartilhada de solo, composto e água de irrigação. Libera compostos absorvidos pelas raízes das plantas.
+Os esporos se dispersaram pelo ar na área aberta de cultivo e colonizaram plantas, solo e composto. Depois, o fungo se espalhou pela infraestrutura compartilhada de solo, composto e água de irrigação. Libera compostos absorvidos pelas raízes das plantas.
 
 A contaminação não está ligada a uma espécie vegetal específica. Alimentos, ervas medicinais, verduras, legumes, frutas e outros cultivos que utilizam partes do sistema contaminado podem acumular os compostos.
 
-A quantidade varia segundo a espécie, o canteiro, a época de cultivo e a parte consumida. Aparência e sabor não são indicadores confiáveis de segurança.
+A quantidade varia segundo a espécie, o canteiro, a época de cultivo e a parte consumida. Aparência e sabor não são indicadores confiáveis de segurança. Pessoas suscetíveis precisam consumir repetidamente produtos contaminados para desenvolver a síndrome; a predisposição é uma falha genética hereditária ligada à regulação da Assimilação.
 
 O Micélio de Cobalto coloniza somente plantas e o ambiente de cultivo. Não coloniza animais nem contamina carne, leite, ovos ou outros produtos de origem animal. O consumo desses produtos não transmite os compostos do fungo nem provoca exposição à Doença Azul.
 
@@ -45,7 +45,7 @@ A Doença Azul depende da combinação de exposição repetida, baixa capacidade
 
 - O Micélio de Cobalto é um fungo ambiental.
 - Não é o parasita da Assimilação.
-- Não provoca transmissão entre pacientes.
+- Não provoca transmissão entre pacientes.\n- Os esporos se dispersam no ambiente e contaminam cultivos; a inalação não é a via que causa a Doença Azul.
 - A doença não é transmitida pelo ar, pelo toque ou pelo sangue.
 - Não está restrito a uma planta medicinal.
 - O fungo pode contaminar o sistema de produção, inclusive canteiros de espécies diferentes.
@@ -59,7 +59,7 @@ A investigação pode comparar canteiros, água de irrigação, composto, raíze
 
 O elo histórico está na [[Expedição ao Viveiro do Vale]]. A evidência agrícola e as sementes anteriores à contaminação encontram-se relacionadas aos [[Paióis Subterrâneos da Fazenda]].
 
-## Questões ainda abertas
+## Remediação do ambiente agrícola\n\nA retirada das plantas não basta. Para interromper a exposição, é necessário remover o solo e o composto contaminados dos canteiros, não os reutilizar, retirar raízes e resíduos, limpar ferramentas, recipientes, superfícies, reservatórios e canais de irrigação, substituir a água e os materiais porosos que não possam ser higienizados e repor os canteiros com solo de fonte comprovadamente limpa. Os primeiros cultivos devem permanecer isolados e ser verificados antes de voltar à alimentação comunitária.\n\n## Questões ainda abertas
 
 - A classificação biológica completa do fungo.
 - Seu ciclo de vida fora dos canteiros do Ninho.
