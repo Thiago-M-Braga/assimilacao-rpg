@@ -126,7 +126,7 @@ Tem dificuldade em aceitar que a filha esteja sofrendo de uma doença que já le
 
 ### O segredo de Marina
 
-Marina sabe que Dário morreu durante uma expedição no mundo exterior.
+Marina suspeita que Dário morreu durante uma expedição no mundo exterior, mas nunca recebeu confirmação.
 
 Nenhum integrante da expedição retornou. Marina nunca recebeu notícias confirmadas e passou a considerar provável que Dário tenha morrido, embora não saiba como ou onde.
 
@@ -195,7 +195,7 @@ Além da dor de perder Dário, sentiu raiva por ele ter deixado a família para 
 
 Quando Freya perguntava sobre o pai, Marina não conseguia separar a saudade do ressentimento.
 
-Com o passar dos anos, o silêncio tornou-se mais fácil do que explicar que Dário havia escolhido partir e morrido longe da filha.
+Com o passar dos anos, o silêncio tornou-se mais fácil do que explicar que Dário havia escolhido partir e nunca retornado. Marina teme que Freya decida sair do Ninho para procurá-lo.
 
 Ela também temia que Freya desenvolvesse a mesma obsessão pelo exterior e colocasse a própria vida em perigo.
 
@@ -269,7 +269,7 @@ Sua morte deixou uma ausência especialmente difícil para Marina, que precisou 
 
 ### A doença de Raul
 
-Em 2074, Raul começou a apresentar sintomas que inicialmente foram interpretados como uma enfermidade comum.
+Raul começou a apresentar sintomas discretos por volta de 2070, depois de anos de exposição à produção vegetal contaminada. O quadro progrediu gradualmente e terminou com sua morte em 2074.
 
 Durante os meses seguintes, sua condição piorou.
 
@@ -321,7 +321,7 @@ Não compreende inteiramente a promessa que Freya fez, mas sabe que ela está es
 
 ### A doença
 
-Luna começou a apresentar sintomas em 2079, quando tinha seis anos.
+Os primeiros sinais discretos de Luna surgiram no fim de 2078, quando tinha cinco anos, e foram percebidos com maior clareza em 2079, aos seis anos.
 
 Os primeiros sinais foram febres ocasionais, cansaço e perda de disposição.
 
@@ -395,9 +395,9 @@ O objeto não revela sozinho o destino de Dário, mas confirma que ele existiu e
 |2067|Marina inicia relacionamento com Raul|Freya: 11; Marina: 33; Raul: 36|
 |2068|Raul passa a fazer parte da rotina familiar|Freya: 12|
 |2073|Nascimento de Luna|Freya: 17; Marina: 39; Raul: 42|
-|2074|Morte de Raul|Freya: 18; Marina: 40; Luna: 1|
+|2070|Raul começa a apresentar sintomas discretos da Doença Azul|Freya: 14; Marina: 36; Raul: 39|\n|2074|Raul morre; Marina entrega o colar de Dário a Freya quando ela completa 18 anos|Freya: 18; Marina: 40; Luna: 1|
 |2074|Marina entrega o colar a Freya em seu aniversário de 18 anos|Freya: 18|
-|2079|Luna começa a apresentar sintomas|Freya: 23; Luna: 6|
+|2078–2079|Luna apresenta sinais discretos no fim de 2078, percebidos claramente em 2079|Freya: 23; Luna: 6|
 |2080|Presente da campanha|Freya: 24; Marina: 46; Luna: 7|
 
 ## Segredos do mestre
@@ -410,7 +410,7 @@ O objeto não revela sozinho o destino de Dário, mas confirma que ele existiu e
     
 - Seu corpo nunca foi recuperado.
     
-- Marina sabe que Dário morreu, mas esconde essa informação de Freya.
+- Marina suspeita que Dário morreu, mas não possui confirmação; nenhum integrante da expedição retornou ao Ninho.
     
 - O colar pertenceu realmente a Dário e foi deixado com Marina antes da expedição.
     
