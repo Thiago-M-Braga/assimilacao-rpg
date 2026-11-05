@@ -182,7 +182,7 @@ Artur conseguiu abrir caminho para que os outros recuassem.
 
 Vicente foi atingido durante a fuga. Um ferimento profundo alcançou seu pescoço, e seu braço esquerdo sofreu queimaduras quando tentou escapar de uma área tomada pelo fogo.
 
-Artur permaneceu para garantir que o filho e os demais conseguissem chegar a uma posição segura.
+Artur havia escolhido voluntariamente participar da atividade de reconhecimento. Durante o ataque, permaneceu para garantir que o filho e os demais conseguissem chegar a uma posição segura.
 
 Ele não conseguiu retornar.
 
