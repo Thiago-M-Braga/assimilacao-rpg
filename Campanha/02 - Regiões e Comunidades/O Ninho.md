@@ -205,10 +205,12 @@ As casas numeradas são:
     
 - Casa 5 — Família Noctua.
     
+- Casa 6 — sem atribuição confirmada no registro atual; não há definição se a construção está vazia, desocupada, destruída ou se a numeração foi simplesmente omitida.
+    
 - Casa 7 — Família Becker.
     
 
-A disposição geográfica exata das casas ainda precisa ser registrada em um mapa do vilarejo. A numeração conhecida passa da Casa 5 para a Casa 7; a existência, o uso ou o estado de uma possível Casa 6 permanece indefinido e não deve ser presumido.
+A disposição geográfica exata das casas ainda precisa ser registrada em um mapa do vilarejo. A Casa 6 permanece sem atribuição confirmada; nenhuma explicação para a lacuna da numeração deve ser presumida até que seja definida pelo mestre.
 
 ### 4.2. Cozinha Comunitária
 
