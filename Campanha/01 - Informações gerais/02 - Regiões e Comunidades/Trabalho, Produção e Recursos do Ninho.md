@@ -121,8 +121,6 @@ A perda de um animal adulto pode representar um prejuízo significativo, especia
 
 **Equipe:** [[Maria Evans]] e [[Fernando Evans]].
 
-
-
 A cozinha transforma os alimentos produzidos e armazenados em refeições para os moradores.
 
 Helena organiza o preparo, controla as porções e procura variar o cardápio conforme a disponibilidade.
@@ -481,11 +479,7 @@ O importante é que os recursos tenham valor porque representam trabalho, tempo 
 - [[Estação de Energia]]
     
 - [[O Muro de Sucata]]
-    
-- [[Lívia Fagundes]]
-    
-- [[Iara Salles]]
-    
+
 - [[Gael Noctua]]
     
 - [[Helena Noctua]]
@@ -499,5 +493,3 @@ O importante é que os recursos tenham valor porque representam trabalho, tempo 
 - [[Cecília Lane]]
     
 - [[Hugo Becker]]
-    
-- [[Jonas Becker]]
