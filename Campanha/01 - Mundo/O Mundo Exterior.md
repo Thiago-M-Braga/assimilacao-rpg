@@ -14,7 +14,7 @@ tags:
 
 ## Visão geral
 
-O Mundo Exterior é a designação usada pelos moradores do Ninho para as regiões além do [[Muro de Sucata]]. Não é uma área uniforme nem um território sob controle de uma única autoridade. Inclui cidades abandonadas, áreas rurais, ruínas, ecossistemas transformados, rotas perigosas e comunidades humanas isoladas.
+O Mundo Exterior é a designação usada pelos moradores do Ninho para as regiões além do [[O Muro de Sucata]]. Não é uma área uniforme nem um território sob controle de uma única autoridade. Inclui cidades abandonadas, áreas rurais, ruínas, ecossistemas transformados, rotas perigosas e comunidades humanas isoladas.
 
 Cinquenta e cinco anos após o [[O Colapso]], a humanidade continua existindo em assentamentos diferentes, com níveis variados de organização, recursos e conhecimento técnico. Algumas comunidades mantêm equipamentos antigos; outras dependem de agricultura, criação de animais, reparos e escambo.
 
@@ -56,7 +56,7 @@ O conhecimento do mestre é mais amplo que o conhecimento dos moradores. As nota
 
 - [[O Colapso]]
 - [[A Nova Ecologia]]
-- [[A Maciço das Antenas]]
+- [[Maciço das Antenas]]
 - [[Vigília do Relé]]
 - [[O Ninho]]
 - [[O Muro de Sucata]]
