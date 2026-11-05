@@ -8,6 +8,7 @@ ocupacao: Preparação e conservação de tecidos médicos
 local: "[[O Ninho]]"
 familia: "[[Família Naevus]]"
 status: viva
+visibilidade: mestre
 tags:
   - personagem
   - npc
