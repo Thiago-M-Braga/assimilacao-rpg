@@ -5,6 +5,7 @@ idade: 45
 nascimento: 2035
 ocupacao: Chefe da cozinha comunitária
 local: O Ninho
+familia: "[[Família Noctua]]"
 status: viva
 tags:
   - personagem
