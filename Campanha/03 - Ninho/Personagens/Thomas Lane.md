@@ -5,6 +5,7 @@ idade: 10
 nascimento: 2070
 ocupacao: Criança do Ninho; sem função formal
 local: O Ninho
+familia: "[[Família Lane]]"
 status: vivo
 tags:
   - personagem
