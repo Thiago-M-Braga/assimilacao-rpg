@@ -26,7 +26,7 @@ tags:
 - **Idade:** 55 anos
 - **Família:** [[Família Becker]]
 - **Companheira:** [[Marta Becker]]
-- **Filhos:** [[Clark Becker]] e [[Jonas Becker]]
+- **Filho:** [[Clark Becker]]
 - **Residência:** Próxima ao Ferro-Velho e à Forja
 - **Ocupação:** Ferreiro e responsável pelo Ferro-Velho e pela Forja
 - **Setor:** [[Os Lugares do Ninho#3. Ferro-Velho e Forja]]
@@ -57,9 +57,9 @@ Desde cedo demonstrou curiosidade por mecanismos, metais e objetos quebrados. Na
 
 Com o passar dos anos, assumiu tarefas cada vez mais complexas. Quando os ferreiros mais antigos deixaram de trabalhar, Hugo passou a coordenar a oficina e a organizar sua produção.
 
-Conheceu Marta durante os trabalhos comunitários. Ela tinha experiência com tecidos e materiais reaproveitados, e os dois descobriram que suas habilidades se complementavam. Casaram-se e tiveram Clark e Jonas.
+Conheceu Marta durante os trabalhos comunitários. Ela tinha experiência com tecidos e materiais reaproveitados, e os dois descobriram que suas habilidades se complementavam. Casaram-se e tiveram Clark.
 
-Clark se interessou por eletricidade e passou a auxiliar Ithan na Estação de Energia. Jonas, por outro lado, permaneceu próximo da oficina e começou a aprender metalurgia com o pai.
+Clark se interessou por eletricidade e passou a auxiliar Ithan na Estação de Energia.
 
 ## Ocupação no Ninho
 
@@ -74,7 +74,7 @@ Hugo coordena o Ferro-Velho e a Forja. O setor produz e recupera itens de que a 
 - Reparar ferramentas e objetos metálicos.
 - Produzir itens simples para proteção e segurança.
 - Organizar o uso de combustível, ferramentas e matéria-prima.
-- Orientar Marta e Jonas nas tarefas da oficina.
+- Orientar Marta nas tarefas da oficina.
 - Receber solicitações dos demais setores e definir prioridades de produção.
 
 A Forja não é responsável por sistemas elétricos. Quando a [[Estação de Energia]] precisa de peças metálicas, Ithan solicita o material a Hugo, mas a manutenção elétrica continua sendo responsabilidade de Ithan.
@@ -88,10 +88,6 @@ Marta é sua companheira e parceira na oficina. Hugo confia no julgamento dela, 
 ### Clark Becker — filho
 
 Clark cresceu observando a oficina, mas escolheu trabalhar com eletricidade. Hugo respeita a escolha do filho e sente orgulho de sua colaboração com Ithan. A doença de Clark é uma das maiores preocupações da família.
-
-### Jonas Becker — filho
-
-Jonas é aprendiz na Forja. Hugo é exigente com ele e nem sempre sabe ensinar de maneira organizada. Apesar dos conflitos, deseja que o filho desenvolva confiança e consiga assumir tarefas cada vez mais complexas.
 
 ### Ithan Voos
 
@@ -107,7 +103,7 @@ A plantação e o curral dependem de ferramentas, reparos e peças produzidos pe
 
 ## Conflitos e motivações
 
-Hugo teme que a escassez de metais e combustível torne a Forja incapaz de atender às necessidades do Ninho. Também se preocupa com a possibilidade de Jonas não se sentir preparado para assumir tarefas mais importantes.
+Hugo teme que a escassez de metais e combustível torne a Forja incapaz de atender às necessidades do Ninho. 
 
 A doença de Clark mudou a rotina familiar e o fez perceber que o trabalho não pode ser a única prioridade de sua vida.
 
@@ -122,7 +118,6 @@ A doença de Clark mudou a rotina familiar e o fez perceber que o trabalho não 
 
 - A Forja recebe uma peça que nenhum dos moradores consegue identificar.
 - A falta de metal obriga Hugo a escolher entre pedidos urgentes de setores diferentes.
-- Jonas discorda de uma solução do pai e propõe uma alternativa.
 - Ithan solicita um componente que exige uma adaptação inédita.
 - A doença de Clark faz Hugo deixar a oficina para acompanhar o filho.
 
@@ -131,7 +126,6 @@ A doença de Clark mudou a rotina familiar e o fez perceber que o trabalho não 
 - [[Família Becker]]
 - [[Marta Becker]]
 - [[Clark Becker]]
-- [[Jonas Becker]]
 - [[Ithan Voos]]
 - [[Os Lugares do Ninho#3. Ferro-Velho e Forja]]
 - [[Estação de Energia]]
