@@ -44,7 +44,7 @@ Entretanto, o fluxo de pessoas de fora diminuiu progressivamente.
 
 Por volta do décimo ano após o desastre, a chegada de novos refugiados praticamente cessou.
 
-A partir desse momento, o conhecimento sobre o exterior deixou de ser renovado por experiências diretas.
+A partir desse momento, o conhecimento sobre o exterior deixou de ser renovado por experiências diretas. Os moradores continuaram livres para partir em expedições voluntárias, mas nenhuma das pessoas que saiu após o fim das chegadas regulares retornou ao Ninho. Por isso, as partidas não produziram relatos novos, e o isolamento de informações se aprofundou.
 
 ### 1.1. A geração que nunca saiu
 
