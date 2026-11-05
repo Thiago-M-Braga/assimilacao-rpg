@@ -29,14 +29,14 @@ tags:
 | Idade em 2080 | 7 anos |
 | Nascimento | 2073 |
 | Residência | Casa 6 |
-| Mãe | [[Marina Vilar]] |
+| Mãe | [[Marina Azevedo]] |
 | Pai | [[Raul Azevedo]] — falecido em 2074 |
 | Meia-irmã | [[Freya Naevus]] |
 | Condição | Doença Azul, estágio II inicial |
 
 ## Visão geral
 
-Luna é filha de Marina Vilar e Raul Azevedo e meia-irmã de Freya Naevus por parte de mãe. Na verdade do mestre, herdou de Raul a predisposição genética que a torna suscetível à Doença Azul. Tem sete anos no presente de referência de 2080. É uma criança curiosa e imaginativa, mas a doença reduziu sua disposição e limita algumas de suas atividades.
+Luna é filha de Marina Azevedo e Raul Azevedo e meia-irmã de Freya Naevus por parte de mãe. Na verdade do mestre, herdou de Raul a predisposição genética que a torna suscetível à Doença Azul. Tem sete anos no presente de referência de 2080. É uma criança curiosa e imaginativa, mas a doença reduziu sua disposição e limita algumas de suas atividades.
 
 Luna não possui função formal, jornada ou obrigação de trabalho. Sua prioridade é a infância, o descanso e o acompanhamento médico.
 
@@ -69,7 +69,7 @@ Seu quadro ainda apresenta boa possibilidade de recuperação, desde que a expos
 
 ## Relações
 
-### Marina Vilar — mãe
+### Marina Azevedo — mãe
 
 Marina acompanha sua rotina e tenta manter a vida doméstica estável. A doença de Luna desperta nela o medo de reviver a perda de Raul.
 
@@ -98,7 +98,7 @@ Clara acompanha o caso com os recursos disponíveis e procura controlar os sinto
 ## Notas relacionadas
 
 - [[Família Naevus]]
-- [[Marina Vilar]]
+- [[Marina Azevedo]]
 - [[Freya Naevus]]
 - [[Raul Azevedo]]
 - [[Dona Clara Fagundes]]
