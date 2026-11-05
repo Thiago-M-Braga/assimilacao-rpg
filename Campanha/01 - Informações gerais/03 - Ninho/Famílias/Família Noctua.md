@@ -51,7 +51,7 @@ Mabel não é responsável pela estufa. A produção agrícola, a gestão dos ca
 
 ## Relações com outras famílias
 
-A família trabalha em contato frequente com os Evans, na cozinha; com os Lane, pela relação entre cultivo e criação de animais; e com Iara Salles, que organiza os ingredientes recebidos pela cozinha. A investigação da Doença Azul também aproxima Mabel da família Becker e de Freya Naevus.
+A família trabalha em contato frequente com os Evans, na cozinha, e com os Lane, pela relação entre cultivo e criação de animais. A investigação da Doença Azul também aproxima Mabel da família Becker e de Freya Naevus.
 
 ## Pontos em aberto
 
