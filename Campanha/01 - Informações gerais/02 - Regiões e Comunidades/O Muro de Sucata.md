@@ -258,7 +258,7 @@ O reparo de partes danificadas é uma tarefa que envolve o reaproveitamento de m
 
 A forja pode contribuir com ferramentas, peças e componentes necessários para reparos.
 
-[[Hugo Becker]], [[Marta Becker]] e [[Jonas Becker]] são responsáveis por fabricar e reparar peças e ferramentas na Forja.
+[[Hugo Becker]] e [[Marta Becker]] são responsáveis por fabricar e reparar peças e ferramentas na Forja.
 
 ### 5.2. Manutenção elétrica
 
@@ -409,8 +409,6 @@ Isso cria uma fragilidade estrutural que pode ser explorada narrativamente.
 - [[Elias Ninho]]
     
 - [[Vicente Murphy]]
-    
-- [[Lívia Fagundes]]
     
 - [[Elisa Ninho]]
     
