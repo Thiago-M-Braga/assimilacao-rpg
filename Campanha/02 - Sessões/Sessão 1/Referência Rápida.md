@@ -26,24 +26,24 @@ visibilidade: mestre
 
 ## NPCs em uma linha
 
-| NPC | Função / gancho |
-|---|---|
-| Elias Ninho | Líder; anuncia a crise e convoca a reunião |
-| Davi Ninho | Segurança e estoque físico do Armazém |
-| Elisa Ninho | Registros do Armazém; questiona decisões do pai |
-| Ithan Voos | Responsável técnico pela energia e manutenção do muro |
-| Vicente Murphy | Acompanha a expedição; experiência com armas e sobrevivência |
-| Thomas Lane | 10 anos; quer ver o mundo além do muro |
-| Breno e Cecília Lane | Pais de Thomas; responsáveis pelo Curral |
-| Maria Evans | 7 meses de gestação; trabalha na cozinha |
-| Fernando Evans | Marido de Maria; ansioso com a chegada do bebê |
-| Helena Noctua | Coordena a cozinha comunitária |
-| Dona Clara Fagundes | Médica; coordena a Casa Médica |
-| Lívia Fagundes | Auxilia Clara |
-| Freya Naevus | Aprendiz da Casa Médica; teme perder a irmã |
-| Gael Noctua | Plantações e Estufa |
-| Hugo, Marta e Jonas Becker | Forja e recuperação de metais |
-| Clark Becker | Afastado por doença; antigo auxiliar de Ithan |
+| NPC                        | Função / gancho                                              |
+| -------------------------- | ------------------------------------------------------------ |
+| Elias Ninho                | Líder; anuncia a crise e convoca a reunião                   |
+| Davi Ninho                 | Segurança e estoque físico do Armazém                        |
+| Elisa Ninho                | Registros do Armazém; questiona decisões do pai              |
+| Ithan Voos                 | Responsável técnico pela energia e manutenção do muro        |
+| Vicente Murphy             | Acompanha a expedição; experiência com armas e sobrevivência |
+| Thomas Lane                | 10 anos; quer ver o mundo além do muro                       |
+| Breno e Cecília Lane       | Pais de Thomas; responsáveis pelo Curral                     |
+| Maria Evans                | 7 meses de gestação; trabalha na cozinha                     |
+| Fernando Evans             | Marido de Maria; ansioso com a chegada do bebê               |
+| Helena Noctua              | Coordena a cozinha comunitária                               |
+| Gael Noctua                | Plantações e Estufa                                          |
+| Dona Clara Fagundes        | Médica; coordena a Casa Médica                               |
+| Lívia Fagundes             | Auxilia Clara                                                |
+| Freya Naevus               | Aprendiz da Casa Médica; teme perder a irmã                  |
+| Hugo, Marta e Jonas Becker | Forja e recuperação de metais                                |
+| Clark Becker               | Afastado por doença; antigo auxiliar de Ithan                |
 
 ## Ordem das cenas
 
