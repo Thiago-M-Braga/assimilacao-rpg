@@ -50,7 +50,7 @@ Antes de adoecer, era falante e curiosa. Gostava de inventar brincadeiras, fazer
 
 Raul morreu em 2074, quando Luna tinha aproximadamente um ano. Por isso, ela tem poucas ou nenhuma lembrança consciente do pai. Freya, que já era adolescente, preserva lembranças mais claras da convivência com ele.
 
-Luna começou a apresentar sintomas em 2079, aos seis anos. No início, as febres e o cansaço foram interpretados como problemas comuns da infância. Com a persistência dos sintomas, Clara passou a acompanhá-la com maior atenção.
+Os primeiros sinais discretos surgiram no fim de 2078, quando Luna tinha cinco anos; as febres e o cansaço foram percebidos com maior clareza em 2079, quando ela tinha seis. No início, foram interpretados como problemas comuns da infância. Com a persistência dos sintomas, Clara passou a acompanhá-la com maior atenção.
 
 ## Condição médica
 
