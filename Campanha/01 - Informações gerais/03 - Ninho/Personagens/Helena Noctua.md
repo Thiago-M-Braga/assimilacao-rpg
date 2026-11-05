@@ -30,7 +30,6 @@ tags:
 | Família | [[Família Noctua]] |
 | Status | viva |
 
-
 > "Pode faltar muita coisa neste mundo, mas enquanto houver comida na panela e alguém disposto a dividir, ainda temos motivos para continuar."
 
 ## Visão geral
@@ -231,7 +230,7 @@ Sua rotina começa cedo, com a verificação dos ingredientes disponíveis e a o
 
 Trabalha diretamente com Maria e Fernando Evans, orientando os dois durante o preparo e a distribuição das refeições.
 
-Também mantém contato frequente com Gael, Breno, Cecília e Iara para acompanhar a disponibilidade de ingredientes e organizar as necessidades da cozinha.
+Também mantém contato frequente com Gael, Breno e Cecília para acompanhar a disponibilidade de ingredientes e organizar as necessidades da cozinha.
 
 Apesar da rotina exigente, continua procurando momentos para conversar com os moradores.
 
@@ -361,26 +360,6 @@ Respeita o trabalho dos dois e sabe que a criação de animais exige cuidado e e
 Cecília costuma ser organizada ao comunicar a disponibilidade de produtos, enquanto Breno prefere explicar as necessidades de maneira mais direta.
 
 Helena gosta de conversar com os dois e procura manter uma relação de colaboração.
-
-### Iara Salles — auxiliar da cozinha comunitária
-
-Iara é uma das pessoas com quem Helena conversa frequentemente sobre a disponibilidade de alimentos.
-
-Iara trabalha na cozinha comunitária e ajuda Helena a organizar ingredientes e registrar o consumo diário.
-
-Helena aprecia sua organização, mas às vezes acredita que Iara se preocupa excessivamente com os números.
-
-Costuma lembrá-la de que os registros representam pessoas que precisam comer todos os dias.
-
-As duas mantêm uma relação de respeito e colaboração.
-
-### Lívia Fagundes — auxiliar da Casa Médica
-
-Lívia trabalha na Casa Médica e não atua no Armazém. Quando a cozinha precisa de ingredientes, Helena encaminha as solicitações à família Ninho, responsável pelo controle e pela distribuição dos estoques.
-
-As duas mantêm uma relação cordial e possuem uma comunicação bastante prática.
-
-Também percebe que Lívia carrega preocupações pessoais relacionadas aos pais e, sempre que pode, procura oferecer algum apoio.
 
 ### Elias Ninho — líder do Ninho
 
@@ -585,9 +564,7 @@ Pode notar mudanças no comportamento dos moradores antes que eles próprios per
     
 - [[Cecília Lane]]
     
-- [[Iara Salles]]
     
-- [[Lívia Fagundes]]
     
 - [[Elias Ninho]]
     
