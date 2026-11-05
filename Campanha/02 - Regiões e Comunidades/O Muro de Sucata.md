@@ -42,7 +42,7 @@ tags:
 > 
 > Sua construção foi uma resposta direta ao aumento de sobreviventes, aos perigos das estradas e à necessidade de proteger os recursos acumulados pela comunidade.
 > 
-> Décadas depois, o muro continua sendo a principal fronteira física entre o Ninho e o mundo exterior. Sua estrutura é eletrificada por um sistema alimentado por um antigo gerador eólico, mantido pelo trabalho de [[Hugo Becker]].
+> Décadas depois, o muro continua sendo a principal fronteira física entre o Ninho e o mundo exterior. Sua estrutura é eletrificada por um sistema alimentado por um antigo gerador eólico, cuja manutenção técnica é responsabilidade de [[Ithan Voos]]. A Forja dos Becker fornece peças metálicas e componentes quando necessário.
 > 
 > Para os moradores, o muro não representa apenas proteção. É o limite de tudo aquilo que conhecem.
 
@@ -153,7 +153,7 @@ Entretanto, também criou uma dependência.
 
 Se a estação de energia deixar de funcionar, a comunidade poderá perder sua principal proteção elétrica.
 
-A preservação do gerador e o conhecimento técnico de Hugo são, portanto, questões de segurança coletiva.
+A preservação do gerador e o conhecimento técnico de Ithan são, portanto, questões de segurança coletiva.
 
 > [!warning] Vulnerabilidade estrutural  
 > A defesa do Ninho depende de uma instalação antiga, com peças escassas e manutenção artesanal.
@@ -231,9 +231,9 @@ Entre os moradores com funções ligadas à defesa estão:
 
 - [[Vicente Murphy]] — Sentinela e veterano. Possui experiência com armas, táticas e avaliação de riscos.
     
-- [[Lívia Fagundes]] — Um dos guardas pessoais de Elias.
+- [[Davi Ninho]] — Guarda pessoal de Elias e responsável por atividades de segurança interna.
     
-- [[Elisa Ninho]] — Também participa da proteção pessoal do líder.
+- [[Elisa Ninho]] — Guarda pessoal de Elias e apoio à liderança e à segurança interna.
     
 - [[Elias Ninho]] — Responsável pela liderança e pelas decisões gerais da comunidade.
     
@@ -262,7 +262,7 @@ A forja pode contribuir com ferramentas, peças e componentes necessários para 
 
 O sistema elétrico depende da estação eólica e do conhecimento técnico de Ithan. Clark era seu auxiliar; os demais Becker atuam na Forja e fornecem peças metálicas quando necessário.
 
-A manutenção envolve a preservação do gerador e de seus componentes, além do acompanhamento do funcionamento do sistema.
+A manutenção elétrica é conduzida por Ithan. A Forja pode fabricar ou reparar componentes metálicos a pedido dele, mas não realiza diagnósticos elétricos nem assume a operação da estação.
 
 ### 5.3. Recursos necessários
 
@@ -377,7 +377,7 @@ Isso cria uma fragilidade estrutural que pode ser explorada narrativamente.
 >     
 > - A energia disponível é direcionada estritamente à defesa do perímetro.
 >     
-> - A estação depende da manutenção de Hugo Becker.
+> - A manutenção técnica da estação depende de Ithan Voos; a Forja fornece peças metálicas sob solicitação.
 >     
 > - A geração atual do Ninho cresceu sem conhecer diretamente o mundo exterior.
 >     
