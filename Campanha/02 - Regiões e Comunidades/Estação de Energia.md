@@ -43,25 +43,31 @@ Nem todos os componentes originais continuam presentes. Algumas partes foram sub
 
 ### 3.1. Funcionamento
 
-O vento movimenta o rotor, que transmite energia mecânica ao gerador. A eletricidade produzida passa por um sistema de controle improvisado e segue para o circuito que alimenta a proteção do muro.
+O vento movimenta o rotor, que transmite energia mecânica ao gerador. A eletricidade produzida passa por um sistema de controle improvisado e segue para o circuito que alimenta a proteção do muro. A energia excedente carrega uma única bateria de reserva.
 
-A produção varia conforme as condições climáticas e o estado dos componentes. Períodos prolongados de pouco vento reduzem a disponibilidade de energia.
+A produção varia conforme as condições climáticas e o estado dos componentes. A região costuma ter ventos frequentes, mas períodos sem vento podem ocorrer. Nesses períodos, uma única bateria instalada na estação sustenta a eletrificação do muro até que sua carga se esgote. Não existe uma segunda fonte de energia.
 
 ### 3.2. Prioridade do muro
 
-A eletricidade é direcionada prioritariamente ao sistema de eletrificação do [[O Muro de Sucata]]. A comunidade evita conectar novos equipamentos sem avaliar o impacto sobre a defesa.
+A eletricidade é direcionada prioritariamente ao sistema de eletrificação do [[O Muro de Sucata]]. Fios desencapados percorrem a estrutura metálica e mantêm o muro ligado continuamente. Quando está energizado, normalmente é possível ouvir um zumbido ou pequenos estalos elétricos ao longo dele. A comunidade evita conectar novos equipamentos sem avaliar o impacto sobre a defesa.
 
 Uma falha prolongada pode comprometer a segurança do Ninho, especialmente durante períodos de maior atividade de criaturas ou ameaças externas.
 
-### 3.3. Limitações
+### 3.3. A bateria e a ausência de vento
+
+A Estação possui uma única bateria de reserva. Quando há vento suficiente, o gerador alimenta o muro e mantém a bateria carregada com a energia excedente. Quando o vento cai ou para, a bateria assume o fornecimento automaticamente. Sua autonomia depende da carga armazenada e de seu estado de conservação. Quando a bateria descarrega, não há outra fonte de energia: o muro deixa de ficar eletrificado até que o gerador volte a produzir eletricidade.
+
+### 3.4. Limitações
 
 - Não há energia abundante para uso doméstico.
 - O sistema depende de componentes difíceis de substituir.
 - A produção varia com o vento e com o estado mecânico do gerador.
+- Uma única bateria armazena energia excedente e mantém o muro ligado durante períodos sem vento, até descarregar.
+- Não existe fonte alternativa de energia.
 - Reparos improvisados podem criar falhas secundárias.
 - Parte do conhecimento de funcionamento está concentrada em Ithan.
 
-## 4. Ithan Voos — responsável técnico
+## 5. Ithan Voos — responsável técnico
 
 [[Ithan Voos]] é o responsável pela manutenção elétrica e pelo funcionamento da Estação. Seu conhecimento de engenharia, a familiaridade com circuitos e sua curiosidade sobre tecnologia antiga fazem dele a principal referência técnica do setor.
 
@@ -77,7 +83,7 @@ Uma falha prolongada pode comprometer a segurança do Ninho, especialmente duran
 
 Ithan não precisa fabricar todas as peças utilizadas na estação. Quando necessita de suportes, ferramentas ou componentes metálicos, solicita a produção ou adaptação ao Ferro-Velho e à Forja.
 
-## 5. Clark Becker — antigo auxiliar
+## 6. Clark Becker — antigo auxiliar
 
 Antes de adoecer, [[Clark Becker]] ajudava Ithan na preparação de ferramentas, identificação de componentes, organização de cabos e execução de tarefas simples e seguras.
 
@@ -85,7 +91,7 @@ Clark não era o responsável técnico pelo gerador nem decidia alterações no 
 
 Atualmente está internado na [[Os Lugares do Ninho#4. Casa Médica]]. Sua ausência aumenta a carga de trabalho de Ithan, mas não transfere a responsabilidade técnica para os demais Becker.
 
-## 6. Relação com o Ferro-Velho e a Forja
+## 7. Relação com o Ferro-Velho e a Forja
 
 A Estação depende da capacidade de recuperar e fabricar peças. O [[Os Lugares do Ninho#3. Ferro-Velho e Forja]] fornece suportes, chapas, abraçadeiras, ferramentas, proteções e componentes metálicos que podem ser adaptados às necessidades do gerador.
 
@@ -93,7 +99,7 @@ A Estação depende da capacidade de recuperar e fabricar peças. O [[Os Lugares
 
 A oficina não realiza o diagnóstico elétrico nem administra a estação. Cada setor mantém sua própria responsabilidade.
 
-## 7. Manutenção e recursos
+## 8. Manutenção e recursos
 
 A manutenção preventiva é importante porque a comunidade não dispõe de um sistema reserva.
 
@@ -108,13 +114,13 @@ Os materiais mais necessários incluem:
 
 Qualquer retirada de materiais deve ser solicitada ao Armazém, administrado exclusivamente por [[Elias Ninho]], [[Davi Ninho]] e [[Elisa Ninho]].
 
-## 8. Importância narrativa
+## 9. Importância narrativa
 
 A Estação representa a dependência do Ninho em relação a uma tecnologia antiga que poucos compreendem por completo.
 
 Uma falha pode exigir cooperação entre Ithan, a família Becker e a liderança. A ausência de Clark também pode ser sentida em uma manutenção difícil, lembrando que a doença afeta não apenas as famílias, mas o funcionamento diário da comunidade.
 
-## 9. Segredos do mestre
+## 10. Segredos do mestre
 
 - A estação é uma herança da antiga fazenda.
 - O gerador eólico é a fonte de energia utilizada para eletrificar o muro.
@@ -124,7 +130,7 @@ Uma falha pode exigir cooperação entre Ithan, a família Becker e a liderança
 - Hugo, Marta e Jonas trabalham na Forja, não na Estação de Energia.
 - A estação é difícil de substituir e não possui fonte alternativa estabelecida.
 
-## 10. Notas relacionadas
+## 11. Notas relacionadas
 
 ### Comunidade
 - [[O Ninho]]
@@ -144,3 +150,6 @@ Uma falha pode exigir cooperação entre Ithan, a família Becker e a liderança
 ### Mistérios
 - [[A Doença Azul]]
 - [[O Colapso]]
+
+
+O único portão do Ninho também faz parte do circuito elétrico. Para permitir uma passagem, Ithan desliga temporariamente a alimentação de todo o muro; a equipe de segurança remove as barreiras internas, abre o portão, permite a travessia e então fecha a passagem e reinstala as barreiras. Somente depois Ithan restabelece a eletrificação.
