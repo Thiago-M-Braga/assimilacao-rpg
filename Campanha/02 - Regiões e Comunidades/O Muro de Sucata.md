@@ -107,17 +107,17 @@ A estrutura foi pensada para proteger a comunidade e dificultar a entrada de ame
 
 ## 2. A eletrificação do muro
 
-Uma das características mais importantes do Muro de Sucata é seu sistema de eletrificação.
+Uma das características mais importantes do Muro de Sucata é seu sistema de eletrificação contínua.
 
 A estrutura não depende apenas de sua altura e dos materiais empregados.
 
-O muro recebe energia elétrica de uma antiga estação eólica pertencente à fazenda original.
+O muro recebe energia elétrica de uma antiga estação eólica pertencente à fazenda original. Na estação existe uma única bateria de reserva.
 
 Essa instalação continua funcionando graças ao trabalho de manutenção realizado pelos moradores.
 
 ### 2.1. A estação de energia
 
-O sistema é alimentado por um gerador eólico rústico, preservado desde a época dos antigos proprietários da fazenda.
+O sistema é alimentado por um gerador eólico rústico, preservado desde a época dos antigos proprietários da fazenda. Quando há vento suficiente, o gerador mantém o muro ligado e carrega a única bateria de reserva com o excedente. Quando não há vento, a bateria assume o fornecimento até que sua carga se esgote. Não existe outra fonte de energia.
 
 A instalação é uma herança tecnológica extremamente valiosa.
 
@@ -131,13 +131,15 @@ Por isso, a comunidade precisa controlar cuidadosamente seu consumo.
 
 A energia produzida pela estação é poupada ao máximo e canalizada estritamente para manter o Muro de Sucata eletrificado.
 
-A eletrificação é tratada como uma necessidade defensiva, não como um recurso de conforto.
+A eletrificação é tratada como uma necessidade defensiva, não como um recurso de conforto. Fios desencapados percorrem a estrutura metálica e mantêm o muro energizado continuamente. Quando está ligado, é comum ouvir um zumbido ou pequenos estalos ao longo da estrutura. O Ninho não utiliza essa energia livremente para alimentar equipamentos domésticos ou iluminação geral.
 
-O Ninho não utiliza essa energia livremente para alimentar equipamentos domésticos ou iluminação geral.
+O sistema permanece ligado em tempo integral e só é desligado quando alguém precisa atravessar o portão ou quando uma manutenção exige a interrupção. Se o vento parar, a bateria mantém o circuito funcionando até descarregar. Se a calmaria durar mais que a autonomia da bateria, o muro perde a eletricidade.
 
-A prioridade é preservar a proteção do perímetro.
+### 2.3. O único portão
 
-### 2.3. Responsável pelo sistema
+Existe apenas um portão no perímetro, grande o bastante para a passagem de uma caminhonete. O portão também é eletrificado e possui barreiras físicas reforçadas do lado de dentro. Para permitir uma passagem, Ithan desliga temporariamente a alimentação de todo o muro; depois, Vicente, Davi ou Elisa supervisionam a retirada das barreiras e a abertura do portão. Após a travessia, o portão é fechado, as barreiras são recolocadas e Ithan religa o circuito. Durante a operação, todo o sistema fica desenergizado e o Ninho permanece temporariamente mais vulnerável.
+
+### 2.4. Responsável pelo sistema
 
 [[Ithan Voos]] é o responsável técnico pela Estação de Energia e pela manutenção do equipamento que alimenta o muro. [[Clark Becker]] o auxiliava na preparação de ferramentas e na identificação de componentes, mas está afastado devido à Doença Azul.
 
@@ -151,7 +153,7 @@ A eletrificação tornou o muro uma estrutura mais importante para a segurança 
 
 Entretanto, também criou uma dependência.
 
-Se a estação de energia deixar de funcionar, a comunidade poderá perder sua principal proteção elétrica.
+Se o gerador deixar de funcionar, a bateria oferece apenas uma autonomia temporária. Se o vento não retornar antes de a bateria descarregar, a comunidade perde sua principal proteção elétrica. Não existe fonte alternativa.
 
 A preservação do gerador e o conhecimento técnico de Ithan são, portanto, questões de segurança coletiva.
 
@@ -436,3 +438,7 @@ Isso cria uma fragilidade estrutural que pode ser explorada narrativamente.
 > Para alguns, ele é a razão de ainda estarem vivos.
 > 
 > Para outros, pode ser a razão de nunca terem descoberto o que existe além dele.
+
+## 11. Rio Claro e Ponte do Ninho
+
+O único portão fica voltado para o Rio Claro, que passa diante do vilarejo. Um caminho externo liga o portão à ponte reforçada que atravessa o rio e alcança a Mata da Margem. A ponte comporta pedestres, animais, carrinhos de carga e uma caminhonete leve por vez, sob travessia cuidadosa. Ela não é eletrificada e não substitui o controle de acesso do portão.
