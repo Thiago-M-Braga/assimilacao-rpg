@@ -16,7 +16,7 @@ tags:
 
 ## Visão geral
 
-Em 2080, o Ninho é uma comunidade isolada que aprendeu a transformar a sobrevivência em rotina.
+Em 2080, o Ninho é uma comunidade sem contato regular com o exterior que aprendeu a transformar a sobrevivência em rotina. Seus 24 habitantes constituem toda a população do assentamento.
 
 Seus moradores não vivem em estado constante de emergência. O Colapso aconteceu há 55 anos, e a maior parte da população atual nasceu depois dele. Para essas pessoas, a vida dentro dos muros é simplesmente o mundo que conhecem.
 
@@ -32,7 +32,7 @@ A rotina acompanha a luz natural. Como a eletricidade é limitada e reservada pr
 
 ### Amanhecer
 
-O dia começa cedo.
+O dia começa cedo. A rotina atual inclui desjejum, refeição principal e refeição da noite, embora as porções variem conforme os estoques. Isso contrasta com os primeiros anos após o Colapso, quando os moradores consumiam apenas uma refeição racionada por dia enquanto recuperavam a produção agrícola e a criação de animais.
 
 As primeiras pessoas a acordar são aquelas responsáveis pelos animais, pela preparação dos alimentos e pelas inspeções necessárias.
 
@@ -87,7 +87,7 @@ O Muro continua eletrificado, sustentado pela energia produzida e administrada p
 
 ## Alimentação
 
-A alimentação é uma responsabilidade coletiva.
+A alimentação é uma responsabilidade coletiva. Em 2080, o Ninho enfrenta uma crise de abastecimento: o Armazém possui aproximadamente mais um mês de comida, mas a próxima colheita relevante ainda não estará pronta quando essas reservas terminarem. As porções e o cardápio já estão sendo ajustados, e a comunidade precisa encontrar recursos alimentares fora dos muros.
 
 A cozinha comunitária, coordenada por [[Helena Noctua]] com a ajuda de [[Maria Evans]], [[Fernando Evans]] e [[Iara Salles]], prepara e distribui as refeições. Iara também organiza os ingredientes recebidos e registra o consumo interno da cozinha.
 
