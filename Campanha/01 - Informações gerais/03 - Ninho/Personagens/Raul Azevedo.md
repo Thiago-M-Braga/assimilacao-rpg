@@ -26,14 +26,14 @@ tags:
 | Nascimento aproximado | 2031 |
 | Idade ao falecer | 43 anos |
 | Falecimento | 2074 |
-| Companheira | [[Marina Vilar]] |
+| Companheira | [[Marina Azevedo]] |
 | Filha | [[Luna Azevedo]] |
 | Enteada | [[Freya Naevus]] |
 | Ocupação em vida | Manutenção de reservatórios, calhas e tubulações |
 
 ## Visão geral
 
-Raul foi companheiro de Marina Vilar, pai de Luna Azevedo e padrasto de Freya Naevus. Era um homem forte, paciente e trabalhador, conhecido por sua experiência com manutenção de sistemas de água.
+Raul foi companheiro de Marina Azevedo, pai de Luna Azevedo e padrasto de Freya Naevus. Era um homem forte, paciente e trabalhador, conhecido por sua experiência com manutenção de sistemas de água.
 
 Não tentou substituir o pai biológico de Freya. Construiu com ela uma relação de confiança por meio da convivência, de pequenos consertos e de sua presença cotidiana.
 
@@ -60,7 +60,7 @@ Essa era uma atividade de manutenção comunitária. Raul não deve ser listado 
 
 ## Relações
 
-### Marina Vilar — companheira
+### Marina Azevedo — companheira
 
 Raul construiu uma vida com Marina depois do desaparecimento de Dário Naevus. Os dois tiveram Luna em 2073.
 
@@ -94,7 +94,7 @@ Raul começou a apresentar sintomas discretos por volta de 2070, após anos de e
 ## Notas relacionadas
 
 - [[Família Naevus]]
-- [[Marina Vilar]]
+- [[Marina Azevedo]]
 - [[Luna Azevedo]]
 - [[Freya Naevus]]
 - [[Dário Naevus]]
