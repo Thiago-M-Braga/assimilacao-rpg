@@ -25,23 +25,30 @@ O mapa é deliberadamente regional. Ele não define coordenadas cartográficas e
 
                          NORTE
                            ↑
+                   Maciço das Antenas
+                    Vigília do Relé
+                          |
+                trilhas serranas / serra
 
-                Maciço das Antenas
-                 Vigília do Relé
-                        |
-                 trilhas serranas
-                        |
-     Viveiro do Vale   |          Cidade de Santa Aurora
-          \             |                    |
-           \            |                Mata da Margem
-            \           |                    |
-             \      Rio Claro — Ponte — Morro da Fazenda
-                                      O Ninho
+        Viveiro do Vale
+        (sudoeste do Ninho)
+
+OESTE  [Morro da Fazenda / O Ninho]
+                 |
+           único portão
+                 |
+             Rio Claro
+                 |
+               Ponte
+                 |
+          Mata da Margem
+                 |
+       Cidade de Santa Aurora  LESTE
 
                            ↓
                           SUL
 
-O desenho é esquemático e não está em escala. Sua finalidade é mostrar relações de direção e conexão, não propor uma rota única.
+O desenho é esquemático e não está em escala. A leitura principal é oeste–leste: o Ninho fica na margem oeste do Rio Claro; a ponte cruza o rio e alcança a mata e a cidade a leste. O Maciço das Antenas fica ao norte-nordeste e o Viveiro do Vale a sudoeste.
 
 ## O Ninho e o Rio Claro
 
