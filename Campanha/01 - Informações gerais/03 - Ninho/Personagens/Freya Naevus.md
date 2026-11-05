@@ -390,7 +390,7 @@ Freya terá, portanto, dois caminhos pessoais importantes: compreender o passado
 
 - [[Família Naevus]]
     
-- [[Marina Vilar]]
+- [[Marina Azevedo]]
     
 - [[Luna Azevedo]]
     
