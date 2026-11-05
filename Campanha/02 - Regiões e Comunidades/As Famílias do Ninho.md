@@ -528,9 +528,9 @@ As fichas individuais continuam sendo a fonte principal para aparência, persona
 - [[A Vida Cotidiana no Ninho]]
 - [[Os Lugares do Ninho]]
 - [[Trabalho, Produção e Recursos do Ninho]]
-- [[Ferro-Velho e Forja]]
+- [[Os Lugares do Ninho#3. Ferro-Velho e Forja]]
 - [[Estação de Energia]]
-- [[Casa Médica]]
+- [[Os Lugares do Ninho#4. Casa Médica]]
 - [[Plantações e Estufa]]
 - [[O Muro de Sucata]]
 
