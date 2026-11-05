@@ -167,21 +167,11 @@ Embora nunca tenha ocupado uma posição de liderança, era respeitado por sua c
 
 ## O acidente de 2073
 
-Em 2073, quando tinha 62 anos, Marcio sofreu um acidente durante um trabalho de movimentação de materiais.
+Em 2073, quando tinha 62 anos, Marcio sofreu um acidente doméstico enquanto tentava consertar o telhado da própria casa. Uma parte da estrutura cedeu quando ele trabalhava sobre ela; Marcio perdeu o equilíbrio, caiu e bateu a cabeça com força. O acidente não teve relação com o Armazém, com estoques ou com a movimentação de caixas.
 
-Estava ajudando a retirar caixas de um espaço elevado de armazenamento quando perdeu o equilíbrio e caiu.
+Nos primeiros dias, apresentou confusão, dores e dificuldades para recordar acontecimentos recentes. Clara manteve o marido sob observação e procurou utilizar os poucos recursos disponíveis para ajudá-lo. Nos meses seguintes, as falhas de memória se tornaram mais profundas e persistentes.
 
-Durante a queda, bateu a cabeça com força.
-
-Clara foi chamada imediatamente e começou a cuidar dele.
-
-Nos primeiros dias, Marcio apresentou confusão, dores e dificuldades para recordar acontecimentos recentes. Clara manteve o marido sob observação e procurou utilizar os poucos recursos disponíveis para ajudá-lo.
-
-Inicialmente, todos acreditaram que as dificuldades seriam temporárias.
-
-Entretanto, os problemas de memória continuaram.
-
-### A evolução da amnésia
+## A evolução da amnésia
 
 Nos meses seguintes, Marcio começou a apresentar dificuldades cada vez maiores:
 
