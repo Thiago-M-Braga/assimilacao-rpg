@@ -31,7 +31,7 @@ Em 2069, quando Ithan tinha 11 anos, Artur deixou o Ninho para explorar o exteri
 
 Desde então, Ithan cresceu sem o pai e passou a se dedicar ao conhecimento que havia recebido dele.
 
-Atualmente, trabalha na [[Estação de Energia]], ajudando a manter o sistema que eletrifica o [[Muro de Sucata]].
+Atualmente, trabalha na [[Estação de Energia]], ajudando a manter o sistema que eletrifica o [[O Muro de Sucata]].
 
 Embora tenha vontade de sair e descobrir o mundo, Ithan ainda sente responsabilidade pela comunidade que o criou.
 
@@ -185,7 +185,7 @@ Ao mesmo tempo, Ithan decidiu aprender a cuidar dos equipamentos do Ninho. Mante
 
 ## A pulseira de Artur
 
-**Nome da nota relacionada:** [[A Pulseira de Ithan]]
+**Nome da nota relacionada:** [[Ithan Voos#A pulseira de Ithan]]
 
 A pulseira é um objeto simples, artesanal, feito com um pedaço de corda resistente e uma pequena bússola.
 
@@ -331,7 +331,7 @@ Uma transmissão curta começa a ser captada por um equipamento recuperado.
 
 A mensagem possui informações técnicas e uma assinatura que Artur costumava utilizar em seus registros.
 
-**Conexão:** [[Vigília do Relé]] e [[A Pulseira de Ithan]].
+**Conexão:** [[Vigília do Relé]] e [[Ithan Voos#A pulseira de Ithan]].
 
 ### 6. A escolha de Ithan
 
@@ -424,7 +424,7 @@ A manutenção técnica da estação pertence a Ithan. [[Clark Becker]] era seu 
 
 ### Objetos e mistérios
 
-- [[A Pulseira de Ithan]]
+- [[Ithan Voos#A pulseira de Ithan]]
     
 - [[A Vigília do Relé]]
     
