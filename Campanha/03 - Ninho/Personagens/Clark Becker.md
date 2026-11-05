@@ -157,7 +157,7 @@ Sua maior vontade é ter a oportunidade de voltar às atividades simples de que 
 - Clark é o filho mais velho de Hugo e Marta e irmão de Jonas.
 - Sua função era auxiliar Ithan na Estação de Energia; nunca foi o responsável técnico pelo gerador.
 - Hugo, Marta e Jonas trabalham no Ferro-Velho e na Forja.
-- Clark adoeceu após exposição prolongada à produção alimentar da estufa. Sua vulnerabilidade física e a atividade de Assimilação contribuíram para o quadro.
+- Clark adoeceu após exposição prolongada à produção alimentar da estufa. Sua predisposição genética hereditária, a vulnerabilidade física e a atividade de Assimilação contribuíram para o quadro.
 - Ele ainda pode ser curado.
 - O broche de Mabel não possui propriedades especiais.
 - Clark não sabe que Mabel está apaixonada por ele.
