@@ -17,7 +17,7 @@ tags:
 
 O Viveiro do Vale é uma antiga instalação agrícola do mundo anterior ao Colapso, localizada fora do Ninho. Por volta de 2033, uma expedição recuperou dali sementes, mudas, matéria orgânica e amostras de solo para diversificar a produção do assentamento.
 
-A localização exata do Viveiro do Vale em relação ao Ninho ainda não foi fixada. Não estabelecer distância, direção ou coordenadas sem uma decisão geográfica posterior.
+O Viveiro do Vale fica em uma área baixa e fértil a sudoeste do Ninho, a aproximadamente 8 a 12 km por uma antiga rota rural parcialmente tomada pela vegetação. A localização regional está consolidada em [[Mapa Regional do Vale do Rio Claro]], mas coordenadas e o traçado exato da rota continuam em aberto.
 
 ## Importância para a campanha
 
@@ -38,6 +38,7 @@ Não há informação canônica suficiente para afirmar que a instalação conti
 
 ## Notas relacionadas
 
+- [[Mapa Regional do Vale do Rio Claro]]
 - [[Expedição ao Viveiro do Vale]]
 - [[Micélio de Cobalto]]
 - [[Plantações e Estufa]]
