@@ -338,7 +338,11 @@ A descoberta desperta novas perguntas sobre o mundo anterior ao Colapso.
 
 **Conexões:** [[O Colapso]] e [[A Nova Ecologia]].
 
-### O manual de Artur\n\nO manual continua em posse de Ithan. Suas páginas foram manuseadas, remendadas e preenchidas com observações feitas ao longo dos anos. Ele não contém todas as respostas: descreve princípios e métodos, mas não prevê as adaptações específicas que a estação sofreu depois do Colapso. Ithan precisa combinar o que lê com observação, testes cuidadosos e a experiência acumulada.\n\n### 3. Os paióis subterrâneos
+### O manual de Artur
+
+O manual continua em posse de Ithan. Suas páginas foram manuseadas, remendadas e preenchidas com observações feitas ao longo dos anos. Ele não contém todas as respostas: descreve princípios e métodos, mas não prevê as adaptações específicas que a estação sofreu depois do Colapso. Ithan precisa combinar o que lê com observação, testes cuidadosos e a experiência acumulada.
+
+### 3. Os paióis subterrâneos
 
 A investigação do Mal Azul pode levar o grupo aos [[Paióis Subterrâneos da Fazenda]], onde estão preservados registros e amostras agrícolas anteriores à contaminação do sistema de cultivo.
 
