@@ -49,7 +49,7 @@ A alimentação é uma das maiores preocupações do Ninho.
 
 A produção depende principalmente da plantação, da estufa improvisada, dos animais domesticados e dos alimentos conservados.
 
-### Plantação e Estufa
+### Plantações e Estufa
 
 **Responsável:** [[Gael Noctua]]
 
@@ -119,7 +119,7 @@ A cozinha transforma os alimentos produzidos e armazenados em refeições para o
 
 Helena organiza o preparo, controla as porções e procura variar o cardápio conforme a disponibilidade.
 
-[[Maria Evans]] e [[Fernando Evans]] ajudam nas atividades diárias. Iara apoia a organização dos ingredientes, o preparo e o controle de consumo interno.
+[[Maria Evans]] e [[Fernando Evans]] ajudam nas atividades diárias. Iara apoia a organização dos ingredientes, o preparo e o controle de consumo interno. A coordenação do setor continua com Helena.
 
 A cozinha precisa manter contato constante com o Armazém e com os responsáveis pela produção agrícola e pelo curral.
 
@@ -129,7 +129,7 @@ Seu desafio não é apenas preparar comida, mas fazer com que os recursos dispon
 
 O Ninho não possui uma indústria. A fabricação de ferramentas e peças acontece em pequena escala, utilizando materiais recuperados e conhecimentos transmitidos entre os moradores.
 
-### Forja
+### Ferro-Velho e Forja
 
 **Responsáveis:** [[Hugo Becker]], [[Marta Becker]] e [[Jonas Becker]]
 
