@@ -29,7 +29,6 @@ tags:
 | Ocupação atual | Médica e curandeira |
 | Status | viva |
 
-
 > "Eu não preciso saber explicar todas as coisas. Só preciso saber o que fazer para impedir que alguém morra."
 
 ## Visão geral
@@ -40,7 +39,7 @@ Séria, cuidadosa e maternal, dedica a maior parte de sua vida ao atendimento do
 
 Sua presença transmite segurança. Mesmo quando não possui uma solução, Clara procura oferecer conforto e fazer tudo o que está ao seu alcance.
 
-É casada com Marcio Fagundes, de 69 anos, que sofre de amnésia e permanece sob seus cuidados na Casa Médica. Também é mãe de Lívia Fagundes, de 34 anos, que trabalha como sua auxiliar na Casa Médica.
+É casada com Marcio Fagundes, de 69 anos, que sofre de amnésia e permanece sob seus cuidados na Casa Médica. Clara e Marcio nunca conseguiram ter filhos.
 
 Entretanto, Clara guarda um segredo que nunca conseguiu compreender completamente: ela testemunhou a alteração na cor do sangue de Dalva Ninho, aproximadamente um mês antes de sua morte.
 
@@ -160,20 +159,6 @@ A relação se desenvolveu gradualmente e os dois acabaram se casando.
 
 Marcio ajudou Clara a organizar a estrutura da Casa Médica, construindo prateleiras, recuperando móveis e criando compartimentos para armazenar instrumentos e medicamentos.
 
-### Maternidade e consolidação profissional — 2046 a 2060
-
-Clara e Marcio tiveram uma filha, Lívia, em 2046.
-
-A chegada da menina mudou a rotina do casal, mas não impediu Clara de continuar se dedicando à medicina.
-
-Durante a infância de Lívia, Clara procurava equilibrar os atendimentos com a vida familiar. Marcio assumia parte das tarefas domésticas e ajudava a manter a organização da casa.
-
-Lívia cresceu acompanhando o trabalho dos pais.
-
-Desde pequena, observava a mãe cuidando dos moradores e o pai organizando ferramentas e materiais. Acabou desenvolvendo interesse por registros, contagens e organização de recursos.
-
-Clara sempre incentivou a filha a encontrar seu próprio caminho. Nunca exigiu que ela seguisse a medicina.
-
 ### Ocupação no Ninho — 2060 a 2072
 
 Com o passar dos anos, Clara se tornou a principal responsável pela saúde dos moradores.
@@ -244,18 +229,6 @@ Com o passar dos meses, o sangue sofreu alterações. Parte do líquido escurece
 
 Clara não possui instrumentos adequados para realizar uma análise completa. Por isso, preserva a amostra como evidência, sem conseguir determinar se ainda contém material biologicamente útil.
 
-### O que Lívia sabe
-
-Clara nunca contou à filha sobre o sangue azul.
-
-Lívia sabe que Dalva morreu após uma doença incomum, mas não conhece a alteração que aconteceu durante o tratamento.
-
-Clara teme que a filha, por trabalhar com registros e suprimentos, acabe descobrindo as anotações escondidas.
-
-Também não quer transferir para Lívia o peso de guardar um segredo que ainda não consegue compreender.
-
-Lívia percebe que a mãe evita falar sobre os últimos dias de Dalva, mas respeita seu silêncio.
-
 ### Por que Clara não contou aos moradores?
 
 Clara sabia que uma informação como aquela poderia provocar pânico.
@@ -288,29 +261,11 @@ Existem momentos breves em que demonstra maior clareza. Isso costuma acontecer q
 
 Nessas ocasiões, pode reconhecer Clara e chamá-la pelo nome, conversar sobre assuntos cotidianos e até lembrar de pequenos acontecimentos da vida familiar.
 
-Às vezes, também reconhece Lívia e a chama pelo apelido de infância, "Lili".
-
 Esses momentos costumam durar poucos minutos. Depois, Marcio volta a apresentar confusão e pode não se lembrar da conversa que acabou de ter.
 
 Clara aprendeu a não pressioná-lo durante esses episódios. Prefere aproveitar o tempo de lucidez para conversar com tranquilidade, sem exigir que ele tente recuperar lembranças dolorosas.
 
 Até o presente, nenhum desses momentos produziu uma recuperação duradoura da memória.
-
-### Lívia Fagundes — filha, 34 anos
-
-Lívia é a filha única de Clara e Marcio e atua como auxiliar da Casa Médica.
-
-Clara tem muito orgulho da mulher que a filha se tornou. Valoriza sua organização e a confiança que demonstra no trabalho da Casa Médica.
-
-Depois do acidente de Marcio, Lívia passou a ajudar mais frequentemente na preparação de materiais, na higiene do espaço e no acompanhamento dos pacientes.
-
-Clara tenta impedir que a filha abandone suas próprias responsabilidades para assumir os cuidados do pai. Não quer que Lívia passe a viver em função da doença de Marcio, como aconteceu com ela.
-
-Entretanto, também sente dificuldade em pedir ajuda.
-
-Existe uma tensão silenciosa entre as duas: Lívia percebe que a mãe esconde o próprio cansaço e que nem sempre conta tudo o que acontece na Casa Médica.
-
-Clara também não contou à filha sobre a amostra de sangue azul de Dalva.
 
 ### Elias Ninho — líder do Ninho
 
@@ -341,14 +296,6 @@ As duas são mulheres importantes para a rotina da comunidade, embora atuem em �
 Helena costuma enviar alimentos e refeições à Casa Médica quando sabe que Clara está ocupada com algum paciente.
 
 Clara aprecia esse cuidado, mas raramente admite quando está cansada demais para preparar a própria comida.
-
-### Iara Salles — colaboradora
-
-Clara respeita a organização de Iara e reconhece sua contribuição na cozinha comunitária. Iara ajuda a registrar o consumo diário de alimentos e a manter a comunicação entre a cozinha e os demais setores.
-
-Quando a Casa Médica precisa de materiais, Clara encaminha a solicitação a Elias, Davi ou Elisa Ninho, que administram o Armazém.
-
-Clara prefere manter um controle cuidadoso dos medicamentos, pois sabe que a falta de determinados itens pode comprometer tratamentos futuros.
 
 ## Ocupação no Ninho
 
@@ -525,7 +472,6 @@ Tem medo de que o mesmo fenômeno possa acontecer com outra pessoa.
     
 - Clara percebe sintomas incomuns em outro morador e precisa decidir se conta a Elias.
     
-- Lívia descobre que a mãe mantém registros secretos sobre Dalva.
     
 - A escassez de medicamentos obriga Clara a tomar uma decisão difícil.
     
@@ -546,6 +492,5 @@ Tem medo de que o mesmo fenômeno possa acontecer com outra pessoa.
     
 - [[Marcio Fagundes]]
     
-- [[Lívia Fagundes]]
     
 - [[Conhecimento e Lendas do Ninho]]
