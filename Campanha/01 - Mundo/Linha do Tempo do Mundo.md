@@ -3,6 +3,7 @@ tipo: cronologia
 categoria: historia-mundial
 periodo: 2025–2080
 status: canon
+visibilidade: mestre
 tags:
   - mundo
   - cronologia
