@@ -5,6 +5,7 @@ idade: 69
 nascimento: 2011
 ocupacao: Apoio eventual à organização e aos pequenos reparos da Casa Médica
 local: Casa Médica do Ninho
+familia: "[[Família Fagundes]]"
 status: vivo
 tags:
   - personagem
