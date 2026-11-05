@@ -2,6 +2,7 @@
 tipo: local
 categoria: regiao-comunidade
 status: canon
+visibilidade: mestre
 periodo: 2025–2080
 localizacao: Morro ou montanha — região ainda não definida
 tags:
@@ -204,10 +205,14 @@ As casas numeradas são:
     
 - Casa 5 — Família Noctua.
     
+- Casa 6 — Família Naevus (Marina Vilar, Freya Naevus e Luna Azevedo).
+    
 - Casa 7 — Família Becker.
     
+- Casa 8 — Família Voos (Ithan Voos).
+    
 
-A disposição geográfica exata das casas ainda precisa ser registrada em um mapa do vilarejo.
+A Casa 6 é a residência da Família Naevus. A Casa 8 foi construída com materiais reaproveitados para servir de moradia a Ithan Voos, único integrante da Família Voos que atualmente vive no Ninho. A localização exata das Casas 6 e 8 dentro do vilarejo ainda precisa ser registrada em um mapa; não há pontos de referência ou distâncias definidos para elas.
 
 ### 4.2. Cozinha Comunitária
 
@@ -225,9 +230,9 @@ Ali acontecem conversas, pequenas discussões, notícias sobre o trabalho e mome
 
 **Responsável:** [[Helena Noctua]].
 
-**Auxiliares:** [[Maria Evans]] e [[Fernando Evans]].
+**Equipe:** [[Maria Evans]], [[Fernando Evans]] e [[Iara Salles]]. Iara organiza os ingredientes recebidos e registra o consumo interno da cozinha; não trabalha no Armazém.
 
-### 4.3. Ferro-Velho / Forja
+### 4.3. Ferro-Velho e Forja
 
 O Ferro-Velho é a área responsável pelo trabalho com metais.
 
@@ -284,7 +289,7 @@ O curral também é um dos locais onde Thomas aprende tarefas práticas.
 
 Thomas Lane, por ter 10 anos, não possui função formal nem jornada de trabalho. Pode acompanhar os pais e participar voluntariamente de pequenas tarefas seguras, sempre supervisionado.
 
-### 4.6. Plantação e Estufa
+### 4.6. Plantações e Estufa
 
 A agricultura é uma das principais atividades de sobrevivência do Ninho.
 
@@ -296,7 +301,7 @@ O espaço é utilizado para produzir alimentos e preservar sementes.
 
 **Responsável:** [[Gael Noctua]].
 
-**Apoio:** [[Mabel Noctua]], que participa do cultivo, da organização dos canteiros e da rotina da estufa.
+**Apoio voluntário:** [[Mabel Noctua]], que pode participar do cultivo, da organização dos canteiros e da rotina da estufa conforme suas escolhas. Ela não possui função formal nem responsabilidade pelo setor; Gael continua sendo o responsável pela produção agrícola.
 
 A preservação de sementes é uma das maiores preocupações de Gael, que mantém registros e acompanha o desenvolvimento das plantas.
 
@@ -326,7 +331,7 @@ A energia produzida é poupada ao máximo e canalizada estritamente para manter 
 
 **Responsável técnico:** [[Ithan Voos]].
 
-**Auxiliar:** [[Clark Becker]], afastado temporariamente por causa da Doença Azul.
+**Antigo auxiliar:** [[Clark Becker]], atualmente afastado e internado na Casa Médica devido à Doença Azul.
 
 Hugo Becker não trabalha na estação: ele coordena o Ferro-Velho e a Forja. A oficina fornece ferramentas, suportes e componentes metálicos quando necessários.
 
@@ -450,7 +455,7 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
     
 - [[Helena Noctua]] — Cozinheira chefe.
     
-- [[Mabel Noctua]] — Filha do casal e personagem de jogador; participa do cultivo e da rotina da estufa.
+- [[Mabel Noctua]] — Filha do casal e personagem jogadora; participa voluntariamente do cultivo, sem função formal ou responsabilidade pelo setor.
     
 
 
@@ -465,7 +470,22 @@ Cada pessoa contribui de alguma forma para o funcionamento do vilarejo.
 - [[Clark Becker]] — Antigo auxiliar de Ithan na Estação de Energia; atualmente está internado na Casa Médica.
     
 
-### 7.7. Outros moradores importantes
+### 7.7. Família Naevus
+
+- [[Marina Vilar]] — Mãe de Freya e Luna; reside com as filhas na Casa 6 e auxilia a Casa Médica na preparação e conservação de tecidos médicos.
+- [[Freya Naevus]] — Aprendiz da Casa Médica; mora na Casa 6 com Marina e Luna.
+- [[Luna Azevedo]] — Criança de 7 anos; mora na Casa 6 e não possui função formal.
+
+Raul Azevedo faleceu em 2074, e Dário Naevus está desaparecido para Freya. Nenhum dos dois reside atualmente no Ninho.
+
+### 7.8. Família Voos
+
+- [[Ithan Voos]] — Engenheiro e responsável técnico pela Estação de Energia; mora sozinho na Casa 8.
+- [[Artur Voos]] — Pai de Ithan, desaparecido desde 2069 para os moradores do Ninho; não reside na comunidade.
+
+A Casa 8 foi construída com materiais reaproveitados para oferecer uma moradia própria a Ithan após a saída do pai. A existência e o destino atuais de Artur permanecem assuntos separados da residência do filho.
+
+### 7.9. Outros moradores importantes
 
 - [[Iara Salles]] — Auxiliar da cozinha comunitária, responsável pela organização de ingredientes e pelo registro do consumo diário.
     
@@ -479,7 +499,7 @@ Vicente não possui esposa ou filhos e evita criar vínculos familiares profundo
 
 Deverá acompanhar o grupo de personagens em uma etapa da campanha.
 
-### 7.8. Personagens dos jogadores
+### 7.10. Personagens dos jogadores
 
 Os personagens jogadores nasceram, cresceram ou vivem no Ninho.
 
@@ -560,7 +580,7 @@ Para eles, o mundo exterior é construído a partir de:
 
 ### 9.2. A diferença entre verdade e conhecimento
 
-O mestre conhece a existência da [[A Nova Ecologia]], das [[Quimeras e Híbridos]], dos [[Assimilados e Ferais]], dos [[Primais]] e das [[Zonas Quentes]].
+O mestre conhece a existência da [[A Nova Ecologia]], das [[A Nova Ecologia#5. Quimeras e Híbridos]], dos [[A Nova Ecologia#6.1. Assimilados e Ferais]], dos [[A Nova Ecologia#6.2. Primais]] e das [[A Nova Ecologia#7. As Zonas Quentes]].
 
 Os moradores do Ninho não conhecem necessariamente essas categorias ou sua verdadeira natureza.
 
@@ -577,13 +597,13 @@ A visão dos habitantes deverá ser documentada separadamente em:
 
 ### 10.1. O sangue azul de Dalva
 
-Um mês antes de morrer, Dalva apresentou sangue de coloração azul.
+Um mês antes de morrer, Dalva apresentou sangue de coloração azul. Naquele momento, seu quadro já correspondia ao **Estágio III — Síndrome Azul**; nas semanas seguintes, avançou ao Estágio IV — Colapso, que culminou em sua morte em 2079.
 
-Somente Elias e [[Dona Clara Fagundes]] sabem disso.
+Somente Elias e [[Dona Clara Fagundes]] sabem que o sangue de Dalva ficou azul e que Clara preservou uma amostra. Nenhum dos dois compreendeu a causa da alteração ou conseguiu identificar a origem da doença durante a vida de Dalva.
 
-A causa da alteração nunca foi descoberta.
+**Verdade do mestre:** Dalva desenvolveu a Doença Azul após anos de exposição a alimentos e preparações vegetais provenientes de cultivos contaminados pelo [[Micélio de Cobalto]]. A baixa resistência física e a atividade elevada de Assimilação contribuíram para a reação desordenada. O fungo contamina somente plantas e o ambiente de cultivo; não coloniza animais nem contamina carne, leite ou ovos.
 
-A doença que levou à morte de Dalva permanece sem diagnóstico.
+A doença que levou à morte de Dalva permaneceu sem diagnóstico para os moradores do Ninho.
 
 Nota relacionada: [[Dalva Ninho]]
 
@@ -608,7 +628,7 @@ As atividades principais são:
 |Atividade|Responsáveis|
 |---|---|
 |Preparação das refeições|Helena Noctua, Maria Evans, Fernando Evans e Iara Salles|
-|Agricultura, estufa e sementes|Gael Noctua e Mabel Noctua|
+|Agricultura, estufa e sementes|Gael Noctua; Mabel participa voluntariamente, conforme suas escolhas|
 |Criação e cuidado dos animais|Breno Lane e Cecília Lane|
 |Ferro-Velho e Forja|Hugo Becker, Marta Becker e Jonas Becker|
 |Casa Médica|Dona Clara Fagundes, Lívia Fagundes, Freya Naevus e Marina Vilar; Marcio auxilia pontualmente quando pode|
@@ -665,74 +685,69 @@ As funções não representam necessariamente as únicas atividades realizadas p
 
 ### Estruturas do Ninho
 
+- [[Os Lugares do Ninho]]
+    
 - [[O Muro de Sucata]]
     
 - [[Estação de Energia]]
     
-- [[Cozinha Comunitária]]
+- [[Os Lugares do Ninho#2. Cozinha Comunitária]]
     
-- [[Casa Médica]]
+- [[Os Lugares do Ninho#4. Casa Médica]]
     
-- [[Curral]]
+- [[Os Lugares do Ninho#5. Curral]]
     
-- [[Plantação e Estufa]]
+- [[Plantações e Estufa]]
     
-- [[Ferro-Velho e Forja]]
+- [[Os Lugares do Ninho#3. Ferro-Velho e Forja]]
     
-- [[Armazém]]
+- [[Os Lugares do Ninho#7. Armazém]]
     
 
 ### Sociedade
 
 - [[Conhecimento e Lendas do Ninho]]
-    
 - [[As Famílias do Ninho]]
-    
-- [[Organização Social do Ninho]]
-    
+- [[A Liderança do Ninho]]
+- [[Família Ninho]]
+- [[Família Evans]]
+- [[Família Lane]]
+- [[Família Fagundes]]
+- [[Família Noctua]]
+- [[Família Becker]]
+- [[Família Naevus]]
+- [[Família Voos]]
 
-### Personagens
+### Personagens e moradores
 
 - [[Elias Ninho]]
-    
 - [[Dalva Ninho]]
-    
-- [[Vicente Murphy]]
-    
-- [[Maria Evans]]
-    
-- [[Fernando Evans]]
-    
-- [[Thomas Lane]]
-    
-- [[Família Becker]]
-    
-- [[Dona Clara Fagundes]]
-    
-- [[Marcio Fagundes]]
-    
-- [[Gael Noctua]]
-    
-- [[Helena Noctua]]
-    
-- [[Hugo Becker]]
-    
-- [[Breno Lane]]
-    
-- [[Cecília Lane]]
-    
-- [[Lívia Fagundes]]
-    
+- [[Davi Ninho]]
 - [[Elisa Ninho]]
-    
-
-    
-
-    
-- [[Marta Becker]]
-    
+- [[Vicente Murphy]]
+- [[Maria Evans]]
+- [[Fernando Evans]]
+- [[Thomas Lane]]
+- [[Breno Lane]]
+- [[Cecília Lane]]
+- [[Dona Clara Fagundes]]
+- [[Marcio Fagundes]]
+- [[Lívia Fagundes]]
+- [[Gael Noctua]]
+- [[Helena Noctua]]
 - [[Mabel Noctua]]
-    
+- [[Hugo Becker]]
+- [[Marta Becker]]
+- [[Clark Becker]]
+- [[Jonas Becker]]
+- [[Iara Salles]]
+- [[Marina Vilar]]
+- [[Freya Naevus]]
+- [[Luna Azevedo]]
+- [[Raul Azevedo]]
+- [[Dário Naevus]]
+- [[Ithan Voos]]
+
 
 ---
 

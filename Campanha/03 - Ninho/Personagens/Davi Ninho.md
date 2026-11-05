@@ -5,6 +5,7 @@ idade: 30
 nascimento: 2050
 ocupacao: Controle físico do Armazém, guarda pessoal de Elias e segurança interna
 local: O Ninho
+familia: "[[Família Ninho]]"
 status: vivo
 tags:
   - personagem
@@ -306,13 +307,9 @@ Gael, por sua vez, é alguém que Davi respeita pela paciência e dedicação ao
 
 ### Iara Salles
 
-Davi conhece Iara por causa das responsabilidades dela no controle de suprimentos.
+Davi conhece Iara por causa do trabalho que ela realiza na Cozinha Comunitária. Sabe que ela organiza os ingredientes recebidos e registra o consumo interno daquele setor, ajudando Helena a evitar desperdícios e planejar as refeições.
 
-Reconhece sua competência e sabe que seu trabalho é essencial para evitar desperdícios.
-
-Entretanto, considera que ela às vezes questiona excessivamente as decisões de Elias.
-
-Não existe uma relação de inimizade entre os dois, mas Davi tende a ser mais reservado quando conversa com ela sobre assuntos relacionados à liderança.
+Iara não controla os estoques gerais, não trabalha no Armazém e não autoriza retiradas. Davi respeita sua organização, embora considere que ela às vezes questiona excessivamente as decisões de Elias. Não existe inimizade entre os dois, mas Davi tende a ser reservado quando conversa com ela sobre assuntos relacionados à liderança.
 
 ## Relação com a sucessão
 

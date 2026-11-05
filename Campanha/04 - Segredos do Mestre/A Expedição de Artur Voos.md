@@ -1,30 +1,21 @@
 ---
-
-tipo: segredo-do-mestre  
-categoria: acontecimento  
-personagem-principal: "[[Artur Voos]]"  
-personagem-relacionado: "[[Ithan Voos]]"  
-local-origem: "[[O Ninho]]"  
-local-destino: "[[Vigília do Relé]]"  
-data-inicio: 2069  
-status: concluida  
+tipo: segredo
+categoria: acontecimento
+personagem-principal: "[[Artur Voos]]"
+personagem-relacionado: "[[Ithan Voos]]"
+local-origem: "[[O Ninho]]"
+local-destino: "[[Vigília do Relé]]"
+data-inicio: 2069
+status: canon
+visibilidade: mestre
 tags:
-
-- campanha
-    
-- segredo-do-mestre
-    
-- artur-voos
-    
-- expedicao
-    
-- familia-voos
-    
-- exploracao
-    
-- mundo-exterior
-    
-
+  - campanha
+  - segredo-do-mestre
+  - artur-voos
+  - expedicao
+  - familia-voos
+  - exploracao
+  - mundo-exterior
 ---
 
 # A Expedição de Artur Voos
@@ -47,7 +38,7 @@ Artur encontrou uma antiga instalação de retransmissão e geração de energia
 
 O engenheiro percebeu que aquele grupo dependia de seus conhecimentos técnicos e acabou permanecendo por lá.
 
-Anos depois, tentou voltar ao Ninho, mas sua expedição de retorno foi atacada por [[Primais]]. O grupo conseguiu escapar, porém a rota ficou comprometida e Artur precisou abandonar a tentativa.
+Anos depois, tentou voltar ao Ninho, mas sua expedição de retorno foi atacada por [[A Nova Ecologia#6.2. Primais]]. O grupo conseguiu escapar, porém a rota ficou comprometida e Artur precisou abandonar a tentativa.
 
 Em 2080, permanece vivo na Vigília do Relé, sem saber exatamente como o filho cresceu ou se ainda guarda a esperança de reencontrá-lo.
 
@@ -112,7 +103,7 @@ A despedida aconteceu dentro do Ninho, pouco antes de Artur atravessar o Muro de
 
 Ele explicou a Ithan que precisaria viajar por algum tempo para procurar uma instalação antiga.
 
-Entregou ao filho a [[A Pulseira de Ithan]], dizendo que a bússola poderia ajudá-lo a encontrar uma direção quando precisasse.
+Entregou ao filho a [[Ithan Voos#A pulseira de Ithan]], dizendo que a bússola poderia ajudá-lo a encontrar uma direção quando precisasse.
 
 Também prometeu retornar.
 
@@ -237,7 +228,7 @@ Durante o deslocamento, o grupo precisou atravessar uma antiga passagem entre es
 
 O lugar parecia seguro, mas havia sinais de presença de criaturas nas proximidades.
 
-Enquanto avançavam, foram surpreendidos por um bando de [[Primais]].
+Enquanto avançavam, foram surpreendidos por um bando de [[A Nova Ecologia#6.2. Primais]].
 
 Os ataques aconteceram rapidamente.
 
@@ -488,7 +479,7 @@ Artur poderá explicar suas razões, mas não poderá apagar os anos em que este
     
 - [[Hugo Becker]]
     
-- [[Clark]]
+- [[Clark Becker]]
     
 - [[Vicente Murphy]]
     
@@ -510,9 +501,9 @@ Artur poderá explicar suas razões, mas não poderá apagar os anos em que este
 
 ### Objetos e registros
 
-- [[A Pulseira de Ithan]]
+- [[Ithan Voos#A pulseira de Ithan]]
     
-- [[Registros Técnicos de Artur Voos]]
+- [[Artur Voos#Competências e responsabilidades]]
     
 
 ### Mundo exterior
@@ -525,7 +516,7 @@ Artur poderá explicar suas razões, mas não poderá apagar os anos em que este
     
 - [[O Mundo Exterior]]
     
-- [[Primais]]
+- [[A Nova Ecologia#6.2. Primais]]
     
 
 ## 15. Função narrativa

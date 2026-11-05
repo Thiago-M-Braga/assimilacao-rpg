@@ -29,7 +29,7 @@ tags:
     
 - **Nascimento aproximado:** 2058
     
-- **Residência:** [[O Ninho]]
+- **Residência:** Casa 8, dentro do Ninho
     
 - **Família:** [[Família Voos]]
     
@@ -41,7 +41,7 @@ tags:
     
 - **Situação familiar:** Vive sem familiares próximos no Ninho
     
-- **Objeto pessoal:** [[A Pulseira de Ithan]]
+- **Objeto pessoal:** [[Ithan Voos#A pulseira de Ithan]]
     
 - **Principal desejo:** Explorar o mundo exterior
     
@@ -76,7 +76,7 @@ Por trabalhar na [[Estação de Energia]], é natural que tenha contato frequent
 
 Sua rotina exige roupas práticas, que permitam trabalhar em espaços apertados e lidar com equipamentos.
 
-A [[A Pulseira de Ithan]] é seu objeto pessoal mais característico e costuma acompanhá-lo.
+A [[Ithan Voos#A pulseira de Ithan]] é seu objeto pessoal mais característico e costuma acompanhá-lo.
 
 ## Personalidade
 
@@ -278,7 +278,7 @@ A pulseira pode aparecer em momentos de dúvida, decisões sobre exploração e 
 
 Ela também pode se tornar uma pista narrativa caso os personagens encontrem alguém que reconheça o objeto ou sua procedência.
 
-Para conhecer sua história e características, consulte [[A Pulseira de Ithan]].
+Para conhecer sua história e características, consulte [[Ithan Voos#A pulseira de Ithan]].
 
 ## Relações
 
@@ -354,7 +354,7 @@ Uma transmissão ou equipamento recuperado apresenta sinais de funcionamento.
 
 O evento desperta a curiosidade de Ithan e pode revelar que ainda existem comunidades utilizando tecnologias antigas.
 
-**Conexões:** [[O Mundo Exterior]] e [[A Vigília do Relé]].
+**Conexões:** [[O Mundo Exterior]] e [[Vigília do Relé]].
 
 ### 5. Informações sobre Artur
 
@@ -463,9 +463,9 @@ O conflito principal será decidir se sua responsabilidade está em proteger o l
 
 ### Objetos e segredos
 
-- [[A Pulseira de Ithan]]
+- [[Ithan Voos#A pulseira de Ithan]]
     
-- [[A Vigília do Relé]]
+- [[Vigília do Relé]]
     
 - [[A Expedição de Artur Voos]]
     

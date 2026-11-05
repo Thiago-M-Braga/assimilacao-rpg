@@ -42,7 +42,7 @@ As primeiras pessoas a acordar são aquelas responsáveis pelos animais, pela pr
     
 - Gael verifica a plantação e a estufa.
     
-- Hugo ou Jonas conferem as condições da Estação de Energia.
+- Ithan confere as condições da Estação de Energia. Clark, seu antigo auxiliar, está afastado por doença.
     
 - Os responsáveis pela segurança verificam o estado do Muro.
     
@@ -89,7 +89,7 @@ O Muro continua eletrificado, sustentado pela energia produzida e administrada p
 
 A alimentação é uma responsabilidade coletiva.
 
-A cozinha comunitária, comandada por [[Helena Noctua]] com a ajuda de [[Maria Evans]] e [[Fernando Evans]], prepara e distribui as refeições.
+A cozinha comunitária, coordenada por [[Helena Noctua]] com a ajuda de [[Maria Evans]], [[Fernando Evans]] e [[Iara Salles]], prepara e distribui as refeições. Iara também organiza os ingredientes recebidos e registra o consumo interno da cozinha.
 
 Os alimentos vêm principalmente da plantação, da estufa, dos animais domesticados e dos estoques conservados.
 
@@ -134,7 +134,7 @@ A quantidade disponível é calculada considerando o número de moradores, a pro
 
 Em períodos de escassez, a cozinha reduz porções e modifica o cardápio.
 
-As decisões mais difíceis são discutidas com [[Lívia Fagundes]], [[Iara Salles]] e, quando necessário, [[Elias Ninho]].
+As decisões sobre preparo e porções são discutidas entre Helena e a equipe da cozinha, com apoio dos registros de Iara. Quando é necessário solicitar ou priorizar suprimentos do estoque geral, Helena encaminha a questão a [[Elias Ninho]], [[Davi Ninho]] ou [[Elisa Ninho]]. Lívia não participa da administração alimentar: sua função é na Casa Médica.
 
 ## Trabalho e Responsabilidades
 
@@ -154,9 +154,9 @@ A partir dos 16 anos, os jovens podem iniciar uma formação prática e assumir 
 
 ### Adultos
 
-Os adultos mantêm a maior parte das atividades essenciais.
+Os adultos mantêm a maior parte das atividades essenciais. As funções formais são distribuídas entre Cozinha Comunitária, Casa Médica, Armazém (exclusivo de Elias, Davi e Elisa Ninho), Plantações e Estufa, Curral, Ferro-Velho e Forja e Estação de Energia. A segurança do muro é uma responsabilidade específica compartilhada por Vicente, Davi e Elisa.
 
-Cada pessoa possui uma função principal, mas é comum que precise ajudar em outros setores durante períodos de necessidade.
+Cada adulto possui uma função principal, mas pode colaborar com outro setor em situações extraordinárias, sem que isso altere automaticamente sua função formal.
 
 A comunidade não possui trabalhadores completamente dispensados de colaborar em situações extraordinárias.
 

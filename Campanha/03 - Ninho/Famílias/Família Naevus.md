@@ -3,8 +3,10 @@ tipo: familia
 categoria: nucleo-familiar
 nome: Família Naevus
 local: "[[O Ninho]]"
+residencia: "Casa 6"
 personagem-vinculado: "[[Freya Naevus]]"
 status: definido
+visibilidade: mestre
 tags:
   - campanha
   - familia
@@ -16,6 +18,10 @@ tags:
 # Família Naevus
 
 > "Uma família não é feita apenas das pessoas que permanecem. Também é feita das ausências que nunca deixam de ocupar espaço."
+
+## Residência
+
+Marina, Freya e Luna vivem juntas na Casa 6, dentro dos muros do Ninho.
 
 ## Visão geral
 
@@ -33,7 +39,7 @@ Raul morreu em 2074, aos 43 anos, após desenvolver uma doença que ninguém con
 
 Em 2079, Luna começou a apresentar sintomas semelhantes. Atualmente, aos sete anos, está sob acompanhamento médico.
 
-Freya decidiu aprender medicina com [[Dona Clara Fagundes]], tornando-se aprendiz na [[Casa Médica]]. Sua maior motivação é encontrar uma cura para a irmã.
+Freya decidiu aprender medicina com [[Dona Clara Fagundes]], tornando-se aprendiz na [[Os Lugares do Ninho#4. Casa Médica]]. Sua maior motivação é encontrar uma cura para a irmã.
 
 ## Integrantes da família
 
@@ -60,12 +66,10 @@ Freya decidiu aprender medicina com [[Dona Clara Fagundes]], tornando-se aprendi
 
 ## Marina Vilar — A mãe
 
-<text style="display:none"> </text>
-
 **Idade:** 46 anos  
 **Nascimento aproximado:** 2034  
 **Situação:** Viva  
-**Residência:** O Ninho  
+**Residência:** Casa 6  
 **Ocupação:** Auxiliar da Casa Médica na preparação de tecidos e materiais médicos  
 **Filhas:** Freya Naevus e Luna Azevedo
 
@@ -173,7 +177,7 @@ A viagem, entretanto, terminou em tragédia.
 
 ### O destino de Dário
 
-A expedição foi atacada por um grupo de [[Primais]] durante a travessia de uma antiga rodovia em ruínas.
+A expedição foi atacada por um grupo de [[A Nova Ecologia#6.2. Primais]] durante a travessia de uma antiga rodovia em ruínas.
 
 Dário foi ferido enquanto tentava proteger os demais integrantes do grupo e permitir que recuassem.
 
@@ -282,7 +286,7 @@ Morreu em 2074, quando Freya tinha 18 anos e Luna tinha aproximadamente um ano.
 **Idade:** 7 anos  
 **Nascimento aproximado:** 2073  
 **Situação:** Viva, doente  
-**Residência:** O Ninho  
+**Residência:** Casa 6  
 **Mãe:** Marina Vilar  
 **Pai:** Raul Azevedo  
 **Meia-irmã:** Freya Naevus
@@ -465,7 +469,7 @@ Freya precisa lidar com o medo de perder outra pessoa da família.
 
 ### 4. Os registros de Raul
 
-Freya encontra documentos antigos na [[Casa Médica]] e percebe que os sintomas do padrasto eram semelhantes aos de Luna.
+Freya encontra documentos antigos na [[Os Lugares do Ninho#4. Casa Médica]] e percebe que os sintomas do padrasto eram semelhantes aos de Luna.
 
 **Resultado possível:** a ligação entre os dois casos se torna evidente.
 
@@ -500,7 +504,7 @@ A Família Naevus está ligada a diferentes áreas da comunidade.
 | Personagem ou local     |Relação|
 |---|---|
 | [[Dona Clara Fagundes]] |Cuida de Luna e acompanhou a doença de Raul|
-| [[Casa Médica]]         |Local de tratamento e aprendizado de Freya|
+| [[Os Lugares do Ninho#4. Casa Médica]]         |Local de tratamento e aprendizado de Freya|
 | [[Mabel Noctua]]        |Outra personagem envolvida na busca pela cura|
 | [[Clark Becker]]        |Paciente com sintomas semelhantes aos de Luna|
 | [[Elias Ninho]]         |Conhece a morte de Dalva e parte do histórico da doença|
@@ -536,7 +540,7 @@ A Família Naevus está ligada a diferentes áreas da comunidade.
 
 - [[O Ninho]]
     
-- [[Casa Médica]]
+- [[Os Lugares do Ninho#4. Casa Médica]]
     
 - [[Os Lugares do Ninho]]
     

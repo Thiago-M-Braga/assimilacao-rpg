@@ -5,6 +5,7 @@ idade: 26
 nascimento: 2054
 ocupacao: Auxiliar da cozinha comunitária
 local: O Ninho
+familia: "[[Família Evans]]"
 status: vivo
 tags:
   - personagem

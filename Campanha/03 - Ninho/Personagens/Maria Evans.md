@@ -5,6 +5,7 @@ idade: 22
 nascimento: 2058
 ocupacao: Auxiliar da cozinha comunitária
 local: O Ninho
+familia: "[[Família Evans]]"
 status: viva
 tags:
   - personagem
@@ -183,7 +184,7 @@ Dona Clara acompanha sua gestação e verifica regularmente sua saúde.
 
 Maria ainda não sabe o sexo do bebê.
 
-No Ninho não existem exames de imagem ou recursos tecnológicos que permitam descobrir essa informação durante a gestação.
+No Ninho não existem exames de imagem ou recursos clínicos que permitam descobrir essa informação durante a gestação. Clara também não dispõe de meios para determinar com precisão a idade gestacional ou prever o dia do parto; a evolução é acompanhada por sinais gerais, e não existe uma data prevista confiável.
 
 O casal decidiu não escolher um nome antes do nascimento. Fernando prefere esperar até conhecer a criança, enquanto Maria gosta da ideia de que a escolha seja feita quando finalmente puderem segurá-la nos braços.
 
@@ -346,6 +347,7 @@ Maria não costuma compartilhar todos esses medos. Prefere conversar sobre as ex
     
 - Clara acompanha a saúde de Maria.
     
+- Não existe uma data prevista confiável para o parto; o dia do nascimento não pode ser determinado com os recursos disponíveis no Ninho.
 - O nascimento será um acontecimento importante para a família e para a comunidade.
     
 

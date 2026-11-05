@@ -5,7 +5,7 @@ idade: 34
 nascimento: 2046
 ocupacao: Auxiliar da Casa Médica
 local: O Ninho
-familia: "[[As Famílias do Ninho#Família Fagundes]]"
+familia: "[[Família Fagundes]]"
 status: viva
 tags:
   - personagem
@@ -125,6 +125,6 @@ Também deseja que a Casa Médica seja reconhecida como um setor que depende de 
 - [[Marcio Fagundes]]
 - [[Iara Salles]]
 - [[Família Fagundes]]
-- [[Casa Médica]]
+- [[Os Lugares do Ninho#4. Casa Médica]]
 - [[O Ninho]]
 - [[A Doença Azul]]

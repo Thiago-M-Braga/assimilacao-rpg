@@ -29,7 +29,7 @@ tags:
 - **Filhos:** [[Clark Becker]] e [[Jonas Becker]]
 - **Residência:** Próxima ao Ferro-Velho e à Forja
 - **Ocupação:** Ferreiro e responsável pelo Ferro-Velho e pela Forja
-- **Setor:** [[Ferro-Velho e Forja]]
+- **Setor:** [[Os Lugares do Ninho#3. Ferro-Velho e Forja]]
 
 ## Visão geral
 
@@ -133,7 +133,7 @@ A doença de Clark mudou a rotina familiar e o fez perceber que o trabalho não 
 - [[Clark Becker]]
 - [[Jonas Becker]]
 - [[Ithan Voos]]
-- [[Ferro-Velho e Forja]]
+- [[Os Lugares do Ninho#3. Ferro-Velho e Forja]]
 - [[Estação de Energia]]
 - [[O Ninho]]
 - [[A Doença Azul]]

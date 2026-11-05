@@ -75,7 +75,7 @@ A Cozinha Comunitária é um dos lugares mais movimentados do Ninho. Todos depen
 
 As refeições são preparadas com ingredientes das plantações, da estufa, do curral e dos estoques. Nada é desperdiçado. Cascas, ossos, sementes e sobras aproveitáveis são separados e destinados a outros usos.
 
-Helena coordena o trabalho e tenta manter o ambiente acolhedor, mesmo quando a comida é pouca. Maria ajuda na preparação e distribuição, enquanto Fernando participa das tarefas mais pesadas.
+Helena coordena o trabalho e tenta manter o ambiente acolhedor, mesmo quando a comida é pouca. Maria e Fernando auxiliam no preparo e na distribuição. Iara organiza os ingredientes recebidos e registra o consumo diário da cozinha; esse registro não lhe dá acesso ou responsabilidade pelo Armazém.
 
 ### Atmosfera
 
@@ -88,6 +88,8 @@ Cheiros de comida, fumaça, panelas batendo e conversas se misturam durante boa 
 - Maria Evans.
     
 - Fernando Evans.
+    
+- Iara Salles.
     
 
 ### Possibilidades narrativas
@@ -197,7 +199,6 @@ Os moradores respeitam a Casa Médica porque sabem que, sem ela, um ferimento si
 
 **Localização:** Setor externo das residências, ainda dentro dos muros  
 **Responsáveis:** Breno Lane e Cecília Lane  
-**Auxiliar:** Thomas Lane  
 **Uso:** Criação e manutenção de animais
 
 O Curral abriga os animais domesticados que conseguiram sobreviver e se adaptar às condições do mundo posterior ao Colapso.
@@ -256,6 +257,8 @@ O agricultor registra o desenvolvimento das plantas e guarda sementes de diferen
 ### Pessoas encontradas
 
 - Gael Noctua.
+    
+- Mabel Noctua, em apoio voluntário e sem responsabilidade formal pelo setor.
     
 
 ### Possibilidades narrativas
@@ -368,7 +371,9 @@ O muro é uma presença constante na vida do Ninho. Seu tamanho transmite segura
     
 - Vicente Murphy, especialmente em tarefas relacionadas à segurança.
     
-- Hugo Becker, quando há necessidade de manutenção elétrica.
+- Ithan Voos, responsável técnico pelo sistema elétrico; Clark Becker o auxiliava antes de adoecer.
+    
+- Hugo Becker, quando a Forja precisa fornecer peças metálicas ou realizar reparos estruturais.
     
 
 ### Possibilidades narrativas
@@ -391,11 +396,26 @@ O muro é uma presença constante na vida do Ninho. Seu tamanho transmite segura
 **Localização:** Distribuídos pelo interior dos muros  
 **Uso:** Moradia e vida privada
 
-As residências são construções pequenas, adaptadas conforme os materiais disponíveis. Algumas aproveitam partes da antiga fazenda; outras foram erguidas pelos próprios moradores ao longo das décadas.
+As residências são construções pequenas, adaptadas conforme os materiais disponíveis. Algumas aproveitam partes da antiga fazenda; outras foram erguidas pelos próprios moradores ao longo das décadas. A Casa 8 foi construída com materiais reaproveitados para oferecer uma moradia independente a Ithan Voos depois da partida de seu pai.
 
 Madeira reaproveitada, tijolos, telhas de zinco e chapas metálicas são comuns. As casas costumam ter poucos cômodos e mobiliário simples.
 
 Cada família organiza seu espaço de acordo com suas necessidades. Objetos herdados, ferramentas, fotografias antigas e lembranças do passado são alguns dos poucos itens pessoais preservados.
+
+### Distribuição das casas familiares
+
+| Casa | Família ou morador | Observações |
+|---|---|---|
+| Casa 1 | Família Ninho | Casa Principal e residência de Elias, Davi e Elisa |
+| Casa 2 | Família Evans | Maria e Fernando; o bebê ainda está para nascer |
+| Casa 3 | Família Lane | Breno, Cecília e Thomas |
+| Casa 4 | Família Fagundes | Residência junto à Casa Médica |
+| Casa 5 | Família Noctua | Gael, Helena e Mabel |
+| Casa 6 | Família Naevus | Marina, Freya e Luna |
+| Casa 7 | Família Becker | Próxima ao Ferro-Velho e à Forja |
+| Casa 8 | Família Voos | Moradia de Ithan; Artur não reside no Ninho |
+
+A numeração identifica as moradias, mas não define a posição delas no terreno. A localização exata das Casas 6 e 8, assim como a disposição entre todas as residências, continua sem levantamento cartográfico.
 
 ### Atmosfera
 
@@ -480,18 +500,65 @@ Os caminhos são parte da rotina. Durante o dia, estão cheios de movimento. À 
 
 ---
 
+## Esquema funcional de localização
+
+O esquema abaixo representa relações de proximidade e função, não um mapa em escala. Ele não fixa pontos cardeais, distâncias ou posições exatas que ainda não foram estabelecidos.
+
+```text
+                         MURO DE SUCATA
+        ┌─────────────────────────────────────────────┐
+        │                                             │
+        │  Setor elevado e exposto ao vento           │
+        │  └─ Estação de Energia                      │
+        │                                             │
+        │  Área produtiva                             │
+        │  ├─ Plantações e Estufa                     │
+        │  └─ Curral (setor externo das residências,  │
+        │     ainda dentro dos muros)                 │
+        │                                             │
+        │  Área de oficinas                           │
+        │  └─ Ferro-Velho e Forja                     │
+        │                                             │
+        │  Núcleo central                             │
+        │  ├─ Casa Principal                          │
+        │  ├─ Cozinha Comunitária                     │
+        │  └─ Armazém (acesso restrito à família Ninho)│
+        │                                             │
+        │  Área próxima às residências                │
+        │  ├─ Casa Médica                             │
+        │  └─ Casas familiares                        │
+        │                                             │
+        └─────────────────────────────────────────────┘
+```
+
+A ordem das áreas no desenho é apenas organizacional. A posição relativa exata entre a Forja, os canteiros, o Curral, a Casa Médica e cada residência continua pendente de levantamento. A Estação de Energia é a única estrutura cuja descrição atual estabelece explicitamente uma posição elevada e exposta ao vento.
+
+### Referências espaciais confirmadas
+
+- A Casa Principal fica no centro da vila.
+- A Cozinha Comunitária fica próxima ao centro.
+- O Armazém fica próximo à área central de trabalho.
+- A Casa Médica fica próxima às residências.
+- A Forja fica no setor de oficinas.
+- O Curral fica no setor externo das residências, mas dentro dos muros.
+- As Plantações e a Estufa ocupam uma área aberta e ensolarada.
+- A Estação de Energia fica em uma área elevada e exposta ao vento.
+- O Muro de Sucata delimita o perímetro do assentamento.
+
+Essas referências devem ser preservadas ao criar um mapa mais detalhado.
+
 ## Referência rápida
 
 |Lugar|Função principal|NPCs associados|
 |---|---|---|
 |Casa Principal|Liderança|Elias, Davi e Elisa|
-|Cozinha Comunitária|Alimentação|Helena, Maria e Fernando|
+|Cozinha Comunitária|Alimentação|Helena, Maria, Fernando e Iara|
 |Ferro-Velho e Forja|Ferramentas, metalurgia e acessórios|Hugo, Marta e Jonas Becker|
-|Casa Médica|Saúde|Clara, Lívia e Marcio|
-|Curral|Animais|Breno, Cecília e Thomas|
-|Plantações e Estufa|Agricultura|Gael|
+|Casa Médica|Saúde|Clara, Lívia, Freya, Marina e apoio eventual de Marcio|
+|Curral|Animais|Breno e Cecília; Thomas acompanha os pais, sem função formal|
+|Plantações e Estufa|Agricultura|Gael; Mabel participa voluntariamente|
 |Armazém|Suprimentos|Administração comunitária|
-|Estação de Energia|Eletricidade|Hugo, Marta e Jonas|
+|Estação de Energia|Eletricidade|Ithan; Clark era auxiliar e está afastado|
 |Muro de Sucata|Defesa|Guardas e Vicente|
 |Casas Familiares|Moradia|Todas as famílias|
 |Áreas de Convivência|Vida social|Toda a comunidade|

@@ -2,10 +2,12 @@
 tipo: personagem
 nome: Dalva Ninho
 idade: 53
+idade-referencia: ao falecer
 nascimento: 2026
 falecimento: 2079
-ocupacao: Mediadora comunitária
+ocupacao: "Mediadora comunitária (em vida)"
 local: O Ninho
+familia: "[[Família Ninho]]"
 status: falecida
 tags:
   - personagem
@@ -22,10 +24,10 @@ tags:
 | Campo | Informação |
 |---|---|
 | Nome | Dalva Ninho |
-| Idade | 53 anos |
+| Idade ao falecer | 53 anos |
 | Nascimento | 2026 |
 | Residência ou vínculo principal | O Ninho |
-| Ocupação atual | Mediadora comunitária |
+| Ocupação em vida | Mediadora comunitária |
 | Status | falecida |
 
 
@@ -186,11 +188,11 @@ Quando Clara foi cuidar do corte, percebeu algo impossível de explicar: o sangu
 
 A médica inicialmente suspeitou de algum tipo de contaminação ou alteração causada pela doença. Entretanto, a coloração não desapareceu.
 
-Clara realizou novas observações e guardou uma pequena amostra do sangue em um recipiente de vidro, mantendo-o escondido na Casa Médica.
+Clara realizou novas observações e guardou uma pequena amostra do sangue em um recipiente de vidro, mantendo-o escondido na Casa Médica. Naquele momento, o quadro de Dalva já correspondia ao **Estágio III — Síndrome Azul**, marcado pela alteração visível na cor do sangue.
 
 Elias foi informado sobre o acontecimento.
 
-Os três compreenderam que estavam diante de algo que não deveria ser conhecido pelos demais moradores sem que houvesse alguma explicação.
+Clara e Elias compreenderam que estavam diante de algo que não deveria ser conhecido pelos demais moradores sem que houvesse alguma explicação. Dalva não recebeu uma explicação sobre a alteração e não compreendeu sua causa.
 
 ### Os últimos dias
 
@@ -202,7 +204,7 @@ Mesmo assim, procurava tranquilizar a família.
 
 Em seus últimos dias, conversou individualmente com Elias e com os filhos. Não sabia exatamente o que estava acontecendo, mas parecia compreender que talvez não conseguisse se recuperar.
 
-Faleceu em 2079, deixando uma família profundamente abalada.
+Nas semanas seguintes, o quadro avançou para o **Estágio IV — Colapso**. Dalva faleceu em 2079, aos 53 anos, deixando uma família profundamente abalada.
 
 ## Relações
 

@@ -400,10 +400,10 @@ Para essa geração, o mundo anterior parece quase uma fantasia.
 |---|---|---|
 |Dia Zero|Um fenômeno desconhecido destruiu a civilização.|As linhas de energia rasgaram a superfície terrestre. A explicação completa ainda será definida.|
 |Natureza|A vegetação retomou cidades e regiões abandonadas.|Existe uma Nova Ecologia com flora e fauna profundamente transformadas.|
-|Animais|Existem relatos de criaturas diferentes e perigosas.|Existem [[Quimeras e Híbridos]].|
-|Humanos alterados|Há histórias de pessoas com características estranhas.|Existem [[Assimilados e Ferais]].|
-|Pessoas predatórias|Algumas lendas falam de humanos que perderam a razão.|Existem [[Primais]].|
-|Contaminação|Algumas regiões continuam perigosas.|Existem [[Zonas Quentes]].|
+|Animais|Existem relatos de criaturas diferentes e perigosas.|Existem [[A Nova Ecologia#5. Quimeras e Híbridos]].|
+|Humanos alterados|Há histórias de pessoas com características estranhas.|Existem [[A Nova Ecologia#6.1. Assimilados e Ferais]].|
+|Pessoas predatórias|Algumas lendas falam de humanos que perderam a razão.|Existem [[A Nova Ecologia#6.2. Primais]].|
+|Contaminação|Algumas regiões continuam perigosas.|Existem [[A Nova Ecologia#7. As Zonas Quentes]].|
 |Comunidades|Os refugiados contavam histórias sobre outros sobreviventes.|Existem diversas comunidades isoladas com culturas próprias.|
 |Tecnologia|O mundo antigo era muito avançado.|Grande parte da tecnologia complexa foi perdida ou se tornou extremamente rara.|
 
@@ -483,13 +483,13 @@ Isso permite que os jogadores descubram o mundo sem que cada revelação precise
     
 - [[A Nova Ecologia]]
     
-- [[Quimeras e Híbridos]]
+- [[A Nova Ecologia#5. Quimeras e Híbridos]]
     
-- [[Assimilados e Ferais]]
+- [[A Nova Ecologia#6.1. Assimilados e Ferais]]
     
-- [[Primais]]
+- [[A Nova Ecologia#6.2. Primais]]
     
-- [[Zonas Quentes]]
+- [[A Nova Ecologia#7. As Zonas Quentes]]
     
 
 ### Comunidade
@@ -500,7 +500,7 @@ Isso permite que os jogadores descubram o mundo sem que cada revelação precise
     
 - [[As Famílias do Ninho]]
     
-- [[Organização Social do Ninho]]
+- [[O Ninho#6. Organização social e liderança]]
     
 
 ### Personagens

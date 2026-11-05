@@ -30,7 +30,7 @@ tags:
     
 - **Família:** [[Família Naevus]]
     
-- **Residência:** Casa da família, dentro do Ninho
+- **Residência:** Casa 6, com Marina e Luna
     
 - **Ocupação:** Aprendiz de curandeira
     
@@ -390,13 +390,13 @@ Freya terá, portanto, dois caminhos pessoais importantes: compreender o passado
 
 - [[Família Naevus]]
     
-- [[Mãe de Freya]]
+- [[Marina Vilar]]
     
-- [[Irmã de Freya]]
+- [[Luna Azevedo]]
     
-- [[Padrasto de Freya]]
+- [[Raul Azevedo]]
     
-- [[O Pai Desaparecido de Freya]]
+- [[Dário Naevus]]
     
 
 ### Personagens
@@ -418,7 +418,7 @@ Freya terá, portanto, dois caminhos pessoais importantes: compreender o passado
 
 - [[O Ninho]]
     
-- [[Casa Médica]]
+- [[Os Lugares do Ninho#4. Casa Médica]]
     
 - [[Plantações e Estufa]]
     

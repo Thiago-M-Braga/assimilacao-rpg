@@ -5,6 +5,7 @@ idade: 55
 nascimento: 2025
 ocupacao: Líder do Ninho
 local: O Ninho
+familia: "[[Família Ninho]]"
 status: vivo
 tags:
   - personagem
@@ -266,11 +267,9 @@ Apesar dos atritos, existe respeito profissional entre eles.
 
 ### Iara Salles
 
-Elias reconhece a competência de Iara na organização dos suprimentos.
+Elias reconhece a competência de Iara na organização dos ingredientes e dos registros internos da Cozinha Comunitária. Foi ele quem autorizou que ela mantivesse o controle do consumo diário daquele setor, sempre sob a coordenação de Helena.
 
-Foi ele quem autorizou que ela assumisse formalmente a organização dos registros após perceber sua capacidade de identificar problemas e desperdícios.
-
-Confia em seu trabalho, mas às vezes se incomoda com suas perguntas e com sua tendência de contestar decisões relacionadas à distribuição de recursos.
+Esse registro não inclui o estoque geral nem dá a Iara acesso ou responsabilidade pelo Armazém. Quando a cozinha precisa de reposição, Helena encaminha a solicitação a Elias, Davi ou Elisa. Elias confia no trabalho de Iara, embora às vezes se incomode com suas perguntas e com sua tendência de contestar decisões relacionadas à distribuição de recursos.
 
 ## O segredo de Dalva
 
@@ -292,17 +291,13 @@ Acredita que a esposa sofreu de uma doença desconhecida e teme que algo semelha
 
 **Verdade secreta criada para esta campanha:**
 
-Dalva passou por uma reação anômala do organismo ao parasita associado à Assimilação.
+Dalva desenvolveu a Doença Azul após anos de exposição alimentar a plantas cultivadas no sistema contaminado pelo [[Micélio de Cobalto]]. O fungo chegou ao Ninho por meio de materiais agrícolas recuperados do Viveiro do Vale e se espalhou por partes do solo, do composto e da água compartilhados entre canteiros. O Micélio contamina somente plantas e o ambiente de cultivo; não coloniza animais nem contamina carne, leite ou ovos.
 
-O parasita, normalmente presente nos seres vivos, começou a desenvolver um processo de assimilação incomum dentro do corpo dela.
+Dalva tinha baixa resistência física e atividade de Assimilação especialmente elevada. Os compostos produzidos pelo fungo, ingeridos repetidamente por meio de alimentos e preparações vegetais, estimularam o parasita a acelerar a transformação de maneira desordenada, provocando alterações internas que o organismo não conseguiu suportar.
 
-A alteração no sangue foi um dos primeiros sinais visíveis dessa atividade. A coloração azulada não era uma doença isolada, mas uma consequência de mudanças biológicas internas.
+A alteração no sangue foi um dos primeiros sinais visíveis da reação. Quando o sangue ficou azul, Dalva estava no Estágio III — Síndrome Azul. Nas semanas seguintes, o quadro avançou ao Estágio IV — Colapso, culminando em sua morte em 2079.
 
-O organismo de Dalva não conseguiu suportar o processo. A assimilação avançou de maneira desordenada, provocando danos que culminaram em sua morte.
-
-O fenômeno não foi provocado por uma exposição recente às Zonas Quentes, nem significa que todos os moradores do Ninho estejam passando pelo mesmo processo.
-
-A morte de Dalva foi um caso excepcional, mas demonstra que os muros e a aparente segurança do Ninho não protegem seus habitantes de todas as ameaças.
+Elias sabe que a alteração aconteceu, mas não conhece a origem ambiental ou a relação com os alimentos da estufa. A morte de Dalva demonstra que a segurança dos muros não protege os moradores de uma ameaça que já está presente na produção cotidiana.
 
 ### Por que Elias escondeu o acontecimento?
 
@@ -394,7 +389,7 @@ Ele terá de escolher entre preservar a confiança da comunidade ou admitir que 
 - Clara demonstra desconforto diante de perguntas sobre a antiga paciente.
 - Elisa começa a questionar decisões do pai com maior frequência.
 - Davi precisa escolher entre obedecer a Elias ou proteger alguém que considera inocente.
-- Iara encontra uma inconsistência em registros antigos que pode envolver uma decisão de Elias.
+- Ao comparar os registros de ingredientes recebidos com o consumo diário da Cozinha Comunitária, Iara percebe uma divergência que pode estar ligada a uma decisão anterior de Elias sobre a distribuição de alimentos.
 - Um acontecimento relacionado à Assimilação ameaça revelar que o segredo de Dalva não era um caso isolado.
 
 ## Notas relacionadas

@@ -3,6 +3,7 @@ tipo: referencia
 categoria: comunidade
 local: "[[O Ninho]]"
 status: canon
+visibilidade: mestre
 tags:
   - campanha
   - ninho
@@ -38,7 +39,7 @@ A referência geral não substitui as fichas específicas. Quando houver mudanç
 ## Família Ninho
 
 **Integrantes:** Elias Ninho, Davi Ninho, Elisa Ninho e Dalva Ninho (falecida)  
-**Residência:** Casa principal  
+**Residência:** Casa 1 — Casa Principal  
 **Setores:** Liderança e Armazém
 
 A Família Ninho é uma das mais antigas e influentes da comunidade. Sua linhagem está diretamente ligada à antiga fazenda e à responsabilidade histórica pela liderança do povoado.
@@ -354,7 +355,7 @@ A família não administra a Estação de Energia. Ithan é o responsável técn
 ## Família Voos
 
 **Integrantes:** Ithan Voos e Artur Voos (desaparecido)  
-**Residência:** O Ninho, no caso de Ithan  
+**Residência:** Casa 8, no caso de Ithan  
 **Setor:** Estação de Energia
 
 A Família Voos está ligada ao conhecimento técnico necessário para manter a Estação de Energia e o sistema elétrico do Muro de Sucata.
@@ -389,10 +390,10 @@ Ithan acredita que o pai desapareceu durante uma expedição. A verdade sobre se
 ## Família Naevus e núcleo Azevedo
 
 **Integrantes:** Freya Naevus, Marina Vilar, Luna Azevedo e familiares ausentes ou falecidos  
-**Residência:** O Ninho  
+**Residência:** Casa 6  
 **Setor:** Casa Médica
 
-O núcleo familiar de Freya está ligado à medicina, à história de sua família e à investigação da Doença Azul.
+O núcleo familiar de Freya está ligado à medicina, à história de sua família e à investigação da Doença Azul. Marina, Freya e Luna dividem a Casa 6. Dário e Raul não residem no Ninho: Dário está desaparecido para Freya, e Raul faleceu em 2074.
 
 ### Freya Naevus — 24 anos
 
@@ -499,7 +500,8 @@ Sua família, no sentido mais próximo, acabou sendo formada pelas pessoas que e
 |---|---|---|
 | Elias, Davi e Elisa Ninho | Armazém | Administração exclusiva, controle e distribuição de estoques |
 | Helena, Maria, Fernando e Iara Salles | Cozinha Comunitária | Preparo e distribuição das refeições |
-| Gael e Mabel Noctua | Plantações e Estufa | Cultivo, sementes e produção agrícola; Mabel participa voluntariamente |
+| Gael Noctua | Plantações e Estufa | Responsável pela produção, canteiros, compostagem e sementes |
+| Mabel Noctua | — | Participação voluntária na estufa e na investigação, conforme suas escolhas; sem função formal |
 | Breno e Cecília Lane | Curral | Criação e cuidado dos animais |
 | Clara, Lívia, Freya e Marina | Casa Médica | Atendimento, apoio clínico e preparação de materiais |
 | Marcio Fagundes | Casa Médica | Pequenas tarefas supervisionadas, quando sua condição permite |
@@ -528,16 +530,21 @@ As fichas individuais continuam sendo a fonte principal para aparência, persona
 - [[A Vida Cotidiana no Ninho]]
 - [[Os Lugares do Ninho]]
 - [[Trabalho, Produção e Recursos do Ninho]]
-- [[Ferro-Velho e Forja]]
+- [[Os Lugares do Ninho#3. Ferro-Velho e Forja]]
 - [[Estação de Energia]]
-- [[Casa Médica]]
+- [[Os Lugares do Ninho#4. Casa Médica]]
 - [[Plantações e Estufa]]
+- [[Paióis Subterrâneos da Fazenda]]
 - [[O Muro de Sucata]]
 
 ### Famílias
 - [[Família Becker]]
+- [[Família Evans]]
+- [[Família Fagundes]]
+- [[Família Lane]]
 - [[Família Naevus]]
 - [[Família Ninho]]
+- [[Família Noctua]]
 - [[Família Voos]]
 
 ### Personagens
@@ -562,7 +569,12 @@ As fichas individuais continuam sendo a fonte principal para aparência, persona
 - [[Jonas Becker]]
 - [[Iara Salles]]
 - [[Freya Naevus]]
+- [[Marina Vilar]]
+- [[Luna Azevedo]]
+- [[Raul Azevedo]]
+- [[Dário Naevus]]
 - [[Ithan Voos]]
+- [[Artur Voos]]
 - [[Vicente Murphy]]
 
 ### Mistérios

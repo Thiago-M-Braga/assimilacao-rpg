@@ -49,7 +49,7 @@ A alimentação é uma das maiores preocupações do Ninho.
 
 A produção depende principalmente da plantação, da estufa improvisada, dos animais domesticados e dos alimentos conservados.
 
-### Plantação e Estufa
+### Plantações e Estufa
 
 **Responsável:** [[Gael Noctua]]
 
@@ -111,11 +111,15 @@ A perda de um animal adulto pode representar um prejuízo significativo, especia
 
 **Responsável:** [[Helena Noctua]]
 
+**Equipe:** [[Maria Evans]], [[Fernando Evans]] e [[Iara Salles]].
+
+Iara organiza os ingredientes recebidos e registra o consumo diário da cozinha; esses registros não substituem o controle geral do Armazém.
+
 A cozinha transforma os alimentos produzidos e armazenados em refeições para os moradores.
 
 Helena organiza o preparo, controla as porções e procura variar o cardápio conforme a disponibilidade.
 
-[[Maria Evans]] e [[Fernando Evans]] ajudam nas atividades diárias.
+[[Maria Evans]] e [[Fernando Evans]] ajudam nas atividades diárias. Iara apoia a organização dos ingredientes, o preparo e o controle de consumo interno. A coordenação do setor continua com Helena.
 
 A cozinha precisa manter contato constante com o Armazém e com os responsáveis pela produção agrícola e pelo curral.
 
@@ -125,7 +129,7 @@ Seu desafio não é apenas preparar comida, mas fazer com que os recursos dispon
 
 O Ninho não possui uma indústria. A fabricação de ferramentas e peças acontece em pequena escala, utilizando materiais recuperados e conhecimentos transmitidos entre os moradores.
 
-### Forja
+### Ferro-Velho e Forja
 
 **Responsáveis:** [[Hugo Becker]], [[Marta Becker]] e [[Jonas Becker]]
 
@@ -154,7 +158,7 @@ Nem todo metal recuperado pode ser utilizado imediatamente. Algumas peças preci
 
 ### Manutenção Geral
 
-A manutenção de casas, depósitos, cercas e estruturas coletivas é distribuída entre os moradores com habilidades adequadas.
+A manutenção de casas, depósitos, cercas e estruturas coletivas é distribuída entre os moradores com habilidades adequadas. As funções permanentes permanecem separadas: Ithan responde tecnicamente pela Estação de Energia; Hugo, Marta e Jonas trabalham na Forja; o Armazém é exclusivo de Elias, Davi e Elisa Ninho.
 
 Madeira, tijolos, telhas, cordas e chapas metálicas são reaproveitados sempre que possível.
 
@@ -207,7 +211,7 @@ O conhecimento sobre plantas medicinais complementa os tratamentos, mas não sub
 
 ## Armazenamento e Controle
 
-O Armazém concentra os recursos de reserva e é administrado exclusivamente pela família Ninho. Elias, Davi e Elisa trabalham no local. Nenhum morador de outro núcleo possui função ou rotina de trabalho no Armazém.
+O Armazém concentra os recursos de reserva e é administrado exclusivamente pela família Ninho. Elias, Davi e Elisa trabalham no local. Nenhum morador de outro núcleo possui função ou rotina de trabalho no Armazém. Iara mantém apenas os registros do consumo diário da cozinha, sem acesso administrativo ao estoque geral.
 
 ### [[Elias Ninho]] — autoridade e autorização
 

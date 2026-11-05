@@ -21,7 +21,7 @@ tags:
 >
 > A doença não atinge todos os moradores igualmente. Os mais vulneráveis são pessoas com baixa resistência física e um processo de Assimilação especialmente ativo. A ingestão repetida de alimentos contaminados, combinada a essas condições individuais, pode fazer o parasita acelerar e desregular a transformação do organismo.
 >
-> Não há transmissão de pessoa para pessoa. A origem está no sistema de cultivo e na exposição alimentar prolongada.
+> Não há transmissão de pessoa para pessoa. O Micélio de Cobalto contamina exclusivamente plantas e o ambiente de cultivo: não coloniza animais nem contamina carne, leite, ovos ou outros produtos de origem animal. A origem da doença está no sistema de cultivo e na exposição alimentar prolongada a plantas contaminadas.
 
 ## 1. Visão geral
 
@@ -36,11 +36,11 @@ A verdade é que o Mal Azul não é uma infecção convencional e não é causad
 | Nome popular | Mal Azul ou Doença Azul |
 | Agente ambiental | [[Micélio de Cobalto]] |
 | Origem da exposição | Produção agrícola da [[Plantações e Estufa]] |
-| Formas de exposição | Ingestão de alimentos e preparações feitos com cultivos contaminados |
+| Formas de exposição | Ingestão de plantas e preparações feitas com cultivos contaminados; produtos de origem animal não são uma via de exposição |
 | Pessoas mais vulneráveis | Indivíduos debilitados e com atividade de Assimilação elevada |
 | Transmissão entre pessoas | Não ocorre |
 | Cura | Possível após interromper a exposição e desenvolver um tratamento com cultivos livres do fungo |
-| Locais centrais da investigação | [[Casa Médica]], [[Plantações e Estufa]] e reservatórios/estruturas agrícolas antigas |
+| Locais centrais da investigação | [[Os Lugares do Ninho#4. Casa Médica]], [[Plantações e Estufa]] e reservatórios/estruturas agrícolas antigas |
 
 ## 2. A verdadeira origem
 
@@ -68,6 +68,8 @@ Isso inclui, entre outros:
 - Plantas cultivadas para outros usos comunitários.
 
 A quantidade acumulada pode variar de acordo com a espécie, o canteiro, a época de cultivo e a parte consumida. Essa variação explica por que a exposição não produz sintomas iguais em todos os moradores. Não significa, porém, que exista uma categoria de planta da estufa que seja garantidamente segura.
+
+O fungo não coloniza animais e não passa para carne, leite, ovos ou outros produtos de origem animal. Esses alimentos não são contaminados pelo Micélio de Cobalto e não constituem uma via de exposição à Doença Azul.
 
 ### 2.3. O Micélio de Cobalto
 
@@ -99,7 +101,7 @@ A Doença Azul **não é contagiosa**.
 - Cuidar de alguém doente não oferece risco de contaminação.
 - O contato entre pacientes não espalha a síndrome.
 
-O risco está na exposição ambiental e alimentar ao sistema de cultivo contaminado. Interromper o consumo da produção afetada impede novas exposições, mas não remove automaticamente os compostos que já desencadearam a reação no organismo.
+O risco está na exposição ambiental e alimentar a plantas e preparações vegetais provenientes do sistema de cultivo contaminado. Produtos de origem animal não são uma via de exposição. Interromper o consumo da produção vegetal afetada impede novas exposições, mas não remove automaticamente os compostos que já desencadearam a reação no organismo.
 
 ## 4. Evolução da doença
 
@@ -187,7 +189,7 @@ Seu quadro piorou progressivamente e ele morreu em 2074, sem que a verdadeira ca
 
 Dalva desenvolveu sintomas semelhantes aos de Raul. Durante boa parte da doença, os sinais foram discretos; o quadro piorou nos últimos meses de vida.
 
-Cerca de um mês antes de morrer, seu sangue apresentou coloração azul. Clara percebeu a alteração durante um atendimento e informou [[Elias Ninho]]. Os dois decidiram manter o acontecimento em segredo. Dalva morreu em 2079 sem receber o tratamento correto.
+Cerca de um mês antes de morrer, seu sangue apresentou coloração azul, sinal de que o quadro havia alcançado o **Estágio III — Síndrome Azul**. Clara percebeu a alteração durante um atendimento e informou [[Elias Ninho]]. Os dois decidiram manter o acontecimento em segredo. Nas semanas seguintes, Dalva avançou ao **Estágio IV — Colapso** e morreu em 2079 sem receber o tratamento correto.
 
 Elias ainda carrega a culpa por ter escolhido o silêncio. Clara preservou uma amostra do sangue em um compartimento escondido na Casa Médica.
 
@@ -201,7 +203,7 @@ Luna está em estágio inicial de II e ainda tem uma possibilidade muito boa de 
 
 ### 5.4. Clark Becker
 
-Clark adoeceu aproximadamente seis meses antes do início da campanha. A doença comprometeu sua saúde e ele precisou permanecer na [[Casa Médica]].
+Clark adoeceu aproximadamente seis meses antes do início da campanha. A doença comprometeu sua saúde e ele precisou permanecer na [[Os Lugares do Ninho#4. Casa Médica]].
 
 Seu quadro é semelhante ao de Luna, embora a progressão seja individual. [[Mabel Noctua]] deseja encontrar uma cura para ele. Antes de adoecer, Clark ajudava [[Ithan Voos]] na Estação de Energia; a doença o afastou desse trabalho.
 
@@ -339,7 +341,7 @@ O conhecimento de Ithan sobre energia e engenharia será útil para acessar o es
 
 ### Lugares e contexto
 - [[O Ninho]] — comunidade onde a doença permanece escondida.
-- [[Casa Médica]] — local de tratamento e dos registros clínicos.
+- [[Os Lugares do Ninho#4. Casa Médica]] — local de tratamento e dos registros clínicos.
 - [[Plantações e Estufa]] — origem da exposição alimentar.
 - [[Paióis Subterrâneos da Fazenda]] — local de registros e sementes preservadas.
 - [[O Colapso]] — evento que transformou o mundo.

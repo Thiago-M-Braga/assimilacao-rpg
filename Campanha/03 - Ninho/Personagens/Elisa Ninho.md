@@ -5,6 +5,7 @@ idade: 26
 nascimento: 2054
 ocupacao: Registros e distribuição do Armazém, guarda pessoal de Elias e apoio à liderança
 local: O Ninho
+familia: "[[Família Ninho]]"
 status: viva
 tags:
   - personagem
@@ -285,7 +286,7 @@ As duas conversam frequentemente sobre assuntos que não conseguem discutir aber
 
 Iara é uma das poucas pessoas que conhece as inseguranças de Elisa em relação ao futuro da família.
 
-Elisa também confia no julgamento de Iara e costuma procurá-la quando percebe alguma inconsistência nos registros ou nas decisões relacionadas aos suprimentos.
+Elisa também confia no julgamento de Iara e conversa com ela quando percebe alguma divergência entre os ingredientes recebidos pela Cozinha Comunitária e os registros de consumo interno. Esses registros não dão a Iara acesso ou responsabilidade pelo estoque geral.
 
 ### Vicente Murphy — mentor
 
@@ -321,11 +322,9 @@ Helena conhece parte das dificuldades familiares de Elisa e procura oferecer apo
 
 ### Iara e Lívia — relações de confiança
 
-Elisa conhece Lívia por causa de sua amizade com Iara e das atividades comunitárias.
+Elisa conhece Lívia por causa de sua amizade com Iara e das atividades comunitárias. Respeita o trabalho das duas, embora atuem em setores diferentes: Iara organiza ingredientes e registra o consumo interno da Cozinha Comunitária; Lívia auxilia Clara na Casa Médica.
 
-Tem respeito pelo trabalho das duas e acredita que a organização dos suprimentos é essencial para manter a comunidade estável.
-
-Entretanto, percebe que Lívia costuma guardar preocupações pessoais e tenta não pressioná-la quando nota que está passando por um momento difícil.
+Elisa conversa com Iara sobre necessidades da cozinha e com Lívia sobre as demandas da Casa Médica. Nenhuma das duas administra o Armazém ou controla os estoques gerais. Elisa também percebe que Lívia costuma guardar preocupações pessoais e tenta não pressioná-la quando nota que está passando por um momento difícil.
 
 ## Visão sobre a liderança
 
@@ -458,7 +457,7 @@ Sua sensibilidade para perceber comportamentos incomuns pode fazer com que seja 
     
 - Davi e Elisa precisam trabalhar juntos em uma situação que coloca suas diferenças à prova.
     
-- Iara descobre uma inconsistência nos suprimentos e procura Elisa para discutir o assunto.
+- Iara percebe que a quantidade de ingredientes entregue à Cozinha Comunitária não corresponde ao consumo anotado e procura Elisa para discutir a divergência.
     
 - Elisa percebe que Clara evita falar sobre os últimos dias de Dalva.
     

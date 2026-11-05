@@ -5,6 +5,7 @@ idade: 50
 nascimento: 2030
 ocupacao: Agricultor e responsável pela estufa
 local: O Ninho
+familia: "[[Família Noctua]]"
 status: vivo
 tags:
   - personagem
@@ -405,13 +406,11 @@ Cecília costuma ser cuidadosa com as necessidades do curral, enquanto Breno pre
 
 Gael respeita o trabalho dos dois e procura evitar qualquer desperdício que possa prejudicar a produção de alimentos.
 
-### Iara Salles — controle de suprimentos
+### Iara Salles — equipe da Cozinha Comunitária
 
-Gael mantém contato com Iara quando precisa registrar a utilização de materiais, solicitar recipientes ou organizar a distribuição de determinados produtos.
+Gael não depende de Iara para controlar a produção agrícola, os materiais da estufa ou suas reservas de sementes. A responsabilidade por esses registros permanece com ele.
 
-Considera importante que a coleção de sementes esteja corretamente registrada, mas não gosta de permitir que pessoas sem conhecimento sobre sua conservação manipulem os recipientes.
-
-Confia na capacidade de organização de Iara, embora prefira conferir pessoalmente qualquer movimentação de suas reservas.
+Quando os alimentos são entregues à Cozinha Comunitária, Iara organiza os ingredientes recebidos e registra o consumo interno, ajudando Helena no planejamento das refeições. As solicitações de materiais para as plantações e a estufa seguem diretamente para Elias, Davi ou Elisa, por meio do processo de pedidos ao Armazém. Iara não controla estoques gerais nem manipula a coleção de sementes de Gael.
 
 ### Elias Ninho — líder do Ninho
 

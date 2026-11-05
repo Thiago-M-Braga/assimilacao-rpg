@@ -29,7 +29,7 @@ tags:
 - **Filhos:** [[Clark Becker]] e [[Jonas Becker]]
 - **Residência:** Próxima ao Ferro-Velho e à Forja
 - **Ocupação:** Preparação, acabamento e acessórios de oficina
-- **Setor:** [[Ferro-Velho e Forja]]
+- **Setor:** [[Os Lugares do Ninho#3. Ferro-Velho e Forja]]
 
 ## Visão geral
 
@@ -122,6 +122,6 @@ Também teme que a escassez de materiais obrigue a oficina a escolher quais pedi
 - [[Clark Becker]]
 - [[Jonas Becker]]
 - [[Ithan Voos]]
-- [[Ferro-Velho e Forja]]
+- [[Os Lugares do Ninho#3. Ferro-Velho e Forja]]
 - [[Estação de Energia]]
 - [[O Ninho]]

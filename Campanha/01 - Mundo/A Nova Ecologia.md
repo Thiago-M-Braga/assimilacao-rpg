@@ -233,7 +233,7 @@ Esses organismos representam uma das características mais marcantes da Nova Eco
 
 A natureza deixou de apresentar fronteiras visuais tão claras entre aquilo que era considerado animal e vegetal.
 
-**Nota relacionada:** [[Quimeras e Híbridos]]
+**Nota relacionada:** [[A Nova Ecologia#5. Quimeras e Híbridos]]
 
 ## 6. A transformação da humanidade
 
@@ -278,7 +278,7 @@ Outros apresentam comportamentos mais instintivos ou dificuldades de convivênci
 
 As características físicas não determinam necessariamente a personalidade ou a capacidade mental de cada indivíduo.
 
-**Nota relacionada:** [[Assimilados e Ferais]]
+**Nota relacionada:** [[A Nova Ecologia#6.1. Assimilados e Ferais]]
 
 ### 6.2. Primais
 
@@ -309,7 +309,7 @@ São encontrados principalmente em regiões de ruínas e ambientes ocupados por 
 
 Atacam qualquer coisa humana que cruze seu caminho.
 
-**Nota relacionada:** [[Primais]]
+**Nota relacionada:** [[A Nova Ecologia#6.2. Primais]]
 
 ## 7. As Zonas Quentes
 
@@ -348,7 +348,7 @@ A ausência de conhecimento sobre o ambiente pode ser tão perigosa quanto a pre
 
 Essas regiões podem conter recursos valiosos, mas representam riscos elevados para qualquer expedição.
 
-**Nota relacionada:** [[Zonas Quentes]]
+**Nota relacionada:** [[A Nova Ecologia#7. As Zonas Quentes]]
 
 ## 8. O mundo exterior em 2080
 
@@ -366,7 +366,7 @@ Não existe uma organização humana global.
 
 Cada comunidade depende de seus próprios recursos e conhecimentos.
 
-**Nota relacionada:** [[Comunidades do Mundo Exterior]]
+**Nota relacionada:** [[O Mundo Exterior#Comunidades e assentamentos]]
 
 ### 8.2. A relação entre humanidade e natureza
 
@@ -446,7 +446,7 @@ Para manter a consistência do cenário, alguns princípios devem orientar a cri
 
 - [[O Colapso]]
     
-- [[O Dia Zero]]
+- [[O Colapso#1. O Dia Zero — 2025]]
     
 - [[Linha do Tempo do Mundo]]
     
@@ -455,20 +455,20 @@ Para manter a consistência do cenário, alguns princípios devem orientar a cri
 
 - [[Assimilação]]
     
-- [[Quimeras e Híbridos]]
+- [[A Nova Ecologia#5. Quimeras e Híbridos]]
     
-- [[Assimilados e Ferais]]
+- [[A Nova Ecologia#6.1. Assimilados e Ferais]]
     
-- [[Primais]]
+- [[A Nova Ecologia#6.2. Primais]]
     
-- [[Zonas Quentes]]
+- [[A Nova Ecologia#7. As Zonas Quentes]]
     
 
 ### Sociedade
 
 - [[O Ninho]]
     
-- [[Comunidades do Mundo Exterior]]
+- [[O Mundo Exterior#Comunidades e assentamentos]]
     
 - [[Conhecimento e Lendas do Ninho]]
     

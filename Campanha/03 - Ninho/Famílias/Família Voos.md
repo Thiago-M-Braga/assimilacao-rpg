@@ -3,8 +3,10 @@ tipo: familia
 categoria: nucleo-familiar
 nome: Família Voos
 local: "[[O Ninho]]"
+residencia: "Casa 8"
 personagem-vinculado: "[[Ithan Voos]]"
 status: definido
+visibilidade: mestre
 tags:
   - campanha
   - familia
@@ -16,6 +18,10 @@ tags:
 # Família Voos
 
 > "Um dia você vai precisar escolher entre ficar onde conhece tudo e descobrir o que existe além do horizonte."
+
+## Residência
+
+Ithan vive sozinho na Casa 8, uma moradia construída com materiais reaproveitados depois da partida de Artur. Artur não reside no Ninho.
 
 ## Visão geral
 
@@ -31,7 +37,7 @@ Em 2069, quando Ithan tinha 11 anos, Artur deixou o Ninho para explorar o exteri
 
 Desde então, Ithan cresceu sem o pai e passou a se dedicar ao conhecimento que havia recebido dele.
 
-Atualmente, trabalha na [[Estação de Energia]], ajudando a manter o sistema que eletrifica o [[Muro de Sucata]].
+Atualmente, trabalha na [[Estação de Energia]], ajudando a manter o sistema que eletrifica o [[O Muro de Sucata]].
 
 Embora tenha vontade de sair e descobrir o mundo, Ithan ainda sente responsabilidade pela comunidade que o criou.
 
@@ -50,7 +56,7 @@ A família não possui outros integrantes ativos definidos nesta nota. Ithan nã
 **Nascimento aproximado:** 2058  
 **Situação:** Vivo  
 **Ocupação:** Engenheiro e responsável por serviços elétricos  
-**Residência:** O Ninho  
+**Residência:** Casa 8  
 **Pai:** Artur Voos
 
 Ithan cresceu ouvindo histórias sobre a tecnologia antiga e desenvolveu uma curiosidade que se tornou parte importante de sua personalidade.
@@ -185,7 +191,7 @@ Ao mesmo tempo, Ithan decidiu aprender a cuidar dos equipamentos do Ninho. Mante
 
 ## A pulseira de Artur
 
-**Nome da nota relacionada:** [[A Pulseira de Ithan]]
+**Nome da nota relacionada:** [[Ithan Voos#A pulseira de Ithan]]
 
 A pulseira é um objeto simples, artesanal, feito com um pedaço de corda resistente e uma pequena bússola.
 
@@ -273,7 +279,7 @@ A família Voos possui uma ligação importante com a infraestrutura elétrica d
 
 Artur ajudou a transmitir conhecimentos técnicos a Ithan, que atualmente trabalha na [[Estação de Energia]].
 
-### Ithan e Ithan Voos
+### Ithan Voos e Hugo Becker
 
 [[Ithan Voos]] é o responsável técnico pela Estação de Energia e conhece profundamente o gerador eólico utilizado pela comunidade. [[Hugo Becker]] coordena a Forja e fornece peças metálicas quando necessário.
 
@@ -307,7 +313,7 @@ Durante uma exploração, os personagens encontram um equipamento antigo que rec
 
 O sinal contém uma sequência de pulsos semelhante a um código simples que Artur ensinou a Ithan durante a infância.
 
-**Conexão:** [[A Vigília do Relé]] e [[O Mundo Exterior]].
+**Conexão:** [[Vigília do Relé]] e [[O Mundo Exterior]].
 
 ### 3. Um mapa incompleto
 
@@ -331,7 +337,7 @@ Uma transmissão curta começa a ser captada por um equipamento recuperado.
 
 A mensagem possui informações técnicas e uma assinatura que Artur costumava utilizar em seus registros.
 
-**Conexão:** [[Vigília do Relé]] e [[A Pulseira de Ithan]].
+**Conexão:** [[Vigília do Relé]] e [[Ithan Voos#A pulseira de Ithan]].
 
 ### 6. A escolha de Ithan
 
@@ -424,9 +430,9 @@ A manutenção técnica da estação pertence a Ithan. [[Clark Becker]] era seu 
 
 ### Objetos e mistérios
 
-- [[A Pulseira de Ithan]]
+- [[Ithan Voos#A pulseira de Ithan]]
     
-- [[A Vigília do Relé]]
+- [[Vigília do Relé]]
     
 - [[A Expedição de Artur Voos]]
     
