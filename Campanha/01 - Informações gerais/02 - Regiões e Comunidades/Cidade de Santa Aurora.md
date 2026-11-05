@@ -26,7 +26,7 @@ Santa Aurora será o principal destino de busca de recursos dos personagens joga
 
 A rota a partir do Ninho começa no único portão do Muro de Sucata, segue até a ponte reforçada sobre o Rio Claro e atravessa a Mata da Margem. A distância aproximada é de 14 a 18 km por caminhos utilizáveis, dependendo do ponto de entrada na cidade e do trecho de mata que estiver transitável.
 
-A caminhada pode levar algumas horas em condições favoráveis, mas a vegetação, os bloqueios, a necessidade de cautela e os encontros no caminho podem prolongar bastante a viagem. Carregar recursos de volta exige planejamento adicional.
+Em condições ideais e por um caminho desimpedido, a distância poderia ser percorrida em algumas horas. Para a primeira expedição em 2080, porém, o planejamento deve considerar aproximadamente dois dias a pé: a vegetação, os desvios, a necessidade de cautela, a exploração do caminho e os períodos de descanso tornam o avanço lento. Carregar recursos de volta exige planejamento adicional.
 
 ## Estrutura urbana
 
@@ -75,7 +75,7 @@ Os personagens não devem saber de antemão quais prédios ainda contêm recurso
 
 ## Uso em campanha
 
-Santa Aurora oferece um objetivo concreto para as primeiras expedições: obter alimentos e materiais antes que as reservas do Ninho terminem. A pressão de tempo é real, pois o Armazém possui aproximadamente um mês de comida, enquanto a próxima colheita relevante ainda não estará pronta.
+Santa Aurora oferece um objetivo concreto para as primeiras expedições: obter alimentos e materiais antes que as reservas do Ninho terminem. A pressão de tempo é real, pois o Armazém possui aproximadamente quinze dias de comida, enquanto a próxima colheita relevante ainda não estará pronta.
 
 A cidade também pode oferecer pistas sobre o mundo anterior, a história do Colapso, a Nova Ecologia e outras comunidades humanas. Não é necessário revelar tudo em uma única visita.
 

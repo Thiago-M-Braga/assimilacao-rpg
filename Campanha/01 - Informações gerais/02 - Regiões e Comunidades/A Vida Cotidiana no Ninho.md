@@ -87,7 +87,7 @@ O Muro continua eletrificado, sustentado pela energia produzida e administrada p
 
 ## Alimentação
 
-A alimentação é uma responsabilidade coletiva. Em 2080, o Ninho enfrenta uma crise de abastecimento: o Armazém possui aproximadamente mais um mês de comida, mas a próxima colheita relevante ainda não estará pronta quando essas reservas terminarem. As porções e o cardápio já estão sendo ajustados, e a comunidade precisa encontrar recursos alimentares fora dos muros.
+A alimentação é uma responsabilidade coletiva. Em 2080, o Ninho enfrenta uma crise de abastecimento: o Armazém possui aproximadamente mais quinze dias de comida, mas a próxima colheita relevante ainda não estará pronta quando essas reservas terminarem. As porções e o cardápio já estão sendo ajustados, e a comunidade precisa encontrar recursos alimentares fora dos muros.
 
 A cozinha comunitária, coordenada por [[Helena Noctua]] com a ajuda de [[Maria Evans]], [[Fernando Evans]] e [[Iara Salles]], prepara e distribui as refeições. Iara também organiza os ingredientes recebidos e registra o consumo interno da cozinha.
 
