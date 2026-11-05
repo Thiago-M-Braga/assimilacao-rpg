@@ -5,6 +5,7 @@ nome: Família Voos
 local: "[[O Ninho]]"
 personagem-vinculado: "[[Ithan Voos]]"
 status: definido
+visibilidade: mestre
 tags:
   - campanha
   - familia
