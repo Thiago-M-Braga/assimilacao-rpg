@@ -166,9 +166,9 @@ Ela não concordava com todas as decisões do marido, mas compreendia o peso da 
 
 Dalva atuava como mediadora comunitária. Ajudava a aproximar a liderança dos moradores, escutava desentendimentos e procurava resolver conflitos antes que se tornassem problemas maiores. Essa função deixou de existir após sua morte em 2079.
 
-## A doença e os últimos meses — 2078 a 2079
+## A doença e os últimos anos — 2075 a 2079
 
-Os primeiros sinais de que algo estava errado surgiram alguns meses antes de sua morte.
+Os primeiros sinais discretos surgiram por volta de 2075, cerca de quatro anos antes de sua morte. Durante os primeiros anos, os sintomas foram confundidos com cansaço, febres recorrentes e fraqueza. O quadro avançou gradualmente, chegando ao estágio III em 2078–2079.
 
 Dalva começou a apresentar um cansaço incomum. Mesmo após períodos de descanso, parecia não recuperar completamente as forças.
 
@@ -202,7 +202,7 @@ Ela passou a permanecer mais tempo deitada e começou a ter dificuldades para re
 
 Mesmo assim, procurava tranquilizar a família.
 
-Em seus últimos dias, conversou individualmente com Elias e com os filhos. Não sabia exatamente o que estava acontecendo, mas parecia compreender que talvez não conseguisse se recuperar.
+Em seus últimos dias, após uma progressão acelerada no estágio final, conversou individualmente com Elias e com os filhos. Não sabia exatamente o que estava acontecendo, mas parecia compreender que talvez não conseguisse se recuperar.
 
 Nas semanas seguintes, o quadro avançou para o **Estágio IV — Colapso**. Dalva faleceu em 2079, aos 53 anos, deixando uma família profundamente abalada.
 
