@@ -24,13 +24,13 @@ Cada pessoa contribui de acordo com suas capacidades. Em troca, tem acesso à al
 
 A produção local é limitada. O Ninho consegue manter boa parte de suas necessidades cotidianas, mas depende de estoques antigos, materiais reaproveitados e da conservação cuidadosa de tudo que possui.
 
-A comunidade não é autossuficiente em sentido absoluto. Alguns recursos não podem ser produzidos localmente e, quando acabam, não existe garantia de reposição. Em 2080, a reserva de alimentos está reduzida a aproximadamente um mês, insuficiente para alcançar a próxima produção relevante.
+A comunidade não é autossuficiente em sentido absoluto. Alguns recursos não podem ser produzidos localmente e, quando acabam, não existe garantia de reposição. Em 2080, a reserva de alimentos está reduzida a aproximadamente quinze dias, insuficiente para alcançar a próxima produção relevante.
 
 ## Situação alimentar em 2080
 
 Quando ocorreu o Colapso, a fazenda possuía um Armazém farto, com grande quantidade de mantimentos preservados. Durante os primeiros anos, os moradores viveram principalmente dessas reservas, racionando a alimentação a uma refeição por dia enquanto recuperavam as plantações, a estufa e a criação de animais. A produção própria foi sendo ampliada e complementou os estoques, permitindo que as reservas iniciais sustentassem a comunidade durante os anos de reconstrução.
 
-Em 2080, essa margem de segurança praticamente acabou. O Armazém possui aproximadamente mais um mês de comida. A próxima produção agrícola relevante ainda não estará pronta quando o estoque terminar, e a comunidade não consegue compensar essa diferença apenas reduzindo porções sem comprometer a saúde dos moradores.
+Em 2080, essa margem de segurança praticamente acabou. O Armazém possui aproximadamente mais quinze dias de comida. A próxima produção agrícola relevante ainda não estará pronta quando o estoque terminar, e a comunidade não consegue compensar essa diferença apenas reduzindo porções sem comprometer a saúde dos moradores.
 
 A situação cria uma necessidade concreta de buscar alimentos e outros recursos fora dos muros. A [[Cidade de Santa Aurora]], a aproximadamente 14 a 18 km por uma rota que cruza a ponte sobre o Rio Claro e a Mata da Margem, é o principal destino conhecido para a primeira grande expedição de coleta. A cidade pode oferecer mercados, depósitos e residências abandonadas, mas a quantidade e a condição dos recursos ainda precisam ser descobertas pelos personagens.
 

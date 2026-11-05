@@ -26,7 +26,7 @@ Santa Aurora será o principal destino de busca de recursos dos personagens joga
 
 A rota a partir do Ninho começa no único portão do Muro de Sucata, segue até a ponte reforçada sobre o Rio Claro e atravessa a Mata da Margem. A distância aproximada é de 14 a 18 km por caminhos utilizáveis, dependendo do ponto de entrada na cidade e do trecho de mata que estiver transitável.
 
-A caminhada pode levar algumas horas em condições favoráveis, mas a vegetação, os bloqueios, a necessidade de cautela e os encontros no caminho podem prolongar bastante a viagem. Carregar recursos de volta exige planejamento adicional.
+Em condições ideais e por um caminho desimpedido, a distância poderia ser percorrida em algumas horas. Para a primeira expedição em 2080, porém, o planejamento deve considerar aproximadamente dois dias a pé: a vegetação, os desvios, a necessidade de cautela, a exploração do caminho e os períodos de descanso tornam o avanço lento. Carregar recursos de volta exige planejamento adicional.
 
 ## Estrutura urbana
 

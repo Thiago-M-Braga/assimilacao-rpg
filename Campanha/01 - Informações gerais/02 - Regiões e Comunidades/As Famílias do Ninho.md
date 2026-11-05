@@ -31,8 +31,8 @@ Esta página é a referência geral da composição familiar, das relações ent
 
 As fichas detalhadas estão organizadas separadamente:
 
-- **Famílias:** `Campanha/03 - Ninho/Famílias/` — histórico, dinâmica e responsabilidades específicas de cada núcleo.
-- **Personagens:** `Campanha/03 - Ninho/Personagens/` — perfis individuais de NPCs e personagens jogadores.
+- **Famílias:** `Campanha/01 - Informações gerais/03 - Ninho/Famílias/` — histórico, dinâmica e responsabilidades específicas de cada núcleo.
+- **Personagens:** `Campanha/01 - Informações gerais/03 - Ninho/Personagens/` — perfis individuais de NPCs e personagens jogadores.
 
 A referência geral não substitui as fichas específicas. Quando houver mudanças em um núcleo ou em uma ocupação, esta página, a ficha familiar e as fichas individuais afetadas devem permanecer coerentes entre si.
 
