@@ -19,7 +19,7 @@ tags:
 
 O Ninho é formado por famílias que sobreviveram ao Colapso e por gerações que nasceram dentro de seus muros. Os laços familiares fazem parte da organização da comunidade: definem responsabilidades, relações de confiança e, em alguns casos, a própria continuidade da liderança.
 
-Esta nota reúne os núcleos familiares conhecidos, seus integrantes, suas relações e as funções que exercem no vilarejo. As informações correspondem à situação atual da campanha, em 2080, e devem ser mantidas em concordância com as fichas individuais e os documentos dos setores.
+Esta nota reúne todos os núcleos familiares e moradores do Ninho, seus integrantes, suas relações e as funções que exercem no vilarejo. A população atual é de 24 pessoas vivas; não existem moradores adicionais fora dos personagens listados nesta documentação. As informações correspondem à situação atual da campanha, em 2080, e devem ser mantidas em concordância com as fichas individuais e os documentos dos setores.
 
 A sobrevivência do Ninho depende da participação de seus moradores adultos em atividades comunitárias. Cada pessoa em condições de trabalhar possui uma função ou atividade adaptada à sua situação. **Crianças com menos de 16 anos não possuem cargos, jornadas ou obrigações de trabalho.** Podem acompanhar adultos e, por vontade própria, participar de pequenas atividades seguras e supervisionadas, mas não são contabilizadas como força de trabalho.
 
