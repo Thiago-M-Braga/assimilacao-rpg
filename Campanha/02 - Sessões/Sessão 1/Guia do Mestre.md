@@ -71,10 +71,10 @@ Use estas possibilidades conforme as funções e escolhas dos jogadores:
 | Setor | NPCs | Cena possível |
 |---|---|---|
 | Muro e energia | Ithan; Clark se estiver sendo visitado | Um reparo exige atenção. O zumbido cessa durante a manutenção; Ithan trabalha com ferramentas e peças limitadas. |
-| Cozinha | Helena, Maria, Fernando e Iara | As porções estão menores. Maria e Fernando conversam sobre o bebê; Helena tenta manter a rotina. |
-| Casa Médica | Clara, Lívia e Freya | Um paciente apresenta sintomas que ninguém explica completamente. Mostre cansaço, anotações e incerteza, não uma aula médica. |
+| Cozinha | Helena, Maria e Fernando | Há apenas uma refeição diária. Maria e Fernando conversam sobre o bebê; Helena tenta manter a rotina. |
+| Casa Médica | Clara e Freya | Um paciente apresenta sintomas que ninguém explica completamente. Mostre cansaço, anotações e incerteza, não uma aula médica. |
 | Curral | Breno e Cecília; Thomas | Um animal exige atenção ou uma cerca precisa de reparo. Thomas observa os adultos e tenta provar que pode ajudar. |
-| Forja | Hugo, Marta e Jonas | Uma peça necessária está desgastada; é preciso reaproveitar material e improvisar. |
+| Forja | Hugo e Marta | Uma peça necessária está desgastada; é preciso reaproveitar material e improvisar. |
 | Armazém e liderança | Elias, Davi e Elisa | Os três conferem quantidades e registros. O acesso ao Armazém continua restrito a eles. |
 
 Os personagens podem observar pessoas debilitadas, veias azuladas, medicamentos escassos ou familiares preocupados. Ninguém precisa explicar a causa, o mecanismo ou a relação com o Viveiro. Alguns moradores nem sabem que os casos estão conectados.
@@ -131,7 +131,7 @@ Um personagem que passe perto do Armazém pode ouvir Elias, Davi e Elisa convers
 
 O personagem não precisa ouvir tudo; uma parte já indica que há um problema.
 
-Se ninguém ouvir, faça a informação aparecer na cozinha no dia seguinte: Helena pergunta por que o Armazém reduziu a entrega, Iara percebe que os registros não batem com as refeições ou um NPC comenta que as porções estão menores.
+Se ninguém ouvir, faça a informação aparecer na cozinha no dia seguinte: Helena comenta que a quantidade entregue pelo Armazém já não é suficiente para manter a alimentação habitual, ou um NPC observa que há apenas uma refeição por dia.
 
 **Fato para o mestre:** restam aproximadamente quinze dias de alimentação. A próxima colheita relevante não ficará pronta. Não existe solução interna capaz de cobrir a diferença sem uma expedição.
 
