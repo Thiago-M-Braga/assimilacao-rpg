@@ -2,6 +2,7 @@
 tipo: local
 categoria: instalacao-agricola
 status: canon
+visibilidade: mestre
 localizacao: Região exterior ainda não cartografada com precisão
 tags:
   - mundo
