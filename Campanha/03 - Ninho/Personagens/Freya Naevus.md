@@ -30,7 +30,7 @@ tags:
     
 - **Família:** [[Família Naevus]]
     
-- **Residência:** Casa da família, dentro do Ninho
+- **Residência:** Casa 6, com Marina e Luna
     
 - **Ocupação:** Aprendiz de curandeira
     
