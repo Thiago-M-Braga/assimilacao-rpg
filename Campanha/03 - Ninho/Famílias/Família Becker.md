@@ -56,7 +56,7 @@ Clark é o filho mais velho de Hugo e Marta. Diferentemente dos pais e do irmão
 
 Antes de adoecer, preparava ferramentas, identificava componentes, organizava cabos e auxiliava em tarefas simples e seguras de manutenção. Os reparos técnicos e as decisões sobre o sistema elétrico sempre foram responsabilidade de Ithan.
 
-Atualmente, Clark está internado na [[Casa Médica]] devido à [[A Doença Azul]]. Sua ausência afeta emocionalmente a família e interrompeu sua colaboração com a estação.
+Atualmente, Clark está internado na [[Os Lugares do Ninho#4. Casa Médica]] devido à [[A Doença Azul]]. Sua ausência afeta emocionalmente a família e interrompeu sua colaboração com a estação.
 
 ## História familiar
 
@@ -107,7 +107,7 @@ A família não controla a Estação de Energia. Essa responsabilidade pertence 
 - [[Jonas Becker]]
 - [[Clark Becker]]
 - [[Ithan Voos]]
-- [[Ferro-Velho e Forja]]
+- [[Os Lugares do Ninho#3. Ferro-Velho e Forja]]
 - [[Estação de Energia]]
 - [[O Ninho]]
 - [[A Doença Azul]]
