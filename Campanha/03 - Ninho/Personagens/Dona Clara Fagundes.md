@@ -188,7 +188,7 @@ Sua reputação cresceu. Muitos moradores passaram a chamá-la de Dona Clara, n�
 
 ### A amnésia de Marcio — 2073
 
-Em 2073, Marcio sofreu uma queda enquanto ajudava a movimentar caixas e materiais armazenados.
+Em 2073, Marcio sofreu uma queda enquanto tentava consertar o telhado da própria casa.
 
 Durante o acidente, bateu a cabeça com força.
 
