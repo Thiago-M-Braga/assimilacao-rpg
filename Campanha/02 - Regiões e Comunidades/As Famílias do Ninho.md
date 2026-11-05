@@ -3,6 +3,7 @@ tipo: referencia
 categoria: comunidade
 local: "[[O Ninho]]"
 status: canon
+visibilidade: mestre
 tags:
   - campanha
   - ninho
