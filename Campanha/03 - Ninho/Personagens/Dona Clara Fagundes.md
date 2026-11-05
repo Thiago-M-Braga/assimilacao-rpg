@@ -14,31 +14,6 @@ tags:
   - segredo
   - assimilacao
 ---
----
-
-tipo: personagem  
-nome: Dona Clara Fagundes  
-idade: 58  
-nascimento: 2022  
-ocupacao: Médica e curandeira  
-local: Casa Médica do Ninho  
-status: viva  
-tags:
-
-- personagem
-    
-- npc
-    
-- o-ninho
-    
-- medicina
-    
-- segredo
-    
-- assimilacao
-    
-
----
 
 # Dona Clara Fagundes
 
