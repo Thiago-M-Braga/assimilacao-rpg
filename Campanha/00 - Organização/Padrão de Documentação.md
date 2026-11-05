@@ -162,12 +162,12 @@ Informações que os jogadores ainda não conhecem devem permanecer sob uma seç
 
 A matriz de trabalho deve ser mantida coerente em `[[As Famílias do Ninho]]`, `[[O Ninho]]`, `[[A Liderança do Ninho]]`, `[[Os Lugares do Ninho]]` e `[[Trabalho, Produção e Recursos do Ninho]]`.
 
-- **Cozinha Comunitária:** Helena Noctua, Maria Evans, Fernando Evans e Iara Salles.
+- **Cozinha Comunitária:** Helena Noctua, Maria Evans e Fernando Evans.
 - **Plantações e Estufa:** Gael Noctua é o responsável pelo setor; Mabel Noctua participa voluntariamente, conforme suas escolhas, sem cargo formal.
 - **Curral:** Breno Lane e Cecília Lane.
-- **Casa Médica:** Dona Clara Fagundes, Lívia Fagundes e Freya Naevus; Marina Vilar apoia a preparação e conservação de tecidos médicos; Marcio pode ajudar em tarefas simples supervisionadas quando sua condição permite.
+- **Casa Médica:** Dona Clara Fagundes e Freya Naevus; Marina Azevedo apoia a preparação e conservação de tecidos médicos; Marcio pode ajudar em tarefas simples supervisionadas quando sua condição permite.
 - **Armazém:** exclusivamente Elias, Davi e Elisa Ninho.
-- **Ferro-Velho e Forja:** Hugo Becker, Marta Becker e Jonas Becker.
+- **Ferro-Velho e Forja:** Hugo Becker e Marta Becker.
 - **Estação de Energia:** Ithan Voos; Clark Becker era seu auxiliar e está afastado.
 - **Muro e segurança:** Vicente Murphy, com apoio de Davi e Elisa em suas funções de segurança.
 
