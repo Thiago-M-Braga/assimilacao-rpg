@@ -57,7 +57,7 @@ Sua sobrevivência depende de atividades essenciais:
 - Defesa permanente do perímetro.
     
 
-A comunidade funciona de maneira coletiva. Diferentes moradores são responsáveis por atividades específicas e contribuem diretamente para o funcionamento do lugar. No momento do Colapso, a fazenda possuía reservas fartas de alimentos no Armazém. Nos primeiros anos, os sobreviventes consumiam apenas uma refeição racionada por dia enquanto recuperavam e ampliavam a produção agrícola e a criação de animais. As reservas foram sendo complementadas pelo que conseguiam produzir, permitindo atravessar os anos de reconstrução. Em 2080, a situação se inverteu: o estoque alimentar do Armazém tem aproximadamente mais um mês de comida, mas a próxima produção relevante ainda não estará pronta a tempo. O Ninho não é plenamente autossuficiente e enfrenta uma crise concreta de abastecimento. Os recursos armazenados na fazenda eram abundantes no momento do Colapso. Durante os primeiros anos, os moradores consumiam apenas uma refeição racionada por dia enquanto reativavam e ampliavam a produção agrícola e a criação de animais. As reservas foram sendo complementadas pela produção própria e permitiram atravessar os anos de reconstrução. Em 2080, porém, os estoques alimentares estão próximos do esgotamento: resta aproximadamente um mês de comida, e a próxima produção relevante ainda não estará pronta a tempo. O Ninho não é plenamente autossuficiente e está diante de uma crise concreta de abastecimento.
+A comunidade funciona de maneira coletiva. Diferentes moradores são responsáveis por atividades específicas e contribuem diretamente para o funcionamento do lugar. No momento do Colapso, a fazenda possuía reservas fartas de alimentos no Armazém. Nos primeiros anos, os sobreviventes consumiam apenas uma refeição racionada por dia enquanto recuperavam e ampliavam a produção agrícola e a criação de animais. As reservas foram sendo complementadas pelo que conseguiam produzir, permitindo atravessar os anos de reconstrução. Em 2080, a situação se inverteu: o estoque alimentar do Armazém tem aproximadamente mais um mês de comida, mas a próxima produção relevante ainda não estará pronta a tempo. O Ninho não é plenamente autossuficiente e enfrenta uma crise concreta de abastecimento.
 
 ### Características conhecidas
 
@@ -73,7 +73,8 @@ A comunidade funciona de maneira coletiva. Diferentes moradores são responsáve
 |Alimentação|Agricultura, criação de animais e estoques|
 |Organização|Liderança familiar hereditária e trabalho comunitário|
 |Contato exterior|Sem contato regular; expedições voluntárias ainda podem partir, mas nenhuma retornou|
-|População atual|24 habitantes; a lista de moradores é completa|\n|Economia|Recursos de utilidade e escambo|
+|População atual|24 habitantes; a lista de moradores é completa|
+|Economia|Recursos de utilidade e escambo|
 
 ## 2. Origem — A fazenda que sobreviveu
 
