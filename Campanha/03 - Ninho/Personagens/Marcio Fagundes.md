@@ -40,7 +40,7 @@ Antes de perder parte de suas lembranças, era conhecido por sua habilidade com 
 
 Ajudou durante muitos anos na manutenção de estruturas do Ninho e também participou da organização da Casa Médica, construindo prateleiras, recuperando móveis e criando compartimentos para armazenar instrumentos e medicamentos.
 
-Em 2073, sofreu uma queda enquanto movimentava materiais armazenados. Bateu a cabeça e, depois do acidente, começou a apresentar problemas de memória que se agravaram com o passar do tempo.
+Em 2073, sofreu uma queda enquanto tentava consertar o telhado da própria casa. Uma parte da estrutura cedeu quando ele trabalhava sobre ela; Marcio caiu, bateu a cabeça e, depois do acidente, começou a apresentar problemas de memória que se agravaram com o passar do tempo.
 
 Atualmente, passa a maior parte dos dias na Casa Médica, sob os cuidados de Clara. Quando está em um período de lucidez e se sente disposto, ajuda em pequenas tarefas de organização, conservação de prateleiras e reparos simples, sempre supervisionado. Não possui jornada regular nem realiza atendimentos médicos.
 
