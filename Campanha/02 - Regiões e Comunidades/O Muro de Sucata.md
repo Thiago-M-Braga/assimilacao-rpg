@@ -205,7 +205,7 @@ Os moradores mais jovens nunca atravessaram o muro e não possuem experiência d
 
 Conhecem o mundo exterior apenas por histórias, relatos antigos e teorias.
 
-O mestre sabe que além do perímetro existe a [[A Nova Ecologia]], com regiões tomadas pela vegetação, criaturas transformadas, [[Assimilados e Ferais]], [[Primais]] e diferentes comunidades humanas.
+O mestre sabe que além do perímetro existe a [[A Nova Ecologia]], com regiões tomadas pela vegetação, criaturas transformadas, [[A Nova Ecologia#6.1. Assimilados e Ferais]], [[A Nova Ecologia#6.2. Primais]] e diferentes comunidades humanas.
 
 Os habitantes não possuem esse conhecimento completo.
 
@@ -419,13 +419,13 @@ Isso cria uma fragilidade estrutural que pode ser explorada narrativamente.
 
 ### Mundo exterior
 
-- [[Quimeras e Híbridos]]
+- [[A Nova Ecologia#5. Quimeras e Híbridos]]
     
-- [[Assimilados e Ferais]]
+- [[A Nova Ecologia#6.1. Assimilados e Ferais]]
     
-- [[Primais]]
+- [[A Nova Ecologia#6.2. Primais]]
     
-- [[Zonas Quentes]]
+- [[A Nova Ecologia#7. As Zonas Quentes]]
     
 
 ---
