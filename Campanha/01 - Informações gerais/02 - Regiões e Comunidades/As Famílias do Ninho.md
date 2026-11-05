@@ -19,7 +19,7 @@ tags:
 
 O Ninho é formado por famílias que sobreviveram ao Colapso e por gerações que nasceram dentro de seus muros. Os laços familiares fazem parte da organização da comunidade: definem responsabilidades, relações de confiança e, em alguns casos, a própria continuidade da liderança.
 
-Esta nota reúne todos os núcleos familiares e moradores do Ninho, seus integrantes, suas relações e as funções que exercem no vilarejo. A população atual é de 24 pessoas vivas; não existem moradores adicionais fora dos personagens listados nesta documentação. As informações correspondem à situação atual da campanha, em 2080, e devem ser mantidas em concordância com as fichas individuais e os documentos dos setores.
+Esta nota reúne todos os núcleos familiares e moradores do Ninho, seus integrantes, suas relações e as funções que exercem no vilarejo. A população atual é de 24 pessoas vivas, incluindo os três personagens jogadores. Esta documentação reúne os núcleos familiares e os moradores nomeados mais relevantes para a campanha; as informações correspondem à situação de 2080 e devem ser mantidas em concordância com as fichas individuais e os documentos dos setores.
 
 A sobrevivência do Ninho depende da participação de seus moradores adultos em atividades comunitárias. Cada pessoa em condições de trabalhar possui uma função ou atividade adaptada à sua situação. **Crianças com menos de 16 anos não possuem cargos, jornadas ou obrigações de trabalho.** Podem acompanhar adultos e, por vontade própria, participar de pequenas atividades seguras e supervisionadas, mas não são contabilizadas como força de trabalho.
 
@@ -196,11 +196,11 @@ Thomas não possui função formal, jornada ou obrigação de trabalho. Gosta de
 
 ## Família Fagundes
 
-**Integrantes:** Dona Clara Fagundes, Marcio Fagundes e Lívia Fagundes  
+**Integrantes:** Dona Clara Fagundes e Marcio Fagundes  
 **Residência:** Casa 4, junto à Casa Médica  
 **Setor:** Casa Médica
 
-A Família Fagundes está diretamente ligada à saúde dos moradores e à Casa Médica. Clara coordena os atendimentos, enquanto Lívia é sua principal auxiliar. Marcio permanece sob os cuidados da esposa e participa apenas de pequenas tarefas supervisionadas quando sua condição permite.
+A Família Fagundes é formada por Clara e Marcio, um casal que nunca conseguiu ter filhos. Os dois construíram sua vida em torno da Casa Médica e do cuidado com os moradores. Clara coordena os atendimentos; Marcio, depois do acidente de 2073, permanece principalmente sob os cuidados da esposa e ajuda apenas em pequenas tarefas supervisionadas quando sua condição permite.
 
 ### Dona Clara Fagundes — 58 anos
 
@@ -215,38 +215,22 @@ Clara também conhece o segredo sobre a alteração no sangue de Dalva. Preservo
 
 ### Marcio Fagundes — 69 anos
 
-- Marido de Clara e pai de Lívia.
+- Marido de Clara.
 - Sofre de amnésia desde um acidente ocorrido em 2073.
 - Passa a maior parte do tempo na Casa Médica sob os cuidados da esposa.
 - Tem momentos em que parece reconhecer pessoas ou lugares, mas nem sempre consegue explicar essas lembranças.
 
-Marcio sofreu uma queda enquanto ajudava a movimentar caixas e materiais armazenados. Bateu a cabeça com força e precisou permanecer sob observação de Clara. Depois do acidente, passou a apresentar confusão e dificuldades para recordar acontecimentos recentes. Com o tempo, suas dificuldades de memória se tornaram mais profundas.
+Em 2073, Marcio caiu enquanto tentava consertar o telhado da própria casa. Bateu a cabeça com força e, depois do acidente, começou a apresentar confusão e dificuldades para recordar acontecimentos recentes. Com o tempo, suas dificuldades de memória se tornaram mais profundas.
 
 Clara cuidou dele, mas não conseguiu fazê-lo recuperar as lembranças perdidas. A causa exata e a extensão definitiva da condição permanecem desconhecidas.
 
 Quando está em um período de lucidez e se sente disposto, Marcio ajuda em pequenas tarefas de organização, conservação de prateleiras e reparos simples, sempre supervisionado. Não realiza atendimentos médicos e não possui jornada regular.
-
-### Lívia Fagundes — 34 anos
-
-- Filha única de Clara e Marcio.
-- Trabalha na Casa Médica, auxiliando a mãe na preparação de materiais, higiene, organização de instrumentos e acompanhamento dos pacientes.
-- É organizada, prática e bastante reservada.
-- Herdou da mãe o senso de responsabilidade, mas não tem a mesma facilidade para demonstrar carinho.
-
-Lívia cresceu na Casa Médica, acompanhando a rotina de trabalho da mãe. Desde criança, aprendeu que os recursos do Ninho eram limitados e que qualquer desperdício poderia significar a falta de algo importante para outra pessoa.
-
-Seu pai sempre foi uma presença importante em sua infância. Marcio gostava de ensinar coisas práticas à filha: consertar objetos simples, organizar ferramentas e registrar pequenas informações. Tinha o hábito de anotar o que considerava importante, pois acreditava que as pessoas não deveriam depender apenas da memória.
-
-A amnésia do pai foi difícil para Lívia. Marcio nem sempre consegue reconhecê-la como filha; em alguns dias conversa normalmente, em outros parece não saber quem está diante dele. Lívia continua visitando-o e procura manter pequenos hábitos que possam despertar lembranças.
-
-Lívia não trabalha no Armazém e não controla os estoques gerais do Ninho. Ela organiza apenas os materiais que já foram entregues à Casa Médica. Quando o setor precisa de suprimentos, Clara encaminha as solicitações a Elias, Davi ou Elisa.
 
 ### Responsabilidades no Ninho
 
 | Integrante | Setor | Atividade |
 |---|---|---|
 | Dona Clara Fagundes | Casa Médica | Atendimento, decisões médicas e coordenação do setor |
-| Lívia Fagundes | Casa Médica | Preparação de materiais, higiene, organização e acompanhamento dos pacientes |
 | Marcio Fagundes | Casa Médica | Apoio eventual em pequenas tarefas supervisionadas, quando sua condição permite |
 
 ## Família Noctua
@@ -276,7 +260,7 @@ Diferentes cultivos compartilham parte da infraestrutura da estufa. Essa caracte
 - Seu lenço vermelho é uma de suas marcas mais reconhecíveis.
 - Procura manter a moral dos moradores por meio da comida e da convivência.
 
-Helena organiza a preparação e a distribuição das refeições. Trabalha diretamente com Maria, Fernando e Iara Salles. Procura aproveitar os alimentos disponíveis sem desperdiçar recursos e adapta o cardápio conforme a produção da estufa e do curral.
+Helena organiza a preparação e a distribuição da refeição diária. Trabalha diretamente com Maria e Fernando. Procura aproveitar os alimentos disponíveis sem desperdiçar recursos e adapta o cardápio conforme a produção da estufa e do curral.
 
 ### Mabel Noctua
 
@@ -297,11 +281,11 @@ Mabel possui uma ligação importante com [[Clark Becker]] e deseja encontrar um
 
 ## Família Becker
 
-**Integrantes:** Hugo Becker, Marta Becker, Clark Becker e Jonas Becker  
+**Integrantes:** Hugo Becker, Marta Becker e Clark Becker  
 **Residência:** Casa 7, próxima ao Ferro-Velho e à Forja  
 **Setor:** Ferro-Velho e Forja, com exceção de Clark
 
-A Família Becker é responsável pelo trabalho com sucata e metalurgia. Hugo coordena a oficina; Marta atua nos acabamentos e acessórios; Jonas é aprendiz e auxiliar de produção. Clark é a exceção: antes de adoecer, ajudava Ithan na Estação de Energia.
+A Família Becker é responsável pelo trabalho com sucata e metalurgia. Hugo coordena a oficina e Marta atua nos acabamentos e acessórios. Clark é o único filho do casal; antes de adoecer, ajudava Ithan na Estação de Energia.
 
 ### Hugo Becker — 55 anos
 
@@ -313,7 +297,7 @@ Hugo avalia materiais recuperados, organiza a produção e executa os trabalhos 
 
 ### Marta Becker — 52 anos
 
-- Trabalha na Forja com o marido e os filhos.
+- Trabalha na Forja com o marido.
 - Produz aventais, luvas, bainhas, correias, bolsas de ferramentas, proteções e acabamentos utilizando tecidos, couro e lona.
 - Organiza materiais não metálicos e ajuda na finalização dos objetos.
 
@@ -321,25 +305,15 @@ Sua experiência com costura e reaproveitamento de materiais foi adaptada às ne
 
 ### Clark Becker — 26 anos
 
-- Filho mais velho de Hugo e Marta.
+- Filho único de Hugo e Marta.
 - Antes de adoecer, ajudava [[Ithan Voos]] na Estação de Energia, preparando ferramentas e identificando componentes elétricos.
 - Está internado na Casa Médica devido à Doença Azul.
 
 Clark não era o responsável técnico pelo gerador ou pela eletrificação do muro. Sua função era auxiliar Ithan em tarefas simples e seguras de manutenção. A doença o afastou desse trabalho.
 
-### Jonas Becker — 24 anos
-
-- Filho de Hugo e Marta.
-- Aprendiz de metalurgia e auxiliar de produção na Forja.
-- É organizado e mantém registros de medidas e procedimentos.
-
-Jonas separa sucata, prepara peças, conserva ferramentas e auxilia na fabricação e no acabamento de objetos. Ainda está desenvolvendo a experiência necessária para assumir trabalhos mais complexos.
-
 ### História e dinâmica familiar
 
-Os Beckers construíram sua vida comunitária em torno da recuperação de materiais. Hugo coordena a metalurgia; Marta adaptou sua experiência com tecidos e couro às necessidades da oficina; Jonas aprende o ofício e assume tarefas cada vez mais complexas.
-
-Clark escolheu seguir um caminho diferente e passou a auxiliar Ithan na Estação de Energia. Sua escolha é respeitada pela família. A doença o afastou temporariamente da estação e abalou a rotina dos Beckers.
+Os Beckers construíram sua vida comunitária em torno da recuperação de materiais. Hugo coordena a metalurgia e Marta adaptou sua experiência com tecidos e couro às necessidades da oficina. Clark escolheu seguir um caminho diferente e passou a auxiliar Ithan na Estação de Energia. Sua escolha é respeitada pela família. A doença o afastou temporariamente da estação e abalou a rotina dos Beckers.
 
 A família não administra a Estação de Energia. Ithan é o responsável técnico pelo setor e solicita à Forja as peças metálicas de que necessita.
 
@@ -349,7 +323,6 @@ A família não administra a Estação de Energia. Ithan é o responsável técn
 |---|---|---|
 | Hugo Becker | Ferro-Velho e Forja | Coordenação, triagem de sucata e metalurgia especializada |
 | Marta Becker | Ferro-Velho e Forja | Acessórios, proteções, acabamentos e organização de materiais |
-| Jonas Becker | Ferro-Velho e Forja | Aprendizagem, preparação de peças e produção |
 | Clark Becker | Estação de Energia | Antigo auxiliar de Ithan; atualmente afastado por doença |
 
 ## Família Voos
@@ -369,7 +342,7 @@ A Família Voos está ligada ao conhecimento técnico necessário para manter a 
 
 Ithan cresceu ouvindo histórias sobre tecnologia antiga e aprendeu com o pai conceitos de engenharia e funcionamento de máquinas. Atualmente é o responsável por inspecionar o gerador, identificar falhas, planejar reparos e solicitar peças à Forja.
 
-Clark Becker era seu auxiliar direto antes de adoecer. Hugo, Marta e Jonas fornecem ferramentas e componentes metálicos quando necessário, mas não administram a estação.
+Clark Becker era seu auxiliar direto antes de adoecer. Hugo e Marta fornecem ferramentas e componentes metálicos quando necessário, mas não administram a estação.
 
 ### Artur Voos — desaparecido desde 2069
 
@@ -389,7 +362,7 @@ Ithan acredita que o pai desapareceu durante uma expedição. A verdade sobre se
 
 ## Família Naevus e núcleo Azevedo
 
-**Integrantes:** Freya Naevus, Marina Vilar, Luna Azevedo e familiares ausentes ou falecidos  
+**Integrantes:** Freya Naevus, Marina Azevedo, Luna Azevedo e familiares ausentes ou falecidos  
 **Residência:** Casa 6  
 **Setor:** Casa Médica
 
@@ -404,7 +377,7 @@ O núcleo familiar de Freya está ligado à medicina, à história de sua famíl
 
 Freya está desenvolvendo conhecimentos médicos e participa da investigação dos casos da Doença Azul. Sua posição como aprendiz não a torna responsável pela Casa Médica, mas permite que acompanhe Clara e contribua para a busca de respostas.
 
-### Marina Vilar
+### Marina Azevedo
 
 - Mãe de Freya.
 - Auxilia a Casa Médica na preparação, conservação e reparo de tecidos médicos, ataduras e materiais de curativo.
@@ -415,7 +388,7 @@ Marina complementa o trabalho de Clara e Lívia, mas não realiza procedimentos 
 ### Luna Azevedo — 7 anos
 
 - Irmã mais nova de Freya.
-- Filha de Marina Vilar e Raul Azevedo.
+- Filha de Marina Azevedo e Raul Azevedo.
 - Está doente com a Doença Azul e ainda pode ser salva.
 - Por ser criança, não possui função formal no Ninho.
 
@@ -436,52 +409,10 @@ Marina complementa o trabalho de Clara e Lívia, mas não realiza procedimentos 
 | Integrante | Setor | Atividade |
 |---|---|---|
 | Freya Naevus | Casa Médica | Aprendizagem e apoio ao atendimento sob orientação de Clara |
-| Marina Vilar | Casa Médica | Preparação e conservação de tecidos e materiais médicos |
+| Marina Azevedo | Casa Médica | Preparação e conservação de tecidos e materiais médicos |
 | Luna Azevedo | — | Criança; sem função formal |
 | Raul Azevedo | — | Falecido em 2074; em vida, fazia manutenção de reservatórios, calhas e tubulações |
 | Dário Naevus | — | Desaparecido; sem função atual no Ninho |
-
-## Iara Salles — 39 anos
-
-**Residência:** O Ninho  
-**Setor:** Cozinha Comunitária
-
-Iara não pertence a um dos núcleos familiares tradicionais do Ninho, mas possui relações próximas com vários moradores.
-
-### História familiar
-
-Iara é filha de dois refugiados que chegaram ao Ninho durante os primeiros anos após o Colapso. Seus pais participaram da reconstrução da comunidade. Ela nasceu no Ninho e nunca conheceu o mundo exterior.
-
-Após perder os pais, conquistou independência por meio do trabalho e desenvolveu habilidade para organizar tarefas, quantidades e registros.
-
-### Ocupação e responsabilidades
-
-Iara trabalha na cozinha comunitária com Helena, Maria e Fernando. Organiza os ingredientes recebidos, auxilia no preparo das refeições e registra o consumo diário para ajudar no planejamento do cardápio.
-
-Suas responsabilidades incluem:
-
-- Organizar ingredientes recebidos pela cozinha.
-- Apoiar o preparo e a distribuição das refeições.
-- Registrar o consumo diário de alimentos dentro da cozinha.
-- Informar Helena quando determinado ingrediente estiver acabando.
-- Comunicar necessidades de reposição à família Ninho.
-- Evitar desperdícios e manter utensílios organizados.
-
-Seu controle se limita à cozinha. Iara não trabalha no Armazém, não administra estoques gerais e não autoriza retiradas. Quando a cozinha precisa de suprimentos, Helena encaminha a solicitação à família Ninho.
-
-### Personalidade
-
-- Inteligente, observadora e independente.
-- Tem facilidade para perceber quando alguém está escondendo alguma coisa.
-- É direta e não gosta de promessas vazias.
-- Apesar da postura desconfiada, é leal às pessoas em quem confia.
-
-### Relações
-
-- **Helena Noctua:** trabalham juntas na cozinha. Helena coordena as refeições e Iara organiza ingredientes e registros de consumo.
-- **Lívia Fagundes:** mantêm uma amizade próxima, mas trabalham em setores diferentes. Lívia atua na Casa Médica.
-- **Maria e Fernando Evans:** são colegas de trabalho na cozinha comunitária.
-- **Família Ninho:** Iara encaminha à liderança as necessidades de suprimentos da cozinha; não possui função operacional no Armazém.
 
 ## Vicente Murphy — 60 anos
 
@@ -499,13 +430,13 @@ Sua família, no sentido mais próximo, acabou sendo formada pelas pessoas que e
 | Núcleo ou morador | Setor | Atividade |
 |---|---|---|
 | Elias, Davi e Elisa Ninho | Armazém | Administração exclusiva, controle e distribuição de estoques |
-| Helena, Maria, Fernando e Iara Salles | Cozinha Comunitária | Preparo e distribuição das refeições |
+| Helena, Maria e Fernando | Cozinha Comunitária | Preparo e distribuição da refeição diária |
 | Gael Noctua | Plantações e Estufa | Responsável pela produção, canteiros, compostagem e sementes |
 | Mabel Noctua | — | Participação voluntária na estufa e na investigação, conforme suas escolhas; sem função formal |
 | Breno e Cecília Lane | Curral | Criação e cuidado dos animais |
-| Clara, Lívia, Freya e Marina | Casa Médica | Atendimento, apoio clínico e preparação de materiais |
+| Clara, Freya e Marina Azevedo | Casa Médica | Atendimento, apoio clínico e preparação de materiais |
 | Marcio Fagundes | Casa Médica | Pequenas tarefas supervisionadas, quando sua condição permite |
-| Hugo, Marta e Jonas Becker | Ferro-Velho e Forja | Metalurgia, fabricação, recuperação e acabamento |
+| Hugo e Marta Becker | Ferro-Velho e Forja | Metalurgia, fabricação, recuperação e acabamento |
 | Ithan Voos | Estação de Energia | Responsabilidade técnica e manutenção elétrica |
 | Clark Becker | Estação de Energia | Antigo auxiliar de Ithan; atualmente afastado |
 | Vicente Murphy | Muro e segurança | Vigilância, orientação e apoio às expedições |
@@ -557,7 +488,6 @@ As fichas individuais continuam sendo a fonte principal para aparência, persona
 - [[Thomas Lane]]
 - [[Dona Clara Fagundes]]
 - [[Marcio Fagundes]]
-- [[Lívia Fagundes]]
 - [[Maria Evans]]
 - [[Fernando Evans]]
 - [[Gael Noctua]]
@@ -566,10 +496,8 @@ As fichas individuais continuam sendo a fonte principal para aparência, persona
 - [[Hugo Becker]]
 - [[Marta Becker]]
 - [[Clark Becker]]
-- [[Jonas Becker]]
-- [[Iara Salles]]
 - [[Freya Naevus]]
-- [[Marina Vilar]]
+- [[Marina Azevedo]]
 - [[Luna Azevedo]]
 - [[Raul Azevedo]]
 - [[Dário Naevus]]
