@@ -5,6 +5,7 @@ idade: 30
 nascimento: 2050
 ocupacao: Controle físico do Armazém, guarda pessoal de Elias e segurança interna
 local: O Ninho
+familia: "[[Família Ninho]]"
 status: vivo
 tags:
   - personagem
