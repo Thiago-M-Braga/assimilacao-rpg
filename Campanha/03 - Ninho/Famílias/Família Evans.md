@@ -31,7 +31,7 @@ O bebê representa uma nova etapa para o casal e uma possibilidade de futuro par
 | [[Fernando Evans]] | 26 | Vivo | Auxiliar da Cozinha Comunitária |
 | Bebê Evans | — | Ainda não nasceu | Primeiro filho do casal |
 
-Maria está no sétimo mês de gestação no recorte atual da campanha em 2080. Como o dia e o mês exatos do presente ainda não foram fixados, o avanço da gestação deve ser atualizado quando o calendário da campanha for definido.
+A gestação de Maria é estimada em cerca de sete meses no recorte atual de 2080. A equipe da Casa Médica acompanha sua evolução por sinais gerais, mas não dispõe de exames ou recursos clínicos para determinar a idade gestacional com precisão ou prever o dia do parto. Não existe uma data prevista confiável; o nascimento será registrado quando acontecer.
 
 ## História e dinâmica familiar
 
@@ -58,7 +58,7 @@ A Família Evans mantém proximidade com os Noctua por causa do trabalho na cozi
 ## Pontos em aberto
 
 - Nome e sexo do bebê.
-- Data exata do nascimento, que dependerá do calendário da campanha.
+- O dia do parto não pode ser previsto com os recursos disponíveis no Ninho. Não há data prevista confiável; o nascimento será registrado quando acontecer.
 - Como a chegada da criança mudará a rotina e a divisão de tarefas da família.
 - Não há confirmação de que o bebê terá alguma característica especial; não presumir isso antes de uma decisão de campanha.
 
