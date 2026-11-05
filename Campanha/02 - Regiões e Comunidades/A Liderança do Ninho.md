@@ -264,7 +264,7 @@ A comunidade precisa sobreviver, mas seus moradores podem discordar sobre o que 
     
 - Um responsável se recusa a cumprir uma determinação que considera prejudicial à comunidade.
     
-- Uma ausência temporária de Elias revela que não existe um procedimento claro de sucessão.
+- Uma ausência temporária de Elias revela que ainda não existe um procedimento formal de delegação e de decisões durante sua indisponibilidade, embora a tradição indique Davi como sucessor definitivo.
     
 - Elisa começa a reunir opiniões dos moradores sobre decisões que afetam o cotidiano.
     
