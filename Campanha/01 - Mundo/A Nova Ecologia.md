@@ -268,48 +268,34 @@ Existem indivíduos que mantiveram sua identidade, raciocínio e capacidade de c
 
 ### 6.1. Assimilados e Ferais
 
-São algumas das denominações utilizadas para seres humanos que passaram por transformações biológicas.
+Assimilados e Ferais são duas denominações regionais para a mesma condição geral. Algumas comunidades utilizam o termo Assimilado; outras preferem Feral. Não são duas espécies diferentes nem duas etapas obrigatórias de uma transformação.
 
-A nomenclatura varia de acordo com a comunidade, região e cultura.
+São seres humanos que passaram por alterações biológicas profundas associadas à Assimilação, mas ainda preservam consciência, identidade, linguagem e capacidade de convivência. Podem apresentar características físicas incomuns, sentidos alterados, mudanças musculares, ósseas ou outras manifestações, sem que isso determine sua personalidade ou moralidade.
 
-Alguns desses indivíduos continuam conscientes, capazes de estabelecer relações sociais e participar de comunidades humanas.
+O termo utilizado depende da cultura e dos hábitos de cada comunidade. Uma pessoa chamada de Assimilada em uma região pode ser chamada de Feral em outra.
 
-Outros apresentam comportamentos mais instintivos ou dificuldades de convivência.
-
-As características físicas não determinam necessariamente a personalidade ou a capacidade mental de cada indivíduo.
-
-**Nota relacionada:** [[A Nova Ecologia#6.1. Assimilados e Ferais]]
+**Nota relacionada:** [[Assimilação]]
 
 ### 6.2. Primais
 
-Os Primais representam uma condição humana extremamente degradada.
+Os Primais representam a condição extrema da transformação humana. Todos eram seres humanos comuns antes de passarem pelo processo de Assimilação.
 
-Nesses indivíduos, a razão, a linguagem e a capacidade de comportamento social foram profundamente comprometidas.
+Em um Primal, os instintos passam a dominar quase completamente o comportamento. A razão, a linguagem e a capacidade de convivência ficam profundamente comprometidas. O indivíduo deixa de conduzir suas ações de maneira consciente e passa a agir de modo predominantemente instintivo e predatório.
 
-Sua existência é marcada por comportamentos predominantemente instintivos e predatórios.
+A passagem para essa condição está relacionada ao grau em que a pessoa permite que os instintos e a Assimilação conduzam suas ações. Não se conhece um método confiável de reverter uma transformação avançada ou recuperar alguém que se tornou Primal.
 
 Características conhecidas:
-
-- Perda da fala.
-    
-- Perda da razão.
-    
-- Comportamento agressivo.
-    
-- Instinto predatório.
-    
-- Canibalismo.
-    
-- Organização em bandos.
-    
+- Perda ou deterioração grave da fala.
+- Perda da capacidade de raciocínio complexo e de julgamento.
+- Comportamento agressivo e predatório.
+- Instinto de caça e alimentação.
+- Canibalismo em muitos casos.
+- Organização ocasional em bandos.
 - Atração por barulho e cheiro de sangue.
-    
 
-São encontrados principalmente em regiões de ruínas e ambientes ocupados por grandes populações de criaturas perigosas.
+Os Primais são encontrados principalmente em regiões de ruínas e ambientes ocupados por grandes populações de criaturas perigosas. Atacam seres humanos que cruzam seu caminho, embora os comportamentos possam variar de um grupo para outro.
 
-Atacam qualquer coisa humana que cruze seu caminho.
-
-**Nota relacionada:** [[A Nova Ecologia#6.2. Primais]]
+**Nota relacionada:** [[Assimilação]]
 
 ## 7. As Zonas Quentes
 
