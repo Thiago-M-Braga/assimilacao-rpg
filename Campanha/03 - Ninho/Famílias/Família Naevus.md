@@ -273,7 +273,7 @@ Raul começou a apresentar sintomas discretos por volta de 2070, depois de anos 
 
 Durante os meses seguintes, sua condição piorou.
 
-Durante anos, Raul consumiu refeições e preparações feitas com alimentos da estufa, cujo sistema de cultivo estava contaminado pelo [[Micélio de Cobalto]]. Sua condição física debilitada e a atividade elevada de Assimilação o tornaram especialmente vulnerável.
+Durante anos, Raul consumiu refeições e preparações feitas com alimentos da estufa, cujo sistema de cultivo estava contaminado pelo [[Micélio de Cobalto]]. Raul possuía a predisposição genética hereditária necessária para desenvolver a Doença Azul. Sua condição física debilitada e a atividade elevada de Assimilação contribuíram para a progressão. Luna herdou dele a mesma vulnerabilidade.
 
 A verdadeira causa não foi identificada. Na época, ninguém suspeitava que a origem estivesse no solo, no composto e na água compartilhados pelos canteiros da estufa.
 
