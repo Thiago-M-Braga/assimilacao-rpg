@@ -2,6 +2,7 @@
 tipo: personagem
 categoria: jogador
 nome: Mabel Noctua
+idade: 25
 local: "[[O Ninho]]"
 familia: "[[Família Noctua]]"
 ocupacao: Apoio voluntário ao cultivo e à rotina da estufa
@@ -16,6 +17,13 @@ tags:
 ---
 
 # Mabel Noctua
+
+## Identificação
+
+- **Idade:** 25 anos
+- **Família:** [[Família Noctua]]
+- **Residência:** O Ninho, Casa 5
+- **Ocupação comunitária:** Apoio voluntário ao cultivo e à rotina da estufa
 
 ## Identificação
 
