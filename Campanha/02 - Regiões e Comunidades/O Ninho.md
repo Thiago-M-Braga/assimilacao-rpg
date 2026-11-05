@@ -4,7 +4,7 @@ categoria: regiao-comunidade
 status: canon
 visibilidade: mestre
 periodo: 2025–2080
-localizacao: Morro ou montanha — região ainda não definida
+localizacao: Morro da Fazenda, margem oeste do Rio Claro — Vale do Rio Claro
 tags:
   - mundo/local
   - mundo/comunidades
