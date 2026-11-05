@@ -783,11 +783,11 @@ A cooperação pode beneficiar os dois assentamentos, mas também criar novos ri
     
 - [[Ithan Voos]]
     
-- [[Mara Vidal]]
+- [[Vigília do Relé#Mara Vidal — Coordenadora]]
     
-- [[Bento Farias]]
+- [[Vigília do Relé#Bento Farias — Responsável pela segurança]]
     
-- [[Soraia Luz]]
+- [[Vigília do Relé#Soraia Luz — Responsável pelos cuidados]]
     
 - [[Hugo Becker]]
     
