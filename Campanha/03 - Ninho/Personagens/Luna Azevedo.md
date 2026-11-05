@@ -36,7 +36,7 @@ tags:
 
 ## Visão geral
 
-Luna é filha de Marina Vilar e Raul Azevedo e meia-irmã de Freya Naevus por parte de mãe. Tem sete anos no presente de referência de 2080. É uma criança curiosa e imaginativa, mas a doença reduziu sua disposição e limita algumas de suas atividades.
+Luna é filha de Marina Vilar e Raul Azevedo e meia-irmã de Freya Naevus por parte de mãe. Na verdade do mestre, herdou de Raul a predisposição genética que a torna suscetível à Doença Azul. Tem sete anos no presente de referência de 2080. É uma criança curiosa e imaginativa, mas a doença reduziu sua disposição e limita algumas de suas atividades.
 
 Luna não possui função formal, jornada ou obrigação de trabalho. Sua prioridade é a infância, o descanso e o acompanhamento médico.
 
