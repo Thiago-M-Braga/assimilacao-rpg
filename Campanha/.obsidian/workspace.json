@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Regiões e Comunidades/Vigília do Relé.md",
+                "file": "00 - Organização/Padrão de Documentação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vigília do Relé"
+              "title": "Padrão de Documentação"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Regiões e Comunidades/Vigília do Relé.md",
+                "file": "00 - Organização/Padrão de Documentação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Regiões e Comunidades/Vigília do Relé.md",
+                "file": "00 - Organização/Padrão de Documentação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Regiões e Comunidades/Vigília do Relé.md",
+                "file": "00 - Organização/Padrão de Documentação.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,7 +190,28 @@
   },
   "active": "5ea50afa33e77756",
   "lastOpenFiles": [
-    "04 - Segredos do Mestre/A Expedição de Artur Voos.md",
-    "02 - Regiões e Comunidades/Vigília do Relé.md"
+    "01 - Mundo/Viveiro do Vale.md",
+    "04 - Segredos do Mestre/A Cura do Mal Azul.md",
+    "04 - Segredos do Mestre/Micélio de Cobalto.md",
+    "04 - Segredos do Mestre/Expedição ao Viveiro do Vale.md",
+    "04 - Segredos do Mestre/Assimilação.md",
+    "03 - Ninho/Personagens/Raul Azevedo.md",
+    "03 - Ninho/Personagens/Marina Vilar.md",
+    "03 - Ninho/Personagens/Luna Azevedo.md",
+    "03 - Ninho/Personagens/Dário Naevus.md",
+    "03 - Ninho/Personagens/Artur Voos.md",
+    "03 - Ninho/Famílias/Família Noctua.md",
+    "03 - Ninho/Famílias/Família Lane.md",
+    "03 - Ninho/Famílias/Família Fagundes.md",
+    "03 - Ninho/Famílias/Família Evans.md",
+    "02 - Regiões e Comunidades/Plantações e Estufa.md",
+    "02 - Regiões e Comunidades/Paióis Subterrâneos da Fazenda.md",
+    "02 - Regiões e Comunidades/Maciço das Antenas.md",
+    "01 - Mundo/Tecnologia e Economia em 2080.md",
+    "01 - Mundo/O Mundo Exterior.md",
+    "01 - Mundo/Linha do Tempo do Mundo.md",
+    "03 - Ninho/Personagens/Mabel Noctua.md",
+    "02 - Regiões e Comunidades/Vigília do Relé.md",
+    "04 - Segredos do Mestre/A Expedição de Artur Voos.md"
   ]
 }
