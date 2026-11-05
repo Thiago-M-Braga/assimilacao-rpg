@@ -30,7 +30,6 @@ tags:
 | Família | [[Família Ninho]] |
 | Status | viva |
 
-
 > "Proteger o Ninho não significa decidir tudo pelas pessoas que vivem nele."
 
 ## Visão geral
@@ -274,20 +273,6 @@ As discussões podem ser intensas, mas nenhum dos dois deseja prejudicar o outro
 
 Elisa respeita a disciplina do irmão, embora às vezes considere que ele se preocupa demais em seguir os passos do pai.
 
-### Iara Salles — amiga próxima
-
-Iara é uma das pessoas em quem Elisa mais confia.
-
-As duas desenvolveram uma amizade ao longo dos anos, principalmente por compartilharem preocupações sobre o funcionamento da comunidade.
-
-Iara possui uma visão prática dos recursos e das necessidades do Ninho. Elisa, por sua vez, costuma perceber as consequências humanas das decisões tomadas pela liderança.
-
-As duas conversam frequentemente sobre assuntos que não conseguem discutir abertamente com Elias.
-
-Iara é uma das poucas pessoas que conhece as inseguranças de Elisa em relação ao futuro da família.
-
-Elisa também confia no julgamento de Iara e conversa com ela quando percebe alguma divergência entre os ingredientes recebidos pela Cozinha Comunitária e os registros de consumo interno. Esses registros não dão a Iara acesso ou responsabilidade pelo estoque geral.
-
 ### Vicente Murphy — mentor
 
 Vicente teve participação importante em sua formação como guarda.
@@ -319,12 +304,6 @@ Elisa possui uma relação próxima e afetuosa com Helena.
 Gosta de conversar com ela durante as refeições e costuma ajudá-la com pequenas tarefas quando está disponível.
 
 Helena conhece parte das dificuldades familiares de Elisa e procura oferecer apoio sem pressioná-la a falar.
-
-### Iara e Lívia — relações de confiança
-
-Elisa conhece Lívia por causa de sua amizade com Iara e das atividades comunitárias. Respeita o trabalho das duas, embora atuem em setores diferentes: Iara organiza ingredientes e registra o consumo interno da Cozinha Comunitária; Lívia auxilia Clara na Casa Médica.
-
-Elisa conversa com Iara sobre necessidades da cozinha e com Lívia sobre as demandas da Casa Médica. Nenhuma das duas administra o Armazém ou controla os estoques gerais. Elisa também percebe que Lívia costuma guardar preocupações pessoais e tenta não pressioná-la quando nota que está passando por um momento difícil.
 
 ## Visão sobre a liderança
 
@@ -480,7 +459,6 @@ Sua sensibilidade para perceber comportamentos incomuns pode fazer com que seja 
     
 - [[Vicente Murphy]]
     
-- [[Iara Salles]]
     
 - [[Dona Clara Fagundes]]
     
