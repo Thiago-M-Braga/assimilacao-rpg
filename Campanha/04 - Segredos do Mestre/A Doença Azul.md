@@ -149,9 +149,9 @@ Como referência de preparação, considera-se que o percurso entre os primeiros
 
 | Estágio | Duração de referência | Característica principal |
 |---|---:|---|
-| I — Descompasso | 9 a 18 meses | Sintomas discretos e alterações internas iniciais |
+| I — Descompasso | 12 a 18 meses | Sintomas discretos e alterações internas iniciais |
 | II — Alteração | 12 a 24 meses | Sinais físicos, circulatórios e perda de resistência |
-| III — Síndrome Azul | 4 a 12 meses | Sangue azulado e desregulação intensa da Assimilação |
+| III — Síndrome Azul | 6 a 12 meses | Sangue azulado e desregulação intensa da Assimilação |
 | IV — Colapso | 1 a 3 meses | Falência orgânica e risco muito elevado de morte |
 
 Esses intervalos não são prazos rígidos. Estresse, trauma, exaustão e Assimilação descontrolada podem encurtar uma etapa. Repouso, cuidado e medicamentos sintomáticos podem prolongá-la.
