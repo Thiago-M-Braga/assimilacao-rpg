@@ -95,7 +95,7 @@ Atualmente está internado na [[Os Lugares do Ninho#4. Casa Médica]]. Sua ausê
 
 A Estação depende da capacidade de recuperar e fabricar peças. O [[Os Lugares do Ninho#3. Ferro-Velho e Forja]] fornece suportes, chapas, abraçadeiras, ferramentas, proteções e componentes metálicos que podem ser adaptados às necessidades do gerador.
 
-[[Hugo Becker]] coordena a produção e avalia o que pode ser fabricado com os materiais disponíveis. [[Marta Becker]] produz proteções, correias e acabamentos; [[Jonas Becker]] auxilia na preparação e fabricação das peças.
+[[Hugo Becker]] coordena a produção e avalia o que pode ser fabricado com os materiais disponíveis. [[Marta Becker]] produz proteções, correias e acabamentos e auxilia na preparação das peças.
 
 A oficina não realiza o diagnóstico elétrico nem administra a estação. Cada setor mantém sua própria responsabilidade.
 
@@ -127,7 +127,7 @@ Uma falha pode exigir cooperação entre Ithan, a família Becker e a liderança
 - A energia produzida é poupada e direcionada prioritariamente à defesa do perímetro.
 - Ithan é o responsável técnico pela estação.
 - Clark era seu auxiliar e está afastado por causa da Doença Azul.
-- Hugo, Marta e Jonas trabalham na Forja, não na Estação de Energia.
+- Hugo e Marta trabalham na Forja, não na Estação de Energia.
 - A estação é difícil de substituir e não possui fonte alternativa estabelecida.
 
 ## 11. Notas relacionadas
@@ -144,7 +144,6 @@ Uma falha pode exigir cooperação entre Ithan, a família Becker e a liderança
 - [[Clark Becker]]
 - [[Hugo Becker]]
 - [[Marta Becker]]
-- [[Jonas Becker]]
 - [[Elias Ninho]]
 
 ### Mistérios
