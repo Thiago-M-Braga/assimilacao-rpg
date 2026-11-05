@@ -188,7 +188,7 @@ Um mês antes de morrer, Dalva apresentou sangue azul. Apenas Elias e Clara conh
 
 Nenhum dos dois revelou o ocorrido aos filhos ou aos demais moradores.
 
-A causa da alteração permanece desconhecida para a comunidade. Esse acontecimento pode estar relacionado aos mistérios centrais da campanha, mas não deve ser apresentado como uma explicação definitiva antes de ser desenvolvido.
+Elias e Clara sabem que Dalva apresentou sangue azul, mas não conhecem a causa. A verdade do mestre já está definida: o quadro foi provocado pela exposição prolongada a cultivos contaminados pelo Micélio de Cobalto, que desencadeou uma reação desordenada da Assimilação em um organismo suscetível. Quando o sangue ficou azul, Dalva estava no Estágio III — Síndrome Azul; antes de morrer, avançou ao Estágio IV — Colapso. A comunidade ainda não descobriu essa explicação.
 
 ### O medo de Elias
 
