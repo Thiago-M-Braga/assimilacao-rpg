@@ -2,6 +2,7 @@
 tipo: local
 categoria: regiao-comunidade
 status: canon
+visibilidade: mestre
 periodo: 2025–2080
 localizacao: Morro ou montanha — região ainda não definida
 tags:
