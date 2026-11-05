@@ -31,7 +31,7 @@ A história da família é marcada por dois acontecimentos: o desaparecimento do
 
 Freya herdou o sobrenome Naevus do pai biológico, um homem que deixou o Ninho para explorar o mundo exterior e nunca retornou.
 
-Sua mãe, **Marina Vilar**, evita falar sobre ele. O assunto sempre foi tratado com silêncio, mesmo quando Freya demonstrava curiosidade sobre suas origens.
+Sua mãe, **Marina Azevedo**, evita falar sobre ele. O assunto sempre foi tratado com silêncio, mesmo quando Freya demonstrava curiosidade sobre suas origens.
 
 Depois do desaparecimento de Dário, Marina formou uma nova família com **Raul Azevedo**, que se tornou o padrasto de Freya e pai de sua irmã mais nova, Luna.
 
@@ -46,16 +46,16 @@ Freya decidiu aprender medicina com [[Dona Clara Fagundes]], tornando-se aprendi
 |Nome|Idade em 2080|Situação|Relação com Freya|
 |---|---|---|---|
 |[[Freya Naevus]]|24|Viva|Filha e irmã mais velha|
-|[[Marina Vilar]]|46|Viva|Mãe|
+|[[Marina Azevedo]]|46|Viva|Mãe|
 |[[Luna Azevedo]]|7|Viva, doente|Meia-irmã|
 |[[Raul Azevedo]]|43 quando morreu|Falecido em 2074|Padrasto e figura paterna|
-|[[Dário Naevus]]|32 quando desapareceu|Morto em 2064, segundo a verdade do mestre|Pai biológico|
+|[[Dário Naevus]]|32 quando desapareceu|Vivo; integrado a um grupo de sobreviventes no exterior (segredo do mestre)|Pai biológico|
 
 ### Estrutura familiar
 
 - Dário Naevus é o pai biológico de Freya.
     
-- Marina Vilar é a mãe de Freya e Luna.
+- Marina Azevedo é a mãe de Freya e Luna.
     
 - Raul Azevedo foi o companheiro de Marina e padrasto de Freya.
     
@@ -64,7 +64,7 @@ Freya decidiu aprender medicina com [[Dona Clara Fagundes]], tornando-se aprendi
 - Freya e Luna são meias-irmãs por parte de mãe.
     
 
-## Marina Vilar — A mãe
+## Marina Azevedo — A mãe
 
 **Idade:** 46 anos  
 **Nascimento aproximado:** 2034  
@@ -128,7 +128,7 @@ Tem dificuldade em aceitar que a filha esteja sofrendo de uma doença que já le
 
 Marina suspeita que Dário morreu durante uma expedição no mundo exterior, mas nunca recebeu confirmação.
 
-Nenhum integrante da expedição retornou. Marina nunca recebeu notícias confirmadas e passou a considerar provável que Dário tenha morrido, embora não saiba como ou onde.
+Dário partiu sozinho e nunca retornou. Marina não recebeu notícias confirmadas e passou a considerar provável que ele tenha morrido, embora não saiba como ou onde.
 
 Ela evita contar a verdade porque teme que Freya interprete a história como um convite para sair do Ninho e procurar o lugar onde o pai morreu.
 
@@ -141,7 +141,7 @@ Quando entregou o colar a Freya aos 18 anos, tentou oferecer uma lembrança do p
 **Idade quando desapareceu:** 32 anos  
 **Idade que teria em 2080:** 48 anos  
 **Nascimento aproximado:** 2032  
-**Situação real:** Morto em 2064  
+**Situação real:** Vivo; integrou-se a um grupo de sobreviventes após partir sozinho em 2064  
 **Ocupação:** Explorador, guia e reconhecedor de rotas  
 **Filha:** Freya Naevus
 
@@ -167,9 +167,7 @@ Dário viveu no Ninho com Marina e Freya durante os primeiros oito anos da menin
 
 Com o tempo, passou a se envolver cada vez mais em atividades de reconhecimento fora dos muros.
 
-Em 2064, quando Freya tinha aproximadamente oito anos, decidiu participar de uma expedição para mapear uma rota que poderia ligar o Ninho a outros pontos habitados.
-
-A expedição deveria durar algumas semanas. Dário acreditava que o conhecimento adquirido poderia ajudar a comunidade a encontrar novas fontes de suprimentos e estabelecer contato com outros sobreviventes.
+Em 2064, quando Freya tinha aproximadamente oito anos, Dário partiu sozinho para uma expedição de reconhecimento, sem outros moradores do Ninho. Acreditava que o conhecimento adquirido poderia ajudar a comunidade a encontrar novas fontes de suprimentos e estabelecer contato com outros sobreviventes. Durante o percurso, encontrou um grupo de sobreviventes e decidiu se juntar a ele.
 
 Antes de partir, deixou seu colar com Marina.
 
@@ -177,15 +175,9 @@ A viagem, entretanto, terminou em tragédia.
 
 ### O destino de Dário
 
-A expedição foi atacada por um grupo de [[A Nova Ecologia#6.2. Primais]] durante a travessia de uma antiga rodovia em ruínas.
+Dário partiu sozinho em 2064. Durante a expedição, encontrou um grupo de sobreviventes e decidiu se juntar a eles. Não voltou ao Ninho nem enviou notícias, e ninguém da comunidade sabe quem são essas pessoas ou onde vivem.
 
-Dário foi ferido enquanto tentava proteger os demais integrantes do grupo e permitir que recuassem.
-
-Os sobreviventes conseguiram escapar, mas precisaram abandonar Dário para não serem alcançados pelas criaturas.
-
-Um dos integrantes retornou ao Ninho e informou Marina sobre o ocorrido.
-
-**Verdade do mestre:** Dário morreu durante o ataque em 2064. Seu corpo nunca foi recuperado, mas ele não sobreviveu para continuar explorando o mundo.
+**Verdade do mestre:** Dário sobreviveu à jornada e permanece integrado ao grupo de sobreviventes que encontrou. Sua localização atual e a identidade do grupo não são conhecidas pelo Ninho.
 
 ### Por que Marina escondeu a verdade?
 
@@ -206,7 +198,7 @@ Ela também temia que Freya desenvolvesse a mesma obsessão pelo exterior e colo
 **Falecimento:** 2074  
 **Situação:** Falecido  
 **Ocupação:** Responsável por manutenção de reservatórios, calhas e tubulações  
-**Companheira:** Marina Vilar  
+**Companheira:** Marina Azevedo  
 **Filha:** Luna Azevedo  
 **Enteada:** Freya Naevus
 
@@ -287,7 +279,7 @@ Morreu em 2074, quando Freya tinha 18 anos e Luna tinha aproximadamente um ano.
 **Nascimento aproximado:** 2073  
 **Situação:** Viva, doente  
 **Residência:** Casa 6  
-**Mãe:** Marina Vilar  
+**Mãe:** Marina Azevedo  
 **Pai:** Raul Azevedo  
 **Meia-irmã:** Freya Naevus
 
@@ -391,7 +383,7 @@ O objeto não revela sozinho o destino de Dário, mas confirma que ele existiu e
 |Ano|Acontecimento|Idades aproximadas|
 |---|---|---|
 |2056|Nascimento de Freya|Freya: recém-nascida; Marina: 22; Dário: 24|
-|2064|Dário parte em uma expedição voluntária; o grupo não retorna. A verdade do mestre é que ele morre durante um ataque de Primais|Freya: 8; Marina: 30; Dário: 32|
+|2064|Dário parte sozinho em uma expedição e encontra um grupo de sobreviventes ao qual se junta|Freya: 8; Marina: 30; Dário: 32|
 |2067|Marina inicia relacionamento com Raul|Freya: 11; Marina: 33; Raul: 36|
 |2068|Raul passa a fazer parte da rotina familiar|Freya: 12|
 |2073|Nascimento de Luna|Freya: 17; Marina: 39; Raul: 42|
@@ -407,11 +399,11 @@ O objeto não revela sozinho o destino de Dário, mas confirma que ele existiu e
 
 - Dário Naevus não abandonou Freya por falta de afeto. Ele acreditava que explorar o exterior poderia ajudar o Ninho.
     
-- Dário morreu durante uma expedição em 2064.
+- Dário está vivo e se juntou a um grupo de sobreviventes que encontrou durante a expedição.
     
-- Seu corpo nunca foi recuperado.
+- 
     
-- Marina suspeita que Dário morreu, mas não possui confirmação; nenhum integrante da expedição retornou ao Ninho.
+- Marina suspeita que Dário morreu, mas não possui confirmação. Dário partiu sozinho e nunca enviou notícias ao Ninho.
     
 - O colar pertenceu realmente a Dário e foi deixado com Marina antes da expedição.
     
@@ -436,7 +428,7 @@ O objeto não revela sozinho o destino de Dário, mas confirma que ele existiu e
 
 ### O que Marina teme
 
-Marina teme que Freya descubra a morte de Dário e decida sair do Ninho para procurar o local onde ele morreu.
+Marina teme que Freya decida sair do Ninho para procurar o pai ou descobrir pistas sobre o grupo que ele encontrou.
 
 Também teme que a filha tente assumir sozinha a responsabilidade de salvar Luna.
 
@@ -450,7 +442,7 @@ Freya descobre que sua mãe recebeu informações sobre o destino do pai há mui
 
 A descoberta pode provocar uma conversa difícil entre as duas.
 
-**Resultado possível:** Marina finalmente conta sobre a expedição e a morte de Dário.
+**Resultado possível:** Marina conta o que sabe sobre a partida solitária de Dário, embora não tenha confirmação sobre o destino dele.
 
 ### 2. O colar reconhecido
 
@@ -493,7 +485,7 @@ Durante uma conversa com Marina, Freya descobre que Raul também havia feito peq
 | Integrante | Atuação |
 |---|---|
 | [[Freya Naevus]] | Aprendiz da Casa Médica, sob orientação de Dona Clara |
-| [[Marina Vilar]] | Preparação, conservação e reparo de tecidos e materiais médicos na Casa Médica |
+| [[Marina Azevedo]] | Preparação, conservação e reparo de tecidos e materiais médicos na Casa Médica |
 | [[Luna Azevedo]] | Criança de 7 anos; sem função formal |
 | [[Raul Azevedo]] | Falecido em 2074; em vida, realizava manutenção de reservatórios, calhas e tubulações |
 | [[Dário Naevus]] | Desaparecido para Freya; não exerce função atual no Ninho |
@@ -518,7 +510,7 @@ A Família Naevus está ligada a diferentes áreas da comunidade.
 
 - [[Freya Naevus]]
     
-- [[Marina Vilar]]
+- [[Marina Azevedo]]
     
 - [[Dário Naevus]]
     
