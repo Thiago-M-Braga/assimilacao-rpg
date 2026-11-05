@@ -104,7 +104,7 @@ Suas atividades incluem:
 - Organizar retalhos e materiais que possam ser aproveitados em curativos.
 - Avisar Clara quando os materiais têxteis estiverem em falta.
 
-Seu trabalho complementa o atendimento de [[Dona Clara Fagundes]] e o apoio de [[Lívia Fagundes]]. Marina não administra a Casa Médica nem realiza procedimentos clínicos. Sua função é preparar e conservar os materiais de tecido usados no cuidado dos moradores.
+Seu trabalho complementa o atendimento de [[Dona Clara Fagundes]] e o aprendizado de [[Freya Naevus]]. Marina não administra a Casa Médica nem realiza procedimentos clínicos. Sua função é preparar e conservar os materiais de tecido usados no cuidado dos moradores.
 
 ### Relação com Freya
 
@@ -130,7 +130,7 @@ Marina suspeita que Dário morreu durante uma expedição no mundo exterior, mas
 
 Dário partiu sozinho e nunca retornou. Marina não recebeu notícias confirmadas e passou a considerar provável que ele tenha morrido, embora não saiba como ou onde.
 
-Ela evita contar a verdade porque teme que Freya interprete a história como um convite para sair do Ninho e procurar o lugar onde o pai morreu.
+Ela evita contar o que sabe porque teme que Freya interprete a história como um convite para sair do Ninho à procura do pai ou de pistas sobre seu destino.
 
 Também guarda ressentimento: Dário escolheu partir, deixando-a responsável pela criação da filha.
 
@@ -183,7 +183,7 @@ Dário partiu sozinho em 2064. Durante a expedição, encontrou um grupo de sobr
 
 Marina ficou profundamente abalada com o relato.
 
-Além da dor de perder Dário, sentiu raiva por ele ter deixado a família para trás.
+Além da dor causada pela ausência de Dário, sentiu raiva por ele ter deixado a família para trás.
 
 Quando Freya perguntava sobre o pai, Marina não conseguia separar a saudade do ressentimento.
 
@@ -565,7 +565,7 @@ A Família Naevus está ligada a diferentes áreas da comunidade.
 
 A Família Naevus representa duas formas diferentes de ausência.
 
-A primeira é a ausência de Dário, um pai que partiu em busca do mundo exterior e morreu longe da filha. Sua história se conecta ao desejo de exploração e à curiosidade de Freya sobre o passado.
+A primeira é a ausência de Dário, um pai que partiu sozinho em busca do mundo exterior e se juntou a outro grupo de sobreviventes, permanecendo distante da filha. Sua história se conecta ao desejo de exploração e à curiosidade de Freya sobre o passado.
 
 A segunda é a ausência de Raul, uma figura paterna que permaneceu no Ninho, participou da criação de Freya e morreu antes que pudesse acompanhar o crescimento das filhas.
 
