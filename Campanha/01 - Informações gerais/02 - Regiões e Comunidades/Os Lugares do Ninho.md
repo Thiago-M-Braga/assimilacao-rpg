@@ -68,14 +68,14 @@ O interior é simples, mas um pouco mais preservado que o restante das casas. H�
 
 **Localização:** Próxima ao centro da vila  
 **Responsável:** Helena Noctua
-**Equipe:** Maria Evans, Fernando Evans e Iara Salles  
+**Equipe:** Maria Evans e Fernando Evans  
 **Uso:** Preparação e distribuição de alimentos
 
 A Cozinha Comunitária é um dos lugares mais movimentados do Ninho. Todos dependem dela, e seu funcionamento organiza boa parte da rotina diária.
 
 As refeições são preparadas com ingredientes das plantações, da estufa, do curral e dos estoques. Nada é desperdiçado. Cascas, ossos, sementes e sobras aproveitáveis são separados e destinados a outros usos.
 
-Helena coordena o trabalho e tenta manter o ambiente acolhedor, mesmo quando a comida é pouca. Maria e Fernando auxiliam no preparo e na distribuição. Iara organiza os ingredientes recebidos e registra o consumo diário da cozinha; esse registro não lhe dá acesso ou responsabilidade pelo Armazém.
+Helena coordena o trabalho e tenta manter o ambiente acolhedor, mesmo quando a comida é pouca. Maria e Fernando auxiliam no preparo, na organização dos ingredientes e na distribuição.
 
 ### Atmosfera
 
@@ -110,12 +110,12 @@ Cheiros de comida, fumaça, panelas batendo e conversas se misturam durante boa 
 ## 3. Ferro-Velho e Forja
 
 **Localização:** Setor de oficinas  
-**Responsáveis:** Hugo Becker, Marta Becker e Jonas Becker  
+**Responsáveis:** Hugo Becker e Marta Becker  
 **Uso:** Recuperação de sucata, fabricação e reparo de ferramentas
 
 A Forja é um espaço quente, barulhento e coberto por fuligem. Pilhas de sucata são separadas por tipo de metal, enquanto ferramentas antigas aguardam reparo em prateleiras improvisadas.
 
-Hugo coordena o trabalho com o metal e fabrica ferramentas, utensílios, suportes e peças de reposição. Marta prepara acabamentos, luvas, aventais, bainhas, correias e proteções. Jonas atua como aprendiz, separando materiais e auxiliando na produção.
+Hugo coordena o trabalho com o metal e fabrica ferramentas, utensílios, suportes e peças de reposição. Marta prepara acabamentos, luvas, aventais, bainhas, correias e proteções.
 
 O lugar também funciona como área de triagem de materiais reaproveitáveis. Quase nada é descartado sem antes passar pela avaliação dos Beckers.
 
@@ -151,13 +151,13 @@ O som do martelo contra o metal é constante. O ar é pesado, e o chão está co
 
 **Localização:** Próxima às residências  
 **Responsável:** Dona Clara Fagundes
-**Equipe:** Lívia Fagundes e Freya Naevus
-**Apoio:** Marina Vilar e Marcio Fagundes, quando possível  
+**Equipe:** Freya Naevus
+**Apoio:** Marina Azevedo e Marcio Fagundes, quando possível  
 **Uso:** Atendimento, tratamento e armazenamento de medicamentos
 
 A Casa Médica é pequena e organizada de maneira rigorosa. Prateleiras guardam frascos, panos limpos, instrumentos, ervas secas e os poucos medicamentos que ainda podem ser utilizados.
 
-Dona Clara coordena os tratamentos e decide como os recursos médicos devem ser distribuídos. Lívia auxilia nos cuidados cotidianos e na organização do espaço.
+Dona Clara coordena os tratamentos e decide como os recursos médicos devem ser distribuídos. Freya acompanha os atendimentos como aprendiz, sob a orientação de Clara.
 
 Marcio Fagundes também permanece ali durante grande parte do tempo, sob os cuidados da esposa.
 
@@ -175,7 +175,7 @@ Os moradores respeitam a Casa Médica porque sabem que, sem ela, um ferimento si
     
 - Freya Naevus.
     
-- Marina Vilar, quando está ajudando com tecidos e materiais médicos.
+- Marina Azevedo, quando está ajudando com tecidos e materiais médicos.
     
 - Marcio Fagundes, em tarefas simples e supervisionadas.
     
@@ -560,9 +560,9 @@ Essas referências devem ser preservadas ao criar um mapa mais detalhado.
 |Lugar|Função principal|NPCs associados|
 |---|---|---|
 |Casa Principal|Liderança|Elias, Davi e Elisa|
-|Cozinha Comunitária|Alimentação|Helena, Maria, Fernando e Iara|
-|Ferro-Velho e Forja|Ferramentas, metalurgia e acessórios|Hugo, Marta e Jonas Becker|
-|Casa Médica|Saúde|Clara, Lívia, Freya, Marina e apoio eventual de Marcio|
+|Cozinha Comunitária|Alimentação|Helena, Maria e Fernando|
+|Ferro-Velho e Forja|Ferramentas, metalurgia e acessórios|Hugo e Marta Becker|
+|Casa Médica|Saúde|Clara, Freya, Marina e apoio eventual de Marcio|
 |Curral|Animais|Breno e Cecília; Thomas acompanha os pais, sem função formal|
 |Plantações e Estufa|Agricultura|Gael; Mabel participa voluntariamente|
 |Armazém|Suprimentos|Administração comunitária|
