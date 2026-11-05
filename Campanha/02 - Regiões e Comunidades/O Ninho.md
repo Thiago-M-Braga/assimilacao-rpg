@@ -149,7 +149,7 @@ As pessoas passaram a assumir responsabilidades mais definidas, dividindo o trab
 
 Por volta de 2035, a chegada de refugiados e viajantes ao Ninho praticamente cessou. As estradas estavam cada vez mais perigosas, as ruínas haviam se tornado ambientes hostis e a transformação dos ecossistemas dificultava o deslocamento. O assentamento deixou de receber pessoas de fora de maneira regular, mas não proibiu seus moradores de sair.
 
-Nas décadas seguintes, alguns habitantes organizaram expedições por iniciativa própria, sem obrigação ou convocação da liderança. Essas partidas eram voluntárias e cada pessoa sabia que poderia não retornar. Nenhuma das expedições que saiu do Ninho voltou. A morte de Dário em 2064 foi conhecida porque um sobrevivente de sua expedição conseguiu retornar; ele foi a exceção que confirmou o risco, não o início de uma política de viagens obrigatórias. Artur também decidiu partir por vontade própria em 2069. O Ninho não recebe notícias regulares do exterior e não mantém contato confirmado com outras comunidades.
+Nas décadas seguintes, alguns habitantes organizaram expedições por iniciativa própria, sem obrigação ou convocação da liderança. Essas partidas eram voluntárias e cada pessoa sabia que poderia não retornar. Nenhuma das expedições que saiu do Ninho voltou. A expedição de Dário em 2064 não retornou, e ninguém trouxe notícias confirmadas sobre o que aconteceu com o grupo. Artur também decidiu partir por vontade própria em 2069. Nenhuma pessoa que saiu em expedição após o fim das chegadas regulares voltou ao Ninho. O Ninho não recebe notícias regulares do exterior e não mantém contato confirmado com outras comunidades.
 
 ### Ano 55 — O presente
 
