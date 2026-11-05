@@ -62,7 +62,7 @@ O sistema de cultivo está contaminado pelo [[Micélio de Cobalto]]. O fungo che
 
 Com o tempo, o micélio se espalhou por partes do solo, do composto e da água compartilhados entre canteiros. A contaminação não está limitada a uma planta medicinal ou a uma espécie vegetal. Alimentos e ervas cultivados em áreas ligadas ao sistema contaminado podem acumular compostos produzidos pelo fungo.
 
-A exposição acontece principalmente pela ingestão repetida. Pessoas com baixa resistência física e atividade de Assimilação elevada são mais vulneráveis, mas nem todos os moradores adoecem.
+A exposição acontece pela ingestão repetida de plantas e preparações vegetais provenientes do sistema contaminado. O Micélio coloniza somente plantas e o ambiente de cultivo: não contamina animais, carne, leite ou ovos. Pessoas com baixa resistência física e atividade de Assimilação elevada são mais vulneráveis, mas nem todos os moradores adoecem.
 
 A contaminação não é conhecida por Gael, Mabel ou pela maioria dos trabalhadores do setor. Pequenas diferenças de crescimento foram interpretadas como problemas de nutrientes, clima ou qualidade do solo.
 
