@@ -396,11 +396,26 @@ O muro é uma presença constante na vida do Ninho. Seu tamanho transmite segura
 **Localização:** Distribuídos pelo interior dos muros  
 **Uso:** Moradia e vida privada
 
-As residências são construções pequenas, adaptadas conforme os materiais disponíveis. Algumas aproveitam partes da antiga fazenda; outras foram erguidas pelos próprios moradores ao longo das décadas.
+As residências são construções pequenas, adaptadas conforme os materiais disponíveis. Algumas aproveitam partes da antiga fazenda; outras foram erguidas pelos próprios moradores ao longo das décadas. A Casa 8 foi construída com materiais reaproveitados para oferecer uma moradia independente a Ithan Voos depois da partida de seu pai.
 
 Madeira reaproveitada, tijolos, telhas de zinco e chapas metálicas são comuns. As casas costumam ter poucos cômodos e mobiliário simples.
 
 Cada família organiza seu espaço de acordo com suas necessidades. Objetos herdados, ferramentas, fotografias antigas e lembranças do passado são alguns dos poucos itens pessoais preservados.
+
+### Distribuição das casas familiares
+
+| Casa | Família ou morador | Observações |
+|---|---|---|
+| Casa 1 | Família Ninho | Casa Principal e residência de Elias, Davi e Elisa |
+| Casa 2 | Família Evans | Maria e Fernando; o bebê ainda está para nascer |
+| Casa 3 | Família Lane | Breno, Cecília e Thomas |
+| Casa 4 | Família Fagundes | Residência junto à Casa Médica |
+| Casa 5 | Família Noctua | Gael, Helena e Mabel |
+| Casa 6 | Família Naevus | Marina, Freya e Luna |
+| Casa 7 | Família Becker | Próxima ao Ferro-Velho e à Forja |
+| Casa 8 | Família Voos | Moradia de Ithan; Artur não reside no Ninho |
+
+A numeração identifica as moradias, mas não define a posição delas no terreno. A localização exata das Casas 6 e 8, assim como a disposição entre todas as residências, continua sem levantamento cartográfico.
 
 ### Atmosfera
 
