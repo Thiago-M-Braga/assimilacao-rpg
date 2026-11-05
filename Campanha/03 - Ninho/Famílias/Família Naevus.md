@@ -395,7 +395,8 @@ O objeto não revela sozinho o destino de Dário, mas confirma que ele existiu e
 |2067|Marina inicia relacionamento com Raul|Freya: 11; Marina: 33; Raul: 36|
 |2068|Raul passa a fazer parte da rotina familiar|Freya: 12|
 |2073|Nascimento de Luna|Freya: 17; Marina: 39; Raul: 42|
-|2070|Raul começa a apresentar sintomas discretos da Doença Azul|Freya: 14; Marina: 36; Raul: 39|\n|2074|Raul morre; Marina entrega o colar de Dário a Freya quando ela completa 18 anos|Freya: 18; Marina: 40; Luna: 1|
+|2070|Raul começa a apresentar sintomas discretos da Doença Azul|Freya: 14; Marina: 36; Raul: 39|
+|2074|Raul morre; Marina entrega o colar de Dário a Freya quando ela completa 18 anos|Freya: 18; Marina: 40; Luna: 1|
 |2074|Marina entrega o colar a Freya em seu aniversário de 18 anos|Freya: 18|
 |2078–2079|Luna apresenta sinais discretos no fim de 2078, percebidos claramente em 2079|Freya: 23; Luna: 6|
 |2080|Presente da campanha|Freya: 24; Marina: 46; Luna: 7|
