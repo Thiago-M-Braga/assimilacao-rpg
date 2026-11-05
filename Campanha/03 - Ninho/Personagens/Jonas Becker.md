@@ -29,7 +29,7 @@ tags:
 - **Irmão:** [[Clark Becker]]
 - **Residência:** Próxima ao Ferro-Velho e à Forja
 - **Ocupação:** Aprendiz de metalurgia e auxiliar de produção
-- **Setor:** [[Ferro-Velho e Forja]]
+- **Setor:** [[Os Lugares do Ninho#3. Ferro-Velho e Forja]]
 
 ## Visão geral
 
@@ -119,6 +119,6 @@ A doença de Clark também o preocupa, pois a ausência do irmão mudou a rotina
 - [[Marta Becker]]
 - [[Clark Becker]]
 - [[Ithan Voos]]
-- [[Ferro-Velho e Forja]]
+- [[Os Lugares do Ninho#3. Ferro-Velho e Forja]]
 - [[Estação de Energia]]
 - [[O Ninho]]
