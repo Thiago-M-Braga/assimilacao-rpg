@@ -30,7 +30,7 @@ A família vive na Casa 1, a Casa Principal do Ninho.
 
 A Família Ninho é a linhagem dos antigos proprietários da fazenda onde a comunidade foi estabelecida. Desde os primeiros anos após o Colapso, seus integrantes ocupam uma posição central na organização do povoado.
 
-A liderança passou de geração em geração por uma hierarquia familiar. Essa tradição não significa que todos os moradores sejam obrigados a aceitar cada decisão dos Ninho, mas confere à família uma autoridade histórica que se mistura à responsabilidade pela sobrevivência coletiva.
+A liderança passou de geração em geração por uma hierarquia familiar. A tradição estabelece que, quando o líder possui mais de um filho, o mais velho é o sucessor. Essa regra nunca precisou ser aplicada a uma disputa entre irmãos, pois os líderes anteriores tiveram apenas um filho que chegou à idade de assumir a responsabilidade. Elias é o primeiro líder cuja sucessão envolve dois filhos adultos. A tradição não significa que todos os moradores sejam obrigados a aceitar cada decisão dos Ninho, mas confere à família uma autoridade histórica que se mistura à responsabilidade pela sobrevivência coletiva.
 
 Em 2080, a família é composta por Elias e seus dois filhos adultos, Davi e Elisa. Dalva, esposa de Elias e mãe dos jovens, morreu em 2079.
 
@@ -151,7 +151,7 @@ A família possui três tensões principais:
 
 **Elias e Davi — Autoridade e sucessão**
 
-Elias espera que Davi seja capaz de assumir responsabilidades e proteger o Ninho. Davi deseja conquistar a confiança do pai, mas não quer ser tratado apenas como seu sucessor ou guarda-costas.
+Elias espera que Davi seja capaz de assumir responsabilidades e proteger o Ninho. Davi deseja conquistar a confiança do pai, mas não quer ser tratado apenas como seu sucessor ou guarda-costas. Apesar de ser o sucessor indicado pela tradição, sabe que essa regra nunca foi testada entre dois irmãos adultos.
 
 **Elias e Elisa — Tradição e mudança**
 
