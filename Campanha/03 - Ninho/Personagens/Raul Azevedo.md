@@ -74,13 +74,13 @@ Raul era o pai biológico de Luna e acompanhou seus primeiros anos de vida. Morr
 
 ## A doença e a morte
 
-Raul começou a apresentar sintomas em 2074. Sua condição piorou ao longo dos meses e ele morreu no mesmo ano. Na época, a causa não foi identificada.
+Raul começou a apresentar sintomas discretos por volta de 2070, após anos de exposição à produção vegetal contaminada. O quadro avançou gradualmente pelos estágios da Doença Azul. O trabalho físico constante e a tendência a ignorar o cansaço contribuíram para acelerar a progressão nos últimos anos. A doença chegou ao estágio IV em 2074, quando Raul morreu. Na época, a causa não foi identificada.
 
 **Verdade do mestre:** Raul foi uma das primeiras vítimas conhecidas da [[A Doença Azul]] no Ninho. A exposição prolongada aos alimentos produzidos na estufa contaminada, combinada com baixa resistência física e atividade elevada de Assimilação, tornou seu organismo vulnerável. A família e os médicos não conheciam essa origem.
 
 ## Segredos do mestre
 
-- Raul morreu da Doença Azul em 2074.
+- Raul morreu da Doença Azul em 2074, depois de apresentar os primeiros sintomas por volta de 2070.
 - A doença estava relacionada à exposição alimentar prolongada à produção contaminada pelo Micélio de Cobalto.
 - Raul não foi infectado por contato com outra pessoa.
 - A família nunca recebeu uma explicação definitiva durante sua vida.
