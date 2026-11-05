@@ -85,7 +85,7 @@ A localização da Vigília não é conhecida pelos moradores do [[O Ninho]].
 
 Artur percorreu a distância entre as duas comunidades durante sua expedição, mas nunca conseguiu estabelecer um caminho de retorno seguro.
 
-A tentativa de retorno realizada em 2073 foi interrompida por um ataque de [[Primais]].
+A tentativa de retorno realizada em 2073 foi interrompida por um ataque de [[A Nova Ecologia#6.2. Primais]].
 
 A rota não está completamente perdida, mas exige reconhecimento e preparação antes de ser utilizada novamente.
 
@@ -544,7 +544,7 @@ Os moradores são orientados a não deixar a instalação sem comunicar o destin
 
 A região apresenta riscos semelhantes aos encontrados em outras áreas do mundo exterior:
 
-- [[Primais]] em grupos itinerantes.
+- [[A Nova Ecologia#6.2. Primais]] em grupos itinerantes.
     
 - Animais alterados e predadores.
     
@@ -633,7 +633,7 @@ Os moradores conhecem diferentes regiões e possuem relatos de outros assentamen
 
 Sabem que existem comunidades muito diferentes entre si, algumas que mantêm comércio e outras que atacam viajantes.
 
-Também conhecem os perigos representados pelos [[Primais]], pelas criaturas alteradas e pelas regiões contaminadas.
+Também conhecem os perigos representados pelos [[A Nova Ecologia#6.2. Primais]], pelas criaturas alteradas e pelas regiões contaminadas.
 
 A Vigília não possui conhecimento completo do mundo.
 
@@ -657,7 +657,7 @@ Existem três motivos principais:
 
 **1. O Ninho não possui um sistema de rádio de longo alcance em funcionamento.**
 
-A energia disponível na comunidade é utilizada principalmente para manter a eletrificação do [[Muro de Sucata]].
+A energia disponível na comunidade é utilizada principalmente para manter a eletrificação do [[O Muro de Sucata]].
 
 Os moradores não possuem uma estrutura de comunicação comparável à da Vigília.
 
@@ -687,7 +687,7 @@ A mensagem contém informações técnicas sobre uma instalação de retransmiss
 
 O sinal desaparece antes que seja possível identificar completamente sua origem.
 
-**Conexões:** [[Ithan Voos]], [[Estação de Energia]] e [[Rede de Comunicação da Vigília]].
+**Conexões:** [[Ithan Voos]], [[Estação de Energia]] e [[Vigília do Relé#Comunicação]].
 
 ### 2. O nome de Artur
 
@@ -811,11 +811,11 @@ A cooperação pode beneficiar os dois assentamentos, mas também criar novos ri
 
 - [[A Expedição de Artur Voos]]
     
-- [[A Pulseira de Ithan]]
+- [[Ithan Voos#A pulseira de Ithan]]
     
-- [[A Rede de Comunicação da Vigília]]
+- [[Vigília do Relé#Comunicação]]
     
-- [[Rotas até a Vigília do Relé]]
+- [[Vigília do Relé#Acesso]]
     
 
 ### Contexto do mundo
@@ -826,7 +826,7 @@ A cooperação pode beneficiar os dois assentamentos, mas também criar novos ri
     
 - [[Conhecimento e Lendas do Ninho]]
     
-- [[Primais]]
+- [[A Nova Ecologia#6.2. Primais]]
     
 
 ## 18. Função narrativa
