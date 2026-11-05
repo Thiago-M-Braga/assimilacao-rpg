@@ -192,7 +192,7 @@ Clara realizou novas observações e guardou uma pequena amostra do sangue em um
 
 Elias foi informado sobre o acontecimento.
 
-Os três compreenderam que estavam diante de algo que não deveria ser conhecido pelos demais moradores sem que houvesse alguma explicação.
+Clara e Elias compreenderam que estavam diante de algo que não deveria ser conhecido pelos demais moradores sem que houvesse alguma explicação. Dalva não recebeu uma explicação sobre a alteração e não compreendeu sua causa.
 
 ### Os últimos dias
 
