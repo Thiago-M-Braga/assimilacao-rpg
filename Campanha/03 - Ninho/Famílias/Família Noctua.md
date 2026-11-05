@@ -19,7 +19,7 @@ tags:
 
 ## Visão geral
 
-A Família Noctua é formada por Gael, Helena e Mabel. O núcleo participa de duas áreas essenciais da comunidade, com responsabilidades separadas: Gael é o responsável pelas Plantações e Estufa; Helena coordena a Cozinha Comunitária. Mabel participa voluntariamente de atividades da estufa, mas não possui cargo formal nem substitui o pai na responsabilidade pelo setor.
+A Família Noctua é formada por Gael, Helena e Mabel. O núcleo participa de duas áreas essenciais da comunidade, com responsabilidades separadas: Gael é o responsável pelas Plantações e Estufa; Helena coordena a Cozinha Comunitária. Mabel tem 25 anos e participa voluntariamente de atividades da estufa, mas não possui cargo formal nem substitui o pai na responsabilidade pelo setor.
 
 ## Integrantes
 
