@@ -3,7 +3,7 @@ tipo: local
 categoria: instalacao-agricola
 status: canon
 visibilidade: mestre
-localizacao: Região exterior ainda não cartografada com precisão
+localizacao: Área baixa a sudoeste do Ninho, no Vale do Rio Claro; aproximadamente 8–12 km por rota rural
 tags:
   - mundo
   - local
