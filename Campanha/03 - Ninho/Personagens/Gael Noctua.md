@@ -5,6 +5,7 @@ idade: 50
 nascimento: 2030
 ocupacao: Agricultor e responsável pela estufa
 local: O Ninho
+familia: "[[Família Noctua]]"
 status: vivo
 tags:
   - personagem
