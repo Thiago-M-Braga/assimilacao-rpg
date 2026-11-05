@@ -57,7 +57,7 @@ Sua sobrevivência depende de atividades essenciais:
 - Defesa permanente do perímetro.
     
 
-A comunidade funciona de maneira coletiva. Diferentes moradores são responsáveis por atividades específicas e contribuem diretamente para o funcionamento do lugar. Os recursos armazenados na fazenda eram abundantes no momento do Colapso. Durante os primeiros anos, os moradores consumiam apenas uma refeição racionada por dia enquanto reativavam e ampliavam a produção agrícola e a criação de animais. As reservas foram sendo complementadas pela produção própria e permitiram atravessar os anos de reconstrução. Em 2080, porém, os estoques alimentares estão próximos do esgotamento: resta aproximadamente um mês de comida, e a próxima produção relevante ainda não estará pronta a tempo. O Ninho não é plenamente autossuficiente e está diante de uma crise concreta de abastecimento.
+A comunidade funciona de maneira coletiva. Diferentes moradores são responsáveis por atividades específicas e contribuem diretamente para o funcionamento do lugar. No momento do Colapso, a fazenda possuía reservas fartas de alimentos no Armazém. Nos primeiros anos, os sobreviventes consumiam apenas uma refeição racionada por dia enquanto recuperavam e ampliavam a produção agrícola e a criação de animais. As reservas foram sendo complementadas pelo que conseguiam produzir, permitindo atravessar os anos de reconstrução. Em 2080, a situação se inverteu: o estoque alimentar do Armazém tem aproximadamente mais um mês de comida, mas a próxima produção relevante ainda não estará pronta a tempo. O Ninho não é plenamente autossuficiente e enfrenta uma crise concreta de abastecimento. Os recursos armazenados na fazenda eram abundantes no momento do Colapso. Durante os primeiros anos, os moradores consumiam apenas uma refeição racionada por dia enquanto reativavam e ampliavam a produção agrícola e a criação de animais. As reservas foram sendo complementadas pela produção própria e permitiram atravessar os anos de reconstrução. Em 2080, porém, os estoques alimentares estão próximos do esgotamento: resta aproximadamente um mês de comida, e a próxima produção relevante ainda não estará pronta a tempo. O Ninho não é plenamente autossuficiente e está diante de uma crise concreta de abastecimento.
 
 ### Características conhecidas
 
@@ -73,7 +73,7 @@ A comunidade funciona de maneira coletiva. Diferentes moradores são responsáve
 |Alimentação|Agricultura, criação de animais e estoques|
 |Organização|Liderança familiar hereditária e trabalho comunitário|
 |Contato exterior|Sem contato regular; expedições voluntárias ainda podem partir, mas nenhuma retornou|
-|População atual|24 habitantes, incluindo todos os moradores vivos nomeados nos documentos|\n|Economia|Recursos de utilidade e escambo|
+|População atual|24 habitantes; a lista de moradores é completa|\n|Economia|Recursos de utilidade e escambo|
 
 ## 2. Origem — A fazenda que sobreviveu
 
@@ -85,17 +85,9 @@ Sua posição elevada foi um dos fatores decisivos para que seus habitantes sobr
 
 ### 2.1. A localização geográfica
 
-A fazenda estava construída sobre um morro ou montanha.
+A fazenda estava construída sobre um morro ou montanha, na margem oeste do Rio Claro, que passa diante do vilarejo. Durante o Dia Zero, as linhas de energia cruzaram a superfície do planeta com espaçamento médio estimado em aproximadamente 500 metros entre trajetórias. A fazenda não possuía proteção especial: por sorte, nenhuma linha atingiu diretamente suas estruturas principais. A localização elevada e as condições climáticas locais ajudaram sobretudo a reduzir parte da exposição à precipitação radioativa e à contaminação posterior.
 
-Durante o Dia Zero e os períodos posteriores, as maiores concentrações de contaminação se acumularam especialmente em vales, planícies, bacias hidrográficas e grandes centros urbanos.
-
-A localização elevada ofereceu uma proteção natural contra parte dessa contaminação.
-
-Além disso, as condições climáticas da região contribuíram para a sobrevivência do local.
-
-Os ventos dominantes criaram uma espécie de corredor onde grande parte da precipitação radioativa passou ao largo ou se dispersou antes de alcançar o topo do morro.
-
-Essa combinação de fatores ajudou a preservar a fazenda durante os anos mais perigosos.
+O único portão do muro fica voltado para o rio. Um caminho externo liga o portão à ponte reforçada que cruza o Rio Claro e alcança a Mata da Margem, no terreno adiante. A geografia regional está registrada em [[Mapa Regional do Vale do Rio Claro]].
 
 ### 2.2. O poço artesiano
 
@@ -153,19 +145,11 @@ Esse período também marcou a consolidação das atividades internas do vilarej
 
 As pessoas passaram a assumir responsabilidades mais definidas, dividindo o trabalho agrícola, a criação de animais, a recuperação de ferramentas e a proteção do perímetro.
 
-### Ano 10 em diante — O fechamento
+### Por volta de 2035 em diante — O fim das chegadas regulares e as partidas voluntárias
 
-Por volta de dez anos após o Dia Zero, a chegada de pessoas de fora praticamente cessou.
+Por volta de 2035, a chegada de refugiados e viajantes ao Ninho praticamente cessou. As estradas estavam cada vez mais perigosas, as ruínas haviam se tornado ambientes hostis e a transformação dos ecossistemas dificultava o deslocamento. O assentamento deixou de receber pessoas de fora de maneira regular, mas não proibiu seus moradores de sair.
 
-As estradas estavam cada vez mais perigosas, as ruínas haviam se tornado ambientes hostis e a transformação dos ecossistemas dificultava o deslocamento.
-
-Os últimos refugiados que chegaram trouxeram relatos de um mundo em ruínas e de regiões cada vez mais perigosas.
-
-Com o passar do tempo, a comunidade deixou de receber novos grupos de maneira regular.
-
-O Ninho se fechou.
-
-As gerações seguintes nasceram e cresceram inteiramente dentro de seus muros.
+Nas décadas seguintes, alguns habitantes organizaram expedições por iniciativa própria, sem obrigação ou convocação da liderança. Essas partidas eram voluntárias e cada pessoa sabia que poderia não retornar. Nenhuma das expedições que saiu do Ninho voltou. A morte de Dário em 2064 foi conhecida porque um sobrevivente de sua expedição conseguiu retornar; ele foi a exceção que confirmou o risco, não o início de uma política de viagens obrigatórias. Artur também decidiu partir por vontade própria em 2069. O Ninho não recebe notícias regulares do exterior e não mantém contato confirmado com outras comunidades.
 
 ### Ano 55 — O presente
 
@@ -340,33 +324,15 @@ Hugo Becker não trabalha na estação: ele coordena o Ferro-Velho e a Forja. A 
 > [!important] Principal defesa do Ninho  
 > O muro representa a fronteira física entre a segurança do vilarejo e os perigos desconhecidos do mundo exterior.
 
-A construção começou entre o segundo e o quinto ano após o Dia Zero.
+A construção começou entre 2027 e 2030. Com aproximadamente cinco metros de altura, foi feita de metal, madeira, veículos desmontados e outros materiais reaproveitados.
 
-Com aproximadamente cinco metros de altura, foi construído a partir de materiais metálicos e sucata reaproveitada.
+O Ninho possui apenas um portão grande, suficiente para passar uma caminhonete. O portão também é eletrificado e possui barreiras reforçadas instaladas do lado de dentro. Para permitir uma saída ou entrada, Ithan desliga a eletricidade de todo o muro; Vicente, Davi ou Elisa supervisionam a retirada das barreiras e a abertura. Depois da passagem, o portão é fechado, as barreiras são recolocadas e Ithan religa o circuito.
 
-Sua função é impedir que ameaças externas alcancem as estruturas internas.
+Fios desencapados percorrem a estrutura metálica e mantêm o muro energizado continuamente. Quando está ligado, normalmente é possível ouvir um zumbido ou pequenos estalos elétricos. O sistema é alimentado pelo gerador eólico da [[Estação de Energia]] e por uma única bateria de reserva. Quando não há vento, a bateria mantém o muro ligado até descarregar. Não existe outra fonte; se a bateria acaba antes de o vento retornar, o muro fica sem eletricidade.
 
-O muro também representa uma divisão simbólica.
+A operação de abertura do portão deixa o Ninho temporariamente mais vulnerável, pois todo o perímetro é desenergizado durante a passagem. O muro não é uma prisão: os habitantes podem sair por vontade própria, seguindo os procedimentos de segurança, mas cada expedição assume o risco de não retornar.
 
-Para os moradores nascidos dentro dele, é praticamente o limite do mundo conhecido.
-
-### 5.1. Eletrificação
-
-O muro possui um sistema de eletrificação alimentado pelo gerador eólico da estação de energia.
-
-Devido à escassez de componentes e às dificuldades de manutenção, a eletricidade disponível é utilizada de maneira extremamente restrita.
-
-A prioridade é manter a defesa do perímetro.
-
-O funcionamento desse sistema depende diretamente do trabalho de [[Ithan Voos]] e da preservação da estação.
-
-### 5.2. Dependência energética
-
-A eletrificação é uma proteção importante, mas também representa uma vulnerabilidade.
-
-Caso a estação deixe de funcionar, a comunidade poderá perder sua principal defesa elétrica.
-
-A manutenção dos equipamentos, a preservação de peças e o conhecimento técnico são fundamentais para impedir esse cenário.
+O funcionamento elétrico depende diretamente de [[Ithan Voos]]. A Forja dos Beckers fornece componentes metálicos quando solicitada, mas não administra nem opera o sistema.
 
 ## 6. Organização social e liderança
 
