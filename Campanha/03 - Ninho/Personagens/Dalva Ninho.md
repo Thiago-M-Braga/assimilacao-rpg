@@ -6,6 +6,7 @@ nascimento: 2026
 falecimento: 2079
 ocupacao: Mediadora comunitária
 local: O Ninho
+familia: "[[Família Ninho]]"
 status: falecida
 tags:
   - personagem
