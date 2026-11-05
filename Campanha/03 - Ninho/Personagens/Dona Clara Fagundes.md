@@ -5,6 +5,7 @@ idade: 58
 nascimento: 2022
 ocupacao: Médica e curandeira
 local: Casa Médica do Ninho
+familia: "[[Família Fagundes]]"
 status: viva
 tags:
   - personagem
