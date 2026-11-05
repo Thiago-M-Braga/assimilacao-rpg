@@ -145,7 +145,7 @@ A resposta varia entre pacientes. O cuidado pode prolongar uma fase e dar tempo 
 
 A progressão segue a mesma lógica para todos os pacientes, mas a duração pode variar conforme a intensidade da exposição, a predisposição individual e os fatores que aceleram ou retardam o quadro.
 
-Como referência de preparação, considera-se que o percurso entre os primeiros sintomas e o estágio terminal costuma durar aproximadamente **três a cinco anos**.
+Como referência de preparação, considera-se que o percurso entre os primeiros sintomas e o estágio terminal costuma durar aproximadamente **três a cinco anos na maioria dos casos**. Quadros com aceleração intensa podem se aproximar do limite inferior de cerca de dois anos e meio; fatores de proteção podem prolongar a evolução.
 
 | Estágio | Duração de referência | Característica principal |
 |---|---:|---|
