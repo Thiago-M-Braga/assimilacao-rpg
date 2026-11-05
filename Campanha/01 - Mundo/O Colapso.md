@@ -176,7 +176,7 @@ Os organismos mais vulneráveis desapareceram de diversas regiões.
 
 Entre os sobreviventes estavam espécies capazes de encontrar abrigo em ambientes subterrâneos, locais protegidos ou regiões menos contaminadas.
 
-O planeta perdeu uma parcela significativa de sua biodiversidade original.
+O planeta perdeu uma parcela significativa de sua biodiversidade original. A radiação ionizante foi o fator que provocou as mutações biológicas; no universo do cenário, as alterações podem ser muito mais profundas do que as observadas na natureza anterior ao Dia Zero.
 
 ## 4. Anos 3 a 10 — A Mutação e a Adaptação
 
@@ -405,7 +405,7 @@ As consequências que permanecem em 2080 incluem:
 |**2025–2026**|Deslocamento de sobreviventes e formação de refúgios.|
 |**2026–2028**|Inverno Nuclear, contaminação e mortalidade biológica.|
 |**2028–2035**|Mutação, adaptação e transformação dos ecossistemas.|
-|**2030–2035**|Consolidação de comunidades isoladas. Fechamento do Ninho por volta de 2035.|
+|**2030–2035**|Consolidação gradual das estruturas do Ninho. Por volta de 2035, cessam as chegadas regulares de refugiados; expedições voluntárias ainda podem partir.|
 |**2035–2080**|Estabilização gradual da nova ecologia e expansão das comunidades isoladas.|
 |**2080 — Ano 55**|Presente da campanha. A humanidade sobrevive em um mundo dominado pela Nova Ecologia.|
 
