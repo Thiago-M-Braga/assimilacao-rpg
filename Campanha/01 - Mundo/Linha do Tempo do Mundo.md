@@ -28,7 +28,7 @@ Quando a data exata de um acontecimento não está definida, esta linha do tempo
 | 2029 | A família Fagundes chega à antiga fazenda, segundo a história de Clara. |
 | Por volta de 2033 | Uma expedição recupera materiais agrícolas no Viveiro do Vale. Esporos do Micélio de Cobalto se dispersam pelo ar durante o manuseio, quando a estufa ainda era aberta, e colonizam áreas de cultivo, solo e composto do Ninho. |
 | 2033–2040 | O Ninho amplia e estabiliza gradualmente seus sistemas de produção, defesa e armazenamento. A chegada de refugiados diminui até praticamente cessar por volta de 2035; depois disso, moradores ainda podem partir em expedições voluntárias, mas nenhuma retorna ao Ninho. |
-| 2034 | Artur Murphy morre durante uma atividade de reconhecimento; Vicente sobrevive ao ataque e carrega as cicatrizes. |
+| 2034 | Artur Murphy morre durante uma atividade voluntária de reconhecimento; Vicente sobrevive ao ataque e carrega as cicatrizes. |
 | 2050 | Nascimento de Davi Ninho. |
 | 2054 | Nascimento de Elisa Ninho e morte de Nair Bastos, mentora de Clara. |
 | 2056 | Nascimento de Freya Naevus. |
