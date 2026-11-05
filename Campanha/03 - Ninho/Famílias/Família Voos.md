@@ -3,6 +3,7 @@ tipo: familia
 categoria: nucleo-familiar
 nome: Família Voos
 local: "[[O Ninho]]"
+residencia: "Casa 8"
 personagem-vinculado: "[[Ithan Voos]]"
 status: definido
 visibilidade: mestre
@@ -17,6 +18,10 @@ tags:
 # Família Voos
 
 > "Um dia você vai precisar escolher entre ficar onde conhece tudo e descobrir o que existe além do horizonte."
+
+## Residência
+
+Ithan vive sozinho na Casa 8, uma moradia construída com materiais reaproveitados depois da partida de Artur. Artur não reside no Ninho.
 
 ## Visão geral
 
@@ -51,7 +56,7 @@ A família não possui outros integrantes ativos definidos nesta nota. Ithan nã
 **Nascimento aproximado:** 2058  
 **Situação:** Vivo  
 **Ocupação:** Engenheiro e responsável por serviços elétricos  
-**Residência:** O Ninho  
+**Residência:** Casa 8  
 **Pai:** Artur Voos
 
 Ithan cresceu ouvindo histórias sobre a tecnologia antiga e desenvolveu uma curiosidade que se tornou parte importante de sua personalidade.
@@ -274,7 +279,7 @@ A família Voos possui uma ligação importante com a infraestrutura elétrica d
 
 Artur ajudou a transmitir conhecimentos técnicos a Ithan, que atualmente trabalha na [[Estação de Energia]].
 
-### Ithan e Ithan Voos
+### Ithan Voos e Hugo Becker
 
 [[Ithan Voos]] é o responsável técnico pela Estação de Energia e conhece profundamente o gerador eólico utilizado pela comunidade. [[Hugo Becker]] coordena a Forja e fornece peças metálicas quando necessário.
 
