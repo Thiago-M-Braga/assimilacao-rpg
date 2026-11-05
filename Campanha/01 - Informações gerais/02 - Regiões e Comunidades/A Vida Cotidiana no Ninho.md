@@ -424,9 +424,5 @@ O Ninho não deve ser apresentado apenas como um lugar de preparação para aven
 - [[Gael Noctua]]
     
 - [[Dona Clara Fagundes]]
-    
-- [[Lívia Fagundes]]
-    
-- [[Iara Salles]]
-    
+
 - [[Marta Becker]]
