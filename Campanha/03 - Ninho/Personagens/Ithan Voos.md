@@ -182,7 +182,7 @@ Ithan participa da manutenção dos circuitos, da identificação de falhas e da
 
 ### Relação com Hugo Becker
 
-Ithan é o responsável técnico pela Estação de Energia e conhece profundamente o gerador eólico. [[Hugo Becker]] coordena a Forja e fornece peças metálicas quando necessário.
+Ithan é o responsável técnico pela Estação de Energia e conhece profundamente o gerador eólico. Seu conhecimento veio das lições práticas de Artur, do manual artesanal deixado pelo pai e de anos de experimentação, reparos e registros próprios. [[Hugo Becker]] coordena a Forja e fornece peças metálicas quando necessário.
 
 Ithan trabalha em colaboração com ele.
 
@@ -338,7 +338,7 @@ A descoberta desperta novas perguntas sobre o mundo anterior ao Colapso.
 
 **Conexões:** [[O Colapso]] e [[A Nova Ecologia]].
 
-### 3. Os paióis subterrâneos
+### O manual de Artur\n\nO manual continua em posse de Ithan. Suas páginas foram manuseadas, remendadas e preenchidas com observações feitas ao longo dos anos. Ele não contém todas as respostas: descreve princípios e métodos, mas não prevê as adaptações específicas que a estação sofreu depois do Colapso. Ithan precisa combinar o que lê com observação, testes cuidadosos e a experiência acumulada.\n\n### 3. Os paióis subterrâneos
 
 A investigação do Mal Azul pode levar o grupo aos [[Paióis Subterrâneos da Fazenda]], onde estão preservados registros e amostras agrícolas anteriores à contaminação do sistema de cultivo.
 
