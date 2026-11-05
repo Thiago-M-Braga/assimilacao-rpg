@@ -597,13 +597,13 @@ A visão dos habitantes deverá ser documentada separadamente em:
 
 ### 10.1. O sangue azul de Dalva
 
-Um mês antes de morrer, Dalva apresentou sangue de coloração azul.
+Um mês antes de morrer, Dalva apresentou sangue de coloração azul. Naquele momento, seu quadro já correspondia ao **Estágio III — Síndrome Azul**; nas semanas seguintes, avançou ao Estágio IV — Colapso, que culminou em sua morte em 2079.
 
-Somente Elias e [[Dona Clara Fagundes]] sabem disso.
+Somente Elias e [[Dona Clara Fagundes]] sabem que o sangue de Dalva ficou azul e que Clara preservou uma amostra. Nenhum dos dois compreendeu a causa da alteração ou conseguiu identificar a origem da doença durante a vida de Dalva.
 
-A causa da alteração nunca foi descoberta.
+**Verdade do mestre:** Dalva desenvolveu a Doença Azul após anos de exposição a alimentos e preparações vegetais provenientes de cultivos contaminados pelo [[Micélio de Cobalto]]. A baixa resistência física e a atividade elevada de Assimilação contribuíram para a reação desordenada. O fungo contamina somente plantas e o ambiente de cultivo; não coloniza animais nem contamina carne, leite ou ovos.
 
-A doença que levou à morte de Dalva permanece sem diagnóstico.
+A doença que levou à morte de Dalva permaneceu sem diagnóstico para os moradores do Ninho.
 
 Nota relacionada: [[Dalva Ninho]]
 
