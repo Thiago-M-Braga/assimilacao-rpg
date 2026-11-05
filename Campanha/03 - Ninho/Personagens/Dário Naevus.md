@@ -37,7 +37,7 @@ tags:
 
 Dário foi o pai biológico de Freya Naevus. Viveu no Ninho com Marina e a filha durante os primeiros oito anos de Freya. Era curioso, independente e fascinado pelo mundo exterior. Estudava mapas antigos, relatos de viajantes e possíveis rotas entre assentamentos.
 
-A ficha contém informações reservadas ao mestre. Para Freya, Dário desapareceu depois de sair do Ninho em uma expedição. Ela não sabe que ele morreu em 2064.
+A ficha contém informações reservadas ao mestre. Para Freya e Marina, Dário desapareceu depois de sair do Ninho em uma expedição. Nenhuma das duas possui confirmação de sua morte. A verdade do mestre é que ele morreu em 2064.
 
 ## Aparência e personalidade
 
@@ -55,7 +55,9 @@ A expedição foi atacada por um grupo de [[A Nova Ecologia#6.2. Primais]] duran
 
 ## O que Marina sabe
 
-Um sobrevivente retornou ao Ninho e contou a Marina o que ocorreu. Ela sabe que Dário morreu e guarda ressentimento por ele ter deixado a família para explorar o exterior. Nunca contou a verdade a Freya, pois teme que a filha procure o local da morte do pai.
+Nenhum integrante da expedição retornou ao Ninho. Marina nunca recebeu confirmação sobre o que aconteceu com Dário. Com o passar dos anos, passou a acreditar que ele morreu, mas não possui prova ou relato confiável. Guarda ressentimento por ele ter deixado a família para explorar o exterior e evita falar sobre o assunto com Freya, temendo que a filha decida partir à procura do pai.
+
+**Verdade do mestre:** Dário morreu durante o ataque em 2064. Seu corpo nunca foi recuperado e nenhum sobrevivente da expedição retornou ao Ninho para contar o que aconteceu.
 
 ## O que Freya acredita
 
