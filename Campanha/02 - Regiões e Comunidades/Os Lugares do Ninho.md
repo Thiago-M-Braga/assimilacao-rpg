@@ -485,6 +485,53 @@ Os caminhos são parte da rotina. Durante o dia, estão cheios de movimento. À 
 
 ---
 
+## Esquema funcional de localização
+
+O esquema abaixo representa relações de proximidade e função, não um mapa em escala. Ele não fixa pontos cardeais, distâncias ou posições exatas que ainda não foram estabelecidos.
+
+```text
+                         MURO DE SUCATA
+        ┌─────────────────────────────────────────────┐
+        │                                             │
+        │  Setor elevado e exposto ao vento           │
+        │  └─ Estação de Energia                      │
+        │                                             │
+        │  Área produtiva                             │
+        │  ├─ Plantações e Estufa                     │
+        │  └─ Curral (setor externo das residências,  │
+        │     ainda dentro dos muros)                 │
+        │                                             │
+        │  Área de oficinas                           │
+        │  └─ Ferro-Velho e Forja                     │
+        │                                             │
+        │  Núcleo central                             │
+        │  ├─ Casa Principal                          │
+        │  ├─ Cozinha Comunitária                     │
+        │  └─ Armazém (acesso restrito à família Ninho)│
+        │                                             │
+        │  Área próxima às residências                │
+        │  ├─ Casa Médica                             │
+        │  └─ Casas familiares                        │
+        │                                             │
+        └─────────────────────────────────────────────┘
+```
+
+A ordem das áreas no desenho é apenas organizacional. A posição relativa exata entre a Forja, os canteiros, o Curral, a Casa Médica e cada residência continua pendente de levantamento. A Estação de Energia é a única estrutura cuja descrição atual estabelece explicitamente uma posição elevada e exposta ao vento.
+
+### Referências espaciais confirmadas
+
+- A Casa Principal fica no centro da vila.
+- A Cozinha Comunitária fica próxima ao centro.
+- O Armazém fica próximo à área central de trabalho.
+- A Casa Médica fica próxima às residências.
+- A Forja fica no setor de oficinas.
+- O Curral fica no setor externo das residências, mas dentro dos muros.
+- As Plantações e a Estufa ocupam uma área aberta e ensolarada.
+- A Estação de Energia fica em uma área elevada e exposta ao vento.
+- O Muro de Sucata delimita o perímetro do assentamento.
+
+Essas referências devem ser preservadas ao criar um mapa mais detalhado.
+
 ## Referência rápida
 
 |Lugar|Função principal|NPCs associados|
