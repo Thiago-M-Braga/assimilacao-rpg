@@ -286,7 +286,7 @@ As duas conversam frequentemente sobre assuntos que não conseguem discutir aber
 
 Iara é uma das poucas pessoas que conhece as inseguranças de Elisa em relação ao futuro da família.
 
-Elisa também confia no julgamento de Iara e costuma procurá-la quando percebe alguma inconsistência nos registros ou nas decisões relacionadas aos suprimentos.
+Elisa também confia no julgamento de Iara e conversa com ela quando percebe alguma divergência entre os ingredientes recebidos pela Cozinha Comunitária e os registros de consumo interno. Esses registros não dão a Iara acesso ou responsabilidade pelo estoque geral.
 
 ### Vicente Murphy — mentor
 
@@ -457,7 +457,7 @@ Sua sensibilidade para perceber comportamentos incomuns pode fazer com que seja 
     
 - Davi e Elisa precisam trabalhar juntos em uma situação que coloca suas diferenças à prova.
     
-- Iara descobre uma inconsistência nos suprimentos e procura Elisa para discutir o assunto.
+- Iara percebe que a quantidade de ingredientes entregue à Cozinha Comunitária não corresponde ao consumo anotado e procura Elisa para discutir a divergência.
     
 - Elisa percebe que Clara evita falar sobre os últimos dias de Dalva.
     
