@@ -3,6 +3,7 @@ tipo: familia
 categoria: nucleo-familiar
 nome: Família Naevus
 local: "[[O Ninho]]"
+residencia: "Casa 6"
 personagem-vinculado: "[[Freya Naevus]]"
 status: definido
 visibilidade: mestre
@@ -17,6 +18,10 @@ tags:
 # Família Naevus
 
 > "Uma família não é feita apenas das pessoas que permanecem. Também é feita das ausências que nunca deixam de ocupar espaço."
+
+## Residência
+
+Marina, Freya e Luna vivem juntas na Casa 6, dentro dos muros do Ninho.
 
 ## Visão geral
 
@@ -64,7 +69,7 @@ Freya decidiu aprender medicina com [[Dona Clara Fagundes]], tornando-se aprendi
 **Idade:** 46 anos  
 **Nascimento aproximado:** 2034  
 **Situação:** Viva  
-**Residência:** O Ninho  
+**Residência:** Casa 6  
 **Ocupação:** Auxiliar da Casa Médica na preparação de tecidos e materiais médicos  
 **Filhas:** Freya Naevus e Luna Azevedo
 
@@ -281,7 +286,7 @@ Morreu em 2074, quando Freya tinha 18 anos e Luna tinha aproximadamente um ano.
 **Idade:** 7 anos  
 **Nascimento aproximado:** 2073  
 **Situação:** Viva, doente  
-**Residência:** O Ninho  
+**Residência:** Casa 6  
 **Mãe:** Marina Vilar  
 **Pai:** Raul Azevedo  
 **Meia-irmã:** Freya Naevus
