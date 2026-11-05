@@ -257,7 +257,7 @@ Nas décadas seguintes, parte da humanidade passou a apresentar alterações fí
 
 Alguns sobreviventes desenvolveram características incomuns, como mudanças na estrutura corporal, nos sentidos e na aparência.
 
-Essas transformações fazem parte da realidade que, décadas depois, seria associada aos [[Assimilados e Ferais]].
+Essas transformações fazem parte da realidade que, décadas depois, seria associada aos [[A Nova Ecologia#6.1. Assimilados e Ferais]].
 
 ## 5. Ano 10 em diante — O Isolamento Humano
 
@@ -344,11 +344,11 @@ O ecossistema exterior é marcado por uma mistura de organismos comuns e formas 
 
 Entre as principais categorias conhecidas pelo mestre estão:
 
-- [[Quimeras e Híbridos]] — criaturas com características de diferentes espécies e combinações entre fauna e flora.
+- [[A Nova Ecologia#5. Quimeras e Híbridos]] — criaturas com características de diferentes espécies e combinações entre fauna e flora.
     
-- [[Assimilados e Ferais]] — seres humanos que desenvolveram alterações físicas e biológicas profundas.
+- [[A Nova Ecologia#6.1. Assimilados e Ferais]] — seres humanos que desenvolveram alterações físicas e biológicas profundas.
     
-- [[Primais]] — humanos cuja razão e capacidade de comunicação foram perdidas, restando comportamentos predominantemente predatórios.
+- [[A Nova Ecologia#6.2. Primais]] — humanos cuja razão e capacidade de comunicação foram perdidas, restando comportamentos predominantemente predatórios.
     
 - Flora mutada — vegetação com propriedades, aparências e comportamentos incomuns.
     
@@ -359,7 +359,7 @@ Nem tudo sofreu mutação. Espécies semelhantes às originais continuam existin
 
 Mesmo com a redução geral da contaminação, algumas regiões permanecem extremamente perigosas.
 
-São conhecidas como [[Zonas Quentes]].
+São conhecidas como [[A Nova Ecologia#7. As Zonas Quentes]].
 
 Nesses locais, as condições ambientais e biológicas continuam hostis. A mutação é particularmente intensa e a sobrevivência humana comum é extremamente improvável.
 
@@ -435,7 +435,7 @@ As consequências que permanecem em 2080 incluem:
 
 ### História e cronologia
 
-- [[O Dia Zero]]
+- [[O Colapso#1. O Dia Zero — 2025]]
     
 - [[Linha do Tempo do Mundo]]
     
@@ -446,20 +446,20 @@ As consequências que permanecem em 2080 incluem:
 
 - [[Assimilação]]
     
-- [[Quimeras e Híbridos]]
+- [[A Nova Ecologia#5. Quimeras e Híbridos]]
     
-- [[Assimilados e Ferais]]
+- [[A Nova Ecologia#6.1. Assimilados e Ferais]]
     
-- [[Primais]]
+- [[A Nova Ecologia#6.2. Primais]]
     
-- [[Zonas Quentes]]
+- [[A Nova Ecologia#7. As Zonas Quentes]]
     
 
 ### Sociedade e sobrevivência
 
 - [[O Ninho]]
     
-- [[Comunidades do Mundo Exterior]]
+- [[O Mundo Exterior#Comunidades e assentamentos]]
     
 - [[Tecnologia e Economia em 2080]]
     
