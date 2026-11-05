@@ -5,6 +5,7 @@ idade: 37
 nascimento: 2043
 ocupacao: Cuidador dos animais do Ninho
 local: O Ninho
+familia: "[[Família Lane]]"
 status: vivo
 tags:
   - personagem
