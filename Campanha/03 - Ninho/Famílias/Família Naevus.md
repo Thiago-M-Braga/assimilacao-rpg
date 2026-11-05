@@ -128,7 +128,7 @@ Tem dificuldade em aceitar que a filha esteja sofrendo de uma doença que já le
 
 Marina sabe que Dário morreu durante uma expedição no mundo exterior.
 
-Um sobrevivente retornou ao Ninho e contou o que aconteceu. Marina nunca conseguiu aceitar completamente a morte, mas entendeu que não havia mais como esperar seu retorno.
+Nenhum integrante da expedição retornou. Marina nunca recebeu notícias confirmadas e passou a considerar provável que Dário tenha morrido, embora não saiba como ou onde.
 
 Ela evita contar a verdade porque teme que Freya interprete a história como um convite para sair do Ninho e procurar o lugar onde o pai morreu.
 
@@ -391,7 +391,7 @@ O objeto não revela sozinho o destino de Dário, mas confirma que ele existiu e
 |Ano|Acontecimento|Idades aproximadas|
 |---|---|---|
 |2056|Nascimento de Freya|Freya: recém-nascida; Marina: 22; Dário: 24|
-|2064|Dário parte em uma expedição e morre durante o ataque|Freya: 8; Marina: 30; Dário: 32|
+|2064|Dário parte em uma expedição voluntária; o grupo não retorna. A verdade do mestre é que ele morre durante um ataque de Primais|Freya: 8; Marina: 30; Dário: 32|
 |2067|Marina inicia relacionamento com Raul|Freya: 11; Marina: 33; Raul: 36|
 |2068|Raul passa a fazer parte da rotina familiar|Freya: 12|
 |2073|Nascimento de Luna|Freya: 17; Marina: 39; Raul: 42|
