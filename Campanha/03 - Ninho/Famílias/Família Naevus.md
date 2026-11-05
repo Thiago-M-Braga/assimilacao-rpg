@@ -33,7 +33,7 @@ Raul morreu em 2074, aos 43 anos, após desenvolver uma doença que ninguém con
 
 Em 2079, Luna começou a apresentar sintomas semelhantes. Atualmente, aos sete anos, está sob acompanhamento médico.
 
-Freya decidiu aprender medicina com [[Dona Clara Fagundes]], tornando-se aprendiz na [[Casa Médica]]. Sua maior motivação é encontrar uma cura para a irmã.
+Freya decidiu aprender medicina com [[Dona Clara Fagundes]], tornando-se aprendiz na [[Os Lugares do Ninho#4. Casa Médica]]. Sua maior motivação é encontrar uma cura para a irmã.
 
 ## Integrantes da família
 
@@ -173,7 +173,7 @@ A viagem, entretanto, terminou em tragédia.
 
 ### O destino de Dário
 
-A expedição foi atacada por um grupo de [[Primais]] durante a travessia de uma antiga rodovia em ruínas.
+A expedição foi atacada por um grupo de [[A Nova Ecologia#6.2. Primais]] durante a travessia de uma antiga rodovia em ruínas.
 
 Dário foi ferido enquanto tentava proteger os demais integrantes do grupo e permitir que recuassem.
 
@@ -465,7 +465,7 @@ Freya precisa lidar com o medo de perder outra pessoa da família.
 
 ### 4. Os registros de Raul
 
-Freya encontra documentos antigos na [[Casa Médica]] e percebe que os sintomas do padrasto eram semelhantes aos de Luna.
+Freya encontra documentos antigos na [[Os Lugares do Ninho#4. Casa Médica]] e percebe que os sintomas do padrasto eram semelhantes aos de Luna.
 
 **Resultado possível:** a ligação entre os dois casos se torna evidente.
 
@@ -500,7 +500,7 @@ A Família Naevus está ligada a diferentes áreas da comunidade.
 | Personagem ou local     |Relação|
 |---|---|
 | [[Dona Clara Fagundes]] |Cuida de Luna e acompanhou a doença de Raul|
-| [[Casa Médica]]         |Local de tratamento e aprendizado de Freya|
+| [[Os Lugares do Ninho#4. Casa Médica]]         |Local de tratamento e aprendizado de Freya|
 | [[Mabel Noctua]]        |Outra personagem envolvida na busca pela cura|
 | [[Clark Becker]]        |Paciente com sintomas semelhantes aos de Luna|
 | [[Elias Ninho]]         |Conhece a morte de Dalva e parte do histórico da doença|
@@ -536,7 +536,7 @@ A Família Naevus está ligada a diferentes áreas da comunidade.
 
 - [[O Ninho]]
     
-- [[Casa Médica]]
+- [[Os Lugares do Ninho#4. Casa Médica]]
     
 - [[Os Lugares do Ninho]]
     
