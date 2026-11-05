@@ -37,7 +37,7 @@ Depois do desaparecimento de Dário, Marina formou uma nova família com **Raul 
 
 Raul morreu em 2074, aos 43 anos, após desenvolver uma doença que ninguém conseguiu explicar.
 
-Em 2079, Luna começou a apresentar sintomas semelhantes. Atualmente, aos sete anos, está sob acompanhamento médico.
+Em 2079, os sinais de Luna tornaram-se perceptíveis. Atualmente, aos sete anos, está sob acompanhamento médico.
 
 Freya decidiu aprender medicina com [[Dona Clara Fagundes]], tornando-se aprendiz na [[Os Lugares do Ninho#4. Casa Médica]]. Sua maior motivação é encontrar uma cura para a irmã.
 
@@ -397,7 +397,7 @@ O objeto não revela sozinho o destino de Dário, mas confirma que ele existiu e
 |2073|Nascimento de Luna|Freya: 17; Marina: 39; Raul: 42|
 |2070|Raul começa a apresentar sintomas discretos da Doença Azul|Freya: 14; Marina: 36; Raul: 39|
 |2074|Raul morre; Marina entrega o colar de Dário a Freya quando ela completa 18 anos|Freya: 18; Marina: 40; Luna: 1|
-|2074|Marina entrega o colar a Freya em seu aniversário de 18 anos|Freya: 18|
+
 |2078–2079|Luna apresenta sinais discretos no fim de 2078, percebidos claramente em 2079|Freya: 23; Luna: 6|
 |2080|Presente da campanha|Freya: 24; Marina: 46; Luna: 7|
 
