@@ -369,7 +369,7 @@ Elias possui dois filhos adultos:
 
 Os três administram o Armazém. O acesso ao espaço é restrito à família Ninho; os outros setores fazem solicitações, mas não trabalham no local.
 
-A regra exata de sucessão familiar ainda precisa ser documentada.
+A tradição estabelece que, quando o líder possui dois ou mais filhos, o mais velho é o sucessor. Essa é a primeira vez que a regra pode definir uma sucessão entre dois filhos adultos; Davi é o mais velho.
 
 ## 7. Habitantes e famílias
 
