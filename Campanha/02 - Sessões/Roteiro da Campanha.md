@@ -127,7 +127,7 @@ Na cena do incêndio, recupere detalhes já apresentados: o som do muro, a cozin
 
 ## Continuidade
 
-- A população do Ninho é de 24 habitantes no início da campanha.
+- A população do Ninho é de 21 habitantes no início da campanha.
 - O Armazém tem cerca de quinze dias de alimentos.
 - A próxima produção agrícola não ficará pronta a tempo.
 - Santa Aurora fica 14–18 km a leste, depois da ponte e da Mata da Margem.
