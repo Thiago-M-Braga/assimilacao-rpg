@@ -94,9 +94,9 @@ No estágio III, o objetivo inicial é interromper a progressão e preservar as 
 | I — Descompasso | Alta possibilidade de recuperação completa, desde que a exposição seja interrompida e o Contrassinal seja administrado |
 | II — Alteração | Boa possibilidade de recuperação; pode exigir acompanhamento mais longo e deixar sequelas leves |
 | III — Síndrome Azul | Sobrevivência e estabilização são possíveis, mas há risco significativo de sequelas |
-| IV — Colapso | Danos podem ser irreversíveis; não há garantia de recuperação e o prognóstico é muito ruim |
+| IV — Colapso | A transformação em Primal pode ocorrer; não há cura conhecida após a transformação completa. Se o paciente ainda não se transformou, o cuidado é paliativo e o prognóstico é extremamente ruim |
 
-Raul e Dalva morreram antes que a causa fosse identificada e não poderão ser recuperados. Luna e Clark ainda podem ser salvos.
+Raul e Dalva morreram antes que a causa fosse identificada e não poderão ser recuperados. Raul completou a transformação em Primal e foi morto para impedir novos ataques; Dalva morreu por falência orgânica antes de completar a transformação. Luna e Clark ainda podem ser salvos.
 
 ## 8. O papel de cada personagem
 
