@@ -64,7 +64,7 @@ Não manter campos contraditórios ou duplicados. A idade deve corresponder ao a
 
 ## 4. Organização das pastas de personagens e famílias
 
-As fichas individuais ficam organizadas por tipo dentro da pasta `Campanha/01 - Informações gerais/03 - Ninho/`:
+Todos os caminhos deste padrão são relativos à raiz do repositório. As fichas individuais ficam organizadas por tipo dentro da pasta `Campanha/01 - Informações gerais/03 - Ninho/`:
 
 - `Personagens/` — fichas de indivíduos, incluindo personagens jogadores e NPCs.
 - `Famílias/` — fichas específicas de núcleos familiares.
@@ -193,7 +193,6 @@ Antes de concluir uma alteração, verificar:
 
 - [[O Ninho]]
 - [[As Famílias do Ninho]]
-- [[A Liderança do Ninho]]
 - [[A Liderança do Ninho]]
 - [[A Vida Cotidiana no Ninho]]
 - [[Os Lugares do Ninho]]
