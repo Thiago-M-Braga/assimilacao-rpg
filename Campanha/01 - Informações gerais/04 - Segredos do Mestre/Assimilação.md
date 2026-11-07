@@ -38,7 +38,8 @@ A vulnerabilidade depende da combinação de exposição repetida, predisposiç�
 
 ## O que não deve ser presumido
 
-- A presença do parasita não significa que todo organismo vá adoecer.\n- A Doença Azul exige predisposição genética hereditária, exposição repetida ao Micélio de Cobalto e atividade de Assimilação.
+- A presença do parasita não significa que todo organismo vá adoecer.
+- A Doença Azul exige predisposição genética hereditária, exposição repetida ao Micélio de Cobalto e atividade de Assimilação.
 - A Assimilação não é transmitida entre pessoas por contato.
 - Nem toda alteração biológica é causada diretamente pela radiação.
 - O parasita não é, por si só, a causa da Doença Azul; o problema é a interferência dos compostos do Micélio de Cobalto.
