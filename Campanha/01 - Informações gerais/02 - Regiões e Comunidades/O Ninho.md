@@ -73,7 +73,7 @@ A comunidade funciona de maneira coletiva. Diferentes moradores são responsáve
 |Alimentação|Agricultura, criação de animais e estoques|
 |Organização|Liderança familiar hereditária e trabalho comunitário|
 |Contato exterior|Sem contato regular; expedições voluntárias ainda podem partir, mas nenhuma retornou|
-|População atual|24 habitantes; a lista de moradores é completa|
+|População atual|21 habitantes; a lista de moradores é completa|
 |Economia|Recursos de utilidade e escambo|
 
 ## 2. Origem — A fazenda que sobreviveu
@@ -560,7 +560,7 @@ A visão dos habitantes deverá ser documentada separadamente em:
 
 ### 10.1. O sangue azul de Dalva
 
-Um mês antes de morrer, Dalva apresentou sangue de coloração azul. Naquele momento, seu quadro já correspondia ao **Estágio III — Síndrome Azul**; nas semanas seguintes, avançou ao Estágio IV — Colapso, que culminou em sua morte em 2079.
+Um mês antes de morrer, Dalva apresentou sangue de coloração azul. Naquele momento, seu quadro já correspondia ao **Estágio III — Síndrome Azul**; nas semanas seguintes, avançou ao Estágio IV — Colapso. Nos últimos dias, teve episódios de agitação e agressividade, que foram contidos discretamente por quem a acompanhava. Dalva morreu por falência orgânica antes de completar a transformação em Primal. Os episódios e a possibilidade de transformação foram ocultados dos demais moradores.
 
 Somente Elias e [[Dona Clara Fagundes]] sabem que o sangue de Dalva ficou azul e que Clara preservou uma amostra. Nenhum dos dois compreendeu a causa da alteração ou conseguiu identificar a origem da doença durante a vida de Dalva.
 
@@ -606,13 +606,9 @@ As funções não representam necessariamente as únicas atividades realizadas p
 > [!todo] Desenvolvimento futuro  
 > Os seguintes elementos ainda precisam ser estabelecidos:
 > 
-> - Nome geográfico da região onde o Ninho está localizado.
->     
 > - Mapa detalhado do vilarejo.
 >     
 > - Distribuição exata das construções dentro dos muros.
->     
-> - População total.
 >     
 > - Regras de convivência e punições.
 >     
