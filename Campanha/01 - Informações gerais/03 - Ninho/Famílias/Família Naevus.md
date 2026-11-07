@@ -35,7 +35,7 @@ Sua mãe, **Marina Azevedo**, evita falar sobre ele. O assunto sempre foi tratad
 
 Depois do desaparecimento de Dário, Marina formou uma nova família com **Raul Azevedo**, que se tornou o padrasto de Freya e pai de sua irmã mais nova, Luna.
 
-Raul morreu em 2074, aos 43 anos, após desenvolver uma doença que ninguém conseguiu explicar. A família recebeu apenas a versão de que ele não resistiu à enfermidade; o episódio de violência no estágio terminal e a intervenção que causou sua morte foram mantidos em segredo.
+Raul morreu em 2074, aos 43 anos, após desenvolver uma doença que ninguém conseguiu explicar.
 
 Em 2079, os sinais de Luna tornaram-se perceptíveis. Atualmente, aos sete anos, está sob acompanhamento médico.
 
