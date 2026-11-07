@@ -23,7 +23,7 @@ A sessão é extensa. Não acelere a convivência inicial apenas para chegar à 
 | Informação | Situação |
 |---|---|
 | Ano | 2080 |
-| População | 24 habitantes no total |
+| População | 21 habitantes no total |
 | Mantimentos | Aproximadamente 15 dias de comida |
 | Próxima colheita | Não ficará pronta a tempo |
 | Destino | Santa Aurora, 14–18 km a leste |
