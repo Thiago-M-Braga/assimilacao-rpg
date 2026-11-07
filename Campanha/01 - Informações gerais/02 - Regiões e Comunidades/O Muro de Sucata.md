@@ -334,7 +334,7 @@ Isso cria uma fragilidade estrutural que pode ser explorada narrativamente.
 ## 8. Informações técnicas ainda não definidas
 
 > [!todo] Detalhamento da estrutura  
- > Os pontos abaixo ainda precisam ser decididos. O perímetro possui um único portão grande, voltado para o Rio Claro, com acesso controlado e procedimento de abertura já definidos.
+> Os pontos abaixo ainda precisam ser decididos. O perímetro possui um único portão grande, voltado para o Rio Claro, com acesso controlado e procedimento de abertura já definidos.
 > 
 > - Formato geral e geometria do perímetro.
 >     
