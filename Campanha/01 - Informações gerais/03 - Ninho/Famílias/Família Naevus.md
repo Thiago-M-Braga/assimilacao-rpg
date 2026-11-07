@@ -406,6 +406,7 @@ O objeto não revela sozinho o destino de Dário, mas confirma que ele existiu e
 - O colar pertenceu realmente a Dário e foi deixado com Marina antes da expedição.
     
 - Marina entregou o colar a Freya aos 18 anos como uma forma de preservar a memória do pai.
+- Raul chegou ao estágio terminal da Doença Azul, transformou-se em Primal e foi morto por pessoas que tentavam impedir seus ataques. A família e os demais moradores nunca receberam essa verdade; foi dito apenas que ele não resistiu à doença.
     
 - Raul foi uma figura paterna importante para Freya.
     
