@@ -25,18 +25,6 @@ tags:
 - **Residência:** O Ninho, Casa 5
 - **Ocupação comunitária:** Apoio voluntário ao cultivo e à rotina da estufa
 
-## Identificação
-
-| Campo | Informação |
-|---|---|
-| Nome | Mabel Noctua |
-| Idade | Não definida nas notas atuais |
-| Família | [[Família Noctua]] |
-| Pais | [[Gael Noctua]] e [[Helena Noctua]] |
-| Residência | O Ninho |
-| Ocupação comunitária | Apoio voluntário ao cultivo e à rotina da estufa |
-| Categoria | Personagem jogadora |
-
 ## Visão geral
 
 Mabel é filha de Gael e Helena Noctua e uma das personagens jogadoras da campanha. Sua história pessoal permanece em desenvolvimento junto à jogadora responsável.
