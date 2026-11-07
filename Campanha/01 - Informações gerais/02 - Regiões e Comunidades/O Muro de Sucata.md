@@ -147,7 +147,7 @@ Seu conhecimento sobre a instalação é essencial para a continuidade do funcio
 
 A geração de energia depende de manutenção constante, recuperação de componentes e improvisação com os materiais disponíveis.
 
-### 2.4. Dependência tecnológica
+### 2.5. Dependência tecnológica
 
 A eletrificação tornou o muro uma estrutura mais importante para a segurança do Ninho.
 
