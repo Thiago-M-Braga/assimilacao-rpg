@@ -74,16 +74,18 @@ Raul era o pai biológico de Luna e acompanhou seus primeiros anos de vida. Morr
 
 ## A doença e a morte
 
-Raul começou a apresentar sintomas discretos por volta de 2070, após anos de exposição à produção vegetal contaminada. O quadro avançou gradualmente pelos estágios da Doença Azul. O trabalho físico constante e a tendência a ignorar o cansaço contribuíram para acelerar a progressão nos últimos anos. A doença chegou ao estágio IV em 2074, quando Raul morreu. Na época, a causa não foi identificada.
+Raul começou a apresentar sintomas discretos por volta de 2070, após anos de exposição à produção vegetal contaminada. O quadro avançou gradualmente pelos estágios da Doença Azul. O trabalho físico constante e a tendência a ignorar o cansaço contribuíram para acelerar a progressão nos últimos anos. Em 2074, no estágio IV, perdeu o controle do comportamento, atacou pessoas próximas e completou a transformação em Primal. Para impedir novos ataques, pessoas presentes o mataram. A intervenção foi mantida em segredo; aos moradores, inclusive à família, foi dito apenas que Raul não resistiu à doença.
 
 **Verdade do mestre:** Raul foi uma das primeiras vítimas conhecidas da [[A Doença Azul]] no Ninho. A exposição prolongada aos alimentos produzidos na estufa contaminada, combinada com baixa resistência física e atividade elevada de Assimilação, tornou seu organismo vulnerável. A família e os médicos não conheciam essa origem.
 
 ## Segredos do mestre
 
-- Raul morreu da Doença Azul em 2074, depois de apresentar os primeiros sintomas por volta de 2070.
+- Raul chegou ao estágio IV da Doença Azul em 2074, transformou-se em Primal e foi morto por pessoas que tentavam impedir seus ataques.
+- O ocorrido foi ocultado da família e dos demais moradores, que receberam apenas a explicação de que ele não resistiu à doença.
 - A doença estava relacionada à exposição alimentar prolongada à produção contaminada pelo Micélio de Cobalto.
 - Raul não foi infectado por contato com outra pessoa.
 - A família nunca recebeu uma explicação definitiva durante sua vida.
+- Freya, Marina e Luna não sabem que Raul se transformou em Primal nem que foi morto para impedir novos ataques.
 
 ## Ganchos narrativos
 
