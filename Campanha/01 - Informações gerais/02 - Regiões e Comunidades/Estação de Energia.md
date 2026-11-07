@@ -67,7 +67,7 @@ A Estação possui uma única bateria de reserva. Quando há vento suficiente, o
 - Reparos improvisados podem criar falhas secundárias.
 - Parte do conhecimento de funcionamento está concentrada em Ithan.
 
-## 5. Ithan Voos — responsável técnico
+## 4. Ithan Voos — responsável técnico
 
 [[Ithan Voos]] é o responsável pela manutenção elétrica e pelo funcionamento da Estação. Seu conhecimento de engenharia, a familiaridade com circuitos e sua curiosidade sobre tecnologia antiga fazem dele a principal referência técnica do setor.
 
@@ -83,7 +83,7 @@ A Estação possui uma única bateria de reserva. Quando há vento suficiente, o
 
 Ithan não precisa fabricar todas as peças utilizadas na estação. Quando necessita de suportes, ferramentas ou componentes metálicos, solicita a produção ou adaptação ao Ferro-Velho e à Forja.
 
-## 6. Clark Becker — antigo auxiliar
+## 5. Clark Becker — antigo auxiliar
 
 Antes de adoecer, [[Clark Becker]] ajudava Ithan na preparação de ferramentas, identificação de componentes, organização de cabos e execução de tarefas simples e seguras.
 
@@ -91,7 +91,7 @@ Clark não era o responsável técnico pelo gerador nem decidia alterações no 
 
 Atualmente está internado na [[Os Lugares do Ninho#4. Casa Médica]]. Sua ausência aumenta a carga de trabalho de Ithan, mas não transfere a responsabilidade técnica para os demais Becker.
 
-## 7. Relação com o Ferro-Velho e a Forja
+## 6. Relação com o Ferro-Velho e a Forja
 
 A Estação depende da capacidade de recuperar e fabricar peças. O [[Os Lugares do Ninho#3. Ferro-Velho e Forja]] fornece suportes, chapas, abraçadeiras, ferramentas, proteções e componentes metálicos que podem ser adaptados às necessidades do gerador.
 
@@ -99,7 +99,7 @@ A Estação depende da capacidade de recuperar e fabricar peças. O [[Os Lugares
 
 A oficina não realiza o diagnóstico elétrico nem administra a estação. Cada setor mantém sua própria responsabilidade.
 
-## 8. Manutenção e recursos
+## 7. Manutenção e recursos
 
 A manutenção preventiva é importante porque a comunidade não dispõe de um sistema reserva.
 
@@ -114,13 +114,13 @@ Os materiais mais necessários incluem:
 
 Qualquer retirada de materiais deve ser solicitada ao Armazém, administrado exclusivamente por [[Elias Ninho]], [[Davi Ninho]] e [[Elisa Ninho]].
 
-## 9. Importância narrativa
+## 8. Importância narrativa
 
 A Estação representa a dependência do Ninho em relação a uma tecnologia antiga que poucos compreendem por completo.
 
 Uma falha pode exigir cooperação entre Ithan, a família Becker e a liderança. A ausência de Clark também pode ser sentida em uma manutenção difícil, lembrando que a doença afeta não apenas as famílias, mas o funcionamento diário da comunidade.
 
-## 10. Segredos do mestre
+## 9. Segredos do mestre
 
 - A estação é uma herança da antiga fazenda.
 - O gerador eólico é a fonte de energia utilizada para eletrificar o muro.
@@ -130,7 +130,7 @@ Uma falha pode exigir cooperação entre Ithan, a família Becker e a liderança
 - Hugo e Marta trabalham na Forja, não na Estação de Energia.
 - A estação é difícil de substituir e não possui fonte alternativa estabelecida.
 
-## 11. Notas relacionadas
+## 10. Notas relacionadas
 
 ### Comunidade
 - [[O Ninho]]
