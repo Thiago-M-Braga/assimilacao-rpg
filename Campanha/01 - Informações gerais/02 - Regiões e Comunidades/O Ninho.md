@@ -66,7 +66,7 @@ A comunidade funciona de maneira coletiva. Diferentes moradores são responsáve
 |Ano atual|2080|
 |Tempo desde o Dia Zero|55 anos|
 |Origem|Antiga fazenda familiar|
-|Localização|Alto de um morro ou montanha|
+|Localização|Morro da Fazenda, margem oeste do Rio Claro — Vale do Rio Claro|
 |Proteção|Muro de sucata de aproximadamente 5 metros|
 |Energia|Antigo gerador eólico|
 |Água|Poço artesiano profundo|
