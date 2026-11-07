@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Sessões/Sessão 1/Guia do Mestre.md",
+                "file": "02 - Sessões/Sessão 1/Referência Rápida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guia do Mestre"
+              "title": "Referência Rápida"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Sessões/Sessão 1/Guia do Mestre.md",
+                "file": "01 - Informações gerais/03 - Ninho/Personagens/Dário Naevus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Sessões/Sessão 1/Guia do Mestre.md",
+                "file": "01 - Informações gerais/03 - Ninho/Personagens/Dário Naevus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Sessões/Sessão 1/Guia do Mestre.md",
+                "file": "01 - Informações gerais/03 - Ninho/Personagens/Dário Naevus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,34 +190,34 @@
   },
   "active": "f8968369e1027189",
   "lastOpenFiles": [
-    "02 - Sessões/Sessão 1/Referência Rápida.md",
-    "01 - Informações gerais/Índice das Informações Gerais.md",
+    "02 - Sessões/Sessão 1/Pontos de conexão.md",
     "02 - Sessões/Sessão 1/Guia do Mestre.md",
+    "01 - Informações gerais/03 - Ninho/Personagens/Dário Naevus.md",
+    "01 - Informações gerais/03 - Ninho/Famílias/Família Fagundes.md",
+    "01 - Informações gerais/03 - Ninho/Famílias/Família Becker.md",
+    "02 - Sessões/Sessão 1/Missões iniciais.md",
+    "02 - Sessões/Sessão 1/Referência Rápida.md",
+    "01 - Informações gerais/03 - Ninho/Personagens/Marina Azevedo.md",
+    "01 - Informações gerais/03 - Ninho/Personagens/Luna Azevedo.md",
+    "01 - Informações gerais/03 - Ninho/Personagens/Mabel Noctua.md",
+    "01 - Informações gerais/03 - Ninho/Personagens/Iara Salles.md",
+    "01 - Informações gerais/03 - Ninho/Personagens/Marina Vilar.md",
+    "01 - Informações gerais/03 - Ninho/Personagens/Lívia Fagundes.md",
+    "01 - Informações gerais/03 - Ninho/Personagens/Dona Clara Fagundes.md",
     "02 - Sessões/Roteiro da Campanha.md",
+    "01 - Informações gerais/Índice das Informações Gerais.md",
     "README.md",
     "02 - Sessões/README.md",
     "03 - Ninho/Personagens/Vicente Murphy.md",
     "02 - Sessões/Sessão 1",
     "02 - Sessões",
     "01 - Informações gerais/03 - Ninho/Famílias/Família Ninho.md",
-    "01 - Informações gerais/03 - Ninho/Famílias/Família Fagundes.md",
     "01 - Informações gerais/03 - Ninho/Famílias/Família Voos.md",
     "01 - Informações gerais/03 - Ninho/Famílias/Família Noctua.md",
     "01 - Informações gerais/03 - Ninho/Famílias/Família Naevus.md",
     "01 - Informações gerais/03 - Ninho/Famílias/Família Lane.md",
     "01 - Informações gerais/03 - Ninho/Famílias/Família Evans.md",
     "01 - Informações gerais/03 - Ninho/Personagens/Marta Becker.md",
-    "01 - Informações gerais/03 - Ninho/Famílias/Família Becker.md",
-    "01 - Informações gerais/03 - Ninho/Personagens/Thomas Lane.md",
-    "01 - Informações gerais/03 - Ninho/Personagens/Vicente Murphy.md",
-    "01 - Informações gerais/03 - Ninho/Personagens/Maria Evans.md",
-    "01 - Informações gerais/03 - Ninho/Personagens/Raul Azevedo.md",
-    "01 - Informações gerais/03 - Ninho/Personagens/Lívia Fagundes.md",
-    "01 - Informações gerais/03 - Ninho/Personagens/Marina Vilar.md",
-    "01 - Informações gerais/03 - Ninho/Personagens/Marcio Fagundes.md",
-    "01 - Informações gerais/03 - Ninho/Personagens/Mabel Noctua.md",
-    "01 - Informações gerais/03 - Ninho/Personagens/Jonas Becker.md",
-    "01 - Informações gerais/03 - Ninho/Personagens/Iara Salles.md",
     "01 - Informações gerais/03 - Ninho/Famílias",
     "01 - Informações gerais/03 - Ninho/Personagens",
     "01 - Informações gerais/04 - Segredos do Mestre",

@@ -2,11 +2,11 @@
 
 ## Escala de conexão
 
-|Pontos|Significado|
-|---|---|
-|**1**|Conhecimento e vínculo comunitário. Existe familiaridade e convivência, mas pouca proximidade individual.|
-|**2**|Vínculo próximo. Existe uma relação frequente, confiança, amizade ou colaboração importante.|
-|**3**|Vínculo muito forte. Relação familiar, afetiva ou extremamente importante para a história do personagem.|
+| Pontos | Significado                                                                                               |
+| ------ | --------------------------------------------------------------------------------------------------------- |
+| **1**  | Conhecimento e vínculo comunitário. Existe familiaridade e convivência, mas pouca proximidade individual. |
+| **2**  | Vínculo próximo. Existe uma relação frequente, confiança, amizade ou colaboração importante.              |
+| **3**  | Vínculo muito forte. Relação familiar, afetiva ou extremamente importante para a história do personagem.  |
 
 ---
 # 1. Mabel Noctua
