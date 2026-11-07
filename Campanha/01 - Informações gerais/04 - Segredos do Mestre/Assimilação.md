@@ -32,9 +32,9 @@ Não se conhece um método confiável de reverter uma transformação avançada 
 
 ## Relação com a Doença Azul
 
-A [[A Doença Azul]] não é a Assimilação em si. É uma resposta degenerativa que ocorre quando compostos produzidos pelo [[Micélio de Cobalto]] interferem nos sinais bioquímicos utilizados pelo parasita. Em indivíduos suscetíveis, o estímulo provoca aceleração desordenada do processo, que o organismo não consegue suportar.
+A [[A Doença Azul]] não é a Assimilação em si. É uma resposta degenerativa que ocorre quando compostos produzidos pelo [[Micélio de Cobalto]] interferem nos sinais bioquímicos utilizados pelo parasita. Em indivíduos suscetíveis, o estímulo provoca aceleração desordenada do processo, que o organismo não consegue suportar. No estágio IV — Colapso, essa desregulação pode ultrapassar a capacidade de controle do indivíduo e culminar na transformação em Primal. Os episódios de perda de reconhecimento, agressividade e ataques podem começar antes da transformação completa. Alguns pacientes morrem por falência orgânica antes de completá-la; outros se tornam Primais e podem ser mortos por terceiros para impedir novos ataques.
 
-A vulnerabilidade depende da combinação de exposição repetida, baixa capacidade de recuperação física e atividade de Assimilação elevada. Nem todos os indivíduos expostos desenvolvem a doença.
+A vulnerabilidade depende da combinação de exposição repetida, predisposição genética, baixa capacidade de recuperação física e atividade de Assimilação elevada. Nem todos os indivíduos expostos desenvolvem a doença. A transformação terminal em Primal é uma possível consequência do estágio IV da Doença Azul, não uma característica de todos os casos de Assimilação.
 
 ## O que não deve ser presumido
 
