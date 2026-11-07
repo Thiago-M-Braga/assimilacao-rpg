@@ -203,7 +203,7 @@ Mesmo assim, procurava tranquilizar a família.
 
 Em seus últimos dias, após uma progressão acelerada no estágio final, conversou individualmente com Elias e com os filhos. Não sabia exatamente o que estava acontecendo, mas parecia compreender que talvez não conseguisse se recuperar.
 
-Nas semanas seguintes, o quadro avançou para o **Estágio IV — Colapso**. Dalva faleceu em 2079, aos 53 anos, deixando uma família profundamente abalada.
+Nas semanas seguintes, o quadro avançou para o **Estágio IV — Colapso**. Nos últimos dias, Dalva teve episódios de agitação, confusão e agressividade; em uma crise, atacou pessoas próximas, sem reconhecer plenamente quem eram. Clara e Elias conseguiram contê-la e mantiveram os episódios restritos ao pequeno círculo que acompanhava seu estado. Dalva morreu em 2079, aos 53 anos, por falência orgânica, antes de completar a transformação em Primal. Os ataques e o risco de transformação foram ocultados dos demais moradores.
 
 ## Relações
 
@@ -273,13 +273,11 @@ A doença de Dalva não foi uma enfermidade convencional.
 
 Dalva passou anos consumindo alimentos e preparações produzidos com cultivos da estufa. O solo, o composto e a água compartilhados pelos canteiros estavam contaminados pelo [[Micélio de Cobalto]], que liberava compostos absorvidos pelas diferentes plantas.
 
-Dalva tinha baixa resistência física e uma atividade de Assimilação especialmente elevada. A exposição prolongada tornou seu organismo vulnerável: os compostos do fungo estimularam o parasita a intensificar a transformação de maneira desordenada, provocando alterações internas que o corpo não conseguiu suportar.
+Dalva tinha baixa resistência física e uma atividade de Assimilação especialmente elevada. A exposição prolongada tornou seu organismo vulnerável: os compostos do fungo estimularam o parasita a intensificar a transformação de maneira desordenada. No estágio IV, essa atividade começou a afetar também seu comportamento, provocando episódios de agitação e ataques. O organismo, porém, entrou em falência antes que a transformação em Primal se completasse.
 
 A mudança na coloração do sangue foi um dos primeiros sinais visíveis dessa atividade.
 
-O processo não chegou a produzir uma transformação externa evidente. Em vez disso, provocou danos progressivos ao funcionamento do corpo.
-
-Dalva morreu porque seu organismo não conseguiu suportar a assimilação desordenada.
+Dalva não completou a transformação externa em Primal. Morreu porque seu organismo não conseguiu suportar a assimilação desordenada e entrou em falência orgânica. Clara e Elias ocultaram os episódios de agressividade e a possibilidade de transformação; os demais moradores acreditam que Dalva morreu após uma doença prolongada, sem conhecer o que ocorreu nos últimos dias.
 
 ### O que aconteceu com a amostra?
 
