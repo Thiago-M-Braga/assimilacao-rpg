@@ -35,7 +35,7 @@ Sua mãe, **Marina Azevedo**, evita falar sobre ele. O assunto sempre foi tratad
 
 Depois do desaparecimento de Dário, Marina formou uma nova família com **Raul Azevedo**, que se tornou o padrasto de Freya e pai de sua irmã mais nova, Luna.
 
-Raul morreu em 2074, aos 43 anos, após desenvolver uma doença que ninguém conseguiu explicar.
+Raul morreu em 2074, aos 43 anos, após desenvolver uma doença que ninguém conseguiu explicar. A família recebeu apenas a versão de que ele não resistiu à enfermidade; o episódio de violência no estágio terminal e a intervenção que causou sua morte foram mantidos em segredo.
 
 Em 2079, os sinais de Luna tornaram-se perceptíveis. Atualmente, aos sete anos, está sob acompanhamento médico.
 
@@ -261,7 +261,7 @@ Sua morte deixou uma ausência especialmente difícil para Marina, que precisou 
 
 ### A doença de Raul
 
-Raul começou a apresentar sintomas discretos por volta de 2070, depois de anos de exposição à produção vegetal contaminada. O quadro progrediu gradualmente e terminou com sua morte em 2074.
+Raul começou a apresentar sintomas discretos por volta de 2070, depois de anos de exposição à produção vegetal contaminada. O quadro progrediu até o estágio IV em 2074. Nos últimos dias, perdeu o controle do comportamento, atacou pessoas próximas e completou a transformação em Primal. Para impedir novos ataques, pessoas presentes o mataram. O ocorrido foi ocultado; aos moradores, inclusive à família, foi dito apenas que Raul não resistiu à doença.
 
 Durante os meses seguintes, sua condição piorou.
 
@@ -401,8 +401,6 @@ O objeto não revela sozinho o destino de Dário, mas confirma que ele existiu e
     
 - Dário está vivo e se juntou a um grupo de sobreviventes que encontrou durante a expedição.
     
-- 
-    
 - Marina suspeita que Dário morreu, mas não possui confirmação. Dário partiu sozinho e nunca enviou notícias ao Ninho.
     
 - O colar pertenceu realmente a Dário e foi deixado com Marina antes da expedição.
@@ -411,7 +409,7 @@ O objeto não revela sozinho o destino de Dário, mas confirma que ele existiu e
     
 - Raul foi uma figura paterna importante para Freya.
     
-- Raul morreu de [[A Doença Azul]] em 2074.
+- Raul chegou ao estágio terminal da [[A Doença Azul]], transformou-se em Primal e foi morto para impedir que continuasse atacando. A verdade foi ocultada da família e dos demais moradores.
     
 - Luna é filha biológica de Raul e Marina.
     
