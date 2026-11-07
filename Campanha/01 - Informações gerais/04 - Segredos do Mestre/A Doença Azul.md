@@ -44,7 +44,7 @@ O Mal Azul não é uma infecção convencional e não é causado diretamente pel
 | Fatores de aceleração | Estresse, trauma, exaustão, fome, sono insuficiente e Assimilação descontrolada |
 | Fatores de desaceleração | Repouso, estabilidade, boa alimentação, cuidado e medicamentos sintomáticos |
 | Transmissão entre pessoas | Não ocorre |
-| Cura | Possível nos estágios I e II; possível estabilização no III; incerta no IV |
+| Cura | Possível nos estágios I e II; possível estabilização no III; não reverte o estágio IV nem uma transformação completa em Primal |
 | Locais centrais | [[Plantações e Estufa]], [[Os Lugares do Ninho#4. Casa Médica]] e [[Paióis Subterrâneos da Fazenda]] |
 
 ## 2. A origem da contaminação
@@ -152,7 +152,7 @@ Como referência de preparação, considera-se que o percurso entre os primeiros
 | I — Descompasso | 12 a 18 meses | Sintomas discretos e alterações internas iniciais |
 | II — Alteração | 12 a 24 meses | Sinais físicos, circulatórios e perda de resistência |
 | III — Síndrome Azul | 6 a 12 meses | Sangue azulado e desregulação intensa da Assimilação |
-| IV — Colapso | 1 a 3 meses | Falência orgânica e risco muito elevado de morte |
+| IV — Colapso | 1 a 3 meses | Descontrole extremo da Assimilação; ataques violentos e transformação em Primal ou morte por falência orgânica antes de completar a transformação |
 
 Esses intervalos não são prazos rígidos. Estresse, trauma, exaustão e Assimilação descontrolada podem encurtar uma etapa. Repouso, cuidado e medicamentos sintomáticos podem prolongá-la.
 
@@ -203,17 +203,19 @@ Neste estágio, a doença torna-se difícil de esconder e o tratamento é mais c
 
 ### Estágio IV — Colapso
 
-O organismo deixa de conseguir sustentar as alterações provocadas pela Assimilação descontrolada. Os órgãos começam a falhar e o sistema circulatório perde eficiência.
+O estágio terminal é também o ponto em que a Doença Azul pode culminar na transformação em **Primal**. A atividade da Assimilação deixa de ser apenas uma reação interna desordenada e passa a dominar o comportamento. Antes da transformação completa, o paciente pode apresentar episódios de confusão, agitação, perda de reconhecimento, impulsos predatórios e ataques contra pessoas próximas.
+
+A evolução terminal não é idêntica em todos os casos. Em alguns organismos, a falência orgânica é tão intensa que a pessoa morre antes de completar a transformação. Em outros, a Assimilação assume o controle e a pessoa se torna Primal. Quando o paciente já está atacando outras pessoas, alguém pode matá-lo para impedir novas vítimas; nesses casos, a causa imediata da morte é a intervenção, embora a doença tenha provocado a transformação.
 
 Manifestações comuns:
-- Hemorragias internas.
-- Falência progressiva de órgãos.
-- Convulsões.
-- Perda prolongada de consciência.
-- Alterações físicas irreversíveis.
-- Morte.
+- Hemorragias internas e falência progressiva de órgãos.
+- Convulsões, perda prolongada de consciência e alterações físicas irreversíveis.
+- Desorientação profunda e perda progressiva do reconhecimento de pessoas próximas.
+- Agitação, agressividade e ataques impulsivos.
+- Transformação em Primal quando a Assimilação domina completamente o organismo.
+- Morte por colapso orgânico ou por intervenção de terceiros para interromper ataques.
 
-O estágio final é geralmente fatal. Mesmo com a interrupção do estímulo, os danos podem ser irreversíveis.
+A transformação completa em Primal não possui cura conhecida. A interrupção da exposição e o tratamento podem ajudar antes do estágio terminal, mas não revertem uma transformação já consolidada.
 
 ## 6. Cronologia dos casos conhecidos
 
@@ -221,14 +223,14 @@ Todos os pacientes tiveram exposição prolongada à produção vegetal contamin
 
 | Paciente | Primeiros sintomas | Evolução conhecida em 2080 |
 |---|---|---|
-| [[Raul Azevedo]] | Por volta de 2070 | Progrediu pelos quatro estágios e morreu em 2074 |
-| [[Dalva Ninho]] | Por volta de 2075 | Chegou ao estágio III em 2078–2079; morreu no estágio IV em 2079 |
+| [[Raul Azevedo]] | Por volta de 2070 | Chegou ao estágio IV em 2074, transformou-se em Primal e foi morto por pessoas que tentavam impedir seus ataques; o ocorrido foi ocultado |
+| [[Dalva Ninho]] | Por volta de 2075 | Chegou ao estágio IV em 2079; teve episódios de agressividade, mas morreu por falência orgânica antes de completar a transformação; os episódios foram ocultados |
 | [[Clark Becker]] | Sinais discretos em 2077 | Estágio II avançado em 2080; internado há aproximadamente seis meses |
 | [[Luna Azevedo]] | Sinais discretos no fim de 2078, percebidos claramente em 2079 | Estágio II inicial em 2080 |
 
 ### 6.1. Raul Azevedo
 
-Raul possuía a predisposição genética e foi exposto à produção contaminada durante anos. Os primeiros sintomas surgiram por volta de 2070. O quadro progrediu gradualmente, mas o trabalho físico constante e a tendência a ignorar o próprio cansaço contribuíram para o agravamento. A doença chegou ao estágio IV em 2074, quando Raul morreu.
+Raul possuía a predisposição genética e foi exposto à produção contaminada durante anos. Os primeiros sintomas surgiram por volta de 2070. O quadro progrediu gradualmente, mas o trabalho físico constante e a tendência a ignorar o próprio cansaço contribuíram para o agravamento. Em 2074, no estágio IV, perdeu o controle do comportamento, atacou pessoas próximas e completou a transformação em Primal. As pessoas presentes o mataram para impedir novos ataques. A intervenção foi mantida em segredo, e aos demais moradores foi dito apenas que Raul não resistiu à doença.
 
 Sua filha Luna herdou a predisposição genética.
 
@@ -236,7 +238,7 @@ Sua filha Luna herdou a predisposição genética.
 
 Dalva começou a apresentar sintomas por volta de 2075. Durante os primeiros anos, os sinais foram discretos e pareciam uma enfermidade comum. Em 2078, o quadro já havia avançado. A morte de Raul e a sobrecarga emocional e comunitária contribuíram para períodos de estresse, embora Dalva não conhecesse a causa do que estava acontecendo.
 
-Em 2079, aproximadamente um mês antes de morrer, seu sangue apresentou coloração azul, sinal de estágio III. Nas semanas seguintes, avançou ao estágio IV e morreu. Clara preservou uma amostra do sangue.
+Em 2079, aproximadamente um mês antes de morrer, seu sangue apresentou coloração azul, sinal de estágio III. Nas semanas seguintes, avançou ao estágio IV. Nos últimos dias, Dalva teve episódios de agitação e agressividade, chegando a atacar pessoas próximas. Clara e Elias conseguiram contê-la sem revelar aos demais moradores o que estava acontecendo. Dalva morreu por falência orgânica antes de completar a transformação em Primal. Clara preservou uma amostra do sangue; os episódios violentos e a possibilidade de transformação foram ocultados.
 
 ### 6.3. Luna Azevedo
 
@@ -261,7 +263,9 @@ A progressão acelerou durante períodos de sobrecarga, preocupação com as res
 - A doença apresenta alterações sanguíneas em estágios avançados.
 - Não há evidência de transmissão entre pacientes.
 - Tratamentos convencionais aliviam alguns sintomas, mas não interrompem a progressão.
-- O caso de Dalva foi muito semelhante aos demais.
+- O caso de Dalva foi muito semelhante aos demais, mas seus episódios de agressividade terminal e a possibilidade de transformação em Primal foram ocultados.
+- Clara não conhece o episódio terminal de Raul nem sabe que ele se transformou em Primal.
+- Os poucos envolvidos nas mortes de Raul e no cuidado final de Dalva mantiveram os acontecimentos em segredo; os moradores receberam explicações incompletas sobre as mortes.
 
 ### O que Clara ainda não sabe
 
