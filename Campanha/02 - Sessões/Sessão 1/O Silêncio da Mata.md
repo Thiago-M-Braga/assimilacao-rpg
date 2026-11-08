@@ -7,133 +7,132 @@ tags:
   - sessao-1
   - desafio
   - floresta
+  - furtividade
   - onca-tatu
 ---
 
 # O Silêncio da Mata
 
 > [!danger] Somente para o mestre
-> Este desafio contém pistas, solução e consequências. Use as informações aos poucos para que os jogadores possam investigar e chegar às próprias conclusões.
+> Esta cena é um desafio de Furtividade e tensão. A Onça Tatu não precisa ser vista até o desfecho.
 
-<small>Exploração, dedução e tensão — aproximadamente 30 a 45 minutos. Não exige combate.</small>
+<small>Desafio de exploração e sobrevivência — sem combate obrigatório, a menos que o grupo acumule falhas suficientes.</small>
 
-## 1. A situação
+## 1. A trilha desaparece
 
-Os personagens precisam atravessar um trecho fechado da mata. A trilha habitual desapareceu sob árvores caídas e raízes retorcidas. Há marcas de garras nos troncos, animais mortos e manchas azuladas em algumas pedras.
+Os personagens caminham por uma trilha da floresta que, até então, parecia fácil de seguir. Aos poucos, a passagem fica mais estreita. Galhos pendem sobre o caminho, raízes atravessam o chão e a vegetação parece fechar-se atrás deles.
 
-O mais estranho é o silêncio: não há pássaros, insetos ou pequenos animais.
+Em determinado momento, a trilha simplesmente desaparece.
 
-A Onça Tatu está por perto, mas não precisa aparecer. Ela está observando.
+À frente há apenas mata fechada: troncos caídos, pedras cobertas de musgo, raízes retorcidas e árvores marcadas por arranhões profundos. Algumas marcas parecem recentes. Outras são antigas e profundas demais para terem sido feitas por um animal comum.
 
-Os personagens encontram uma bifurcação com três caminhos:
+O grupo tenta localizar a trilha novamente, mas não consegue identificar de onde veio nem qual direção parece mais segura.
 
-- **Trilha das marcas:** árvores arranhadas e vegetação amassada.
-- **Trilha azul:** pedras com uma substância azul brilhante.
-- **Leito do riacho:** água rasa, raízes expostas e marcas de animais.
+Então surge a sensação de que estão sendo observados.
 
-**Objetivo:** descobrir qual caminho permite atravessar a região sem entrar no território de caça da Onça Tatu.
+Não há rugidos, passos ou movimentos evidentes. Apenas o silêncio incomum da floresta e a impressão persistente de que alguma coisa acompanha cada movimento dos personagens.
 
-## 2. Mecânica: relógio de tensão
+**Objetivo:** reencontrar a trilha sem chamar a atenção da Onça Tatu.
 
-Desenhe duas trilhas para acompanhar a cena.
+## 2. Mecânica principal: testes de Furtividade
 
-### Progresso da travessia — 0/3
+O grupo precisa realizar testes de **Furtividade** enquanto avança pela mata e procura a trilha.
 
-Os personagens precisam acumular **3 pontos de progresso** para concluir a travessia.
+Mantenha dois contadores independentes:
 
-- Cada abordagem inteligente pode render 1 ponto de progresso.
-- Uma boa ideia que use as pistas pode render progresso sem aumentar a atenção da onça.
-- Uma falha não precisa bloquear a investigação: pode revelar uma pista, mas com algum custo.
+| Contador | Início | Desfecho |
+|---|---:|---|
+| Sucessos | 0/15 | Ao alcançar 15, o grupo encontra a trilha novamente sem nenhum problema. |
+| Falhas | 0/15 | Ao alcançar 15, a Onça Tatu realiza um ataque surpresa antes que o grupo encontre a trilha. |
 
-### Atenção da Onça Tatu — 0/4
+### Como contar
 
-A atenção começa em **0** e vai até **4**.
+- Some ao contador de sucessos cada sucesso obtido nos testes de Furtividade.
+- Some ao contador de falhas cada falha obtida nesses testes.
+- Os contadores são independentes: sucessos não cancelam falhas, nem falhas apagam sucessos.
+- Os personagens podem explicar como tentam se movimentar em silêncio, esconder rastros, atravessar obstáculos ou sinalizar uns aos outros sem fazer barulho.
+- Cada novo teste deve representar uma nova tentativa ou trecho da travessia. Não permita que o mesmo personagem repita indefinidamente a mesma ação sem mudar a abordagem ou as circunstâncias.
 
-- Uma ação barulhenta, que deixe rastros ou provoque uma reação evidente da mata aumenta a atenção em 1.
-- Ações cuidadosas e planos coerentes não aumentam a atenção.
-- Quando a atenção chegar a 4, a onça aparece em posição vantajosa. Ela não precisa atacar imediatamente: pode rugir, bloquear uma passagem ou perseguir os personagens por alguns instantes.
+Acompanhe os contadores sem revelar necessariamente os números aos jogadores. Em vez disso, demonstre a evolução por meio dos sons, dos sinais na mata e da proximidade da criatura.
 
-A travessia termina quando o grupo alcança 3 pontos de progresso. Se a atenção chegar a 4 antes disso, conduza a aproximação da onça como uma complicação sob pressão, não como combate obrigatório.
+### Resultado: 15 sucessos
 
-## 3. As pistas: o verdadeiro quebra-cabeça
+O grupo consegue se manter discreto, contornar os obstáculos e finalmente encontra a trilha. Eles saem da região sem perceber exatamente o quão perto a Onça Tatu esteve.
 
-Não entregue todas as pistas de uma vez. Deixe os personagens explorarem, observarem e conectarem as informações.
+Não há ataque, perseguição ou outra complicação imediata.
 
-### Pista 1 — As marcas nas árvores
+### Resultado: 15 falhas
 
-As marcas de garras estão sempre voltadas para dentro da mata, nunca para fora. Algumas árvores têm arranhões recentes, outras têm marcas antigas.
+Antes que encontrem a trilha, a Onça Tatu ataca de surpresa.
 
-**Dedução:** a onça patrulha uma área específica. As marcas não indicam uma trilha de passagem segura, mas os limites de seu território.
+Descreva o bote partindo de um ponto escondido entre os troncos e a vegetação. A criatura escolhe uma posição vantajosa e atinge o grupo antes que os personagens consigam se preparar para o confronto.
 
-### Pista 2 — As pedras azuis
+A partir daí, conduza o combate usando a **Ficha da Onça Tatu**.
 
-A substância azul aparece em pedras e raízes, mas sua concentração é maior nas partes mais altas e secas do terreno.
+## 3. Acúmulo de adaptações: a Onça aprende
 
-**Dedução:** a trilha azul leva para uma área de maior atividade da Assimilação. Segui-la não é necessariamente seguro.
+A Onça Tatu não está apenas seguindo os personagens. A Assimilação tornou seus sentidos e instintos extremamente aguçados. Quanto mais o grupo falha em permanecer furtivo, mais a criatura aprende a reconhecer seus padrões de movimento.
 
-### Pista 3 — O leito do riacho
+Marque uma **Adaptação da Onça** a cada 5 falhas acumuladas:
 
-Há pegadas de pequenos animais atravessando a água. Elas desaparecem na margem, mas não há marcas de garras grandes no leito.
+| Falhas acumuladas | Adaptação | Efeito |
+|---:|---|---|
+| 5 | **RASTREADORA** | A onça identifica o cheiro e os rastros do grupo. Se os personagens insistirem no mesmo método de ocultação ou deslocamento, aumente a dificuldade do próximo teste de Furtividade em 1 A. |
+| 10 | **PREDADORA ADAPTADA** | A onça começa a antecipar os movimentos do grupo e a cercá-lo pela vegetação. Se repetirem a mesma abordagem, aumente a dificuldade do próximo teste de Furtividade em 2 A. |
 
-**Dedução:** os animais menores usam o riacho para cruzar a região sem passar pelo caminho habitual da onça. A água também dificulta seguir rastros pelo cheiro.
+As adaptações representam a criatura aprendendo com os erros dos personagens. Elas não tornam o desafio impossível: os jogadores podem mudar de estratégia para evitar o aumento de dificuldade.
 
-### Solução
+Exemplos de mudanças de abordagem:
+- Usar o leito de um riacho para dificultar que a criatura acompanhe os rastros.
+- Esperar o vento mudar de direção antes de avançar.
+- Cobrir marcas no chão com folhas e galhos.
+- Alterar a formação do grupo e evitar caminhar sempre pelo mesmo tipo de terreno.
+- Aproveitar troncos caídos e pedras para esconder o movimento.
 
-A rota mais segura é seguir o leito do riacho, usando as margens e as raízes como cobertura. Assim, os personagens chegam à outra extremidade sem atravessar o centro do território de caça.
+As adaptações permanecem marcadas durante a cena. Se o grupo mudar sua abordagem, não aplique o aumento de dificuldade daquela adaptação ao teste seguinte. Se voltar a repetir um método já reconhecido pela onça, aplique novamente o efeito correspondente.
 
-Não exija que os jogadores formulem a solução exatamente dessa maneira. Se apresentarem um plano coerente que use as pistas, aceite-o.
+> [!important] Exemplo
+> O grupo acumula 5 falhas e a Onça Tatu se torna **Rastreadora**. Os personagens continuam tentando esconder os rastros da mesma maneira, então o próximo teste recebe +1 A de dificuldade. Mais tarde, chegam a 10 falhas: a criatura se torna **Predadora Adaptada**. Repetir a abordagem conhecida passa a acrescentar +2 A de dificuldade nesse teste.
 
-## 4. Decisões durante a travessia
+## 4. Descrições para aumentar a tensão
 
-Apresente situações em que os personagens precisam escolher como agir. As consequências abaixo são sugestões: adapte-as ao plano do grupo.
+Use as descrições abaixo conforme os contadores avançam. Não revele diretamente que a Onça Tatu está acumulando adaptações.
 
-| Situação | Escolha | Consequência possível |
-|---|---|---|
-| Riacho bloqueado por tronco | Remover ou contornar | Remover é mais rápido, mas pode fazer barulho. |
-| Pegadas desaparecem | Investigar a margem ou seguir adiante | Investigar pode revelar a direção correta, mas consome tempo. |
-| Um personagem encontra uma pedra azul | Tocar, coletar ou ignorar | A pedra pode liberar um brilho intenso se manipulada. |
-| Um rugido distante | Esconder-se ou acelerar | Esconder-se reduz a exposição; acelerar pode aumentar a atenção. |
+### No início
 
-Não determine antecipadamente qual habilidade resolve cada situação. Peça aos jogadores que expliquem o que fazem e escolha uma dificuldade adequada à abordagem.
-
-## 5. O momento de tensão
-
-Quando os personagens estiverem perto de completar a travessia, descreva:
-
-> O riacho fica mais estreito. A água passa por baixo de uma enorme raiz retorcida. Por alguns segundos, vocês só escutam o som da correnteza.
+> A trilha termina de repente. Vocês olham para trás e percebem que a vegetação parece igual em todas as direções. Troncos caídos bloqueiam a passagem, pedras cobertas de musgo se espalham pelo terreno e arranhões profundos cortam a casca de algumas árvores.
 >
-> Então, todos os animais da mata parecem fugir ao mesmo tempo.
+> A floresta está quieta demais. Por um instante, vocês têm a impressão de que há alguma coisa entre as árvores, acompanhando cada passo.
+
+### Ao acumular as primeiras falhas
+
+> Um galho estala em algum lugar atrás de vocês.
 >
-> Um rugido atravessa as árvores. Entre os troncos, duas luzes azuis aparecem por um instante.
+> Quando olham, não há nada. Mas, alguns metros adiante, as folhas ainda balançam, como se alguma coisa grande tivesse acabado de passar por ali.
+
+### Ao atingir 5 falhas — Adaptação Rastreadora
+
+> Um cheiro forte e animalesco parece se espalhar pelo ar. Vocês percebem marcas recentes no solo, paralelas às próprias pegadas. Alguma coisa está conseguindo acompanhar o caminho de vocês.
+
+### Ao atingir 10 falhas — Adaptação Predadora Adaptada
+
+> Um rugido baixo ecoa à esquerda. Antes que consigam identificar a direção, outro som responde à direita.
 >
-> Alguma coisa enorme está acompanhando vocês.
+> Entre os troncos, por uma fração de segundo, vocês enxergam duas luzes azuis. A criatura não está apenas seguindo vocês. Está tentando prever para onde vão.
 
-Ajuste a reação conforme o relógio de atenção:
+### Ao atingir 15 falhas — Ataque surpresa
 
-- **Atenção baixa:** a onça apenas observa e desaparece entre as árvores.
-- **Atenção alta:** ela surge e força os personagens a executar o último trecho do plano sob pressão.
+> Um movimento explode na vegetação. Um vulto enorme atravessa o espaço entre as árvores e atinge o grupo com violência. Placas minerais negras brilham por um instante, as garras parecem lâminas de obsidiana e dois olhos azuis se fixam nos personagens.
+>
+> A Onça Tatu encontrou vocês antes que vocês encontrassem a trilha.
 
-## 6. Recompensas e consequências
+## 5. Condução para o mestre
 
-O desafio deve recompensar o raciocínio, não apenas a sorte.
+- Faça a cena começar como uma caminhada comum. O desaparecimento repentino da trilha deve surpreender os jogadores.
+- Não mostre a Onça Tatu logo no início. Use silêncio, arranhões, folhas em movimento e ruídos distantes para sugerir sua presença.
+- Peça que os jogadores descrevam como tentam avançar furtivamente. Valorize soluções criativas e mudanças de estratégia.
+- Evite transformar cada falha em um ataque ou dano imediato. A tensão deve vir do acúmulo e da sensação de que o predador está aprendendo.
+- As adaptações servem para incentivar os jogadores a variar suas abordagens, não para impedir que tenham sucesso.
+- Se o grupo alcançar 15 sucessos antes de 15 falhas, encerre a cena com a saída segura. Se alcançar 15 falhas primeiro, inicie o ataque surpresa.
 
-| Resultado | Consequência |
-|---|---|
-| Travessia perfeita | Chegam ao destino sem serem perseguidos e encontram um abrigo natural. |
-| Travessia com atenção alta | Chegam ao destino, mas a Onça Tatu descobre a direção que seguiram. |
-| Escolha da trilha errada | Encontram sinais de uma área de caça e precisam improvisar outra rota. |
-| Boa investigação | Encontram rastros que podem ajudar a prever os movimentos da Onça Tatu em um encontro futuro. |
-
-## 7. Gancho para a história
-
-No fim do riacho, há um pequeno objeto humano preso entre as raízes — talvez uma tira de tecido, uma ferramenta ou uma identificação antiga.
-
-Ele está coberto por uma película azulada, mas não foi destruído.
-
-Isso sugere que alguém já atravessou aquela região e que a floresta guarda vestígios de acontecimentos anteriores. Não explique imediatamente a quem pertencia o objeto. Ele pode servir como pista para uma investigação posterior sobre a Doença Azul e o que aconteceu com pessoas que desapareceram na mata.
-
-## Orientação para o mestre
-
-Não apresente a Onça Tatu como o obstáculo principal. Faça os jogadores sentirem sua presença sem vê-la. O silêncio dos animais, as marcas nas árvores, o brilho azul e o rugido distante devem construir a tensão aos poucos.
-
-A criatura não precisa atacar nesta cena. A sensação de estar sendo observados e a descoberta de uma rota segura já tornam a travessia memorável. Quando a Onça Tatu finalmente aparecer em outro momento, o rugido e os olhos azuis terão muito mais peso.
+A Onça Tatu deve parecer uma caçadora inteligente e territorial, mas sem perder seu comportamento animal: ela observa, fareja, aprende os padrões das presas e espera o melhor momento para atacar.
