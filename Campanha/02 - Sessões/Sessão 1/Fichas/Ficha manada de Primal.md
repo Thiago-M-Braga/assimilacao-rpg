@@ -57,7 +57,7 @@ A manada funciona como uma única ameaça. Faça uma única Rolagem da Ameaça p
 | Custo | Ativação | Efeito |
 |---|---|---|
 | **3 C** | **INFECTAR** | Escolha um Infectado que já esteja Ferido. Ele marca **1 Ponto de Assimilação**. Se não houver ninguém Ferido, guarde os resultados ou escolha outra ativação. |
-| **3 C** | **SEPARAR O GRUPO** | Um Infectado é isolado a aproximadamente 3 metros do restante do grupo. Para se reunir aos aliados, ele ou um aliado próximo precisa acumular **3 A** em uma ação que faça sentido na ficção. Enquanto estiver isolado, ele pode ser alvo de **Enfraquecer**. |
+| **3 C** | **SEPARAR O GRUPO** | Um Infectado é isolado a 3 unidades de distância do restante do grupo. Para se reunir aos aliados, ele ou um aliado próximo precisa acumular **3 A** em uma ação que faça sentido na ficção. Enquanto estiver isolado, ele pode ser alvo de **Enfraquecer**. |
 | **2 C** | **DERRUBAR E MORDER** | Uma criatura se lança contra um Infectado e o derruba. Para se levantar e se desvencilhar, ele precisa investir **1 A ou 1 B** em seu próximo turno. Enquanto permanecer caído, sofre **+2 de dano** de ataques da manada. |
 | **1 B** | **AUMENTAR A HORDA** | A manada ganha volume e impulso. Acrescente **+1d12 de dano** à ativação **A Ofensiva** durante o restante do conflito. O efeito pode ser acumulado se a ativação for obtida novamente. |
 | **1 B** | **GANHAR MOMENTUM** | A manada fecha o cerco e acelera. Reduza em **2 C** o custo de **A Ofensiva** durante o restante do conflito. O custo não pode ser reduzido abaixo de **5 C**. |
