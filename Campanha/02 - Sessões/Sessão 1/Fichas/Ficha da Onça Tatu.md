@@ -54,7 +54,7 @@ A Onça Tatu é um predador de emboscada, não um animal que permanece parado tr
 - Faça a criatura anunciar sua intenção antes das ativações mais perigosas: o corpo abaixa antes do bote, as placas se erguem antes da investida e o olhar acompanha quem se separa.
 - Use o cenário: árvores, rochas, troncos, declives e vegetação podem esconder a onça ou oferecer cobertura aos personagens.
 - Se os personagens repetirem a mesma abordagem, use **Adaptação da Caçadora** para mostrar que ela está aprendendo os movimentos do grupo.
-- A luta é perigosa. **Neutralizar exige 15 A**; fugir exige **10 A**. Os jogadores precisam decidir se tentam feri-la, ganhar distância ou proteger alguém que caiu.
+- A luta é perigosa. **Neutralizar exige 20 A**; fugir exige **15 A**. Os jogadores precisam decidir se tentam feri-la, ganhar distância ou proteger alguém que caiu.
 - Não transforme cada rodada em dano automático. A tensão vem de preparar o bote, derrubar alguém e obrigar o grupo a reagir sob pressão.
 
 ## Ativações da ameaça

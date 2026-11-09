@@ -31,8 +31,8 @@ tags:
 |---|---|
 | Conflito | Burro solitário |
 | Rolagem da Ameaça | **2d6 + 1d12** (26+12) |
-| Sucessos para Neutralizar | **8 A** acumulados pelo grupo |
-| Sucessos para Fuga | **5 A** acumulados pelo grupo |
+| Sucessos para Neutralizar | **3 A** acumulados pelo grupo |
+| Sucessos para Fuga | **2 A** acumulados pelo grupo |
 
 ## Descrição para narrar
 
@@ -47,16 +47,16 @@ tags:
 | Custo | Ativação | Efeito |
 |---|---|---|
 | **2 C** | **INVESTIDA BRUTAL** | O Primal avança contra um Infectado e causa **1d6 de dano**. |
-| **3 C** | **FRAGMENTOS CORTANTES** | O impacto solta fragmentos minerais. Um Infectado sofre **1d6 de dano**; outro que esteja em alcance curto sofre **1 ponto de dano**. |
+| **3 C** | **FRAGMENTOS CORTANTES** | O impacto solta fragmentos minerais. Um Infectado sofre **1 ponto de dano adicional**. |
 | **2 C** | **AGARRÃO INSTINTIVO** | O Primal prende um Infectado pelo braço ou pela roupa. O alvo precisa investir **1 A ou 1 B** em seu próximo turno para se soltar; se não conseguir, sofre **+2 de dano** na próxima ativação contra ele. |
 | **2 B** | **ARMADURA MINERAL** | O Primal protege o corpo com as placas endurecidas. Os próximos **2 A** acumulados em Neutralização são absorvidos; o efeito termina quando o valor for consumido ou quando chegar o próximo turno da ameaça. |
 | **1 A** | **INSTINTO DE CAÇA** | O Primal identifica o Infectado mais vulnerável ou isolado. A próxima ativação ofensiva contra esse alvo custa **1 C a menos**. |
-| **4 C** | **ATAQUE DESCONTROLADO** | O Primal desfere uma sequência de golpes contra um único Infectado, causando **1d10 de dano**. Se o alvo estiver caído ou preso, sofre **+2 de dano**. |
+| **4 C** | **ATAQUE DESCONTROLADO** | O Primal desfere uma sequência de golpes contra um único Infectado, causando **1 ponto de dano**. Se o alvo estiver caído ou preso, sofre **+2 de dano**. |
 
 ## Objetivos principais
 
-- **Neutralizar o Primal — 8 A:** ao completar, a criatura é abatida ou incapacitada.
-- **Fuga — 5 A:** ao completar, os personagens conseguem escapar do alcance imediato do Primal. A criatura pode continuar nas proximidades, mas o conflito termina.
+- **Neutralizar o Primal — 3 A:** ao completar, a criatura é abatida ou incapacitada.
+- **Fuga — 2 A:** ao completar, os personagens conseguem escapar do alcance imediato do Primal. A criatura pode continuar nas proximidades, mas o conflito termina.
 
 ## Condução para o mestre
 
