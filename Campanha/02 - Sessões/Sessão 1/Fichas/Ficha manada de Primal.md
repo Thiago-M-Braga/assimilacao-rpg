@@ -12,10 +12,10 @@ tags: [sessao, sessao-1, ameaca, primal, manada]
 
 ## Identificação
 
-| Campo | Valor |
-|---|---|
-| Conflito | Carniçais (Burros) — Manada de Primais |
-| Rolagem do Conflito | 3d6 + 1d12 (36+12) |
+| Campo               | Valor                                  |
+| ------------------- | -------------------------------------- |
+| Conflito            | Carniçais (Burros) — Manada de Primais |
+| Rolagem do Conflito | 3d6 + 1d12 (36+12)                     |
 
 ## Descrição
 
@@ -35,16 +35,3 @@ Ex-humanos assimilados, com rachaduras na pele por onde brotam veias azuladas. N
 - **NEUTRALIZAÇÃO — 5 sucessos:** acrescente 1 sucesso à dificuldade para cada Infectado além do primeiro presente na cena.
 - **FUGA — 2 sucessos por Infectado:** cada Infectado precisa completar o objetivo para retornar ao local de onde veio sem gerar problemas.
 
-## Como conduzir esse combate
-
-- **Avanço em grupo:** os Burros avançam juntos, tentando cercar os Infectados.
-- **Investida Brutal:** use para concentrar o ataque em um personagem.
-- **Fragmentos Cortantes:** use quando vários personagens estiverem próximos, atingindo todos em alcance curto.
-- **Armadura Mineral:** representa a proteção das placas minerais que cobrem os corpos dos Primais.
-- **Canibalismo Instintivo:** demonstra a falta de coordenação da manada; os carniçais podem até atacar uns aos outros.
-
-## Nota sobre a ficha coletiva
-
-Esta é uma ficha de Conflito, não uma ficha individual de cada zumbi. O livro trabalha os Burros como uma ameaça coletiva, com uma única rolagem e ativações próprias. Portanto, não é necessário criar Pontos de Saúde individuais para cada criatura.
-
-A ficha mantém os valores da página 220. A notação dos dados e dos resultados foi explicitada para facilitar o uso durante a sessão.
