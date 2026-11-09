@@ -23,20 +23,20 @@ tags:
 | **B** | **Adaptação** | Permite adaptar a ação, mudar a abordagem, apoiar alguém ou contornar uma dificuldade, conforme a regra e a ficção. |
 | **C** | **Pressão** | Nos testes dos Infectados, manter uma Pressão faz o personagem gastar 1 Ponto de Assimilação. Nas ativações, os resultados de Pressão podem alimentar ações perigosas da ameaça. |
 
-**Como ler o custo das ativações:** no início do turno da ameaça, o Assimilador lança a pilha de dados especiais indicada na ficha e distribui os resultados entre as ativações. **3 C** significa três resultados de Pressão; **1 B**, um resultado de Adaptação; **2 A**, dois resultados de Sucesso. Todos os resultados devem ser alocados. Quando uma ativação não reúne o custo completo, os resultados investidos permanecem guardados para rodadas seguintes. Esses custos não são os Sucessos que os jogadores acumulam nos objetivos.
-
 ## Identificação
 
-| Campo | Valor |
-|---|---|
-| Conflito | Burro solitário |
-| Rolagem da Ameaça | **2d6 + 1d12** (26+12) |
-| Sucessos para Neutralizar | **3 A** acumulados pelo grupo |
-| Sucessos para Fuga | **2 A** acumulados pelo grupo |
+| Campo                     | Valor                         |
+| ------------------------- | ----------------------------- |
+| Conflito                  | Burro solitário               |
+| Rolagem da Ameaça         | **2d6 + 1d12** (26+12)        |
+| Sucessos para Neutralizar | **5 A** acumulados pelo grupo |
+| Sucessos para Fuga        | **3 A** acumulados por pessoa |
 
 ## Descrição para narrar
 
-> Entre os destroços, vocês veem uma pessoa parada de costas. As roupas estão rasgadas e sujas, e o corpo parece magro demais para continuar de pé. Por um instante, poderia ser apenas alguém ferido, perdido ou debilitado.
+> Entre os destroços, vocês veem uma pessoa parada de costas. As roupas estão rasgadas e sujas, e o corpo da pessoa é muito magra, como se estivesse passando fome por alguns dias...
+> 
+> ESPERAR REAÇÃO DELES
 >
 > Quando a figura se vira, vocês percebem as rachaduras que cortam a pele e as veias azuladas que aparecem por baixo dela. A boca se abre em um movimento irregular, mas nenhum pedido de ajuda sai dali — apenas um ruído áspero, quase um rosnado.
 >
@@ -55,9 +55,6 @@ tags:
 
 ## Objetivos principais
 
-- **Neutralizar o Primal — 3 A:** ao completar, a criatura é abatida ou incapacitada.
-- **Fuga — 2 A:** ao completar, os personagens conseguem escapar do alcance imediato do Primal. A criatura pode continuar nas proximidades, mas o conflito termina.
+- **Neutralizar o Primal — 5 A:** ao completar, a criatura é abatida ou incapacitada.
+- **Fuga — 3 A:** ao completar, cada personagem que atingiu, conseguem escapar do alcance imediato do Primal. A criatura pode continuar nas proximidades, mas o conflito termina.
 
-## Condução para o mestre
-
-O Primal isolado é um confronto direto e perigoso, mas com mais espaço para reação do que a manada. Alterne entre ataques, agarrões e preparação do alvo mais vulnerável. Se os personagens se mantiverem unidos e usarem o cenário, devem ter uma chance real de escapar; se alguém ficar isolado ou caído, a ameaça aumenta rapidamente.

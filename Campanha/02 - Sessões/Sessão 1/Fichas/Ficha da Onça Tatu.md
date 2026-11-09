@@ -17,14 +17,11 @@ tags:
 
 ## Legenda dos símbolos
 
-| Símbolo | Resultado | Como interpretar |
-|---|---|---|
-| **A** | **Sucesso** | Avanço em direção ao objetivo. Os A dos Infectados são acumulados nos objetivos de Neutralização ou Fuga. |
-| **B** | **Adaptação** | Permite adaptar a ação, mudar a abordagem, apoiar alguém ou contornar uma dificuldade, conforme a regra e a ficção. |
-| **C** | **Pressão** | Nos testes dos Infectados, manter uma Pressão faz o personagem gastar 1 Ponto de Assimilação. Nas ativações, os resultados de Pressão podem alimentar ações perigosas da ameaça. |
-
-**Como ler o custo das ativações:** no início do turno da ameaça, o Assimilador lança a pilha de dados especiais indicada na ficha e distribui os resultados entre as ativações. **3 C** significa três resultados de Pressão; **1 B**, um resultado de Adaptação; **2 A**, dois resultados de Sucesso. Todos os resultados devem ser alocados. Quando uma ativação não reúne o custo completo, os resultados investidos permanecem guardados para rodadas seguintes. Esses custos não são os Sucessos que os jogadores acumulam nos objetivos.
-
+| Símbolo | Resultado     |
+| ------- | ------------- |
+| **A**   | **Sucesso**   |
+| **B**   | **Adaptação** |
+| **C**   | **Pressão**   |
 ## Identificação
 
 | Campo | Valor |
@@ -41,11 +38,10 @@ tags:
 
 > A mata fica silenciosa de uma vez. Os pássaros param de vocalizar e até os pequenos ruídos dos insetos parecem desaparecer. Entre as árvores, alguma coisa se move acompanhando vocês — rápido demais para que consigam acompanhar com os olhos.
 >
-> Então vocês a veem. Uma onça enorme surge sobre uma pedra coberta de musgo. Os músculos sob a pelagem parecem tensos como cabos, e manchas azuladas brilham fracamente em seu corpo. Cascos negros crescem ao longo da coluna e dos ombros, formando uma carapaça irregular. As garras são compridas e curvas; os olhos refletem um azul intenso.
+> Então vocês a veem. Uma onça enorme surge. Os músculos sob a pelagem parecem tensos como cabos, e manchas azuladas brilham fracamente em seu corpo. Cascos negros crescem ao longo da coluna e dos ombros, formando uma carapaça irregular. As garras são compridas e curvas; os olhos refletem um azul intenso.
 >
-> Ela não ruge imediatamente. Apenas observa, com o corpo baixo e a cabeça acompanhando cada movimento de vocês. Quando uma das patas toca o chão, vocês percebem o peso da criatura pela forma como a terra cede. Ela está perto o bastante para alcançar alguém em um único salto.
+> Ela não ruge imediatamente. Apenas observa, com o corpo baixo e a cabeça acompanhando cada movimento de vocês. Quando uma das patas toca o chão, vocês percebem o peso da criatura pela forma como a terra cede.
 >
-> De repente, a onça desaparece atrás dos troncos. Um segundo depois, vocês ouvem o impacto pesado de algo correndo pela vegetação. Ela não está fugindo. Está procurando o melhor ângulo para atacar.
 
 ## Como conduzir a ameaça
 
@@ -96,7 +92,3 @@ A Onça usa o patamar de **20 A para Neutralização** e **15 A para Fuga**, aci
 3. **Pressão:** alterne **Mordida de Preensão**, **Arrastar para a Mata** e **Adaptação da Caçadora** conforme o comportamento do grupo.
 4. **Ataque pesado:** anuncie **Preparar Bote** antes de usar o **Ataque Violento** reforçado ou o **Salto Esmagador**. Os personagens devem perceber que precisam reagir.
 5. **Desfecho:** mantenha Neutralização e Fuga como saídas possíveis. Se a criatura estiver ferida, pode recuar para a mata; isso não precisa significar que foi derrotada.
-
-## Observações de dificuldade
-
-A Onça Tatu é muito mais perigosa do que um Primal isolado. Os valores de **20 A para Neutralização** e **15 A para Fuga** são ajustes de dificuldade desta campanha; o Fastplay usa 15 A como referência para neutralizar uma Onça Assimilada. A capacidade de derrubar, prender e separar personagens faz com que o grupo não possa depender apenas de causar dano. O terreno, a cooperação e a escolha entre lutar ou fugir devem determinar a sobrevivência.
