@@ -10,40 +10,89 @@ tags:
   - onca
 ---
 
-# Ficha da Onça Tatu
+# Ficha — Onça Tatu
 
 > [!danger] Somente para o mestre
 > Esta ficha contém informações e mecânicas da ameaça. Não compartilhe com os jogadores.
 
-## Conflito
+## Legenda dos símbolos
 
-**Onça-pintada assimilada — Onça Tatu**
+| Símbolo | Resultado | Como interpretar |
+|---|---|---|
+| **A** | **Sucesso** | Avanço em direção ao objetivo. Os A dos Infectados são acumulados nos objetivos de Neutralização ou Fuga. |
+| **B** | **Adaptação** | Permite adaptar a ação, mudar a abordagem, apoiar alguém ou contornar uma dificuldade, conforme a regra e a ficção. |
+| **C** | **Pressão** | Representa a pressão da Assimilação. Não é simplesmente uma falha comum: pode gerar custo ou consequência para o Infectado. |
 
-## Descrição
+**Como ler o custo das ativações:** a ficha usa o resultado da própria rolagem da ameaça. Por exemplo, **3 C** significa que a ameaça precisa reunir três resultados C para ativar aquela ação; **1 B** consome um resultado B; **2 A** consome dois resultados A. Resultados alocados em uma ativação que ainda não completou seu custo permanecem guardados para rodadas seguintes. Não confunda esses custos com os A que os jogadores acumulam para cumprir os objetivos do conflito.
 
-Uma onça-pintada enorme, com músculos muito mais desenvolvidos do que os de um animal comum. Sua pelagem apresenta manchas azuladas que brilham fracamente no escuro. Cascos negros cresceram ao longo de sua coluna e ombros, formando uma espécie de armadura natural, semelhante à carapaça de um tatu. Suas garras são mais alongadas que o normal. Os olhos emitem um brilho azul intenso.
+## Identificação
 
-## Ficha da ameaça
+| Campo | Valor |
+|---|---|
+| Conflito | Onça-pintada assimilada — Onça Tatu |
+| Rolagem da Ameaça | **2d6 + 1d12** (26+12) |
+| Tipo | Predador assimilado |
+| Comportamento | Territorial, furtivo, emboscador e perseguidor |
+| Alcance | Curto; consegue alcançar alvos próximos com um bote |
+| Sucessos para Neutralizar | **15 A** acumulados pelo grupo |
+| Sucessos para Fuga | **10 A** acumulados pelo grupo |
 
-| Elemento          | Valor                                        |
-| ----------------- | -------------------------------------------- |
-| Rolagem da Ameaça | 2d6 + 1d12 (26+12)                           |
-| Tipo              | Predador assimilado                          |
-| Comportamento     | Caça, embosca e persegue                     |
-| Alcance           | Curto, com bote para alcançar alvos próximos |
+## Descrição para narrar
 
-## Ativações de Conflito
+> A mata fica silenciosa de uma vez. Os pássaros param de vocalizar e até os pequenos ruídos dos insetos parecem desaparecer. Entre as árvores, alguma coisa se move acompanhando vocês — rápido demais para que consigam acompanhar com os olhos.
+>
+> Então vocês a veem. Uma onça enorme surge sobre uma pedra coberta de musgo. Os músculos sob a pelagem parecem tensos como cabos, e manchas azuladas brilham fracamente em seu corpo. Cascos negros crescem ao longo da coluna e dos ombros, formando uma carapaça irregular. As garras são compridas e curvas; os olhos refletem um azul intenso.
+>
+> Ela não ruge imediatamente. Apenas observa, com o corpo baixo e a cabeça acompanhando cada movimento de vocês. Quando uma das patas toca o chão, vocês percebem o peso da criatura pela forma como a terra cede. Ela está perto o bastante para alcançar alguém em um único salto.
+>
+> De repente, a onça desaparece atrás dos troncos. Um segundo depois, vocês ouvem o impacto pesado de algo correndo pela vegetação. Ela não está fugindo. Está procurando o melhor ângulo para atacar.
+
+## Como conduzir a ameaça
+
+A Onça Tatu é um predador de emboscada, não um animal que permanece parado trocando golpes. Ela observa, escolhe o alvo mais vulnerável, ataca e tenta reposicionar-se.
+
+- Faça a criatura anunciar sua intenção antes das ativações mais perigosas: o corpo abaixa antes do bote, as placas se erguem antes da investida e o olhar acompanha quem se separa.
+- Use o cenário: árvores, rochas, troncos, declives e vegetação podem esconder a onça ou oferecer cobertura aos personagens.
+- Se os personagens repetirem a mesma abordagem, use **Adaptação da Caçadora** para mostrar que ela está aprendendo os movimentos do grupo.
+- A luta é perigosa. **Neutralizar exige 15 A**; fugir exige **10 A**. Os jogadores precisam decidir se tentam feri-la, ganhar distância ou proteger alguém que caiu.
+- Não transforme cada rodada em dano automático. A tensão vem de preparar o bote, derrubar alguém e obrigar o grupo a reagir sob pressão.
+
+## Ativações da ameaça
 
 | Custo | Ativação | Efeito |
 |---|---|---|
-| CC | **BOTE PREDATÓRIO** | Um Infectado sofre 2 pontos de dano. |
-| CCC | **GARRAS DE OBSIDIANA** | Um Infectado sofre 2 pontos de dano adicionais. |
-| BB | **CARAPAÇA MINERAL** | Reduz em A a dificuldade para Neutralizar a onça até o próximo turno. |
-| AAA | **INSTINTO FERIDO** | A onça recua momentaneamente. Retire 6 da rolagem da Ameaça na próxima rodada. |
+| **2 C** | **DERRUBAR** | Um Infectado é derrubado. Para se livrar da onça e levantar, precisa investir **1 A ou 1 B** em seu próximo turno. Enquanto estiver caído, sofre **+2 de dano** dos ataques da Onça Tatu. |
+| **4 C** | **ATAQUE VIOLENTO** | A onça atravessa o espaço em um salto e atinge o grupo. Todos os Infectados em alcance curto sofrem **1d6 de dano**. |
+| **2 C** | **PREPARAR BOTE** | A onça se posiciona e prepara um salto devastador. Não causa dano nesta ativação, mas acrescenta **+1d12 de dano** ao próximo **Ataque Violento**. Além disso, qualquer personagem que sofrer **4 ou mais de dano** nesse ataque marca **1 Ponto de Assimilação**. |
+| **3 C** | **MORDIDA DE PREENSÃO** | A onça prende um Infectado com as mandíbulas e o arrasta alguns passos. O alvo sofre **1d6 de dano**. No próximo turno, precisa investir **1 A ou 1 B** para se soltar; se não conseguir, a próxima ativação contra ele causa **+2 de dano**. |
+| **3 C** | **ARRASTAR PARA A MATA** | A onça agarra um Infectado e o desloca para trás de uma árvore, rocha ou vegetação densa, deixando-o Isolado. Para alcançar os aliados, ele ou um aliado precisa acumular **3 A** em uma ação apropriada. Enquanto estiver Isolado, pode ser alvo de **Mordida de Preensão**. |
+| **5 C** | **SALTO ESMAGADOR** | A onça escolhe um Infectado e salta diretamente sobre ele. O alvo sofre **1d10 de dano**. Se já estiver caído ou Isolado, sofre **+2 de dano**. |
+| **2 B** | **CARAPAÇA MINERAL** | A criatura firma as patas e ergue as placas negras. Até o próximo turno da ameaça, os primeiros **2 A** acumulados em Neutralização são absorvidos pela carapaça e não avançam o objetivo. Não remove sucessos já acumulados em rodadas anteriores. |
+| **1 A** | **MARCAR A PRESA** | A onça escolhe um Infectado que esteja Isolado, caído ou que tenha acabado de feri-la. Ela passa a acompanhar esse alvo. A próxima ativação ofensiva contra ele custa **1 C a menos**. O efeito é perdido se o alvo alcançar cobertura ou se um aliado conseguir distraí-la de maneira convincente. |
+| **1 B** | **ADAPTAÇÃO DA CAÇADORA** | A onça reconhece uma abordagem repetida. Escolha uma tática que os personagens tenham usado em rodadas consecutivas — por exemplo, atacar sempre à distância, permanecer agrupados ou fugir pela mesma rota. A próxima repetição dessa abordagem sofre **+1 de dificuldade**. Se os jogadores mudarem a estratégia, a penalidade não se aplica. |
 
-## Objetivos principais
+## Objetivos do conflito
 
-- **NEUTRALIZAR A ONÇA — AAAAA:** ao completar, a criatura é abatida ou incapacitada.
-- **AFUGENTAR A ONÇA — AAAA:** ela abandona o território e foge para a mata.
-- **FUGA — AA para cada Infectado:** os personagens conseguem escapar sem serem perseguidos.
+### Neutralizar a Onça Tatu — 15 A
 
+Os personagens precisam acumular **15 Sucessos (A)** em ações que atinjam a criatura, a imobilizem ou a incapacitem. A carapaça pode atrasar o progresso, mas não apaga os sucessos anteriores.
+
+### Fugir da Onça Tatu — 10 A
+
+O grupo precisa acumular **10 Sucessos (A)** em ações que criem distância e alcancem uma posição em que a criatura não consiga continuar o ataque imediatamente. Uma fuga bem-sucedida encerra o conflito, mas não significa que a onça morreu ou abandonou definitivamente seu território.
+
+### Resgatar um companheiro — 5 A
+
+Se um personagem estiver preso pela mordida ou isolado na mata, os demais podem acumular **5 A** em um objetivo secundário para alcançá-lo e retirá-lo da posição vulnerável. O objetivo não neutraliza a onça, mas remove a condição de isolamento ou de presa.
+
+## Ritmo sugerido para o mestre
+
+1. **Primeiro contato:** a onça observa e desaparece entre a vegetação. Não comece com dano; deixe os jogadores perceberem que estão sendo caçados.
+2. **Primeira investida:** use **Derrubar** ou **Marcar a Presa** para mostrar que ela escolheu um alvo.
+3. **Pressão:** alterne **Mordida de Preensão**, **Arrastar para a Mata** e **Adaptação da Caçadora** conforme o comportamento do grupo.
+4. **Ataque pesado:** anuncie **Preparar Bote** antes de usar o **Ataque Violento** reforçado ou o **Salto Esmagador**. Os personagens devem perceber que precisam reagir.
+5. **Desfecho:** mantenha Neutralização e Fuga como saídas possíveis. Se a criatura estiver ferida, pode recuar para a mata; isso não precisa significar que foi derrotada.
+
+## Observações de dificuldade
+
+A Onça Tatu é muito mais perigosa do que um Primal isolado. O objetivo de **15 A** para neutralizá-la e a capacidade de derrubar, prender e separar personagens fazem com que o grupo não possa depender apenas de causar dano. O terreno, a cooperação e a escolha entre lutar ou fugir devem determinar a sobrevivência.

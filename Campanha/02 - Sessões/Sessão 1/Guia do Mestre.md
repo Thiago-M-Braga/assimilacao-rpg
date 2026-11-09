@@ -35,7 +35,7 @@ A sessão é extensa. Não acelere a convivência inicial apenas para chegar à 
 | Foto e senha | 21/09/2077; código DDMMYYYY: 21092077 |
 | Final | Ninho em chamas; muitos moradores transformados; no máximo dois sobreviventes não transformados entre quem ficou |
 
-A população de 24 já inclui os personagens que moram no Ninho. Não acrescente moradores permanentes fora dos documentos gerais.
+A população de 21 já inclui os personagens que moram no Ninho. Não acrescente moradores permanentes fora dos documentos gerais.
 
 ## 2. Preparação
 

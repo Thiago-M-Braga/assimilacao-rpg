@@ -57,7 +57,7 @@ Quando a data exata de um acontecimento não está definida, esta linha do tempo
 
 ## Pontos de atenção temporal
 
-- O presente da campanha é 2080, mas o dia e o mês ainda não estão fixados. A população atual do Ninho é de 24 pessoas; não há moradores adicionais fora dos personagens listados.
+- O presente da campanha é 2080, mas o dia e o mês ainda não estão fixados. A população atual do Ninho é de 21 pessoas; não há moradores adicionais fora dos personagens listados.
 - A gestação de Maria é estimada em cerca de sete meses no recorte inicial de 2080. O Ninho não dispõe de recursos clínicos para determinar com precisão a idade gestacional ou prever o dia do parto; não fixar uma data prevista.
 - Idades são valores de referência de 2080; não calcular aniversários específicos sem calendário.
 - A expedição ao Viveiro do Vale ocorreu por volta de 2033; os participantes ainda não foram identificados nominalmente. O fungo chegou como esporos dispersos pelo ar durante o manuseio do material agrícola, quando a estufa ainda era aberta.

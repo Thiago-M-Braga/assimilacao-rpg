@@ -11,7 +11,7 @@ visibilidade: mestre
 | Item | Valor |
 |---|---|
 | Ano | 2080 |
-| População inicial do Ninho | 24 pessoas |
+| População inicial do Ninho | 21 pessoas |
 | Mantimentos restantes | Aproximadamente 15 dias |
 | Próxima colheita | Não chega a tempo |
 | Santa Aurora | 14–18 km a leste |

@@ -16,7 +16,7 @@ tags:
 
 ## Visão geral
 
-Em 2080, o Ninho é uma comunidade sem contato regular com o exterior que aprendeu a transformar a sobrevivência em rotina. Seus 24 habitantes constituem toda a população do assentamento.
+Em 2080, o Ninho é uma comunidade sem contato regular com o exterior que aprendeu a transformar a sobrevivência em rotina. Seus 21 habitantes constituem toda a população do assentamento.
 
 Seus moradores não vivem em estado constante de emergência. O Colapso aconteceu há 55 anos, e a maior parte da população atual nasceu depois dele. Para essas pessoas, a vida dentro dos muros é simplesmente o mundo que conhecem.
 
