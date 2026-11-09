@@ -46,18 +46,18 @@ visibilidade: mestre
 
 ## Ordem das cenas
 
-1. Rotina no Ninho; cada personagem em sua função.
-2. Thomas pede para subir no muro com Ithan.
-3. Cenas curtas de vínculo e sinais discretos da doença.
-4. Conversa noturna sobre os quinze dias de mantimentos.
-5. Reunião no centro do vilarejo.
-6. Sorteio na manhã seguinte, caso os três PCs não se ofereçam.
-7. Preparação e saída com Vicente.
-8. Dois dias de viagem, com pelo menos dois desafios.
-9. Mercado barricadado; corpos e fotografia.
-10. Sala secreta; senha, mantimentos e improviso do carrinho.
-11. Primeiro Primal ao sair.
-12. Retorno; fumaça e incêndio no Ninho; até dois sobreviventes.
+1. [[01 - Abertura e cotidiano]] e [[Missões iniciais]] — rotina e vínculos no Ninho.
+2. [[02 - Crise, reunião e partida]] — mantimentos, decisão coletiva, preparação e saída.
+3. [[Travessia até Santa Aurora]] — dois dias de viagem; selecione pelo menos dois obstáculos.
+4. [[O Silêncio da Mata]] — desafio de furtividade; a ficha da Onça fica em [[Ficha da Onça Tatu]].
+5. [[Mercado e primeiro Primal]] — mercado, fotografia, senha, estoque secreto, carrinho e primeiro encontro.
+6. [[03 - Retorno e incêndio]] — volta ao Ninho, fumaça, moradores transformados e decisões finais; consulte [[Ficha manada de Primal]] caso haja confronto coletivo.
+
+## Índices das etapas
+
+- [[00 - Etapa - Ninho]]
+- [[00 - Etapa - Floresta]]
+- [[00 - Etapa - Cidade]]
 
 ## Segredos e lembretes
 
