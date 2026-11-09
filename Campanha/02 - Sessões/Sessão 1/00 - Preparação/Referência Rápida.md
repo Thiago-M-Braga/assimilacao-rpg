@@ -50,8 +50,10 @@ visibilidade: mestre
 2. [[02 - Crise, reunião e partida]] — mantimentos, decisão coletiva, preparação e saída.
 3. [[Travessia até Santa Aurora]] — dois dias de viagem; selecione pelo menos dois obstáculos.
 4. [[O Silêncio da Mata]] — desafio de furtividade; a ficha da Onça fica em [[Ficha da Onça Tatu]].
-5. [[Mercado e primeiro Primal]] — mercado, fotografia, senha, estoque secreto, carrinho e primeiro encontro.
-6. [[03 - Retorno e incêndio]] — volta ao Ninho, fumaça, moradores transformados e decisões finais; consulte [[Ficha manada de Primal]] caso haja confronto coletivo.
+5. [[Mercado e primeiro Primal]] — mercado, fotografia, senha, estoque secreto e carrinho.
+6. [[Primeiro encontro com o Primal]] — conflito ao sair do mercado; consulte [[Ficha primal]].
+7. [[03 - Retorno e incêndio]] — volta ao Ninho, fumaça e chegada ao perímetro.
+8. [[Confronto no Ninho em chamas]] — decisões de resgate, confronto ou fuga; consulte [[Ficha manada de Primal]] se houver confronto coletivo.
 
 ## Índices das etapas
 

@@ -30,27 +30,9 @@ Quando o Ninho estiver próximo, os personagens veem uma coluna de fumaça. Conf
 
 Interrompa a conversa e dê tempo para os jogadores reagirem. O zumbido habitual do muro não está presente, ou é abafado pelo estalo do fogo. A entrada não está como nos dias anteriores. O portão pode estar aberto, danificado ou parcialmente bloqueado; escolha uma condição que permita aos personagens decidir como se aproximar sem revelar a causa.
 
-### 11.2 O que encontram
+### 11.2 Confronto e decisões urgentes
 
-Dentro do perímetro há fogo, fumaça, estruturas desabadas e moradores em estados que os personagens não compreendem. Muitos se movem agressivamente e atacam qualquer pessoa que encontram. Alguns parecem reconhecer vozes ou rostos por um instante, mas logo são dominados por impulsos incompreensíveis.
-
-**Para o mestre:** muitos habitantes foram transformados em Primais. Não explique como aconteceu, quem iniciou o incêndio ou por que a transformação ocorreu naquele momento.
-
-Entre os moradores que ficaram, haverá no máximo dois sobreviventes não transformados. Escolha-os considerando:
-- com quem os personagens construíram vínculos;
-- quais promessas fizeram durante o dia;
-- quem teria condições plausíveis de se esconder ou escapar;
-- quais histórias podem continuar depois da sessão.
-
-Não garanta que um NPC sobreviva só por ser importante no material geral. Também não mate alguém apenas para surpreender. O impacto deve nascer das cenas e decisões anteriores.
-
-### 11.3 Escolhas finais
-
-Os personagens podem tentar resgatar alguém, enfrentar os Primais que bloqueiam o caminho, usar fogo e estruturas para abrir uma rota, abandonar os mantimentos para correr ou fugir para preservar suas vidas.
-
-O carrinho não precisa ser salvo. Os recursos importam, mas a vida dos personagens e a decisão sobre quem tentar salvar podem ser mais importantes.
-
-Encerre depois que a urgência imediata tiver uma consequência clara: alguém salvo, fuga iniciada, passagem aberta ou grupo encurralado. Deixe sem resposta o que aconteceu com o Ninho.
+Ao entrar no perímetro, use a página [[Confronto no Ninho em chamas]] para narrar o que os personagens encontram e conduzir as decisões de resgate, confronto ou fuga.
 
 ## 12. Pistas sem explicação
 

@@ -21,7 +21,8 @@ Recompensar a expedição com recursos importantes, mas fazer os personagens per
 | Ordem | Material | Quando usar |
 |---|---|---|
 | 1 | [[Mercado e primeiro Primal]] | Chegada à cidade, mercado barricadado, corpos e fotografia |
-| 2 | [[Ficha primal]] | Primeiro confronto com a figura humana que ataca ao saírem do mercado |
+| 2 | [[Primeiro encontro com o Primal]] | Cena de conflito quando a figura humana ataca ao saírem do mercado |
+| 3 | [[Ficha primal]] | Ficha da ameaça usada nesse encontro |
 
 ## Lembretes da etapa
 

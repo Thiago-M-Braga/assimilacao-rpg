@@ -24,7 +24,8 @@ Apresentar o Ninho como lar, mostrar a dependência entre seus moradores e criar
 | 2 | [[Missões iniciais]] | Cenas individuais de Mabel, Freya e Ithan antes da refeição |
 | 3 | [[02 - Crise, reunião e partida]] | Revelar os mantimentos, conduzir a reunião e preparar a expedição |
 | 4 | [[03 - Retorno e incêndio]] | Abrir depois da exploração de Santa Aurora, no caminho de volta ao Ninho |
-| 5 | [[Ficha manada de Primal]] | Referência de ameaça caso haja confronto com um grupo de Primais durante a cena final |
+| 5 | [[Confronto no Ninho em chamas]] | Cena de resgate, confronto ou fuga quando os personagens entram no perímetro |
+| 6 | [[Ficha manada de Primal]] | Referência de ameaça caso haja confronto com um grupo de Primais durante a cena final |
 
 ## Pastas desta etapa
 
