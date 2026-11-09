@@ -21,9 +21,9 @@ tags:
 |---|---|---|
 | **A** | **Sucesso** | Avanço em direção ao objetivo. Os A dos Infectados são acumulados nos objetivos de Neutralização ou Fuga. |
 | **B** | **Adaptação** | Permite adaptar a ação, mudar a abordagem, apoiar alguém ou contornar uma dificuldade, conforme a regra e a ficção. |
-| **C** | **Pressão** | Representa a pressão da Assimilação. Não é simplesmente uma falha comum: pode gerar custo ou consequência para o Infectado. |
+| **C** | **Pressão** | Nos testes dos Infectados, manter uma Pressão faz o personagem gastar 1 Ponto de Assimilação. Nas ativações, os resultados de Pressão podem alimentar ações perigosas da ameaça. |
 
-**Como ler o custo das ativações:** a ficha usa o resultado da própria rolagem da ameaça. Por exemplo, **3 C** significa que a ameaça precisa reunir três resultados C para ativar aquela ação; **1 B** consome um resultado B; **2 A** consome dois resultados A. Resultados alocados em uma ativação que ainda não completou seu custo permanecem guardados para rodadas seguintes. Não confunda esses custos com os A que os jogadores acumulam para cumprir os objetivos do conflito.
+**Como ler o custo das ativações:** no início do turno da ameaça, o Assimilador lança a pilha de dados especiais indicada na ficha e distribui os resultados entre as ativações. **3 C** significa três resultados de Pressão; **1 B**, um resultado de Adaptação; **2 A**, dois resultados de Sucesso. Todos os resultados devem ser alocados. Quando uma ativação não reúne o custo completo, os resultados investidos permanecem guardados para rodadas seguintes. Esses custos não são os Sucessos que os jogadores acumulam nos objetivos.
 
 ## Identificação
 

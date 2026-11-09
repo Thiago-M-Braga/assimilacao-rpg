@@ -21,9 +21,9 @@ tags:
 |---|---|---|
 | **A** | **Sucesso** | Avanço em direção ao objetivo. Os A dos Infectados são acumulados nos objetivos de Neutralização ou Fuga. |
 | **B** | **Adaptação** | Permite adaptar a ação, mudar a abordagem, apoiar alguém ou contornar uma dificuldade, conforme a regra e a ficção. |
-| **C** | **Pressão** | Representa a pressão da Assimilação. Não é simplesmente uma falha comum: pode gerar custo ou consequência para o Infectado. |
+| **C** | **Pressão** | Nos testes dos Infectados, manter uma Pressão faz o personagem gastar 1 Ponto de Assimilação. Nas ativações, os resultados de Pressão podem alimentar ações perigosas da ameaça. |
 
-**Como ler o custo das ativações:** a ficha usa o resultado da própria rolagem da ameaça. Por exemplo, **3 C** significa que a ameaça precisa reunir três resultados C para ativar aquela ação; **1 B** consome um resultado B; **2 A** consome dois resultados A. Resultados alocados em uma ativação que ainda não completou seu custo permanecem guardados para rodadas seguintes. Não confunda esses custos com os A que os jogadores acumulam para cumprir os objetivos do conflito.
+**Como ler o custo das ativações:** no início do turno da ameaça, o Assimilador lança a pilha de dados especiais indicada na ficha e distribui os resultados entre as ativações. **3 C** significa três resultados de Pressão; **1 B**, um resultado de Adaptação; **2 A**, dois resultados de Sucesso. Todos os resultados devem ser alocados. Quando uma ativação não reúne o custo completo, os resultados investidos permanecem guardados para rodadas seguintes. Esses custos não são os Sucessos que os jogadores acumulam nos objetivos.
 
 ## Identificação
 
@@ -34,8 +34,8 @@ tags:
 | Tipo | Predador assimilado |
 | Comportamento | Territorial, furtivo, emboscador e perseguidor |
 | Alcance | Curto; consegue alcançar alvos próximos com um bote |
-| Sucessos para Neutralizar | **15 A** acumulados pelo grupo |
-| Sucessos para Fuga | **10 A** acumulados pelo grupo |
+| Sucessos para Neutralizar | **20 A** acumulados pelo grupo |
+| Sucessos para Fuga | **15 A** acumulados pelo grupo |
 
 ## Descrição para narrar
 
@@ -63,27 +63,31 @@ A Onça Tatu é um predador de emboscada, não um animal que permanece parado tr
 |---|---|---|
 | **2 C** | **DERRUBAR** | Um Infectado é derrubado. Para se livrar da onça e levantar, precisa investir **1 A ou 1 B** em seu próximo turno. Enquanto estiver caído, sofre **+2 de dano** dos ataques da Onça Tatu. |
 | **4 C** | **ATAQUE VIOLENTO** | A onça atravessa o espaço em um salto e atinge o grupo. Todos os Infectados em alcance curto sofrem **1d6 de dano**. |
-| **2 C** | **PREPARAR BOTE** | A onça se posiciona e prepara um salto devastador. Não causa dano nesta ativação, mas acrescenta **+1d12 de dano** ao próximo **Ataque Violento**. Além disso, qualquer personagem que sofrer **4 ou mais de dano** nesse ataque marca **1 Ponto de Assimilação**. |
+| **2 C** | **PREPARAR BOTE** | A onça se posiciona e prepara um salto devastador. Não causa dano nesta ativação, mas acrescenta **+1d12 de dano** ao próximo **Ataque Violento**. Além disso, qualquer Infectado que sofrer **4 ou mais de dano** nesse ataque precisa gastar **1 Ponto de Assimilação**. |
 | **3 C** | **MORDIDA DE PREENSÃO** | A onça prende um Infectado com as mandíbulas e o arrasta alguns passos. O alvo sofre **1d6 de dano**. No próximo turno, precisa investir **1 A ou 1 B** para se soltar; se não conseguir, a próxima ativação contra ele causa **+2 de dano**. |
 | **3 C** | **ARRASTAR PARA A MATA** | A onça agarra um Infectado e o desloca para trás de uma árvore, rocha ou vegetação densa, deixando-o Isolado. Para alcançar os aliados, ele ou um aliado precisa acumular **3 A** em uma ação apropriada. Enquanto estiver Isolado, pode ser alvo de **Mordida de Preensão**. |
 | **5 C** | **SALTO ESMAGADOR** | A onça escolhe um Infectado e salta diretamente sobre ele. O alvo sofre **1d10 de dano**. Se já estiver caído ou Isolado, sofre **+2 de dano**. |
-| **2 B** | **CARAPAÇA MINERAL** | A criatura firma as patas e ergue as placas negras. Até o próximo turno da ameaça, os primeiros **2 A** acumulados em Neutralização são absorvidos pela carapaça e não avançam o objetivo. Não remove sucessos já acumulados em rodadas anteriores. |
+| **2 B** | **CARAPAÇA MINERAL** | A criatura firma as patas e ergue as placas negras. Até o próximo turno da ameaça, os primeiros **2 A** direcionados à Neutralização não contam para o objetivo. Não remove sucessos já acumulados em rodadas anteriores. |
 | **1 A** | **MARCAR A PRESA** | A onça escolhe um Infectado que esteja Isolado, caído ou que tenha acabado de feri-la. Ela passa a acompanhar esse alvo. A próxima ativação ofensiva contra ele custa **1 C a menos**. O efeito é perdido se o alvo alcançar cobertura ou se um aliado conseguir distraí-la de maneira convincente. |
 | **1 B** | **ADAPTAÇÃO DA CAÇADORA** | A onça reconhece uma abordagem repetida. Escolha uma tática que os personagens tenham usado em rodadas consecutivas — por exemplo, atacar sempre à distância, permanecer agrupados ou fugir pela mesma rota. A próxima repetição dessa abordagem sofre **+1 de dificuldade**. Se os jogadores mudarem a estratégia, a penalidade não se aplica. |
 
 ## Objetivos do conflito
 
-### Neutralizar a Onça Tatu — 15 A
+### Neutralizar a Onça Tatu — 20 A
 
-Os personagens precisam acumular **15 Sucessos (A)** em ações que atinjam a criatura, a imobilizem ou a incapacitem. A carapaça pode atrasar o progresso, mas não apaga os sucessos anteriores.
+Os personagens precisam acumular **20 Sucessos (A)** em ações que atinjam a criatura, a imobilizem ou a incapacitem. A carapaça pode atrasar o progresso, mas não apaga os sucessos anteriores.
 
-### Fugir da Onça Tatu — 10 A
+### Fugir da Onça Tatu — 15 A
 
-O grupo precisa acumular **10 Sucessos (A)** em ações que criem distância e alcancem uma posição em que a criatura não consiga continuar o ataque imediatamente. Uma fuga bem-sucedida encerra o conflito, mas não significa que a onça morreu ou abandonou definitivamente seu território.
+O grupo precisa acumular **15 Sucessos (A)** em ações que criem distância e alcancem uma posição em que a criatura não consiga continuar o ataque imediatamente. Uma fuga bem-sucedida encerra o conflito, mas não significa que a onça morreu ou abandonou definitivamente seu território.
 
 ### Resgatar um companheiro — 5 A
 
 Se um personagem estiver preso pela mordida ou isolado na mata, os demais podem acumular **5 A** em um objetivo secundário para alcançá-lo e retirá-lo da posição vulnerável. O objetivo não neutraliza a onça, mas remove a condição de isolamento ou de presa.
+
+## Ajuste de dificuldade desta campanha
+
+A Onça usa o patamar de **20 A para Neutralização** e **15 A para Fuga**, acima da referência de 15 A para neutralizar uma Onça Assimilada no Fastplay. Esse aumento é intencional para tornar o confronto excepcionalmente perigoso nesta campanha.
 
 ## Ritmo sugerido para o mestre
 
@@ -95,4 +99,4 @@ Se um personagem estiver preso pela mordida ou isolado na mata, os demais podem 
 
 ## Observações de dificuldade
 
-A Onça Tatu é muito mais perigosa do que um Primal isolado. O objetivo de **15 A** para neutralizá-la e a capacidade de derrubar, prender e separar personagens fazem com que o grupo não possa depender apenas de causar dano. O terreno, a cooperação e a escolha entre lutar ou fugir devem determinar a sobrevivência.
+A Onça Tatu é muito mais perigosa do que um Primal isolado. Os valores de **20 A para Neutralização** e **15 A para Fuga** são ajustes de dificuldade desta campanha; o Fastplay usa 15 A como referência para neutralizar uma Onça Assimilada. A capacidade de derrubar, prender e separar personagens faz com que o grupo não possa depender apenas de causar dano. O terreno, a cooperação e a escolha entre lutar ou fugir devem determinar a sobrevivência.
