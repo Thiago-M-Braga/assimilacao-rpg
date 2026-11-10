@@ -56,17 +56,13 @@ Mantenha dois contadores independentes:
 
 Acompanhe os contadores sem revelar necessariamente os números aos jogadores. Em vez disso, demonstre a evolução por meio dos sons, dos sinais na mata e da proximidade da criatura.
 
-**Regra para resultado simultâneo:** se uma mesma rolagem fizer os dois contadores alcançarem 15, use o desfecho de ataque surpresa descrito acima. Se apenas o contador de sucessos chegar a 15, o grupo encontra a trilha e encerra o desafio sem combate.
+**Regra para resultado simultâneo:** se uma mesma rolagem fizer os dois contadores alcançarem 15, considere que o grupo encontra a trilha ao mesmo tempo em que a Onça Tatu alcança sua posição. A saída está visível, mas o predador chega antes que todos consigam atravessar. Inicie o ataque surpresa usando [[Ficha da Onça Tatu]].
 
 ### Resultado: 15 sucessos
 
 O grupo consegue se manter discreto, contornar os obstáculos e finalmente encontra a trilha. Eles saem da região sem perceber exatamente o quão perto a Onça Tatu esteve.
 
 Não há ataque, perseguição ou outra complicação imediata.
-
-**Se os dois contadores chegarem a 15 no mesmo teste:**
-
-Considere que o grupo encontra a trilha ao mesmo tempo em que a Onça Tatu alcança sua posição. A saída está visível, mas o predador chega antes que todos consigam atravessar. Inicie o ataque surpresa usando [[Ficha da Onça Tatu]].
 
 ### Resultado: 15 falhas
 
