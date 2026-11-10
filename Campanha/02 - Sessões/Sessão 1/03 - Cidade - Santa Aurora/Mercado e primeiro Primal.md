@@ -26,6 +26,18 @@ Os personagens sabem que há uma cidade grande naquela direção, mas não conhe
 
 O mercado é o objetivo principal. Outros estabelecimentos podem ser explorados, mas cada desvio consome tempo e recursos. Vicente pode apontar riscos óbvios e sugerir cautela, mas não deve escolher o caminho ou decidir pelo grupo.
 
+### Narração — aproximação do mercado
+
+**Leia para os jogadores:**
+
+> A rua termina em frente a um mercado de bairro. A fachada está manchada pela umidade, e trepadeiras atravessam parte da placa. Carrinhos de compra enferrujados estão espalhados perto da entrada.
+>
+> A porta principal está bloqueada por móveis e prateleiras empurrados pelo lado de dentro. Não há luz no interior. As janelas estão escuras, e vocês não conseguem saber se há alguém ou alguma coisa lá dentro.
+
+**Vicente, se o grupo ficar parado avaliando a entrada:**
+
+> “Alguém fechou isso por dentro. Antes de mexer, olhem as laterais. Não sabemos se a barricada está segurando alguma coisa ou escondendo alguma coisa.”
+
 ### 9.1 Entrada barricada
 
 O mercado está fechado por barricadas montadas do lado de dentro. Isso sugere que alguém tentou se proteger ali.
@@ -33,6 +45,14 @@ O mercado está fechado por barricadas montadas do lado de dentro. Isso sugere q
 Permita abordagens diferentes: procurar uma entrada de carga, examinar janelas superiores, retirar tábuas e móveis da porta, criar uma abertura pequena ou investigar o telhado se a estrutura suportar peso.
 
 Uma falha não deve tornar o mercado inacessível. Pode gerar barulho, atraso, entrada perigosa ou abandono de parte do equipamento.
+
+**Se os personagens conseguirem entrar — leia:**
+
+> O mercado está quase irreconhecível. Prateleiras tombaram, embalagens vazias cobrem o chão e a vegetação entrou por uma parte do telhado. O ar está parado, com cheiro de poeira, papel úmido e algo metálico.
+>
+> Perto dos caixas, há dois corpos. Nenhum movimento. O lugar parece ter sido fechado às pressas, mas ninguém saiu dali depois.
+
+
 
 ### 9.2 Os dois corpos
 
@@ -44,9 +64,23 @@ Diminua o ritmo e descreva a cena em partes:
 - O homem segura uma fotografia dos dois abraçados, sorrindo dentro do mercado.
 - No verso da fotografia há uma data escrita à mão.
 
+**Leia ao se aproximarem dos corpos:**
+
+> A mulher está caída de lado. Sob a pele do pescoço e dos braços, veias azuladas formam linhas visíveis. Alguns passos adiante, um homem está caído de costas, com um revólver próximo à mão e um ferimento sob o queixo.
+>
+> Entre os dedos dele há uma fotografia. A imagem mostra os dois abraçados e sorrindo dentro daquele mesmo mercado. No verso, uma data foi escrita à mão.
+
+
+
 Não explique quem eram, de onde vieram ou por que morreram. Dê tempo para observar, conversar e decidir se tocam nos corpos ou nos objetos.
 
 **Data planejada no verso:** 21/09/2077. Frase opcional: “O dia em que este lugar virou nosso lar”.
+
+**Se examinarem os fundos do mercado — leia:**
+
+> Atrás do balcão e de uma porta de serviço, vocês encontram uma sala fechada. A porta é mais reforçada do que as demais e possui um pequeno teclado numérico ao lado da fechadura. Não há sinal de energia, mas o teclado parece ter sido instalado para controlar o acesso ao estoque.
+
+
 
 ## 10. Sala trancada e recursos
 
@@ -65,6 +99,14 @@ Se os jogadores entenderem a pista, mas usarem outro formato, permita que perceb
 
 Nem tudo está perfeito: embalagens podem estar danificadas, alimentos podem exigir inspeção e algumas armas podem precisar de manutenção.
 
+**Ao encontrarem o estoque — leia:**
+
+> A porta se abre com um estalo. Lá dentro, caixas foram empilhadas em prateleiras metálicas. Algumas estão cobertas por poeira, mas muitas ainda estão lacradas. O espaço é pequeno para a quantidade de mantimentos, e fica claro que alguém tentou protegê-los do restante do mercado.
+>
+> Há mais comida aqui do que vocês esperavam encontrar em toda a cidade.
+
+
+
 ### 10.1 Carrinho improvisado
 
 A quantidade de mantimentos é grande demais para mochilas. Do lado de fora há rodas, peças de carrinhos, tubos, tábuas, cordas e sucata urbana.
@@ -72,6 +114,12 @@ A quantidade de mantimentos é grande demais para mochilas. Do lado de fora há 
 Trate a construção como desafio de equipe, não uma rolagem única. Cada personagem pode identificar rodas, recuperar eixo, ajustar estrutura, amarrar reforços, testar peso ou equilibrar carga.
 
 **Complicações possíveis:** roda torta, eixo rangendo, corda que precisa ser trocada ou ruído que chama atenção. Se falharem, o carrinho funciona parcialmente, exige consertos na volta ou obriga a deixar parte do estoque. Não torne a construção impossível por falta de uma habilidade específica.
+
+**Quando perceberem que não conseguem carregar tudo — leia:**
+
+> O estoque é pesado demais para ser dividido apenas entre as mochilas. Caixas e pacotes ocupam quase todo o chão. Para levar uma quantidade significativa de volta, vocês vão precisar improvisar algum tipo de carrinho ou escolher com cuidado o que realmente vale a pena carregar.
+
+
 
 ## 10.2 Outros locais que podem explorar em Santa Aurora
 
@@ -184,6 +232,18 @@ O mercado continua sendo o objetivo principal. Se os jogadores quiserem procurar
 - talheres, recipiente metálico ou garrafa;
 - corda curta ou ferramenta doméstica;
 - fotografias, mapa antigo ou caderno pessoal sem informação decisiva para a campanha.
+
+### Conversa rápida durante a exploração
+
+**Vicente, ao notar que o grupo quer entrar em muitos prédios:**
+
+> “Escolham o que vale o risco. A cidade não vai acabar hoje, mas nossa água e nossa força acabam.”
+
+**Vicente, se alguém perguntar se os prédios são seguros:**
+
+> “Não dá para saber olhando de fora. Procurem rachaduras, teto cedendo e cheiro de mofo forte. E não fiquem todos no mesmo cômodo se o piso parecer ruim.”
+
+
 
 ## 10.3 Conflito opcional — o corredor que cede
 
