@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campanha/02 - Sessões/Sessão 1/Fichas/Ficha primal.md",
+                "file": "Campanha/02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/Mercado e primeiro Primal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ficha primal"
+              "title": "Mercado e primeiro Primal"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campanha/02 - Sessões/Sessão 1/Fichas/Ficha primal.md",
+                "file": "Campanha/02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/Mercado e primeiro Primal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campanha/02 - Sessões/Sessão 1/Fichas/Ficha primal.md",
+                "file": "Campanha/02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/Mercado e primeiro Primal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campanha/02 - Sessões/Sessão 1/Fichas/Ficha primal.md",
+                "file": "Campanha/02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/Mercado e primeiro Primal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,10 +190,41 @@
   },
   "active": "3420998937dc8d2a",
   "lastOpenFiles": [
-    "Campanha/02 - Sessões/Sessão 1/Fichas/Ficha da Onça Tatu.md",
-    "Campanha/02 - Sessões/Sessão 1/Fichas/Ficha manada de Primal.md",
-    "Campanha/02 - Sessões/Sessão 1/Referência Rápida.md",
-    "Campanha/02 - Sessões/Sessão 1/Fichas/Ficha primal.md",
-    "Campanha/02 - Sessões/Sessão 1/Fichas"
+    "Campanha/02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/Ficha primal.md",
+    "Campanha/02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/00 - Etapa - Cidade.md",
+    "Campanha/02 - Sessões/Sessão 1/02 - Floresta/00 - Etapa - Floresta.md",
+    "Campanha/02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/Mercado e primeiro Primal.md",
+    "Campanha/02 - Sessões/Sessão 1/02 - Floresta/Travessia até Santa Aurora.md",
+    "Campanha/02 - Sessões/Sessão 1/02 - Floresta/O Silêncio da Mata.md",
+    "Campanha/02 - Sessões/Sessão 1/02 - Floresta/Ficha da Onça Tatu.md",
+    "Campanha/02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/Missões iniciais.md",
+    "Campanha/02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/Ficha manada de Primal.md",
+    "Campanha/02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/Crise, reunião e partida.md",
+    "Campanha/02 - Sessões/Sessão 1/02 - Floresta/03 - Fichas/Ficha da Onça Tatu.md",
+    "Campanha/02 - Sessões/Sessão 1/02 - Floresta/02 - Desafios/O Silêncio da Mata.md",
+    "Campanha/02 - Sessões/Sessão 1/02 - Floresta/01 - Roteiros/Travessia até Santa Aurora.md",
+    "Campanha/02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/03 - Fichas/Ficha manada de Primal.md",
+    "Campanha/02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/02 - Missões/Missões iniciais.md",
+    "Campanha/02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/02 - Conflitos/Confronto no Ninho em chamas.md",
+    "Campanha/02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/02 - Conflitos",
+    "Campanha/02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/01 - Roteiros/03 - Retorno e incêndio.md",
+    "Campanha/02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/01 - Roteiros/02 - Crise, reunião e partida.md",
+    "Campanha/02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/01 - Roteiros/01 - Abertura e cotidiano.md",
+    "Campanha/02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/01 - Roteiros",
+    "Campanha/02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/00 - Etapa - Ninho.md",
+    "Campanha/02 - Sessões/Sessão 1/00 - Preparação/Pontos de conexão.md",
+    "Campanha/02 - Sessões/Sessão 1/00 - Preparação/Guia do Mestre.md",
+    "Campanha/02 - Sessões/Sessão 1/O Silêncio da Mata.md",
+    "Campanha/02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/02 - Fichas/Ficha primal.md",
+    "Campanha/02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/02 - Conflitos/Primeiro encontro com o Primal.md",
+    "Campanha/02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/01 - Roteiros/Mercado e primeiro Primal.md",
+    "Campanha/02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/02 - Fichas",
+    "Campanha/02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/02 - Conflitos",
+    "Campanha/02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/01 - Roteiros",
+    "Campanha/02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora",
+    "Campanha/02 - Sessões/Sessão 1/02 - Floresta/03 - Fichas",
+    "Campanha/02 - Sessões/Sessão 1/02 - Floresta/02 - Desafios",
+    "Campanha/02 - Sessões/Sessão 1/02 - Floresta/01 - Roteiros",
+    "Campanha/02 - Sessões/Sessão 1/02 - Floresta"
   ]
 }
