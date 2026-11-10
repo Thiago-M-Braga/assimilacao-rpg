@@ -233,3 +233,130 @@ A preocupação com as reservas de alimentos pode continuar como uma tensão dis
 A manhã termina com os três personagens reunidos na Cozinha Comunitária.
 
 **Encaminhamento:** depois da refeição, mantenha a rotina por mais algum tempo e avance para [[Crise, reunião e partida]] quando a preocupação com os mantimentos vier à tona. A conversa ouvida por Freya funciona como antecipação, não como revelação completa.
+
+## Narrações e falas rápidas para a manhã
+
+Use os blocos abaixo quando quiser dar mais vida às tarefas sem prolongar as cenas. Leia somente a narração; as falas são sugestões para quando os jogadores puxarem conversa.
+
+### Mabel — Plantações e Estufa
+
+**Leia para os jogadores:**
+
+> A manhã está fresca e úmida. A terra ainda guarda a umidade da noite, e o cheiro de folhas amassadas se mistura ao de composto. Gael já está nos canteiros, separando os restos da colheita anterior e observando as mudas novas. Ao ver você chegar, ele deixa a ferramenta de lado e aponta para a fileira que precisa de atenção.
+
+**Gael, se Mabel perguntar sobre a plantação:**
+
+> “Essa parte já deu o que podia por enquanto. Vamos limpar sem arrancar o que ainda está vivo. Se cuidarmos bem da terra, ela continua dando alguma coisa pra gente.”
+
+**Ao terminar a tarefa:**
+
+> Gael confere o canteiro com as mãos, desfaz um pequeno torrão e observa as mudas. Ele parece satisfeito, mas não comemora; apenas entrega a Mabel os ingredientes que Helena pediu.
+
+### Mabel — Cozinha Comunitária
+
+**Leia para os jogadores:**
+
+> A cozinha está quente, mesmo com o dia ainda começando. Uma panela grande solta vapor sobre o fogão, e Helena organiza os ingredientes em pequenas porções para que nada seja desperdiçado. Quando vê Mabel, limpa as mãos no avental e abre um sorriso cansado.
+
+**Helena:**
+
+> “Ainda bem que chegou. Deixe as ervas aqui, por favor. E leve essas duas sopas para Clara. Uma delas é para quem está na ala médica; a outra pode ficar para quando precisarem.”
+
+### Freya — Poço e lavagem dos panos
+
+**Leia para os jogadores:**
+
+> O poço fica em uma área de passagem do vilarejo. Duas pessoas carregam baldes em direções opostas, e o som da água sendo puxada se mistura às conversas da manhã. Marina espera com um recipiente vazio e alguns panos dobrados sobre o braço.
+
+**Marina:**
+
+> “Pegue água suficiente para lavar tudo de uma vez. Não precisa encher até a borda; prefiro que você volte sem derramar metade pelo caminho.”
+
+**Quando Freya estiver lavando os panos:**
+
+> Marina separa os tecidos por tamanho e estado de conservação. Alguns estão apenas sujos; outros precisam ser esfregados com mais cuidado para que possam ser reutilizados. O trabalho é repetitivo, e a conversa acontece sem pressa.
+
+**Marina, se Freya perguntar sobre Dário ou Raul:**
+
+> “Hoje eu prefiro que a gente cuide do que está aqui, Freya. A Luna precisa de você e a Clara também. Tem coisas que eu ainda não sei como explicar.”
+
+Não force esse diálogo; use apenas se Freya abordar o assunto.
+
+### Freya — Desenho com Luna
+
+**Leia para os jogadores:**
+
+> Luna está sentada com as pernas dobradas sobre a cama, segurando um lápis curto e algumas folhas reaproveitadas. Há desenhos espalhados ao lado dela: árvores, animais e uma casa com um muro alto. Quando percebe Freya, empurra uma folha vazia para a irmã.
+
+**Luna:**
+
+> “Faz um desenho comigo? Eu quero desenhar como é lá fora. Você acha que tem árvores maiores que o muro?”
+
+Se Freya responder que ela vai melhorar:
+
+> “Então você vai me levar para brincar quando eu sarar? Promete?”
+
+Deixe Freya responder. Luna não precisa demonstrar uma piora súbita; a cena deve ser íntima e cotidiana.
+
+### Freya — Atendimento de Hugo
+
+**Leia para os jogadores:**
+
+> A porta da Casa Médica se abre com pressa. Hugo entra segurando uma das mãos junto ao peito. Há sangue nos dedos e na palma, e ele tenta esconder o incômodo com uma expressão contrariada. Clara olha o ferimento uma vez e já separa os materiais.
+
+**Dona Clara:**
+
+> “Sente-se, Hugo. Freya, venha ver. Primeiro vamos limpar e entender o corte. Não tenha pressa para fechar um ferimento que você ainda não examinou.”
+
+**Hugo, tentando minimizar:**
+
+> “Foi só um martelo mal colocado. Já tive coisa pior. Não precisa transformar isso numa reunião.”
+
+### Ithan — Estação de Energia
+
+**Leia para os jogadores:**
+
+> O gerador mantém seu ruído constante. O ar perto das máquinas é mais quente, e o cheiro de metal, óleo e poeira fica preso no espaço. Ao se aproximar do painel, Ithan percebe que um dos cabos está com a proteção ressecada e uma parte do isolamento começou a se soltar.
+
+**Vicente, caso Ithan o encontre durante a ronda:**
+
+> “Se vai desligar o muro, me avise antes de mexer no portão. Não quero ninguém descobrindo que a proteção caiu quando já estiver do lado de fora.”
+
+### Ithan — Hugo e a peça do muro
+
+**Hugo, ao receber o pedido:**
+
+> “Deixe eu ver o encaixe. Não adianta colocar qualquer pedaço de metal e torcer para durar. Se a peça precisa aguentar vento e chuva, vou adaptar uma que não solte na próxima ventania.”
+
+Depois de avaliar o material, Hugo pode entregar uma peça compatível ou pedir alguns minutos para ajustar uma peça existente. Não transforme isso em uma busca por um componente raro.
+
+### Ithan — Thomas no muro
+
+**Leia para os jogadores:**
+
+> Thomas aparece perto da estrutura, olhando para cima antes mesmo de chamar Ithan. Ele tenta parecer tranquilo, mas não consegue esconder a curiosidade. Para ele, o muro é uma barreira enorme que sempre esteve ali; hoje, quer descobrir o que existe do outro lado.
+
+**Thomas:**
+
+> “Você já viu o que tem lá fora? De verdade? Não só nas histórias?”
+
+Se Ithan negar:
+
+> “Eu só queria olhar um pouquinho. Nem vou sair. Prometo que não vou atrapalhar.”
+
+Se Ithan permitir que suba, conduza o risco de queda como está descrito na missão. Não faça Thomas cair automaticamente; o teste e a ação de Ithan devem importar.
+
+### Refeição comunitária
+
+**Leia para os jogadores:**
+
+> A cozinha fica mais cheia conforme os moradores terminam suas tarefas. As conversas se cruzam, alguém pede espaço para passar com uma panela e Helena organiza as porções. A refeição é simples, mas todos sabem que aquele momento reúne boa parte do Ninho no mesmo lugar.
+
+**Falas que podem surgir naturalmente:**
+
+- **Helena:** “Hoje ninguém vai sair daqui sem comer. Depois vocês voltam ao trabalho.”
+- **Hugo:** “Se alguém perguntar, meus dedos estão ótimos. Só não peçam para eu segurar um martelo.”
+- **Thomas:** “Quando vocês terminarem, me contem o que fizeram hoje.”
+- **Clara:** “Comam enquanto está quente. A Casa Médica não vai a lugar nenhum.”
+
+**Passagem para a crise:** a refeição termina sem um anúncio dramático. Depois, deixe a rotina continuar por algum tempo. A preocupação com as reservas aparece gradualmente e leva ao roteiro [[Crise, reunião e partida]].

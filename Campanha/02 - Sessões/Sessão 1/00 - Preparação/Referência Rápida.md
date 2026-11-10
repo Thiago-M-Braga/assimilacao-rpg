@@ -108,3 +108,28 @@ tags: [sessao, sessao-1, referencia, mestre]
 - [[A Doença Azul]] — somente consulta do mestre
 - [[Assimilação]] — somente consulta do mestre
 - [[Roteiro da Campanha]]
+
+## Consulta rápida durante a exploração
+
+### Se os jogadores quiserem sair do caminho principal em Santa Aurora
+
+Ofereça um local por vez e pergunte o que pretendem procurar. Os pontos abaixo são opções desta sessão, não locais fixos do cânone:
+
+| Objetivo dos jogadores | Onde podem procurar | Tipo de risco |
+|---|---|---|
+| Curativos e medicamentos comuns | Drogaria de bairro ou unidade de saúde | Prateleiras instáveis, material degradado e tempo de busca |
+| Peças para o carrinho | Oficina e loja de autopeças | Estrutura instável e peças presas |
+| Roupas, mochila e utensílios | Prédio residencial | Busca demorada, ruído e passagens comprometidas |
+| Alimentos | Mercado principal | Estoque central já definido; outras lojas podem estar vazias |
+
+### Três conflitos com mecânicas diferentes
+
+- **Travessia da mata:** desafios de terreno e furtividade; consulte [[Travessia até Santa Aurora]] e [[O Silêncio da Mata]].
+- **Edifício instável:** progresso de fuga antes do marcador de ruptura; consulte a seção de conflitos opcionais em [[Mercado e primeiro Primal]].
+- **Híbrido territorial:** contadores de Atenção e Passagem Segura; consulte a seção de conflitos opcionais em [[Mercado e primeiro Primal]].
+- **Primal:** conflito de ameaça com rolagem e ativações; consulte [[Ficha primal]].
+- **Manada no Ninho:** pressão coletiva com isolamento e Ofensiva; consulte [[Ficha manada de Primal]].
+
+### Controle de loot
+
+O mercado já fornece mantimentos equivalentes a aproximadamente dois meses para o Ninho. Os locais opcionais devem complementar a expedição com poucos itens médicos, ferramentas, peças e utilidades. Não transforme cada prédio em um estoque cheio.

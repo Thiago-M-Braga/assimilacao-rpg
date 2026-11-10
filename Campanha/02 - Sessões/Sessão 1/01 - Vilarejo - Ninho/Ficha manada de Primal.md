@@ -70,3 +70,45 @@ Um personagem Isolado precisa primeiro conseguir alcançar os demais ou justific
 ## Ajuste de dificuldade desta campanha
 
 A Horda usa **20 A para Neutralização**, o mesmo patamar de referência para uma Horda de Burros no Fastplay. A possibilidade de **Fuga com 15 A** é uma alternativa definida para esta campanha. A dificuldade prática do encontro também vem das ativações coletivas, do risco de isolamento e da Ofensiva; não descreva o valor de Neutralização como superior ao do Fastplay.
+
+## Sinais e narração durante o confronto
+
+A descrição inicial já apresenta a manada. Use as frases abaixo antes das ações mais perigosas para que os jogadores percebam o risco e tenham oportunidade de reagir.
+
+| Situação | Narração para ler |
+|---|---|
+| A manada se aproxima | “As primeiras figuras aceleram. Atrás delas, outras começam a contornar os carros e as paredes. Vocês percebem que não estão avançando por uma única direção.” |
+| Separar o grupo | “Duas criaturas se lançam por lados opostos. Uma delas passa entre vocês e o restante da manada, tentando abrir distância entre os integrantes do grupo.” |
+| Derrubar e morder | “Uma das figuras se joga contra as pernas do alvo. O impacto o leva ao chão antes que a criatura tente alcançar seu braço e ombro.” |
+| Preparar A Ofensiva | “O movimento da manada muda. As criaturas deixam de avançar em pequenos grupos e começam a fechar um arco. Por um instante, parece que todas estão esperando o mesmo sinal.” |
+| A Ofensiva | “A rua inteira parece se mover. As criaturas avançam ao mesmo tempo, empurrando umas às outras e cobrindo as rotas de saída.” |
+
+## Como variar as ações
+
+- **Se o grupo estiver unido:** tente separar a formação ou bloquear uma rota, em vez de repetir ataques contra o mesmo personagem.
+- **Se alguém ficar Isolado:** use Enfraquecer ou Derrubar e Morder para pressionar o resgate.
+- **Se os personagens estiverem protegidos atrás de uma estrutura:** mostre as criaturas tentando contornar ou subir pelo obstáculo; não ignore a cobertura.
+- **Se os personagens abrirem uma rota de fuga:** permita que abandonem a carga e corram. A ameaça não precisa ser derrotada para que a cena avance.
+- **Se prepararem A Ofensiva:** deixe o sinal visível antes de resolver o ataque. A ação é mais tensa quando os jogadores entendem o que está para acontecer.
+
+## Terreno do Ninho em chamas
+
+Use o próprio vilarejo como parte do encontro:
+
+- **Carcaça de carroça ou mesa caída:** pode servir de cobertura por um momento, mas não é proteção permanente contra a manada.
+- **Corredor entre duas construções:** limita quantas criaturas alcançam o grupo ao mesmo tempo; também pode virar um beco sem saída.
+- **Fogo e fumaça:** dificultam a visão e obrigam os personagens a decidir se atravessam, contornam ou abandonam um objeto.
+- **Portão e barreiras internas:** podem oferecer uma rota de saída, mas talvez precisem ser alcançados e abertos sob pressão.
+
+Não invente uma posição exata dos prédios ou um novo acesso ao Ninho. Use apenas o terreno que os personagens conseguem ver na cena.
+
+## O que pode ser recuperado depois
+
+A cena acontece durante um incêndio e um ataque. Não ofereça tempo para vasculhar tudo. Se os jogadores conseguirem proteger um pequeno intervalo ou resgatar alguém, escolha no máximo um recurso útil encontrado perto da rota:
+
+- uma bolsa de primeiros socorros parcialmente intacta;
+- uma ferramenta manual caída perto da Forja;
+- uma lanterna ou recipiente com água;
+- um cobertor ou lona que não tenha sido atingido pelo fogo.
+
+Esses itens são possibilidades de improviso, não um estoque garantido. A prioridade é decidir quem salvar e como escapar.

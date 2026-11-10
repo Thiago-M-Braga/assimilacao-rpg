@@ -137,3 +137,38 @@ Use as descrições abaixo conforme os contadores avançam. Não revele diretame
 - Se o grupo alcançar 15 sucessos antes de 15 falhas, encerre a cena com a saída segura. Se alcançar 15 falhas primeiro, inicie o ataque surpresa.
 
 A Onça Tatu deve parecer uma caçadora inteligente e territorial, mas sem perder seu comportamento animal: ela observa, fareja, aprende os padrões das presas e espera o melhor momento para atacar.
+
+## Falas curtas de Vicente
+
+Vicente não conhece a Onça Tatu pelo nome e não deve explicar sua natureza. Ele reconhece sinais de predador e ajuda o grupo a manter a cautela.
+
+- **Ao perceber os arranhões:** “Não encostem nisso. As marcas são fundas demais para serem recentes por acidente.”
+- **Quando a trilha some:** “Parem um instante. Não escolham um caminho só porque parece mais aberto.”
+- **Depois de um ruído:** “Não olhem todos para o mesmo lado. Continuem observando o entorno.”
+- **Quando o grupo quiser correr:** “Correr sem saber para onde vai só faz barulho. Primeiro encontrem uma saída.”
+
+## Narração de avanço e encerramento
+
+**Quando o grupo estiver perto de 15 sucessos:**
+
+> Entre as árvores, vocês reconhecem uma faixa de terreno mais aberta. A trilha reaparece aos poucos, primeiro como marcas quase apagadas no chão e depois como um caminho que segue na direção correta. A sensação de estar sendo observado ainda incomoda, mas os ruídos parecem ficar para trás.
+
+**Se o grupo alcançar 15 sucessos:**
+
+> A mata se abre o bastante para que vocês encontrem a trilha novamente. Quando olham para trás, só veem árvores, raízes e sombras. Não há sinal claro de quem os acompanhou.
+
+**Se o grupo alcançar 15 falhas:**
+
+Leia a descrição de ataque surpresa já incluída nesta nota e abra imediatamente [[Ficha da Onça Tatu]]. Não peça mais um teste de Furtividade depois de o contador atingir 15 falhas.
+
+## Vestígios que podem ser encontrados
+
+Os personagens podem perceber estes sinais sem identificar a criatura:
+
+- arranhões profundos na casca de uma árvore;
+- marcas de patas muito grandes em solo úmido;
+- galhos quebrados acima da altura de uma pessoa;
+- pelos escuros presos em espinhos ou cascas;
+- um cheiro forte de animal vindo de uma direção específica.
+
+Esses sinais servem para aumentar a tensão e permitir decisões. Não entregue a classificação de Assimilação nem o nome Onça Tatu.

@@ -56,7 +56,24 @@ Elias informa:
 
 Deixe os moradores reagirem. Alguns perguntam por que não foram avisados antes; outros oferecem ferramentas, cobertores ou alimentos pessoais. Helena se preocupa com a cozinha, Clara lembra os cuidados necessários para os doentes, e Vicente avalia a segurança do trajeto.
 
-### 6.1 Voluntários e sorteio
+#### Falas para a reunião
+
+Use as falas conforme os personagens fizerem perguntas ou quando a conversa precisar avançar. Não é necessário que todos falem.
+
+- **Elias:** “Não podemos esperar até o último dia. Se sairmos quando a comida acabar, já será tarde.”
+- **Elisa:** “O registro está certo. O problema não é a conta; é que estamos ficando sem margem para errar.”
+- **Davi:** “Precisamos levar gente que consiga carregar o que trouxer. E alguém precisa voltar para abrir o portão.”
+- **Helena:** “Eu consigo ajustar as porções por alguns dias, mas não consigo fazer comida aparecer onde não existe.”
+- **Clara:** “Há pessoas que dependem da alimentação regular. Reduzir mais não é uma solução segura.”
+- **Vicente:** “A cidade não é perto só porque aparece no mapa. A rota muda, e o que está no caminho não vai esperar a gente passar.”
+- **Fernando, se Maria for sorteada:** “Ela está grávida. Não estou dizendo que ela não pode decidir, mas não vou fingir que isso não muda o risco.”
+- **Breno e Cecília, se Thomas for sorteado:** “Ele tem dez anos. Quer ajudar, mas isso não faz dele alguém preparado para uma expedição.”
+
+**Se os jogadores perguntarem por que a liderança não vai:** Elias precisa permanecer coordenando o Ninho e organizando o abastecimento. Davi e Elisa são necessários para manter o Armazém funcionando. Vicente é o adulto com experiência direta em deslocamento e segurança que pode acompanhar o grupo sem deixar o controle do estoque descoberto.
+
+**Se os jogadores propuserem buscar recursos em outro lugar:** Elias pode ouvir a proposta, mas Santa Aurora é o destino próximo conhecido com maior chance de reunir alimentos e materiais. O Viveiro do Vale é mais próximo, porém é uma antiga instalação agrícola, não um depósito conhecido de mantimentos. Não invente uma garantia de recursos em outro destino.
+
+## 6.1 Voluntários e sorteio
 
 Elias pede voluntários. A composição preferencial da expedição é formada pelos três personagens jogadores e Vicente.
 
@@ -92,6 +109,23 @@ Itens possíveis: água, comida para o caminho, cobertores, corda, ferramentas, 
 
 Os personagens não precisam conhecer o exterior. Respostas como “não sei”, “ouvi dizer” ou “nunca vi” são legítimas.
 
+### Equipamento que pode ser preparado
+
+Deixe os jogadores escolherem o que levar. A lista abaixo é uma referência do que a comunidade pode separar, não um pacote obrigatório nem uma garantia de que tudo esteja disponível.
+
+| Item | Uso provável |
+|---|---|
+| Cantil ou recipiente com água | Hidratação no percurso |
+| Pequena quantidade de comida | Alimentação durante os dois dias |
+| Corda | Travessias, amarração e carrinho |
+| Ferramenta manual | Abrir passagem ou fazer ajustes |
+| Pano limpo e ataduras | Curativos simples |
+| Lanterna ou fonte de luz | Exploração de interiores |
+| Cobertor ou lona | Descanso e proteção da carga |
+| Arma e munição limitada | Defesa em situação extrema |
+
+Não entregue munição ou armas sem considerar quem sabe utilizá-las. Se perguntarem por equipamentos melhores, Hugo pode explicar o que está em condições de uso, mas não fabrica um conjunto novo durante a preparação.
+
 ### 7.1 Procedimento de saída
 
 A abertura deve respeitar o procedimento estabelecido para o Muro de Sucata:
@@ -104,6 +138,25 @@ A abertura deve respeitar o procedimento estabelecido para o Muro de Sucata:
 6. Ithan religa a alimentação do muro.
 
 Faça uma pausa quando os personagens atravessarem. O som familiar do muro fica para trás. A ponte sobre o Rio Claro é o primeiro limite físico que separa o Ninho da Mata da Margem.
+
+### Narração da passagem pelo portão
+
+**Leia para os jogadores:**
+
+> Ithan interrompe a alimentação do muro. O zumbido elétrico desaparece e, por um instante, o silêncio parece estranho demais para quem cresceu ouvindo aquele som todos os dias.
+>
+> Vicente confere a área antes de liberar a passagem. As barreiras internas são retiradas, o portão começa a se mover e uma faixa de luz do lado de fora atravessa a entrada. Do outro lado está o caminho que desce até o Rio Claro.
+>
+> Quando vocês passam, o Ninho continua atrás de vocês: casas, vozes, fumaça da cozinha e pessoas que esperam que voltem.
+
+**Últimas falas possíveis:**
+
+- **Elias:** “Voltem com o que conseguirem. E voltem juntos.”
+- **Helena:** “Não gastem toda a comida no primeiro dia. Guardem um pouco para a volta.”
+- **Clara:** “Se alguém se ferir, não esconda. Um corte pequeno pode piorar se for ignorado.”
+- **Thomas:** “Quando voltar, me conta como é a cidade.”
+
+Não é necessário usar todas as falas. Escolha as que correspondem às relações construídas pelos jogadores.
 
 ## Encaminhamento para a floresta
 

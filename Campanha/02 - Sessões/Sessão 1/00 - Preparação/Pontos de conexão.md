@@ -95,3 +95,22 @@
 - **Morte de NPC:** quando um NPC com Pontos de Conexão morre, cada ponto de vínculo que o personagem jogador possuía com ele provoca **−3 de Determinação**. Calcule a perda usando a quantidade de pontos existente no momento da morte.
 - **Valores negativos:** os Pontos de Conexão podem ficar negativos quando as relações forem prejudicadas. Registre o valor atual e aplique as consequências previstas para a relação na mesa.
 - **Relações ainda em aberto:** quando o material não descreve a natureza exata de um vínculo já registrado, mantenha o valor inicial e desenvolva a relação durante o jogo. Não invente um passado específico apenas para preencher a tabela.
+
+## 5. Oportunidades de vínculo durante a Sessão 1
+
+Use estas situações como referência para reconhecer momentos importantes. Elas não concedem pontos automaticamente: observe o que os jogadores fazem e decida se a relação realmente mudou.
+
+| Personagem | NPC | Momento que pode fortalecer o vínculo |
+|---|---|---|
+| Mabel | Gael | Mabel demonstra cuidado com a plantação ou escuta uma preocupação do pai sem tratar o trabalho como obrigação. |
+| Mabel | Helena | Mabel ajuda na cozinha e percebe o esforço da mãe para manter a rotina da comunidade. |
+| Mabel | Clark | Uma lembrança, promessa ou gesto relacionado ao broche de origami e ao desejo de ajudá-lo. |
+| Freya | Marina | Uma conversa sincera sobre Luna, Raul ou Dário, sem exigir que Marina revele tudo de uma vez. |
+| Freya | Luna | Freya acolhe o medo da irmã e demonstra que continuará ao lado dela. |
+| Freya | Dona Clara | Freya age com responsabilidade no atendimento de Hugo ou aceita uma correção médica importante. |
+| Ithan | Hugo | Ithan reconhece a experiência de Hugo e trabalha com ele para adaptar uma peça sem desrespeitar seu conhecimento. |
+| Ithan | Vicente | Ithan confia no alerta de Vicente ou assume uma decisão de segurança com responsabilidade. |
+| Ithan | Clark | Uma lembrança do trabalho dos dois ou uma promessa de que Clark poderá voltar à estação. |
+| Qualquer personagem | Thomas | O personagem respeita a curiosidade de Thomas, mas também considera sua segurança. |
+
+**Lembrete:** não conceda mais de um novo Ponto de Conexão por cena. Uma conversa breve pode aprofundar uma relação sem necessariamente alterar sua pontuação.
