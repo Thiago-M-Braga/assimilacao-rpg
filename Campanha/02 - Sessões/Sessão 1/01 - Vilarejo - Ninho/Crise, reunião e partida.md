@@ -32,15 +32,12 @@ Se algum personagem circular perto do Armazém no fim do dia, poderá ouvir Elia
 >
 > **Davi:** “Então é isso?”
 >
-> **Elias:** “Quinze dias. Talvez menos, se precisarmos abrir outra reserva.”
+> **Elias:** “Quinze dias. Talvez menos, só temos isso.”
 >
 > **Elisa:** “E a colheita?”
 >
-> **Elias:** “Não chega a tempo. Não espalhem isso antes de eu falar com todos.”
+> **Elias:** “Não chega a tempo. Não espalhem isso, pode gerar pânico.”
 
-O personagem não precisa ouvir tudo. Uma parte já confirma que a situação é mais grave do que os comentários da manhã sugeriam.
-
-Se ninguém ouvir, não esconda a crise. Elias pode convocar a reunião e apresentar os números diretamente. A conversa é uma oportunidade de descoberta antecipada, não uma condição para a cena seguinte.
 
 ## 6. Reunião no centro do Ninho
 
@@ -62,12 +59,10 @@ Use as falas conforme os personagens fizerem perguntas ou quando a conversa prec
 
 - **Elias:** “Não podemos esperar até o último dia. Se sairmos quando a comida acabar, já será tarde.”
 - **Elisa:** “O registro está certo. O problema não é a conta; é que estamos ficando sem margem para errar.”
-- **Davi:** “Precisamos levar gente que consiga carregar o que trouxer. E alguém precisa voltar para abrir o portão.”
-- **Helena:** “Eu consigo ajustar as porções por alguns dias, mas não consigo fazer comida aparecer onde não existe.”
-- **Clara:** “Há pessoas que dependem da alimentação regular. Reduzir mais não é uma solução segura.”
-- **Vicente:** “A cidade não é perto só porque aparece no mapa. A rota muda, e o que está no caminho não vai esperar a gente passar.”
-- **Fernando, se Maria for sorteada:** “Ela está grávida. Não estou dizendo que ela não pode decidir, mas não vou fingir que isso não muda o risco.”
-- **Breno e Cecília, se Thomas for sorteado:** “Ele tem dez anos. Quer ajudar, mas isso não faz dele alguém preparado para uma expedição.”
+- **Helena (cozinheira):** “Eu consigo ajustar as porções por alguns dias, mas não consigo fazer comida aparecer onde não existe.”
+- **Clara (médica):** “Há pessoas que dependem da alimentação regular. Reduzir mais não é uma solução segura.”
+- **Fernando, se Maria for sorteada:** “Ela está grávida. Não vou arriscar a vida da minha mulher... Eu não queria perder o nascimento do meu filho...”
+- **Breno e Cecília, se Thomas for sorteado:** “Ele tem dez anos, é só uma criança! Adultos já saíram e nunca voltaram...”
 
 **Se os jogadores perguntarem por que a liderança não vai:** Elias precisa permanecer coordenando o Ninho e organizando o abastecimento. Davi e Elisa são necessários para manter o Armazém funcionando. Vicente é o adulto com experiência direta em deslocamento e segurança que pode acompanhar o grupo sem deixar o controle do estoque descoberto.
 
