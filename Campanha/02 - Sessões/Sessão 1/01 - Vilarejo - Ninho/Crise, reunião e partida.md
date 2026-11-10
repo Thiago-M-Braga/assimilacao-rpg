@@ -98,7 +98,7 @@ Faça uma pausa quando atravessarem. O som familiar do muro fica para trás.
 
 ## Encaminhamento para a próxima etapa
 
-Quando o grupo atravessar o portão e Vicente assumir a orientação do percurso, abra [[00 - Etapa - Floresta]]. A próxima cena é a travessia de dois dias até Santa Aurora.
+Quando o grupo atravessar o portão e Vicente assumir a orientação do percurso, abra [[Etapa - Floresta]]. A próxima cena é a travessia de dois dias até Santa Aurora.
 
 ## Apoio de cenário
 

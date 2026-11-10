@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Sessões/Sessão 1/02 - Floresta/Ficha da Onça Tatu.md",
+                "file": "02 - Sessões/Roteiro da Campanha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ficha da Onça Tatu"
+              "title": "Roteiro da Campanha"
             }
           }
         ]
@@ -188,9 +188,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "42a3a3c218d2de79",
+  "active": "f8968369e1027189",
   "lastOpenFiles": [
+    "02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/00 - Etapa - Cidade.md",
+    "02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/Ficha primal.md",
+    "02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/Mercado e primeiro Primal.md",
+    "02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/02 - Conflitos/Primeiro encontro com o Primal.md",
     "02 - Sessões/Sessão 1/02 - Floresta/Travessia até Santa Aurora.md",
+    "02 - Sessões/Sessão 1/02 - Floresta/O Silêncio da Mata.md",
+    "02 - Sessões/Sessão 1/02 - Floresta/Ficha da Onça Tatu.md",
+    "02 - Sessões/Sessão 1/02 - Floresta/Etapa - Floresta.md",
     "02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/Missões iniciais.md",
     "02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/Ficha manada de Primal.md",
     "02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/Crise, reunião e partida.md",
@@ -203,20 +210,13 @@
     "02 - Sessões/Sessão 1/00 - Preparação/Guia do Mestre.md",
     "02 - Sessões/Sessão 1/00 - Preparação/Pontos de conexão.md",
     "02 - Sessões/Sessão 1/00 - Início.md",
-    "02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/01 - Roteiros/Mercado e primeiro Primal.md",
-    "02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/02 - Fichas/Ficha primal.md",
-    "02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/02 - Conflitos/Primeiro encontro com o Primal.md",
     "02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/01 - Roteiros",
     "02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/02 - Fichas",
-    "02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/00 - Etapa - Cidade.md",
     "02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora/02 - Conflitos",
     "02 - Sessões/Sessão 1/03 - Cidade - Santa Aurora",
-    "02 - Sessões/Sessão 1/02 - Floresta/Ficha da Onça Tatu.md",
-    "02 - Sessões/Sessão 1/02 - Floresta/O Silêncio da Mata.md",
     "02 - Sessões/Sessão 1/02 - Floresta/03 - Fichas",
     "02 - Sessões/Sessão 1/02 - Floresta/02 - Desafios",
     "02 - Sessões/Sessão 1/02 - Floresta/01 - Roteiros",
-    "02 - Sessões/Sessão 1/02 - Floresta/00 - Etapa - Floresta.md",
     "02 - Sessões/Sessão 1/02 - Floresta",
     "02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/03 - Fichas",
     "02 - Sessões/Sessão 1/01 - Vilarejo - Ninho/02 - Missões",
