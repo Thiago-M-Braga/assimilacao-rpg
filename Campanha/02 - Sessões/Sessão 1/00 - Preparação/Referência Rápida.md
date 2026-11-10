@@ -47,19 +47,13 @@ visibilidade: mestre
 ## Ordem das cenas
 
 1. [[01 - Abertura e cotidiano]] e [[Missões iniciais]] — rotina e vínculos no Ninho.
-2. [[02 - Crise, reunião e partida]] — mantimentos, decisão coletiva, preparação e saída.
+2. [[Crise, reunião e partida]] — mantimentos, decisão coletiva, preparação e saída.
 3. [[Travessia até Santa Aurora]] — dois dias de viagem; selecione pelo menos dois obstáculos.
 4. [[O Silêncio da Mata]] — desafio de furtividade; a ficha da Onça fica em [[Ficha da Onça Tatu]].
 5. [[Mercado e primeiro Primal]] — mercado, fotografia, senha, estoque secreto e carrinho.
 6. [[Primeiro encontro com o Primal]] — conflito ao sair do mercado; consulte [[Ficha primal]].
 7. [[03 - Retorno e incêndio]] — volta ao Ninho, fumaça e chegada ao perímetro.
 8. [[Confronto no Ninho em chamas]] — decisões de resgate, confronto ou fuga; consulte [[Ficha manada de Primal]] se houver confronto coletivo.
-
-## Índices das etapas
-
-- [[00 - Etapa - Ninho]]
-- [[00 - Etapa - Floresta]]
-- [[00 - Etapa - Cidade]]
 
 ## Segredos e lembretes
 
@@ -75,20 +69,3 @@ visibilidade: mestre
 - O primeiro Primal deve parecer uma pessoa antes de atacar.
 - Não explique Assimilação, Primal, Micélio de Cobalto ou a causa da Doença Azul.
 - No incêndio, não revele a causa. Escolha no máximo dois moradores não transformados como sobreviventes.
-
-## Testes sem sistema definido
-
-O material do cenário não informa qual sistema será usado. Converta as situações para as regras da mesa. Prefira testes em equipe, consequências parciais, pistas essenciais sem uma rolagem única, risco claro antes de consequências graves e espaço para fuga, negociação, improviso e observação — não apenas combate.
-
-## Links de consulta
-
-- [[O Ninho]]
-- [[O Muro de Sucata]]
-- [[Estação de Energia]]
-- [[A Vida Cotidiana no Ninho]]
-- [[As Famílias do Ninho]]
-- [[Mapa Regional do Vale do Rio Claro]]
-- [[Cidade de Santa Aurora]]
-- [[A Doença Azul]] — somente consulta do mestre
-- [[Assimilação]] — somente consulta do mestre
-- [[Roteiro da Campanha]]
