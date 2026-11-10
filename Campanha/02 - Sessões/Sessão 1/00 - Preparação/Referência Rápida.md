@@ -31,6 +31,7 @@ tags: [sessao, sessao-1, referencia, mestre]
 | Momento | Cena | Referência |
 |---|---|---|
 | Manhã | Tarefas individuais e apresentação da rotina | [[Missões iniciais]] |
+| Durante a manhã | Freya percebe uma conversa incompleta sobre os estoques | [[Missões iniciais]] |
 | Meio-dia | Refeição comunitária | Final de [[Missões iniciais]] |
 | Fim do dia | Sinais da crise e conversa perto do Armazém | [[Crise, reunião e partida#5. A falta de mantimentos|A falta de mantimentos]] |
 | Reunião | Elias explica a situação e pede voluntários | [[Crise, reunião e partida#6. Reunião no centro do Ninho|Reunião]] |
