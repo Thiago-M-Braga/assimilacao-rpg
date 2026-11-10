@@ -99,7 +99,7 @@ A abertura deve respeitar o procedimento estabelecido para o Muro de Sucata:
 1. Ithan desliga a alimentação de todo o perímetro.
 2. Vicente supervisiona a retirada das barreiras internas, com o apoio de Davi ou Elisa se estiverem disponíveis.
 3. O portão grande é aberto.
-4. A expedição atravessa a ponteira do portão e segue para a ponte sobre o Rio Claro.
+4. A expedição atravessa o portão e segue para a ponte sobre o Rio Claro.
 5. O portão é fechado e as barreiras são recolocadas.
 6. Ithan religa a alimentação do muro.
 
