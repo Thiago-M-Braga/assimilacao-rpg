@@ -50,6 +50,7 @@ Mantenha dois contadores independentes:
 - Some ao contador de sucessos cada sucesso obtido nos testes de Furtividade.
 - Some ao contador de falhas cada falha obtida nesses testes.
 - Os contadores são independentes: sucessos não cancelam falhas, nem falhas apagam sucessos.
+- Depois de cada teste, confira os dois contadores. Assim que um deles alcançar 15, encerre o desafio e aplique o desfecho correspondente; não peça testes adicionais.
 - Os personagens podem explicar como tentam se movimentar em silêncio, esconder rastros, atravessar obstáculos ou sinalizar uns aos outros sem fazer barulho.
 - Cada novo teste deve representar uma nova tentativa ou trecho da travessia. Não permita que o mesmo personagem repita indefinidamente a mesma ação sem mudar a abordagem ou as circunstâncias.
 
@@ -67,7 +68,7 @@ Antes que encontrem a trilha, a Onça Tatu ataca de surpresa.
 
 Descreva o bote partindo de um ponto escondido entre os troncos e a vegetação. A criatura escolhe uma posição vantajosa e atinge o grupo antes que os personagens consigam se preparar para o confronto.
 
-A partir daí, conduza o combate usando a **Ficha da Onça Tatu**.
+A partir daí, conduza o combate usando [[Ficha da Onça Tatu]].
 
 ## 3. Acúmulo de adaptações: a Onça aprende
 
@@ -89,7 +90,7 @@ Exemplos de mudanças de abordagem:
 - Alterar a formação do grupo e evitar caminhar sempre pelo mesmo tipo de terreno.
 - Aproveitar troncos caídos e pedras para esconder o movimento.
 
-As adaptações permanecem marcadas durante a cena. Se o grupo mudar sua abordagem, não aplique o aumento de dificuldade daquela adaptação ao teste seguinte. Se voltar a repetir um método já reconhecido pela onça, aplique novamente o efeito correspondente.
+As adaptações permanecem marcadas durante a cena. Os efeitos **não se somam**: ao atingir 5 falhas, a repetição da abordagem conhecida recebe +1 A de dificuldade; ao atingir 10 falhas, passa a receber +2 A no total. Se o grupo mudar de estratégia, não aplique o aumento naquele teste. Se voltar a repetir um método já reconhecido pela onça, aplique o maior modificador alcançado.
 
 > [!important] Exemplo
 > O grupo acumula 5 falhas e a Onça Tatu se torna **Rastreadora**. Os personagens continuam tentando esconder os rastros da mesma maneira, então o próximo teste recebe +1 A de dificuldade. Mais tarde, chegam a 10 falhas: a criatura se torna **Predadora Adaptada**. Repetir a abordagem conhecida passa a acrescentar +2 A de dificuldade nesse teste.

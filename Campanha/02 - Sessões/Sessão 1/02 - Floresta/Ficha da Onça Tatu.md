@@ -38,9 +38,9 @@ tags:
 
 > A mata fica silenciosa de uma vez. Os pássaros param de vocalizar e até os pequenos ruídos dos insetos parecem desaparecer. Entre as árvores, alguma coisa se move acompanhando vocês — rápido demais para que consigam acompanhar com os olhos.
 >
-> Então vocês a veem. Uma onça enorme surge. Os músculos sob a pelagem parecem tensos como cabos, e manchas azuladas brilham fracamente em seu corpo. Cascos negros crescem ao longo da coluna e dos ombros, formando uma carapaça irregular. As garras são compridas e curvas; os olhos refletem um azul intenso.
+> Então vocês a veem. Uma onça enorme surge. Os músculos sob a pelagem parecem tensos como cabos, e manchas azuladas brilham fracamente em seu corpo. Placas minerais negras crescem ao longo da coluna e dos ombros, formando uma carapaça irregular. As garras são compridas e curvas; os olhos refletem um azul intenso.
 >
-> Ela não ruge imediatamente. Apenas observa, com o corpo baixo e a cabeça acompanhando cada movimento de vocês. Quando uma das patas toca o chão, vocês percebem o peso da criatura pela forma como a terra cede.
+> Ela não ruge imediatamente. Apenas observa, com o corpo baixo e a cabeça acompanhando cada movimento de vocês. Quando uma das patas toca o chão, vocês percebem o peso da criatura pela forma como a terra cede. Ela abaixa o corpo, acompanha cada movimento de vocês e, em um instante, desaparece entre os troncos.
 >
 
 ## Como conduzir a ameaça

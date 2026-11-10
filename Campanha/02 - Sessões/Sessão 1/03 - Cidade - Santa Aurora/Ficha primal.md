@@ -34,9 +34,9 @@ tags:
 
 ## Descrição para narrar
 
-> Entre os destroços, vocês veem uma pessoa parada de costas. As roupas estão rasgadas e sujas, e o corpo da pessoa é muito magra, como se estivesse passando fome por alguns dias...
-> 
-> ESPERAR REAÇÃO DELES
+> Entre os destroços, vocês veem uma pessoa parada de costas. As roupas estão rasgadas e sujas, e o corpo é muito magro, como se estivesse passando fome há vários dias. A figura permanece imóvel por alguns instantes, sem demonstrar que percebeu a presença de vocês.
+>
+> **[PARE AQUI E AGUARDE A REAÇÃO DOS JOGADORES.]**
 >
 > Quando a figura se vira, vocês percebem as rachaduras que cortam a pele e as veias azuladas que aparecem por baixo dela. A boca se abre em um movimento irregular, mas nenhum pedido de ajuda sai dali — apenas um ruído áspero, quase um rosnado.
 >
@@ -56,5 +56,5 @@ tags:
 ## Objetivos principais
 
 - **Neutralizar o Primal — 5 A:** ao completar, a criatura é abatida ou incapacitada.
-- **Fuga — 3 A:** ao completar, cada personagem que atingiu, conseguem escapar do alcance imediato do Primal. A criatura pode continuar nas proximidades, mas o conflito termina.
+- **Fuga — 3 A por personagem:** cada personagem precisa acumular individualmente 3 Sucessos (A) para escapar do alcance imediato do Primal. O progresso não é compartilhado entre os integrantes do grupo. A criatura pode continuar nas proximidades, mas o conflito termina para cada personagem que concluir seu objetivo.
 

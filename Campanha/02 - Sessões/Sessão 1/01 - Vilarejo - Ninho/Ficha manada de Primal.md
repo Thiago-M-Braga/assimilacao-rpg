@@ -69,4 +69,4 @@ Um personagem Isolado precisa primeiro conseguir alcançar os demais ou justific
 
 ## Ajuste de dificuldade desta campanha
 
-A Horda usa o patamar de **20 A para Neutralização** e **15 A para Fuga**, acima da referência de 20 A para neutralizar uma Horda de Burros no Fastplay. Esse aumento é intencional: o grupo está no início da campanha, mas a manada deve ser uma ameaça que recomende evitar o confronto direto.
+A Horda usa **20 A para Neutralização**, o mesmo patamar de referência para uma Horda de Burros no Fastplay. A possibilidade de **Fuga com 15 A** é uma alternativa definida para esta campanha. A dificuldade prática do encontro também vem das ativações coletivas, do risco de isolamento e da Ofensiva; não descreva o valor de Neutralização como superior ao do Fastplay.

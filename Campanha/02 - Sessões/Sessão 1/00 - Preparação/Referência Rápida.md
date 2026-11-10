@@ -3,7 +3,9 @@ tipo: referencia-rapida
 sessao: 1
 status: planejamento
 visibilidade: mestre
+tags: [sessao, sessao-1, referencia, mestre]
 ---
+
 # Sessão 1 — Referência Rápida
 
 ## Números essenciais
@@ -16,7 +18,7 @@ visibilidade: mestre
 | Próxima colheita | Não chega a tempo |
 | Santa Aurora | 14–18 km a leste |
 | Ida a pé | Aproximadamente 2 dias em ritmo cauteloso |
-| Expedição | 3 personagens jogadores + Vicente |
+| Expedição preferencial | 3 personagens jogadores + Vicente |
 | Thomas Lane | 10 anos |
 | Maria Evans | 22 anos, 7 meses de gestação |
 | Estoque trancado | Comida equivalente a cerca de 2 meses para o Ninho |
@@ -24,48 +26,84 @@ visibilidade: mestre
 | Foto | 21/09/2077 |
 | Sobreviventes no Ninho | No máximo 2 entre os moradores que ficaram |
 
+## Linha do tempo da sessão
+
+| Momento | Cena | Referência |
+|---|---|---|
+| Manhã | Tarefas individuais e apresentação da rotina | [[Missões iniciais]] |
+| Meio-dia | Refeição comunitária | Final de [[Missões iniciais]] |
+| Fim do dia | Sinais da crise e conversa perto do Armazém | [[Crise, reunião e partida#5. A falta de mantimentos|A falta de mantimentos]] |
+| Reunião | Elias explica a situação e pede voluntários | [[Crise, reunião e partida#6. Reunião no centro do Ninho|Reunião]] |
+| Manhã seguinte, se necessário | Sorteio e decisão sobre a expedição | [[Crise, reunião e partida#6.1 Voluntários e sorteio|Voluntários e sorteio]] |
+| Partida | Preparativos, abertura do portão e travessia da ponte | [[Crise, reunião e partida#7. Preparativos e saída|Preparativos e saída]] |
+| Dois dias de viagem | Obstáculos da mata e possível desafio furtivo | [[Travessia até Santa Aurora]] e [[O Silêncio da Mata]] |
+| Cidade | Mercado, fotografia, sala trancada e carrinho | [[Mercado e primeiro Primal]] |
+| Saída do mercado | Primeiro confronto com a figura humana | [[Ficha primal]] |
+| Retorno | Viagem mais lenta com a carga; fumaça no horizonte | [[Mercado e primeiro Primal#12. Retorno ao Ninho|Retorno ao Ninho]] |
+| Encerramento | Ninho em chamas, moradores transformados e decisões de resgate ou fuga | [[Crise, reunião e partida#12. Retorno e incêndio do Ninho|Retorno e incêndio]] |
+
 ## NPCs em uma linha
 
-| NPC                        | Função / gancho                                              |
-| -------------------------- | ------------------------------------------------------------ |
-| Elias Ninho                | Líder; anuncia a crise e convoca a reunião                   |
-| Davi Ninho                 | Segurança e estoque físico do Armazém                        |
-| Elisa Ninho                | Registros do Armazém; questiona decisões do pai              |
-| Ithan Voos                 | Responsável técnico pela energia e manutenção do muro        |
-| Vicente Murphy             | Acompanha a expedição; experiência com armas e sobrevivência |
-| Thomas Lane                | 10 anos; quer ver o mundo além do muro                       |
-| Breno e Cecília Lane       | Pais de Thomas; responsáveis pelo Curral                     |
-| Maria Evans                | 7 meses de gestação; trabalha na cozinha                     |
-| Fernando Evans             | Marido de Maria; ansioso com a chegada do bebê               |
-| Helena Noctua              | Coordena a cozinha comunitária                               |
-| Gael Noctua                | Plantações e Estufa                                          |
-| Dona Clara Fagundes        | Médica; coordena a Casa Médica                               |
-| Freya Naevus               | Aprendiz da Casa Médica; teme perder a irmã                  |
-| Hugo e Marta Becker        | Forja e recuperação de metais                                |
-| Clark Becker               | Afastado por doença; antigo auxiliar de Ithan                |
+| NPC | Função / gancho |
+|---|---|
+| Elias Ninho | Líder; anuncia a crise e convoca a reunião |
+| Davi Ninho | Segurança e estoque físico do Armazém |
+| Elisa Ninho | Registros do Armazém; questiona decisões do pai |
+| Vicente Murphy | Guia e veterano; acompanha a expedição, mas não resolve desafios pelos jogadores |
+| Thomas Lane | 10 anos; quer ver o mundo além do muro |
+| Breno e Cecília Lane | Pais de Thomas; responsáveis pelo Curral |
+| Maria Evans | 7 meses de gestação; trabalha na cozinha |
+| Fernando Evans | Marido de Maria; ansioso com a chegada do bebê |
+| Helena Noctua | Coordena a cozinha comunitária |
+| Gael Noctua | Responsável pelas Plantações e Estufa |
+| Dona Clara Fagundes | Médica; coordena a Casa Médica |
+| Marina Azevedo | Auxilia na preparação e conservação de materiais médicos |
+| Freya Naevus | Aprendiz da Casa Médica; teme perder a irmã |
+| Luna Azevedo | 7 anos; está doente e é a principal motivação de Freya |
+| Hugo e Marta Becker | Forja e recuperação de metais |
+| Clark Becker | Afastado por doença; antigo auxiliar de Ithan |
+| Marcio Fagundes | Vive com Clara; ajuda em pequenas tarefas supervisionadas quando pode |
 
-## Ordem das cenas
+## Decisões que não devem ser tomadas pelo mestre
 
-1. [[01 - Abertura e cotidiano]] e [[Missões iniciais]] — rotina e vínculos no Ninho.
-2. [[Crise, reunião e partida]] — mantimentos, decisão coletiva, preparação e saída.
-3. [[Travessia até Santa Aurora]] — dois dias de viagem; selecione pelo menos dois obstáculos.
-4. [[O Silêncio da Mata]] — desafio de furtividade; a ficha da Onça fica em [[Ficha da Onça Tatu]].
-5. [[Mercado e primeiro Primal]] — mercado, fotografia, senha, estoque secreto e carrinho.
-6. [[Primeiro encontro com o Primal]] — conflito ao sair do mercado; consulte [[Ficha primal]].
-7. [[03 - Retorno e incêndio]] — volta ao Ninho, fumaça e chegada ao perímetro.
-8. [[Confronto no Ninho em chamas]] — decisões de resgate, confronto ou fuga; consulte [[Ficha manada de Primal]] se houver confronto coletivo.
+- A composição preferencial da expedição é formada pelos três personagens jogadores e Vicente, mas os personagens precisam decidir participar.
+- Se ninguém se oferecer, o resultado planejado do sorteio é Thomas, Maria e um dos personagens jogadores. Use isso para criar uma decisão difícil, não para obrigar os jogadores a aceitar ou para enviar automaticamente a criança e a gestante.
+- Os jogadores podem propor outra solução. Escute e trabalhe com as consequências plausíveis.
+- Vicente acompanha e orienta; não resolve o enigma do mercado, não constrói o carrinho e não derrota as ameaças no lugar do grupo.
+- No incêndio, escolha no máximo dois sobreviventes não transformados entre os moradores que ficaram. Considere vínculos, promessas e plausibilidade, sem garantir sobrevivência por importância de ficha.
 
 ## Segredos e lembretes
 
-- Thomas é a criança sorteada; Maria é a gestante sorteada; um dos PCs também é sorteado.
-- A ideia é que os PCs se ofereçam para substituir Thomas e Maria. Não fale por eles.
-- Se não aceitarem, não envie os dois automaticamente: permita contestação e decisão da comunidade.
-- Vicente acompanha, mas não resolve os desafios pelos jogadores.
-- A eletricidade do muro é desligada por inteiro para manutenção e passagem.
-- A cidade está a 14–18 km; a expedição leva dois dias por cautela, desvios e condições da rota.
+- A eletricidade de todo o Muro de Sucata é desligada para manutenção e passagem. O procedimento de barreiras e portão deve ser respeitado.
+- A expedição atravessa a ponte reforçada sobre o Rio Claro antes de entrar na Mata da Margem.
+- A cidade está a 14–18 km; a primeira viagem leva aproximadamente dois dias por cautela, desvios e condições da rota.
 - A foto traz 21/09/2077; o teclado usa DDMMYYYY: 21092077.
 - O mercado comum está quase vazio; o estoque relevante fica atrás da porta trancada.
-- O carrinho é necessário para transportar uma quantidade significativa de mantimentos.
+- O carrinho é necessário para transportar uma quantidade significativa de mantimentos e torna a volta mais lenta.
 - O primeiro Primal deve parecer uma pessoa antes de atacar.
 - Não explique Assimilação, Primal, Micélio de Cobalto ou a causa da Doença Azul.
-- No incêndio, não revele a causa. Escolha no máximo dois moradores não transformados como sobreviventes.
+- O incêndio e a transformação dos moradores não devem ser explicados no fim da sessão.
+
+## Fichas e desafios
+
+| Quando | Abrir |
+|---|---|
+| Se 15 falhas forem acumuladas no desafio furtivo da mata | [[Ficha da Onça Tatu]] |
+| No primeiro encontro com a figura que ataca ao sair do mercado | [[Ficha primal]] |
+| Se houver confronto coletivo com Primais no Ninho em chamas | [[Ficha manada de Primal]] |
+
+## Links de consulta
+
+- [[O Ninho]]
+- [[A Vida Cotidiana no Ninho]]
+- [[As Famílias do Ninho]]
+- [[A Liderança do Ninho]]
+- [[O Muro de Sucata]]
+- [[Estação de Energia]]
+- [[Mapa Regional do Vale do Rio Claro]]
+- [[Cidade de Santa Aurora]]
+- [[O Mundo Exterior]]
+- [[Pontos de conexão]]
+- [[A Doença Azul]] — somente consulta do mestre
+- [[Assimilação]] — somente consulta do mestre
+- [[Roteiro da Campanha]]

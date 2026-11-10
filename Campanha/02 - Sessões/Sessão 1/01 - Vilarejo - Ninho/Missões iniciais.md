@@ -1,3 +1,12 @@
+---
+tipo: roteiro-de-missoes
+titulo: "Missões iniciais — manhã no Ninho"
+sessao: 1
+etapa: ninho
+visibilidade: mestre
+tags: [sessao, sessao-1, ninho, missoes, personagens]
+---
+
 As missões acontecem durante uma manhã comum no Ninho, antes da refeição comunitária do meio-dia.
 
 O objetivo é apresentar a rotina dos personagens, fortalecer suas relações com os NPCs e criar pequenas situações que permitam aos jogadores interagir com o vilarejo.
@@ -66,13 +75,9 @@ Marina pede que Freya vá até o poço artesiano buscar um balde grande de água
 
 #### No caminho até o poço
 
-Durante a ida, Freya tem a oportunidade de ouvir uma conversa entre alguns dos líderes do Ninho.
+Durante a ida, Freya passa perto de alguns responsáveis pelo Armazém e percebe que eles conversam em voz baixa sobre os estoques. Ela consegue ouvir referências à quantidade de alimentos e à próxima colheita, mas não escuta uma explicação completa.
 
-Eles estão discutindo discretamente a situação das reservas de alimentos e demonstram preocupação com a quantidade que ainda resta.
-
-Freya não participa da conversa, mas pode escutar alguns trechos e perceber que a situação parece mais preocupante do que imaginava.
-
-**Informação importante:** O assunto é tratado com discrição. Freya ainda não tem todos os detalhes sobre a quantidade de comida restante ou sobre as decisões que os líderes pretendem tomar.
+**Informação para o mestre:** esta é apenas a primeira pista da crise. Freya percebe que existe uma preocupação real, mas ainda não sabe que restam aproximadamente quinze dias de comida nem que a próxima colheita chegará tarde demais. A conversa completa e a decisão da liderança estão em [[Crise, reunião e partida]].
 
 Depois de buscar a água, ela retorna para a Casa Médica.
 
@@ -226,3 +231,5 @@ A refeição é um momento de convivência. Os moradores conversam, comentam aco
 A preocupação com as reservas de alimentos pode continuar como uma tensão discreta ao fundo, sem necessariamente ser explicada a todos naquele momento.
 
 A manhã termina com os três personagens reunidos na Cozinha Comunitária.
+
+**Encaminhamento:** depois da refeição, mantenha a rotina por mais algum tempo e avance para [[Crise, reunião e partida]] quando a preocupação com os mantimentos vier à tona. A conversa ouvida por Freya funciona como antecipação, não como revelação completa.

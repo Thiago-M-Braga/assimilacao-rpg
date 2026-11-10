@@ -31,8 +31,8 @@
 | Marina Azevedo      | 1               | Conhecimento pela convivência no Ninho.                     |
 | Luna Azevedo        | 1               | Conhecimento comunitário.                                   |
 | Vicente Murphy      | 1               | Respeito e familiaridade com um dos veteranos.              |
-| Freya Naevus        | 2               |                                                             |
-| Ithan Voos          | 2               |                                                             |
+| Freya Naevus        | 2               | Vínculo próximo entre personagens jogadores; detalhes específicos da relação ainda não foram definidos. |
+| Ithan Voos          | 2               | Vínculo próximo entre personagens jogadores; detalhes específicos da relação ainda não foram definidos. |
 
 ---
 # 2. Freya Naevus
@@ -53,12 +53,12 @@
 | Helena Noctua           | 1               | Conhecimento comunitário.                              |
 | Hugo Becker             | 1               | Conhecimento comunitário.                              |
 | Marta Becker            | 1               | Conhecimento comunitário.                              |
-| Clark Becker            | 2               | Conhecimento pelo contexto da Casa Médica;             |
+| Clark Becker            | 2               | Contato pela rotina da Casa Médica e pelo acompanhamento de seu adoecimento. |
 | **Marina Azevedo**      | **3**           | Mãe. Relação familiar muito próxima.                   |
 | **Luna Azevedo**        | **3**           | Meia-irmã e principal motivação pessoal de Freya.      |
 | Vicente Murphy          | 1               | Conhecimento comunitário.                              |
-| Mabel Noctua            | 2               |                                                        |
-| Ithan Voos              | 2               |                                                        |
+| Mabel Noctua            | 2               | Vínculo próximo entre personagens jogadores; detalhes específicos da relação ainda não foram definidos. |
+| Ithan Voos              | 2               | Vínculo próximo entre personagens jogadores; detalhes específicos da relação ainda não foram definidos. |
 
 ---
 # 3. Ithan Voos
@@ -83,17 +83,15 @@
 | Marina Azevedo      | 1               | Conhecimento comunitário.                                                                      |
 | Luna Azevedo        | 1               | Conhecimento comunitário.                                                                      |
 | **Vicente Murphy**  | **2**           | Referência em segurança.                                                                       |
-| Mabel Noctua        | 2               |                                                                                                |
-| Freya Naevus        | 2               |                                                                                                |
+| Mabel Noctua        | 2               | Vínculo próximo entre personagens jogadores; detalhes específicos da relação ainda não foram definidos. |
+| Freya Naevus        | 2               | Vínculo próximo entre personagens jogadores; detalhes específicos da relação ainda não foram definidos. |
 
 ---
 
-## 4. Observações para o mestre
+## 4. Como aplicar os Pontos de Conexão
 
-- Cada ponto significa 1d6 a mais que o player pode usar a mais em testes no NPC/player.
-    
-- Caso algum NPC morra, cada ponto de conexão significa -3 de determinação por ponto.
-    
-- Pode entregar um ponto de conexão apenas 1 vez por cena.
-    
-- Pode negativar pontos de conexão.
+- **Bônus em testes:** cada Ponto de Conexão equivale a **+1d6** em um teste que envolva diretamente o NPC ou personagem associado ao vínculo. Por exemplo, um vínculo de 2 pontos permite acrescentar 2d6, conforme a regra utilizada na mesa.
+- **Concessão de pontos:** o mestre pode conceder, no máximo, **1 novo Ponto de Conexão por cena**. Conceda-o quando houver uma atitude ou acontecimento que fortaleça de forma significativa a relação; não é necessário conceder um ponto em toda cena.
+- **Morte de NPC:** quando um NPC com Pontos de Conexão morre, cada ponto de vínculo que o personagem jogador possuía com ele provoca **−3 de Determinação**. Calcule a perda usando a quantidade de pontos existente no momento da morte.
+- **Valores negativos:** os Pontos de Conexão podem ficar negativos quando as relações forem prejudicadas. Registre o valor atual e aplique as consequências previstas para a relação na mesa.
+- **Relações ainda em aberto:** quando o material não descreve a natureza exata de um vínculo já registrado, mantenha o valor inicial e desenvolva a relação durante o jogo. Não invente um passado específico apenas para preencher a tabela.
