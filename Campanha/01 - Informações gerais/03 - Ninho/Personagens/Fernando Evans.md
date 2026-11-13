@@ -47,6 +47,12 @@ Fernando está feliz com a chegada da criança, mas também sente medo. Sabe que
 
 Apesar de suas preocupações, procura demonstrar carinho por meio de atitudes. Trabalha para garantir que não falte comida em casa, acompanha Maria em suas necessidades e tenta aprender tudo o que considera importante para ser um bom pai.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Cuidadoso, prestativo e ansioso. É reservado, pensa muito antes de decidir e se preocupa profundamente com Maria e o bebê.
+> **Voz:** Suave e um pouco hesitante; começa respostas com ressalvas e tenta confirmar se está fazendo a coisa certa.
+> **Trejeitos:** Mantém as mãos ocupadas com tarefas da cozinha, reorganiza utensílios quando está nervoso e confere discretamente se Maria está bem.
+
 ## Aparência
 
 - Homem de 26 anos.

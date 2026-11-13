@@ -49,6 +49,12 @@ Apesar disso, desenvolveu um instinto protetor muito forte em relação aos jove
 
 No presente da campanha, será o NPC responsável por acompanhar e orientar os personagens jogadores em suas primeiras experiências fora dos muros.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Pragmático, silencioso e observador. Demonstra lealdade protegendo os outros, não fazendo discursos.
+> **Voz:** Baixa, seca e econômica. Responde com frases curtas e só acrescenta detalhes quando são úteis.
+> **Trejeitos:** Examina saídas e arredores antes de falar; escuta em silêncio e se posiciona entre o perigo e quem precisa proteger.
+
 ## Aparência
 
 - Homem de 60 anos.

@@ -48,6 +48,12 @@ Ama Elias e respeita sua história, mas não concorda com todas as suas decisõe
 
 Sua maior preocupação é que o homem que passou a vida protegendo o Ninho acabe afastando os próprios moradores.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Perspicaz, empática e questionadora. Quer entender os motivos por trás das decisões e percebe tensões que outros ignoram.
+> **Voz:** Clara e direta, com perguntas bem colocadas. Não precisa gritar para insistir em um ponto.
+> **Trejeitos:** Observa as reações de todos, olha para quem ainda não falou e pode consultar mentalmente os registros antes de contestar algo.
+
 ## Aparência
 
 - Mulher de 26 anos.

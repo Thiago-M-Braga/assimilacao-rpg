@@ -38,6 +38,12 @@ Artur Voos é o pai de Ithan e um engenheiro que deixou o Ninho em 2069, quando 
 
 **Verdade do mestre:** Artur está vivo em 2080 e mora na Vigília do Relé, comunidade que se formou ao redor de uma antiga instalação de retransmissão e geração auxiliar de energia. Sua presença e sua sobrevivência não são conhecidas por Ithan.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Curioso e dedicado à recuperação de tecnologia; tenta resolver problemas com método, mas carrega culpa pela promessa que fez ao filho.
+> **Voz:** Calma, precisa e didática. Explica o que pensa como quem desmonta um mecanismo; perde a segurança quando o assunto é Ithan.
+> **Trejeitos:** Examina peças enquanto conversa, aponta conexões no ar e faz pausas para organizar uma explicação antes de concluí-la.
+
 ## Aparência e personalidade
 
 Artur tem 60 anos no presente de referência. É um homem experiente, habituado a lidar com equipamentos antigos, circuitos, geradores e sistemas de comunicação. Sua aparência visual detalhada pode ser definida quando ele aparecer em cena; as notas atuais não fixam características físicas específicas.

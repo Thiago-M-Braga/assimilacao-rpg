@@ -48,6 +48,12 @@ A morte de Dalva e a mudança de comportamento do pai fizeram com que assumisse 
 
 Embora respeite profundamente Elias, Davi começa a perceber que precisará encontrar seu próprio caminho caso um dia tenha de ocupar o lugar dele.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Disciplinado, leal e protetor. Leva a segurança a sério, mas é mais paciente com os moradores do que o pai.
+> **Voz:** Contida e medida, com frases claras e sem floreios. Evita elevar a voz; fala como quem pesa as consequências.
+> **Trejeitos:** Mantém postura alerta, observa entradas e saídas e costuma esperar a pessoa terminar antes de responder.
+
 ## Aparência
 
 - Homem de 30 anos.

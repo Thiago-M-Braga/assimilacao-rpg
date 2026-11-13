@@ -49,6 +49,12 @@ Gael acredita que a alimentação é uma das bases da sobrevivência e que o Nin
 
 Embora seja tranquilo, pode se tornar bastante insistente quando alguém ameaça suas plantações ou desperdiça recursos agrícolas.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Paciente, contemplativo e dedicado. Pensa em ciclos e continuidade; preservar sementes é quase uma missão pessoal.
+> **Voz:** Baixa, lenta e serena. Fala sem pressa e costuma explicar o crescimento das plantas por comparações simples com a vida.
+> **Trejeitos:** Toca folhas com cuidado, examina a terra antes de responder e às vezes conversa sozinho enquanto trabalha entre os canteiros.
+
 ## Aparência
 
 - Homem de 50 anos.

@@ -46,6 +46,12 @@ Maria nasceu e cresceu dentro dos muros. Nunca conheceu cidades, hospitais ou a 
 
 Apesar disso, não se considera uma pessoa limitada pelo mundo em que vive. Acredita que ainda existem motivos para construir uma vida feliz, mesmo em meio às dificuldades.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Carinhosa, esperançosa e sensível. Procura acolher os outros e preservar a esperança mesmo quando também está preocupada.
+> **Voz:** Quente, espontânea e tranquilizadora. Fala com delicadeza e tenta resolver conflitos por meio de conversa.
+> **Trejeitos:** Sorri para encorajar, oferece ajuda em pequenos gestos e às vezes repousa a mão sobre o xale ou a barriga enquanto conversa.
+
 ## Aparência
 
 - Mulher de 22 anos.

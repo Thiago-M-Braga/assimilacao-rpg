@@ -37,6 +37,12 @@ Marta trabalha ao lado da família no Ferro-Velho e na Forja. Sua experiência c
 
 É paciente, prática e organizada. Seu trabalho complementa a metalurgia de Hugo, garantindo que as ferramentas e os objetos produzidos possam ser utilizados com segurança e conforto.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Tranquila, observadora e paciente. Prefere planejar, evitar desperdício e demonstrar afeto por pequenos cuidados.
+> **Voz:** Calma, firme e econômica. Dá orientações práticas sem elevar o tom.
+> **Trejeitos:** Examina costuras, couro e acabamentos com os dedos; confere o trabalho antes de entregá-lo e lembra Hugo de descansar e comer.
+
 ## Aparência
 
 Marta tem cabelos castanhos com fios grisalhos, geralmente presos durante o trabalho. Usa roupas resistentes e um avental com bolsos para agulhas, tiras de couro, tesouras e pequenas ferramentas.

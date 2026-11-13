@@ -48,6 +48,12 @@ Seu lenço vermelho é uma de suas marcas mais reconhecíveis. Está quase sempr
 
 Helena não possui autoridade formal sobre as decisões políticas do Ninho, mas exerce uma influência importante sobre os moradores. Conhece suas famílias, seus hábitos, suas dificuldades e, muitas vezes, percebe problemas que ainda não chegaram ao conhecimento de Elias.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Acolhedora, comunicativa e otimista. Mantém o bom humor para cuidar da comunidade, mesmo quando esconde as próprias preocupações.
+> **Voz:** Viva, calorosa e familiar. Gosta de histórias, brincadeiras e de chamar as pessoas para perto.
+> **Trejeitos:** Ajeita o lenço vermelho, oferece comida enquanto conversa e transforma tarefas da cozinha em oportunidades de acolher alguém.
+
 ## Aparência
 
 - Mulher de 45 anos.

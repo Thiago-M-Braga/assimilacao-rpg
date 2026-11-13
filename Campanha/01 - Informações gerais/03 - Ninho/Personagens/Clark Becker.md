@@ -43,6 +43,12 @@ Antes de adoecer, ajudava Ithan na Estação de Energia. Sua função era auxili
 
 Atualmente permanece na Casa Médica. A doença interrompeu sua rotina e sua colaboração com Ithan, mas não apagou seu senso de humor nem seu interesse por pequenos objetos e trabalhos manuais.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Gentil, paciente e criativo. Evita conflitos e usa o humor para aliviar situações desconfortáveis; sente falta de ajudar na Estação.
+> **Voz:** Leve e acolhedora, com brincadeiras discretas. Fala com mais entusiasmo quando o assunto é eletricidade ou alguma invenção.
+> **Trejeitos:** Mexe em pequenas peças ou dobra papel quando está à vontade; procura uma piada gentil quando percebe o clima pesar.
+
 ## Aparência
 
 Clark tem aproximadamente 1,78 m, corpo magro, cabelos castanhos geralmente desalinhados e olhos castanho-claros. Costumava vestir camisas simples, calças gastas e botas de trabalho.

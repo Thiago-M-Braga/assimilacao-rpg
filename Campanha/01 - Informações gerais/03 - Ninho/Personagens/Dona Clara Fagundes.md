@@ -45,6 +45,12 @@ Entretanto, Clara guarda um segredo que nunca conseguiu compreender completament
 
 A experiência abalou suas convicções e fez com que começasse a questionar até onde realmente conhece os fenômenos que afetam os seres vivos.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Séria, cuidadosa e maternal. É prática, compassiva e firme quando um paciente precisa seguir suas orientações.
+> **Voz:** Baixa, controlada e objetiva. Durante um atendimento, usa frases curtas e instruções claras; explica mais quando há tempo.
+> **Trejeitos:** Primeiro observa o paciente, depois examina ou organiza os instrumentos. Mantém as mãos ocupadas com curativos e materiais.
+
 ## Aparência
 
 - Mulher de 58 anos.

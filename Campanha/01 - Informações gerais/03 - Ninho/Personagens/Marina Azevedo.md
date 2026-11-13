@@ -38,6 +38,12 @@ Marina Azevedo é mãe de Freya Naevus e Luna Azevedo. Trabalha na Casa Médica,
 
 Marina é cuidadosa, prática e protetora. Aprendeu que os recursos do Ninho precisam ser reaproveitados com atenção e que a organização dos materiais pode evitar desperdícios e problemas durante um atendimento. Não busca reconhecimento; prefere resolver o que está ao seu alcance e manter a família protegida.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Prática, cuidadosa e protetora. Prefere resolver o que está ao seu alcance e manter a família segura sem buscar reconhecimento.
+> **Voz:** Discreta, objetiva e contida. Fala o necessário, especialmente quando está trabalhando na Casa Médica.
+> **Trejeitos:** Dobra e separa panos com método, confere a conservação dos materiais e mantém atenção constante às necessidades das filhas.
+
 ## Aparência e personalidade
 
 Marina tem cabelos castanhos com alguns fios grisalhos, olhos escuros e mãos marcadas pelo trabalho com agulhas, linhas e tecidos. Costuma usar roupas simples e um avental de trabalho.

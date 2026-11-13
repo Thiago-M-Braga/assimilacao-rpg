@@ -45,6 +45,12 @@ Atualmente, passa a maior parte dos dias na Casa Médica, sob os cuidados de Cla
 
 Sua condição não apagou completamente quem ele foi. Algumas habilidades, hábitos e lembranças permanecem, mas sua capacidade de reconhecer pessoas e compreender acontecimentos varia bastante.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Gentil e paciente; antes do acidente era metódico. Após a amnésia, alterna momentos de clareza com confusão e frustração.
+> **Voz:** Em geral gentil e conversadora, às vezes perde o fio ou faz perguntas para se situar. Nos momentos lúcidos, volta a falar com precisão sobre reparos.
+> **Trejeitos:** Segura ou gira pequenos objetos e começa a organizá-los. Use objetos familiares como apoio; não transforme a amnésia em caricatura nem em esquecimento constante.
+
 ## Aparência
 
 - Homem de 69 anos.

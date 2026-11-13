@@ -37,6 +37,12 @@ Hugo é o responsável pela oficina de metalurgia do Ninho. Coordena a triagem d
 
 É excêntrico, curioso e bastante concentrado. Costuma falar sozinho enquanto trabalha, principalmente quando tenta resolver um problema difícil. Para Hugo, praticamente todo objeto tem algum valor potencial, desde que exista tempo e conhecimento para recuperá-lo.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Inventivo, persistente e detalhista. Enxerga valor em objetos esquecidos, mas se irrita quando interrompem seu raciocínio.
+> **Voz:** Pensa em voz alta, faz desvios técnicos e acelera quando uma ideia o empolga; às vezes começa uma explicação antes de organizá-la.
+> **Trejeitos:** Gira peças nas mãos, procura ferramentas no meio da fala e comenta o problema consigo mesmo enquanto trabalha.
+
 ## Aparência
 
 Hugo é magro, tem cabelos grisalhos e costuma usar óculos de proteção apoiados na testa. Suas roupas são resistentes e quase sempre apresentam manchas de fuligem, graxa ou poeira metálica. Usa avental de trabalho e mantém ferramentas presas ao cinto.

@@ -40,6 +40,12 @@ Descendente da família original proprietária da antiga fazenda, Elias herdou a
 
 Desde a morte de sua esposa, Dalva, tornou-se mais seco e grosseiro. A perda aprofundou seu isolamento emocional e aumentou seu medo de perder aquilo que passou a vida inteira tentando proteger.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Sério, reservado e tradicionalista. Protetor, mas o luto o tornou mais seco, desconfiado e controlador.
+> **Voz:** Grave, pausada e autoritária. Prefere frases curtas; deixa silêncios quando não quer falar de algo pessoal.
+> **Trejeitos:** Segura ou toca o terço de madeira, ajusta o sobretudo e sustenta o olhar quando quer encerrar uma discussão.
+
 ## Aparência
 
 - Homem de 55 anos.

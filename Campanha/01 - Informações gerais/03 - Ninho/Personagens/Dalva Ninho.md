@@ -46,6 +46,12 @@ Sua morte mudou profundamente Elias e deixou uma ausência sentida por muitas pe
 
 Entretanto, Dalva não morreu apenas por causa de uma doença comum. Seu organismo passou por um processo anômalo relacionado à Assimilação, algo que nem ela nem as pessoas que tentaram tratá-la conseguiram compreender.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Acolhedora, conciliadora e muito observadora. Procura compreender antes de julgar e tenta aproximar as pessoas.
+> **Voz:** Tranquila e calorosa; chama as pessoas pelo nome, faz perguntas antes de aconselhar e é firme sem constranger.
+> **Trejeitos:** Escuta sem interromper, observa o rosto de quem fala e toca de leve o ombro de alguém para demonstrar apoio.
+
 ## Aparência
 
 - Mulher de aproximadamente 53 anos na época de sua morte.

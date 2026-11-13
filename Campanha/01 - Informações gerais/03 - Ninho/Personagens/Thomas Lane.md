@@ -46,6 +46,12 @@ Cresceu ouvindo histórias sobre criaturas, ruínas e perigos que existem do lad
 
 Essa contradição faz parte de sua personalidade: quer ser corajoso, mas ainda não sabe lidar com o próprio medo.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Curioso, inquieto e ansioso. Quer provar que consegue ajudar, mas ainda sente medo do desconhecido e de decepcionar os pais.
+> **Voz:** Faz perguntas em sequência; tenta soar mais confiante do que está e pode mudar de assunto quando fica inseguro.
+> **Trejeitos:** Puxa ou ajeita a jaqueta jeans grande demais, olha para os adultos em busca de aprovação e lança olhares para além do muro.
+
 ## Aparência
 
 - Menino de 10 anos.

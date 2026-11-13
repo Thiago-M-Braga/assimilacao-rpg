@@ -47,6 +47,12 @@ Breno aprende principalmente observando e repetindo. Quando alguém demonstra co
 
 Sua maior preocupação é garantir que Cecília e Thomas tenham uma vida segura dentro do Ninho.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Trabalhador, paciente e protetor. É prático, aprende fazendo e demonstra carinho mais por atitudes do que por discursos.
+> **Voz:** Simples, direta e tranquila; frases curtas, exemplos concretos e poucas abstrações.
+> **Trejeitos:** Mostra com as mãos em vez de explicar demais; interrompe a conversa para observar se os animais estão bem.
+
 ## Aparência
 
 - Homem de 37 anos.

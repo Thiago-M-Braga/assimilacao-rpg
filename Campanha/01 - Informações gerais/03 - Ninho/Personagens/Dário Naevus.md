@@ -38,6 +38,12 @@ Dário foi o pai biológico de Freya Naevus. Viveu no Ninho com Marina e a filha
 
 A ficha contém informações reservadas ao mestre. Para Freya e Marina, Dário partiu sozinho em uma expedição em 2064 e nunca retornou. Nenhuma das duas possui confirmação sobre seu destino. A verdade do mestre é que, durante a jornada, ele encontrou um grupo de sobreviventes e decidiu se juntar a eles.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Curioso, independente e fascinado pelo mundo exterior. Mapas, relatos e rotas despertam nele uma inquietação difícil de conter.
+> **Voz:** Curiosa e animada; pensa em voz alta, faz perguntas em sequência e pode se alongar ao falar de lugares e caminhos.
+> **Trejeitos:** Segue rotas com o dedo sobre mapas, procura referências no horizonte e gesticula como se estivesse desenhando um trajeto.
+
 ## Aparência e personalidade
 
 Dário era magro e resistente, acostumado a caminhar longas distâncias e carregar equipamentos. Tinha cabelos escuros, olhos castanhos e costumava vestir roupas de exploração e botas resistentes.

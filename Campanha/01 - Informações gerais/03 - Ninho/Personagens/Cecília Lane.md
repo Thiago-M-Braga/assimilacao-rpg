@@ -49,6 +49,12 @@ Os dois formam uma boa equipe porque suas habilidades se complementam.
 
 Cecília conhece bem as dificuldades de viver dentro do Ninho e sabe que a proteção oferecida pelos muros não significa que a vida seja livre de riscos.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Organizada, cautelosa e observadora. Gosta de planejamento e tenta evitar que pequenos descuidos virem problemas.
+> **Voz:** Firme, clara e objetiva. Explica tarefas em etapas e corrige sem humilhar.
+> **Trejeitos:** Confere ferramentas e detalhes antes de agir; ajeita o avental ou o pano na cintura e mantém os olhos atentos ao curral.
+
 ## Aparência
 
 - Mulher de 35 anos.

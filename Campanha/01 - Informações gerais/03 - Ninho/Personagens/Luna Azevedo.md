@@ -40,6 +40,12 @@ Luna é filha de Marina Azevedo e Raul Azevedo e meia-irmã de Freya Naevus por 
 
 Luna não possui função formal, jornada ou obrigação de trabalho. Sua prioridade é a infância, o descanso e o acompanhamento médico.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Curiosa e imaginativa, ainda muito criança. A doença limita sua disposição, mas não apaga o interesse pelo que acontece ao redor.
+> **Voz:** Espontânea e simples, cheia de perguntas sinceras e histórias inventadas; quando está cansada, suas falas ficam mais curtas.
+> **Trejeitos:** Observa detalhes de perto, acompanha conversas com o olhar e se anima ao imaginar histórias; respeite suas pausas e o cansaço.
+
 ## Aparência e personalidade
 
 Luna tem cabelos castanhos e olhos escuros. Desde o início da doença, parece mais frágil e apresenta períodos de palidez e cansaço.

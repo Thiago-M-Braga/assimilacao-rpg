@@ -37,6 +37,12 @@ Raul foi companheiro de Marina Azevedo, pai de Luna Azevedo e padrasto de Freya 
 
 Não tentou substituir o pai biológico de Freya. Construiu com ela uma relação de confiança por meio da convivência, de pequenos consertos e de sua presença cotidiana.
 
+
+> [!tip] Interpretação rápida
+> **Personalidade:** Paciente, trabalhador e confiável. Ajudava sem exigir reconhecimento e construiu com Freya uma relação de confiança sem tentar substituir o pai biológico.
+> **Voz:** Acolhedora e sem pressa. Explica enquanto demonstra, deixando a outra pessoa acompanhar o conserto.
+> **Trejeitos:** Inspeciona juntas, calhas e tubulações, mede antes de ajustar e costuma entregar uma ferramenta para ensinar fazendo.
+
 ## Aparência e personalidade
 
 Raul tinha ombros largos, mãos calejadas e marcas de antigos acidentes de trabalho. Costumava usar roupas resistentes e carregar pequenas ferramentas.
